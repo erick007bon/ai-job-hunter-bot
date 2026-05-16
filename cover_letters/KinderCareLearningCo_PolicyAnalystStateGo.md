@@ -1,14 +1,14 @@
-# Cover Letter - Mgr SecEng, AGI/AI Security @ Amazon.com
+# Cover Letter - Policy Analyst - State Government Relations - Remote Opportunity! @ KinderCare Learning Companies
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=d72d7a9c391e7b1e
+**URL:** https://www.indeed.com/viewjob?jk=b72362a25fbdc5b2
 
 ---
 
-Dear Amazon.com team,
+Dear KinderCare Learning Companies team,
 
-I am writing to apply for the Mgr SecEng, AGI/AI Security position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Policy Analyst - State Government Relations - Remote Opportunity! position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
