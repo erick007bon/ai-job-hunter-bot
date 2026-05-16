@@ -399,6 +399,206 @@
       "email_sent_to": "mmiller@aperioglobal.com",
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AperioGlobal_ForwardDeployedEngin.md",
       "status": "sent"
+    },
+    {
+      "date": "2026-05-16 13:43:37.597036",
+      "url": "https://www.indeed.com/viewjob?jk=5403a5f0732e55b0",
+      "title": "Bioinformatics Scientist (Discovery Biology)",
+      "company": "Neurona Therapeutics",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NeuronaTherapeutics_BioinformaticsScient.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:44:02.702042",
+      "url": "https://www.indeed.com/viewjob?jk=d98570fd8e552d43",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:44:12.676977",
+      "url": "https://www.indeed.com/viewjob?jk=0f2a1a9294086b03",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:44:13.160664",
+      "url": "https://www.indeed.com/viewjob?jk=096e4d975b0f4b7f",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:44:32.001881",
+      "url": "https://www.indeed.com/viewjob?jk=cf3955b88db076c1",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:44:53.322308",
+      "url": "https://www.indeed.com/viewjob?jk=37a653c724520be3",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:44:54.436069",
+      "url": "https://www.indeed.com/viewjob?jk=f83d2543251689f2",
+      "title": "Mgr SecEng, AGI/AI Security",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:44:54.799537",
+      "url": "https://www.indeed.com/viewjob?jk=f1fa39938ad06053",
+      "title": "Mgr SecEng, AGI/AI Security",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:44:55.171854",
+      "url": "https://www.indeed.com/viewjob?jk=23d3f5bdaf6ab170",
+      "title": "Founding AI/ML Engineer",
+      "company": "ERP Sourcing LLC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ERPSourcingLLC_FoundingAIMLEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:45:13.850757",
+      "url": "https://www.indeed.com/viewjob?jk=492db2dfac4c0f4b",
+      "title": "Microsoft Fabric Architect",
+      "company": "Troutman Pepper Locke",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TroutmanPepperLocke_MicrosoftFabricArchi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:45:26.883501",
+      "url": "https://www.indeed.com/viewjob?jk=ac405857fba679ce",
+      "title": "Hydraulic Modeler",
+      "company": "Consor Engineers",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ConsorEngineers_HydraulicModeler.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:45:55.195817",
+      "url": "https://www.indeed.com/viewjob?jk=821b43c74b8f91bb",
+      "title": "Hydraulic Modeler",
+      "company": "Consor Engineers",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ConsorEngineers_HydraulicModeler.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:46:08.966518",
+      "url": "https://www.indeed.com/viewjob?jk=77624055baed6034",
+      "title": "Supervisor, Quality Control Transmission",
+      "company": "Pacific Gas and Electric",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PacificGasandElectri_SupervisorQualityCon.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:46:28.021270",
+      "url": "https://www.indeed.com/viewjob?jk=6464dc527bb2fc0a",
+      "title": "Customer and System Enablement Engineer",
+      "company": "Micron Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MicronTechnology_CustomerandSystemEna.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:46:37.461424",
+      "url": "https://www.indeed.com/viewjob?jk=1dd65de2902347f2",
+      "title": "Customer and System Enablement Engineer",
+      "company": "Micron Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MicronTechnology_CustomerandSystemEna.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:46:47.627870",
+      "url": "https://www.indeed.com/viewjob?jk=7a58a7fb961226bf",
+      "title": "Customer and System Enablement Engineer",
+      "company": "Micron Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MicronTechnology_CustomerandSystemEna.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:46:57.152587",
+      "url": "https://www.indeed.com/viewjob?jk=91036f66dc54d6d6",
+      "title": "Customer and System Enablement Engineer",
+      "company": "Micron Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MicronTechnology_CustomerandSystemEna.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:47:07.357383",
+      "url": "https://www.indeed.com/viewjob?jk=32eb2f53836658e3",
+      "title": "Project Engineer - Structural",
+      "company": "Marine Solutions, Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MarineSolutionsInc_ProjectEngineerStruc.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:47:21.726286",
+      "url": "https://www.indeed.com/viewjob?jk=94f52913ae2298c2",
+      "title": "Software Development Engineer - Operations Improvement",
+      "company": "Micron Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MicronTechnology_SoftwareDevelopmentE.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 13:47:36.090679",
+      "url": "https://www.indeed.com/viewjob?jk=0bb242614b8d5aa9",
+      "title": "Quantitative Researcher New",
+      "company": "Engineers Gate",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EngineersGate_QuantitativeResearch.md",
+      "status": "draft"
     }
   ]
 }
