@@ -799,6 +799,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_DataEngineerArchitec.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:45:23.871180",
+      "url": "https://www.linkedin.com/jobs/view/research-engineer-at-openai-4313806487/",
+      "title": "Research Engineer",
+      "company": "OpenAI",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OpenAI_ResearchEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:45:37.842119",
+      "url": "https://www.linkedin.com/jobs/view/ai-research-scientist-datadog-ai-research-dair-at-datadog-4133917746/",
+      "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+      "company": "Datadog",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Datadog_AIResearchScientistD.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:46:11.879718",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-i-at-purplle-com-4406662891/",
+      "title": "Data Scientist - I",
+      "company": "Purplle.com",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Purpllecom_DataScientistI.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:46:31.983115",
+      "url": "https://www.linkedin.com/jobs/view/talent-pool-junior-data-scientist-at-discovery-limited-4000700772/",
+      "title": "Talent Pool - Junior Data Scientist",
+      "company": "Discovery Limited",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DiscoveryLimited_TalentPoolJuniorData.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:46:33.866269",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-machine-learning-consultant-at-infosys-4394266541/",
+      "title": "Data Scientist/Machine Learning Consultant",
+      "company": "Infosys",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_DataScientistMachine.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:46:50.665067",
+      "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-further-4397347095/",
+      "title": "Data Science Analyst",
+      "company": "Further",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Further_DataScienceAnalyst.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:47:06.434023",
+      "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-analytic-partners-4397595066/",
+      "title": "Data Science Analyst",
+      "company": "Analytic Partners",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AnalyticPartners_DataScienceAnalyst.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:47:25.632666",
+      "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-further-4397345145/",
+      "title": "Data Science Analyst",
+      "company": "Further",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Further_DataScienceAnalyst.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:47:38.879169",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4412086412/",
+      "title": "Data Scientist, Product Analytics",
+      "company": "Meta",
+      "source": "LinkedIn",
+      "email_sent_to": "accommodations-ext@meta.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_DataScientistProduct.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-16 22:47:56.914797",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-figma-4239983349/",
+      "title": "Data Scientist",
+      "company": "Figma",
+      "source": "LinkedIn",
+      "email_sent_to": "accommodations-ext@figma.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Figma_DataScientist.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-16 22:48:20.139349",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-automation-at-paces-4415143876/",
+      "title": "Software Engineer, AI Automation",
+      "company": "Paces",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Paces_SoftwareEngineerAIAu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:48:50.668227",
+      "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4415177497/",
+      "title": "ML Engineer",
+      "company": "Scoutit",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:49:13.267752",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-india-train-ai-models-part-time%21-at-hackajob-4332543984/",
+      "title": "Machine Learning Engineer - India (Train AI Models Part Time!)",
+      "company": "hackajob",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/hackajob_MachineLearningEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:50:33.231332",
+      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-arbor-4415404415/",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Arbor",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Arbor_ArtificialIntelligen.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:50:49.790117",
+      "url": "https://www.linkedin.com/jobs/view/junior-ai-developer-at-beauceron-security-4415878472/",
+      "title": "Junior AI Developer",
+      "company": "Beauceron Security",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BeauceronSecurity_JuniorAIDeveloper.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:51:03.489985",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-quantumeye-4415870911/",
+      "title": "Machine Learning Engineer",
+      "company": "QuantumEye",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuantumEye_MachineLearningEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:51:18.500580",
+      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-onyx-4373917717/",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Onyx",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Onyx_ArtificialIntelligen.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:51:20.275036",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-strava-4397596154/",
+      "title": "Machine Learning Engineer",
+      "company": "Strava",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Strava_MachineLearningEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:51:41.944097",
+      "url": "https://www.linkedin.com/jobs/view/in-vitro-neuroscientist-at-astera-institute-4415812305/",
+      "title": "In Vitro Neuroscientist",
+      "company": "Astera Institute",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AsteraInstitute_InVitroNeuroscientis.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 22:51:55.930964",
+      "url": "https://www.linkedin.com/jobs/view/cia-hering-assistente-de-pesquisa-e-inova%C3%A7%C3%A3o-s%C3%A3o-paulo-sp-at-cia-hering-4406605672/",
+      "title": "Cia Hering | Assistente de Pesquisa e Inovação (São Paulo/SP)",
+      "company": "Cia. Hering",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CiaHering_CiaHeringAssistented.md",
+      "status": "draft"
     }
   ]
 }
