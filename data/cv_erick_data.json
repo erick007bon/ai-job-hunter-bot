@@ -1,0 +1,202 @@
+{
+  "personal_info": {
+    "nombre": "FLORES ZAMBRANO ERICK",
+    "titulo": "Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero",
+    "email": "adanrivas6655@gmail.com",
+    "telefono": "+593 0963951193",
+    "linkedin": "erick-flores-zambrano-69075b198",
+    "github": "erick6655",
+    "ubicacion": "Machala, Ecuador"
+  },
+  
+  "perfil_profesional": "Economista y Científico de Datos con doble formación académica (Economía + Ciencia de Datos e IA), especializado en la intersección entre análisis financiero, machine learning y automatización inteligente. Experiencia demostrada desarrollando soluciones de IA end-to-end: desde modelos predictivos en Python (scikit-learn, PyTorch, TensorFlow) hasta arquitecturas de agentes conversacionales con LLMs, integraciones via API y protocolos MCP (Model Context Protocol) para sistemas multi-agente. Competencias clave en econometría aplicada (series temporales ARIMA/GARCH, modelos de panel, causal inference), MLOps (Docker, FastAPI, MLflow), y BI empresarial (Power BI, SQL avanzado).",
+  
+  "skills": {
+    "ia_ml": [
+      "LLMs & Generative AI (Hugging Face, prompt engineering)",
+      "Agentes Conversacionales & MCP",
+      "Deep Learning (PyTorch, TensorFlow, CNNs, RNNs/LSTMs)",
+      "ML Clásico (scikit-learn, ensemble methods)",
+      "Modelado predictivo con redes neuronales"
+    ],
+    "econometria_finanzas": [
+      "Series Temporales (ARIMA, GARCH)",
+      "Panel Data & Causal Inference",
+      "Análisis de Riesgo (VaR, backtesting)"
+    ],
+    "business_intelligence": [
+      "Power BI (DAX, dashboard, Power Query)",
+      "SQL (queries optimizadas, window functions)",
+      "Excel Avanzado (macros VBA, modelos financieros)",
+      "Data Storytelling & reportería automatizada"
+    ],
+    "mlops_ingenieria": [
+      "Deployment (Docker, FastAPI, REST APIs)",
+      "Experiment Tracking (MLflow, versionado)",
+      "Orquestación (Airflow/Prefect conceptos)",
+      "APIs & Web Scraping (requests, BeautifulSoup)",
+      "MCP Implementation (arquitecturas distribuidas)"
+    ],
+    "ventas_gestion": [
+      "Atención y seguimiento a clientes",
+      "Cumplimiento de metas de venta",
+      "Manejo de facturación, pedidos, inventarios",
+      "Elaboración de reportes y análisis de ventas"
+    ]
+  },
+  
+  "experiencia": [
+    {
+      "empresa": "Vamoret S.A. (Grupo Palmón)",
+      "puesto": "Asesor Comercial",
+      "ubicacion": "Ecuador, Machala",
+      "fecha_inicio": "Noviembre 2022",
+      "fecha_fin": "Actualidad",
+      "logros": [
+        "Dirijo un equipo de 3 personas en el desarrollo y la mejora en atención al cliente",
+        "Administración y control de inventario mensual con herramientas avanzadas, optimizando el flujo de productos y reduciendo pérdidas",
+        "Aplicación de estrategias de ventas y negociación para maximizar ingresos y fidelización de clientes",
+        "Elaboración de informes de ventas, tendencias de compra y desempeño del negocio mediante Excel Avanzado, Power BI y PowerPoint",
+        "Manejo de programas de inventarios, sistemas de cobro y herramientas de análisis estadístico corporativo para la optimización del negocio"
+      ]
+    },
+    {
+      "empresa": "Hularuss S.A. (PepsiCo)",
+      "puesto": "Asesor Comercial",
+      "ubicacion": "Ecuador, Machala",
+      "fecha_inicio": "Octubre 2018",
+      "fecha_fin": "Marzo 2021",
+      "logros": [
+        "Gestioné y asesoré una cartera de clientes, asegurando un servicio personalizado y eficiente",
+        "Implementé estrategias de ventas y técnicas de Programación Neurolingüística (PNL) para mejorar la conversión de ventas",
+        "Administré y optimicé la rotación de productos mediante un control efectivo de inventario y merchandising en puntos de venta",
+        "Desarrollé relaciones comerciales estratégicas con clientes clave, aumentando la fidelización y recompra",
+        "Elaboré informes de ventas y tendencias de consumo utilizando Excel Avanzado y Power BI para la toma de decisiones",
+        "Capacité a nuevos asesores en técnicas de negociación, logrando mejorar el rendimiento del equipo de ventas"
+      ]
+    },
+    {
+      "empresa": "Mahueldis S.A.",
+      "puesto": "Asistente Administrativo",
+      "ubicacion": "Ecuador, Machala",
+      "fecha_inicio": "Julio 2017",
+      "fecha_fin": "Mayo 2018",
+      "logros": [
+        "Gestioné la contabilidad del negocio, asegurando el control de ingresos, egresos y flujo de caja",
+        "Administré el inventario de productos veterinarios, optimizando costos y evitando pérdidas",
+        "Coordiné la agenda de citas y brindé atención personalizada a los clientes, mejorando la experiencia de servicio",
+        "Diseñé estrategias de captación de nuevos clientes y fidelización, aumentando la rentabilidad del negocio",
+        "Elaboré reportes financieros y operativos en Excel, facilitando la toma de decisiones estratégicas",
+        "Manejé herramientas administrativas y sistemas de facturación, mejorando la eficiencia operativa"
+      ]
+    }
+  ],
+  
+  "proyectos": [
+    {
+      "nombre": "Sistema Multi-Agente con MCP (Model Context Protocol)",
+      "descripcion": "Arquitectura de agentes especializados para análisis financiero automatizado: Agente scraping de datos financieros via APIs (trading view, Alpha Vantage), agente análisis econométrico con modelos GARCH para volatilidad, agente generación de reportes con LLM (GPT-4 API).",
+      "tecnologias": ["Python", "FastAPI", "Docker", "MCP"],
+      "url": ""
+    },
+    {
+      "nombre": "Trading Algorítmico con Deep Learning",
+      "descripcion": "Sistema de predicción de precios y señales de trading: backtesting de estrategias de momentum y mean reversion en datos históricos S&P 500, modelo LSTM (PyTorch) para forecasting de precios con 68% accuracy en direccionalidad. Pipeline completo: ingesta datos → features engineering → entrenamiento → backtesting.",
+      "tecnologias": ["Python", "PyTorch", "Backtrader", "pandas-ta", "MLflow"],
+      "url": ""
+    },
+    {
+      "nombre": "API RESTful para Modelos Predictivos",
+      "descripcion": "Servicio web para inferencia de modelos de ML en producción: endpoint FastAPI con modelo de clasificación de riesgo crediticio (Random Forest), containerización con Docker, documentación automática con Swagger, testing con pytest, CI/CD básico con GitHub Actions.",
+      "tecnologias": ["FastAPI", "Docker", "Random Forest", "pytest", "GitHub Actions"],
+      "url": ""
+    },
+    {
+      "nombre": "Dashboard Ejecutivo Power BI - Análisis de Ventas 360°",
+      "descripcion": "Panel interactivo para seguimiento de KPIs comerciales en tiempo real: conexión directa a SQL Server, automatización de refresh diario, segmentación RFM, análisis de cohortes, forecasting con modelos DAX. Implementado en Vamoret S.A. con impacto medible en toma de decisiones.",
+      "tecnologias": ["Power BI", "SQL Server", "DAX"],
+      "url": ""
+    }
+  ],
+  
+  "educacion": [
+    {
+      "titulo": "Ingeniería en Ciencia de Datos e Inteligencia Artificial",
+      "institucion": "Universidad de Guayaquil",
+      "fecha_inicio": "2023",
+      "fecha_fin": "Presente (4.º semestre)",
+      "modalidad": "Virtual sincrónica – Nocturno",
+      "detalles": []
+    },
+    {
+      "titulo": "Economía",
+      "institucion": "Universidad Técnica de Manabí",
+      "fecha_inicio": "2021",
+      "fecha_fin": "Presente (7.º semestre)",
+      "modalidad": "Virtual asincrónica",
+      "detalles": ["Doble carrera simultánea: gestión excepcional del tiempo, resiliencia y aprendizaje autónomo"]
+    }
+  ],
+  
+  "certificaciones": [
+    {
+      "nombre": "Python para Finanzas y Trading Algorítmico",
+      "emisor": "Udemy",
+      "horas": "40 horas",
+      "fecha": ""
+    },
+    {
+      "nombre": "SQL para Big Data",
+      "emisor": "IBM",
+      "horas": "40 horas",
+      "fecha": ""
+    },
+    {
+      "nombre": "Deep Learning Specialization",
+      "emisor": "Coursera",
+      "horas": "en curso",
+      "fecha": ""
+    },
+    {
+      "nombre": "LLMs & Prompt Engineering",
+      "emisor": "DeepLearning.AI",
+      "horas": "en curso",
+      "fecha": ""
+    },
+    {
+      "nombre": "Power BI para Análisis de Datos",
+      "emisor": "Universidad de Guayaquil",
+      "horas": "",
+      "fecha": ""
+    },
+    {
+      "nombre": "Marketing Digital y Analítica Web",
+      "emisor": "Google Actívate",
+      "horas": "50 horas",
+      "fecha": ""
+    },
+    {
+      "nombre": "Productividad Personal",
+      "emisor": "Google Actívate",
+      "horas": "40 horas",
+      "fecha": ""
+    },
+    {
+      "nombre": "VI Simposio de Ciencias Administrativas y Económicas",
+      "emisor": "UTM",
+      "horas": "40 horas",
+      "fecha": ""
+    }
+  ],
+  
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Inglés",
+      "nivel": "Básico (A2)"
+    }
+  ]
+}
