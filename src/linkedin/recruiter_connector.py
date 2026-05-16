@@ -114,22 +114,13 @@ class RecruiterConnector:
         """
         results = []
         try:
-            url = f"{self.BASE_URL}/voyager/api/graphql"
-            variables = json.dumps({
-                "count": max_results,
-                "origin": "GLOBAL_SEARCH_HEADER",
-                "query": {
-                    "keywords": keywords,
-                    "flagshipSearchIntent": "SEARCH_SRP",
-                    "queryParameters": {"resultType": [{"value": ["PEOPLE"]}]},
-                },
-                "start": 0,
-            })
-            params = {
-                "queryId": "voyagerSearchDashClusters.b0928897b71bd00a5a7291755dcd64f0",
-                "variables": variables,
-            }
-            r = self.session.get(url, params=params, timeout=12)
+            # Formato custom de LinkedIn para las variables GraphQL
+            k_encoded = keywords.replace(' ', '%20')
+            variables = f"(start:0,query:(flagshipSearchIntent:SEARCH_SRP,queryParameters:List((key:keywords,value:List({k_encoded})),(key:resultType,value:List(PEOPLE)))))"
+            
+            # Usar string crudo para evitar que requests URL-encode los parentesis a %28, lo cual rompe LinkedIn
+            raw_url = f"{self.BASE_URL}/voyager/api/graphql?variables={variables}&queryId=voyagerSearchDashClusters.b0928897b71bd00a5a7291755dcd64f0"
+            r = self.session.get(raw_url, timeout=12)
 
             if r.status_code == 200:
                 data = r.json()
@@ -144,7 +135,7 @@ class RecruiterConnector:
                         )
                         subtitle = item.get("primarySubtitle", {}).get("text", "")
                         public_id = item.get("publicIdentifier", "")
-                        member_id = urn.split(":")[-1] if urn else ""
+                        member_id = urn.split(":")[-1].split(",")[0] if urn else ""
 
                         if name and member_id and member_id not in self.already_connected:
                             results.append({
@@ -156,6 +147,7 @@ class RecruiterConnector:
                             })
             else:
                 print(f"  [CONNECTOR] Busqueda retorno {r.status_code}")
+                print(f"  [CONNECTOR] Body: {r.text[:500]}")
 
         except Exception as e:
             print(f"  [CONNECTOR] Error en busqueda: {e}")

@@ -33,39 +33,55 @@ def send_demo_message():
         print(f"    ID: {member_id}")
         
         print("\n[3] REDACTANDO MENSAJE AUTONOMO...")
-        nota_ia = (
-            f"Hi {nombre.split()[0]}, I saw you recruit for AI/Data roles. "
-            "I'm an AI Engineer & Data Scientist. Built a crypto algorithm (NIST standard) "
-            "and autonomous LLM agents. Looking for remote opportunities. Let's connect! github.com/erick007bon"
-        )
-        print(f"    Mensaje: '{nota_ia}'\n")
         
-        print("[4] ENVIANDO SOLICITUD DE CONEXION A LA API DE LINKEDIN...")
-        
-        # Enviar directamente usando la logica del conector pero con nuestra nota custom
-        url = f"{connector.BASE_URL}/voyager/api/growth/normInvitations"
-        payload = {
-            "emberEntityName": "growth/invitation/norm-invitation",
-            "invitee": {
-                "com.linkedin.voyager.growth.invitation.InviteeProfile": {
-                    "profileId": member_id,
+        CONNECTION_NOTES = [
+            "Hi {nombre}, I saw you recruit for {area} roles. I'm an AI Engineer & Data Scientist. Built a crypto algorithm (NIST standard) and autonomous LLM agents. Looking for remote opportunities. Let's connect! github.com/erick007bon"
+        ]
+
+        print("\n[3] REDACTANDO MENSAJE AUTONOMO Y ENVIANDO...")
+        for target in profiles:
+            nombre = target.get('nombre', '')
+            area = target.get('area', '')
+            member_id = target.get('member_id', '')
+            
+            print(f"\nIntentando conectar con: {nombre} - {area}")
+            note_template = CONNECTION_NOTES[0]
+            note = note_template.format(nombre=nombre.split()[0], area=area)[:300]
+            print(f"    Mensaje: '{note}'")
+            
+            try:
+                url = f"{connector.BASE_URL}/voyager/api/growth/normInvitations"
+                
+                # Usar public_id preferentemente, sino usar member_id
+                target_id = target.get("public_id") or member_id
+                
+                payload = {
+                    "emberEntityName": "growth/invitation/norm-invitation",
+                    "invitee": {
+                        "com.linkedin.voyager.growth.invitation.InviteeProfile": {
+                            "profileId": target_id,
+                        }
+                    },
+                    "trackingId": connector._tracking_id(),
+                    "message": note,
                 }
-            },
-            "trackingId": connector._tracking_id(),
-            "message": nota_ia,
-        }
-        headers = {**connector.session.headers, "Content-Type": "application/json"}
-        r = connector.session.post(url, json=payload, headers=headers, timeout=12)
-        
-        if r.status_code in (200, 201):
-            print(f"✅ ¡EXITO ABSOLUTO! Solicitud y mensaje entregados a {nombre} en LinkedIn.")
-            # Lo marcamos como contactado
-            connector.already_connected.add(member_id)
-            connector._save_log()
-        elif r.status_code == 400:
-            print(f"⚠️ El perfil de {nombre} tiene restricciones o ya enviaste solicitud antes.")
-        else:
-            print(f"❌ Error HTTP {r.status_code}: {r.text}")
+                headers = {**connector.session.headers, "Content-Type": "application/json"}
+                r = connector.session.post(url, json=payload, headers=headers, timeout=12)
+                
+                if r.status_code in (200, 201):
+                    print(f"[OK] ¡EXITO ABSOLUTO! Solicitud entregada a {nombre}.")
+                    connector.already_connected.add(member_id)
+                    connector._save_log()
+                    break  # Solo enviamos uno para la prueba
+                elif r.status_code == 400:
+                    print(f"[WARNING] {nombre} tiene restricciones o ya enviaste solicitud.")
+                elif r.status_code == 301:
+                    print(f"[SKIP] {nombre} fuera de red (HTTP 301). Saltando al siguiente...")
+                else:
+                    print(f"[ERROR] HTTP {r.status_code}: {r.text}")
+                    
+            except Exception as e:
+                print(f"Error en la prueba: {e}")
             
     except Exception as e:
         print(f"Error en la prueba: {e}")
