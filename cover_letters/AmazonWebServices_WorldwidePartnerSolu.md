@@ -2,18 +2,18 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=37a653c724520be3
+**URL:** https://www.indeed.com/viewjob?jk=0bdefa1b38517a5f
 
 ---
 
 Dear Amazon Web Services team,
 
-I am excited to apply for the Worldwide Partner Solutions Architect role, where my experience in autonomous agent architectures and generative AI aligns with your goal of scaling GenAI workloads on AWS. In my recent “Sistema Multi‑Agent con MCP” project, I designed and deployed a distributed agent system that collects financial data, applies GARCH econometric models, and generates executive reports using GPT‑4 via FastAPI. This end‑to‑end solution demonstrates my ability to build scalable, cloud‑ready AI pipelines that meet customer business needs.
+I am writing to apply for the Worldwide Partner Solutions Architect, Data and AI GTM role. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine autonomous agents, generative AI, and robust MLOps pipelines—exactly the expertise required to help partners deploy GenAI workloads on AWS.
 
-My dual background in economics and data science equips me to translate complex business problems into tangible AI solutions. I have hands‑on expertise with Docker, FastAPI, and MLflow for MLOps, ensuring that models transition smoothly from prototype to production on AWS. Additionally, my proficiency in Power BI and advanced SQL allows me to create data‑driven dashboards that support decision‑making – a skill that will help partner teams showcase the ROI of GenAI initiatives.
+My recent “Multi‑Agent System with MCP” project created a suite of specialized agents for financial analysis: a data‑scraping agent (Alpha Vantage API), an econometric agent using GARCH models, and a report‑generation agent powered by GPT‑4. The architecture relied on FastAPI, Docker, and the Model Context Protocol (MCP) to enable seamless, scalable communication between agents. This experience directly aligns with your need for partners to adopt autonomous‑agent implementations and streaming data patterns.
 
-I am drawn to AWS’s culture of customer obsession and its commitment to empowering partners worldwide. Your focus on autonomous agents and streaming data architectures resonates with my work on multi‑agent systems and real‑time data ingestion, and I am eager to contribute to the development of GTM plans that accelerate GenAI adoption across industries.
+In addition, I have extensive hands‑on experience with AWS‑compatible tools: I have containerized predictive models with Docker, exposed them via FastAPI, and tracked experiments with MLflow—skills that support rapid proof‑of‑concept delivery and integration with AWS AI services. My work on real‑time Power BI dashboards further demonstrates my ability to modernize analytics and drive data‑driven decision making for enterprise customers.
 
-I would welcome the opportunity to discuss how my technical background and proven project delivery can support AWS’s vision for GenAI. Please let me know a convenient time for a brief conversation.
+I am eager to collaborate with regional teams, AWS product groups, and partner ecosystems to shape GTM strategies that accelerate GenAI adoption worldwide. I would welcome the opportunity to discuss how my technical background and proven track record can contribute to AWS’s mission.
 
-Thank you for considering my application.
+Thank you for considering my application; I look forward to arranging a conversation at your earliest convenience.
