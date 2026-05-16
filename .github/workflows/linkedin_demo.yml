@@ -1,0 +1,27 @@
+name: 🤖 LinkedIn Autonomy Demo
+
+on:
+  workflow_dispatch:
+
+jobs:
+  linkedin_demo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install requests
+
+      - name: 🚀 Run AI LinkedIn Demo
+        env:
+          LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
+          LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
+        run: |
+          python send_live_inmail.py

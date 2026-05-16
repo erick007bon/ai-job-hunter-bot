@@ -149,6 +149,56 @@
       "email_sent_to": null,
       "cover_letter_path": "C:\\Users\\Erick Zambrano\\Desktop\\linkedin\\PROYECTOS\\08_gematria_torah\\JOB_SEARCH_MISSION\\ai-job-hunter-bot\\cover_letters\\Verenenlace_Cit27408DataProductA.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-15 22:10:53.134144",
+      "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-data-scientist-entry-level-at-hackajob-4415109922/",
+      "title": "Junior Data Scientist / Data Scientist (entry-level)",
+      "company": "hackajob",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "C:\\Users\\Erick Zambrano\\Desktop\\linkedin\\PROYECTOS\\08_gematria_torah\\JOB_SEARCH_MISSION\\ai-job-hunter-bot\\cover_letters\\hackajob_JuniorDataScientistD.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-15 22:10:56.969877",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-mercado-libre-4412018471/",
+      "title": "Data Scientist",
+      "company": "Mercado Libre",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "C:\\Users\\Erick Zambrano\\Desktop\\linkedin\\PROYECTOS\\08_gematria_torah\\JOB_SEARCH_MISSION\\ai-job-hunter-bot\\cover_letters\\MercadoLibre_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-15 22:10:59.774602",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-gousto-4412038399/",
+      "title": "Data Scientist",
+      "company": "Gousto",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "C:\\Users\\Erick Zambrano\\Desktop\\linkedin\\PROYECTOS\\08_gematria_torah\\JOB_SEARCH_MISSION\\ai-job-hunter-bot\\cover_letters\\Gousto_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-15 22:11:03.203387",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-analyst-at-cerberus-capital-management-4415546714/",
+      "title": "Data Scientist, Analyst",
+      "company": "Cerberus Capital Management",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "C:\\Users\\Erick Zambrano\\Desktop\\linkedin\\PROYECTOS\\08_gematria_torah\\JOB_SEARCH_MISSION\\ai-job-hunter-bot\\cover_letters\\CerberusCapitalManag_DataScientistAnalyst.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-15 22:11:06.849043",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-analytics-ai-at-sumol-compal-4415395987/",
+      "title": "Data Scientist | Analytics & AI",
+      "company": "Sumol Compal",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "C:\\Users\\Erick Zambrano\\Desktop\\linkedin\\PROYECTOS\\08_gematria_torah\\JOB_SEARCH_MISSION\\ai-job-hunter-bot\\cover_letters\\SumolCompal_DataScientistAnalyti.md",
+      "status": "draft"
     }
   ]
 }
