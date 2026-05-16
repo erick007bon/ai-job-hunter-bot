@@ -599,6 +599,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EngineersGate_QuantitativeResearch.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:46:17.561761",
+      "url": "https://www.indeed.com/viewjob?jk=452a1c70e651f44c",
+      "title": "Data Scientist-Emerging Markets",
+      "company": "U.S. Commodity Futures Trading Commission",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USCommodityFuturesTr_DataScientistEmergin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:46:45.039527",
+      "url": "https://www.indeed.com/viewjob?jk=342f0bb08105f88d",
+      "title": "Clinical Laboratory Scientist",
+      "company": "US Department of Veterans Affairs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USDepartmentofVetera_ClinicalLaboratorySc.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:47:02.607399",
+      "url": "https://www.indeed.com/viewjob?jk=4856799e8e6f0b4b",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:47:03.391685",
+      "url": "https://www.indeed.com/viewjob?jk=a4a46d2038777e55",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:47:30.892671",
+      "url": "https://www.indeed.com/viewjob?jk=098424cce531cb0e",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:47:55.139806",
+      "url": "https://www.indeed.com/viewjob?jk=49184267b06feff2",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:48:23.395726",
+      "url": "https://www.indeed.com/viewjob?jk=0bdefa1b38517a5f",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:48:40.411856",
+      "url": "https://www.indeed.com/viewjob?jk=4cb8a2d94d78ab0e",
+      "title": "Mgr SecEng, AGI/AI Security",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:49:05.191624",
+      "url": "https://www.indeed.com/viewjob?jk=d72d7a9c391e7b1e",
+      "title": "Mgr SecEng, AGI/AI Security",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:49:28.970955",
+      "url": "https://www.indeed.com/viewjob?jk=b85b9e975acec37c",
+      "title": "Laboratory Research Technician - Advanced Materials",
+      "company": "Battelle",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": "ritchey@battelle.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Battelle_LaboratoryResearchTe.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-16 17:49:54.660317",
+      "url": "https://www.indeed.com/viewjob?jk=345d03368cef016e",
+      "title": "Founding AI Platform Engineer — Health OS of the Next Decade",
+      "company": "Ambiance ",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Ambiance_FoundingAIPlatformEn.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:50:14.750666",
+      "url": "https://www.indeed.com/viewjob?jk=fab3c4481b723cee",
+      "title": "Microsoft Azure Engineer",
+      "company": "CSIK Consulting",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CSIKConsulting_MicrosoftAzureEngine.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:50:37.912746",
+      "url": "https://www.indeed.com/viewjob?jk=732160f77f3b07e8",
+      "title": "Entry-Level Engineer – TAB Technician",
+      "company": "Reynolds Engineering, LLC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ReynoldsEngineeringL_EntryLevelEngineerTA.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:51:14.326326",
+      "url": "https://www.indeed.com/viewjob?jk=5fd02c18dd49d969",
+      "title": "Information Technology Project Manager (Release Train Engineer)",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": "csmith@nan.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_InformationTechnolog.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-16 17:51:27.593549",
+      "url": "https://www.indeed.com/viewjob?jk=b72362a25fbdc5b2",
+      "title": "Policy Analyst - State Government Relations - Remote Opportunity!",
+      "company": "KinderCare Learning Companies",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KinderCareLearningCo_PolicyAnalystStateGo.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:51:47.109068",
+      "url": "https://www.indeed.com/viewjob?jk=afcc07bd029e6390",
+      "title": "Supervisory Healthcare Engineer Chief of Projects",
+      "company": "US Department of Veterans Affairs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USDepartmentofVetera_SupervisoryHealthcar.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:52:03.088640",
+      "url": "https://www.indeed.com/viewjob?jk=c322c93e853dd780",
+      "title": "Data Governance Operations Manager",
+      "company": "CBRE",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": "john.shannon@cbre.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CBRE_DataGovernanceOperat.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-16 17:52:03.554351",
+      "url": "https://www.indeed.com/viewjob?jk=2d7634410e85ee1b",
+      "title": "AWS Technical Program Manager, Infrastructure, US West",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_AWSTechnicalProgramM.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:52:21.635515",
+      "url": "https://www.indeed.com/viewjob?jk=cfbf7a1ab4c29865",
+      "title": "AWS Technical Program Manager, Infrastructure, US West",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_AWSTechnicalProgramM.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-16 17:52:22.307555",
+      "url": "https://www.indeed.com/viewjob?jk=274502ef701daf64",
+      "title": "Data Engineer/Architect, WWPS ProServe Data and Machine Learning",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_DataEngineerArchitec.md",
+      "status": "draft"
     }
   ]
 }
