@@ -29,8 +29,9 @@ Applying to the portal is rarely enough. The agent leverages the **LinkedIn Voya
 - Extracts the Top 3 required skills from the original Job Description using NLP.
 - Sends a highly targeted, 300-character InMail connecting the candidate's real-world portfolio (e.g., NIST-approved cryptographic algorithms, LSTM trading bots) directly to those 3 skills.
 
-### Phase 3: Autonomous Networking (Recruiter Graph Expansion)
-To build a passive funnel of opportunities, the agent runs a scheduled daily cron job to expand the professional network.
+### Phase 3: Autonomous Networking (Recruiter Graph Expansion) [DISABLED FOR SECURITY]
+To build a passive funnel of opportunities, the agent *can* run a scheduled daily cron job to expand the professional network.
+**Note (May 2026):** This phase is currently disabled by design to strictly protect the user's LinkedIn account from being flagged for spam or automated mass connections with 3rd-degree profiles.
 - Autonomously searches for "Data Science Recruiter", "AI Talent Acquisition", etc.
 - Sends 10 targeted connection requests daily (50+ weekly) with a personalized introductory note.
 - Maintains a local vector log to ensure 0% duplicate outreach and simulates human pacing (anti-ban heuristics).
