@@ -47,6 +47,19 @@
   
   "experiencia": [
     {
+      "empresa": "Investigador Independiente & AI Engineer",
+      "puesto": "AI / ML Engineer & Criptografía Aplicada",
+      "ubicacion": "Remoto",
+      "fecha_inicio": "Enero 2023",
+      "fecha_fin": "Actualidad",
+      "logros": [
+        "Desarrollo e implementación del algoritmo criptográfico FCH-ARX V2, superando el SAC Test del protocolo NIST FIPS 180-4 con un 49.95% de avalancha.",
+        "Diseño de ecosistemas Multi-Agente autónomos utilizando Model Context Protocol (MCP) y LLMs para automatización de flujos de trabajo 24/7.",
+        "Construcción de arquitecturas de Deep Learning y modelos LSTM para análisis de mercados financieros con un 68% de precisión direccional.",
+        "Desarrollo de pipelines ETL automatizados y arquitecturas Data Warehouse integrando Python, SQL y APIs externas."
+      ]
+    },
+    {
       "empresa": "Vamoret S.A. (Grupo Palmón)",
       "puesto": "Asesor Comercial",
       "ubicacion": "Ecuador, Machala",
@@ -94,7 +107,19 @@
   
   "proyectos": [
     {
-      "nombre": "Sistema Multi-Agente con MCP (Model Context Protocol)",
+      "nombre": "FCH-ARX V2 - Algoritmo Criptográfico Hashing",
+      "descripcion": "Diseño matemático e implementación en C/Python de un motor criptográfico basado en topología ARX (Add-Rotate-XOR) y secuencias Tesla. Aprobó rigurosamente la validación NIST (FIPS 180-4) demostrando resistencia total a colisiones y superando la eficiencia base de SHA-256 en entornos IoT (Cortex-M0).",
+      "tecnologias": ["Python", "C", "Criptoanálisis Diferencial", "NIST Testing"],
+      "url": "github.com/erick007bon/fch-arx-v4-cryptographic-engine"
+    },
+    {
+      "nombre": "AI Autonomous Job Hunter Bot",
+      "descripcion": "Sistema autónomo 24/7 que extrae ofertas de LinkedIn, Google Jobs e Indeed, evalúa el encaje del perfil con IA, y envía InMails de conexión altamente personalizados a reclutadores usando Voyager API. Integra extensión de Chrome propia para sincronización de sesión local a nube (GitHub Actions).",
+      "tecnologias": ["Python", "GitHub Actions", "Chrome Extensions", "LLM APIs", "Web Scraping"],
+      "url": "github.com/erick007bon/ai-job-hunter-bot"
+    },
+    {
+      "nombre": "Sistema Multi-Agente con MCP",
       "descripcion": "Arquitectura de agentes especializados para análisis financiero automatizado: Agente scraping de datos financieros via APIs (trading view, Alpha Vantage), agente análisis econométrico con modelos GARCH para volatilidad, agente generación de reportes con LLM (GPT-4 API).",
       "tecnologias": ["Python", "FastAPI", "Docker", "MCP"],
       "url": ""
