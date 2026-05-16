@@ -1,0 +1,45 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.env
+.venv
+venv/
+venv.bak/
+.mypy_cache/
+.pytest_cache/
+
+# Credenciales sensibles - NUNCA SUBIR
+data/credentials.json
+data/token.json
+SECRETS_LOCAL.md
+SECRETS_PARA_GITHUB.txt
+CLAV/
+
+# Archivos de prueba locales
+test_*.py
+test_*.json
+test_*.txt
+
+# Cover letters y log locales (opcional)
+# cover_letters/
+# reportes/
+# data/sent_log.json
