@@ -1,22 +1,11 @@
-# AI Job Hunter Bot V4 — Dependencias mínimas para el servidor
-# Solo lo necesario, sin librerías de Windows ni cosas irrelevantes
-
-# HTTP y scraping
-requests==2.32.3
-beautifulsoup4==4.13.4
-lxml==5.4.1
-
-# Gmail API
-google-auth==2.40.1
-google-auth-oauthlib==1.2.1
-google-auth-httplib2==0.2.0
-google-api-python-client==2.169.0
-
-# IA / LLMs (OpenRouter)
-openai==1.82.0
-
-# PDF (CV adjunto)
-reportlab==4.4.1
-
-# Utilidades
-python-dotenv==1.2.1
+# AI Job Hunter Bot V4 — Dependencias para Linux (GitHub Actions Ubuntu)
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+google-auth>=2.20.0
+google-auth-oauthlib>=1.0.0
+google-auth-httplib2>=0.1.0
+google-api-python-client>=2.90.0
+openai>=1.0.0
+reportlab>=3.6.0
+python-dotenv>=1.0.0
