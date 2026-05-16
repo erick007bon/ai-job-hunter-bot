@@ -1,13 +1,14 @@
 """
-AI Job Hunter Bot V3 - Agente Autonomo de Postulacion
-======================================================
+AI Job Hunter Bot V4 - Agente Autonomo de Postulacion + InMail Ultra Avanzado
+==============================================================================
 Flujo:
-  1. Extrae trabajos de 8+ plataformas (Ecuador + Sudamerica + Global Remoto)
+  1. Extrae trabajos de 9+ plataformas (Ecuador + Sudamerica + Global Remoto)
   2. Filtra por seniority y nivel de ingles B2
-  3. Extrae emails de contacto de cada oferta
-  4. Genera Cover Letter personalizada con Gemini AI (leyendo el JD real)
-  5. Envia email desde Gmail con CV adjunto
-  6. Registra en memoria para no repetir postulaciones
+  3. Extrae emails de contacto de cada oferta (Hunter.io verificado)
+  4. Genera Cover Letter personalizada con IA (leyendo el JD real)
+  5. Envia email desde Gmail con CV adjunto (ES/EN segun oferta)
+  6. [FASE 2] Envia InMail inteligente a reclutadores en LinkedIn con proyectos reales
+  7. Registra en memoria para no repetir postulaciones
 """
 import os
 import sys
@@ -30,16 +31,19 @@ from src.extractors.email_extractor import EmailExtractor
 from src.ai.gemini_agent import GeminiAgent
 from src.email.gmail_sender import GmailSender
 from src.memory.memory_store import MemoryStore
+from src.linkedin.linkedin_messenger import LinkedInMessenger
 
-def main(send_emails: bool = False, max_new_jobs: int = 5):
+def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = True):
     """
     Args:
         send_emails: Si True, envia emails reales. Si False, solo genera drafts.
         max_new_jobs: Maximo de nuevas postulaciones en este ciclo.
+        send_inmails: Si True, activa Fase 2 - InMail a reclutadores en LinkedIn.
     """
     print("=" * 60)
-    print(" AI JOB HUNTER V3 - AGENTE AUTONOMO EN ACCION")
-    print(f" Modo: {'[EMAIL REAL]' if send_emails else '[MODO DRAFT - sin enviar]'}")
+    print(" AI JOB HUNTER V4 - AGENTE AUTONOMO EN ACCION")
+    print(f" Modo Email: {'[EMAIL REAL]' if send_emails else '[MODO DRAFT]'}")
+    print(f" Modo InMail: {'[LINKEDIN ACTIVO]' if send_inmails else '[LINKEDIN SKIP]'}")
     print("=" * 60)
     
     # PASO 1: RECOLECTAR TRABAJOS BRUTOS
@@ -187,15 +191,65 @@ def main(send_emails: bool = False, max_new_jobs: int = 5):
     with open(os.path.join(Config.BASE_DIR, "OPORTUNIDADES_HOY.md"), "w", encoding="utf-8") as f:
         f.write(report)
         
-    print(f"\n[DONE] Reporte V3 guardado. {processed} nuevas postulaciones procesadas.")
+    print(f"\n[DONE] Reporte V4 guardado. {processed} nuevas postulaciones procesadas.")
     print(f"  Emails enviados (historico): {stats['emails_enviados']}")
     print(f"  Ver cartas en: cover_letters/")
 
+    # ======================================================
+    # FASE 2: InMail Ultra Avanzado — LinkedIn Directo
+    # ======================================================
+    if send_inmails and send_emails:
+        print("\n" + "=" * 60)
+        print(" FASE 2: InMail Ultra Avanzado — LinkedIn")
+        print(" Enviando mensajes directos a reclutadores...")
+        print("=" * 60)
+
+        # Preparar lista de trabajos para InMail (solo los de LinkedIn con job_id)
+        linkedin_jobs_for_inmail = []
+        for job in filtered_jobs[:15]:  # Máx 15 candidatos a InMail
+            source = job.get('source', '').lower()
+            job_url = job.get('url', '')
+
+            # Extraer job_id para buscar reclutador
+            job_id = ""
+            if "linkedin" in source:
+                if "/view/" in job_url:
+                    job_id = job_url.split("/view/")[-1].rstrip("/")
+                elif "currentJobId=" in job_url:
+                    job_id = job_url.split("currentJobId=")[-1].split("&")[0]
+
+            linkedin_jobs_for_inmail.append({
+                "job_id": job_id,
+                "title": job.get("title", ""),
+                "company": job.get("company", ""),
+                "description": job.get("description", ""),
+                "url": job_url,
+                "lang": "en" if not any(
+                    s in source for s in ['computrabajo', 'socioempleo', 'getonbrd', 'torre']
+                ) else "es",
+            })
+
+        try:
+            messenger = LinkedInMessenger()
+            inmail_stats = messenger.process_jobs_batch(
+                linkedin_jobs_for_inmail,
+                max_inmails=10,
+            )
+            print(f"\n[FASE 2] InMails enviados: {inmail_stats['sent']}")
+            print(f"[FASE 2] Fallidos: {inmail_stats['failed']}")
+            print(f"[FASE 2] Sin reclutador encontrado: {inmail_stats['skipped']}")
+        except Exception as e:
+            print(f"[FASE 2] Error en InMail: {e}")
+    else:
+        if not send_emails:
+            print("\n[FASE 2] InMail desactivado en modo DRAFT. Usa --send para activarlo.")
+
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description='AI Job Hunter Bot V3')
+    parser = argparse.ArgumentParser(description='AI Job Hunter Bot V4')
     parser.add_argument('--send', action='store_true', help='Enviar emails reales (por defecto: solo drafts)')
     parser.add_argument('--max', type=int, default=20, help='Maximo de nuevas postulaciones por ciclo (default: 20)')
+    parser.add_argument('--no-inmail', action='store_true', help='Desactivar Fase 2 InMail de LinkedIn')
     args = parser.parse_args()
-    
-    main(send_emails=args.send, max_new_jobs=args.max)
+
+    main(send_emails=args.send, max_new_jobs=args.max, send_inmails=not args.no_inmail)
