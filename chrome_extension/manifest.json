@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "AI Job Hunter Sync",
+  "version": "1.0.0",
+  "description": "Autonomously extracts LinkedIn session cookies and syncs them to local GitHub pipeline.",
+  "permissions": [
+    "cookies",
+    "storage",
+    "alarms"
+  ],
+  "host_permissions": [
+    "*://*.linkedin.com/*",
+    "http://127.0.0.1:1337/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "AI Job Hunter Status"
+  }
+}
