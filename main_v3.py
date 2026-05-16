@@ -254,18 +254,18 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
     # FASE 3: Conexion automatica con reclutadores Data/AI
     # ======================================================
     # Solo corre 1 vez al dia (ciclo de las 7am Ecuador) para no spamear
-    current_hour = datetime.datetime.utcnow().hour
-    if send_emails and current_hour in (11, 12):  # 11-12 UTC = 6-7am Ecuador
-        print("\n" + "=" * 60)
-        print(" FASE 3: Conexion con Reclutadores Data/AI")
-        print(" Buscando y conectando con hasta 10 reclutadores...")
-        print("=" * 60)
-        try:
-            connector = RecruiterConnector()
-            conn_stats = connector.run_weekly_connections(target=10)
-            print(f"[FASE 3] Conexiones enviadas hoy: {conn_stats['sent']}")
-        except Exception as e:
-            print(f"[FASE 3] Error: {e}")
+    # NOTA DE SEGURIDAD (2026-05-16): Fase 3 desactivada a petición del usuario para
+    # proteger la cuenta y evitar enviar invitaciones masivas a desconocidos.
+    # if send_emails and current_hour in (11, 12):  # 11-12 UTC = 6-7am Ecuador
+    #     print("\n" + "=" * 60)
+    #     print(" FASE 3: Conexion con Reclutadores Data/AI [DESACTIVADA POR SEGURIDAD]")
+    #     print("=" * 60)
+    #     try:
+    #         connector = RecruiterConnector()
+    #         conn_stats = connector.run_weekly_connections(target=10)
+    #         print(f"[FASE 3] Conexiones enviadas hoy: {conn_stats['sent']}")
+    #     except Exception as e:
+    #         print(f"[FASE 3] Error: {e}")
 
 if __name__ == "__main__":
     import argparse
