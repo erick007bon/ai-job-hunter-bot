@@ -26,6 +26,7 @@ from src.scrapers.latam_scrapers import (
     WeWorkRemotelyScraper, TorreScraper, WorkingNomadsScraper
 )
 from src.scrapers.linkedin_scraper import LinkedInScraper
+from src.scrapers.google_jobs_scraper import GoogleJobsScraper
 from src.filters.match_engine import MatchEngine
 from src.extractors.email_extractor import EmailExtractor
 from src.ai.gemini_agent import GeminiAgent
@@ -49,6 +50,7 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
     
     # PASO 1: RECOLECTAR TRABAJOS BRUTOS
     scrapers = [
+        GoogleJobsScraper(),     # Google Jobs + Indeed + Glassdoor (NUEVO)
         LinkedInScraper(),
         RemotiveScraper(),
         RemoteOKScraper(),
@@ -59,14 +61,17 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
         ComputrabajoScraper(),
         SocioEmpleoScraper(),
     ]
-    
+
     all_jobs = []
     for scraper in scrapers:
         name = scraper.__class__.__name__
         print(f"\n[SCRAPER] Cazando en {name}...")
-        jobs = scraper.fetch_jobs()
-        print(f"  -> {len(jobs)} trabajos encontrados.")
-        all_jobs.extend(jobs)
+        try:
+            jobs = scraper.fetch_jobs()
+            print(f"  -> {len(jobs)} trabajos encontrados.")
+            all_jobs.extend(jobs)
+        except Exception as e:
+            print(f"  -> [ERROR] {name} fallo: {str(e)[:80]}. Continuando...")
         
     print(f"\n[TOTAL] Extraido en bruto: {len(all_jobs)} ofertas de {len(scrapers)} plataformas.")
     
