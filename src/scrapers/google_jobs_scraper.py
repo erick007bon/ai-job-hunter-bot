@@ -46,11 +46,10 @@ class GoogleJobsScraper(BaseScraper):
             try:
                 print(f"  [GOOGLE JOBS] Buscando: '{query}'...")
                 df = scrape_jobs(
-                    site_name=["google", "indeed", "glassdoor"],
+                    site_name=["google", "indeed"],
                     search_term=query,
                     results_wanted=15,
-                    hours_old=72,          # Solo ofertas de los ultimos 3 dias
-                    country_indeed="worldwide",
+                    hours_old=72,
                     is_remote=True,
                     job_type="fulltime",
                 )
