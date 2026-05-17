@@ -2,23 +2,18 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=d72d7a9c391e7b1e
+**URL:** https://www.indeed.com/viewjob?jk=ac519cc4edaa81d5
 
 ---
 
 Dear Amazon.com team,
 
-I am writing to apply for the Mgr SecEng, AGI/AI Security position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Mgr SecEng, AGI/AI Security position. My background as an Economist and Data Scientist, combined with hands-on experience in cryptographic engineering and LLM-based systems, aligns well with the novel security challenges your AGI team faces.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+I bring strong skills in prompt engineering and LLM deployment—directly relevant to mitigating prompt injection and data leakage. Additionally, I designed and implemented **FCH-ARX V2**, a cryptographic hashing algorithm that passed NIST validation (FIPS 180-4), proving resistance to collision attacks and outperforming SHA-256 on IoT hardware. This demonstrates my ability to build secure, efficient systems from the ground up.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+My work on **Multi-Agent Systems with MCP** involved orchestrating specialized agents for financial analysis, integrating LLMs with external APIs and econometric models. This experience gave me a deep understanding of data flow, access control, and the security implications of multi-agent architectures—key for protecting GenAI applications.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am genuinely motivated to help Amazon earn and keep customer trust in its AGI services. Leading a team that secures cutting-edge AI systems, while developing my engineering leadership, is exactly the challenge I seek.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
-
-Best regards,
-FLORES ZAMBRANO ERICK
-Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
-adanrivas6655@gmail.com | GitHub: erick007bon
+I would welcome the opportunity to discuss how my technical and managerial skills can contribute to your team. Thank you for your consideration.
