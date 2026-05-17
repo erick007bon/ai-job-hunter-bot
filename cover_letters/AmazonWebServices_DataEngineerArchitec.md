@@ -2,18 +2,21 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=cdb167d970f5fbfc
+**URL:** https://www.indeed.com/viewjob?jk=1909ab9d73233574
 
 ---
 
 Dear Amazon Web Services team,
 
-I am writing to express my strong interest in the Data Engineer/Architect role within AWS ProServe. With a dual background in Economics and Data Science, I combine deep analytical rigor with hands-on experience designing scalable data platforms and deploying ML solutions in production.
+I am writing to express my interest in the Data Engineer/Architect position for WWPS ProServe Data and Machine Learning. My background in building scalable data pipelines and ML architectures aligns with your requirements for designing cloud data platforms for Public Sector customers.
 
-My skill set directly aligns with your need for cloud data architecture and data-driven decision support. I have built and containerized REST APIs using FastAPI and Docker, enabling seamless model inference—a pipeline I apply to credit risk classification. This project demonstrates my ability to design robust, maintainable data services. Additionally, I am proficient in SQL optimization, Power BI dashboarding, and MLOps tools like MLflow and GitHub Actions, ensuring efficient data pipelines from ingestion to visualization.
+I have hands-on experience developing end-to-end data solutions. My Multi-Agent system with MCP architecture demonstrates my ability to design distributed data platforms that ingest financial data via APIs, perform econometric analysis (GARCH models), and generate automated reports using LLMs—all orchestrated through FastAPI and Docker containers. This project mirrors the type of mission-critical data architectures you deploy for government clients.
 
-I also developed an end-to-end algorithmic trading system that ingests historical S&P 500 data, engineers features, trains LSTM models in PyTorch, and backtests strategies—a full data engineering and ML workflow that mirrors the scalability and reliability required for public sector solutions.
+Additionally, my Power BI Executive Dashboard for Vamoret S.A. showcases my ability to build enterprise data warehousing solutions connecting SQL Server to interactive dashboards with automated refresh, RFM segmentation, and forecasting capabilities. I am also proficient in deploying ML models to production via REST APIs, which complements the data engineering aspects of this role.
 
-I am genuinely motivated by the opportunity to deliver mission-critical data architectures for government and national security customers. I thrive in collaborative, detail-oriented environments and am prepared to bring my technical versatility to your team.
+I am motivated to join AWS Professional Services because your work transforming Public Sector operations through cloud data solutions directly aligns with my goal of applying data engineering and AI to high-impact challenges. I hold a B2 English certification and am prepared to meet the security clearance requirements for this position.
 
-I would welcome the chance to discuss how my experience building production-grade data services can support your clients’ cloud transformation goals. Please let me know a convenient time for a brief conversation.
+I would welcome the opportunity to discuss how my skills can contribute to your team. Please find my attached resume for your review.
+
+Best regards,
+FLORES ZAMBRANO ERICK

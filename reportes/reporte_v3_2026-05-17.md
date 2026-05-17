@@ -1,108 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-17 06:21
+# AI JOB HUNTER V3 - Reporte 2026-05-17 13:52
 
-> **Extraidas:** 120 | **Filtradas:** 75 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 120 | **Emails enviados total:** 26
+> **Extraidas:** 114 | **Filtradas:** 82 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 140 | **Emails enviados total:** 26
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Radioisotope Production Technical Professional @ Oak Ridge National Laboratory
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=076028e82192f0b6
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OakRidgeNationalLabo_RadioisotopeProducti.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Digital Ops Configuration Manager II @ Thermo Fisher Scientific
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a58220b1f907155c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThermoFisherScientif_DigitalOpsConfigurat.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Digital Ops Configuration Manager II @ Thermo Fisher Scientific
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5fcab8737b16b623
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThermoFisherScientif_DigitalOpsConfigurat.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Chief Medical Information Officer @ Presbyterian Healthcare Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ae0033762bbe9718
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PresbyterianHealthca_ChiefMedicalInformat.md
+### [DRAFT - POSTULA MANUALMENTE]: Section Supervisor I @ JT4
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9898657e492457f3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JT4_SectionSupervisorI.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3f5e3c29a88818f1
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=60f02427f2ac015b
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a1c111c90e311c72
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f4e20d0655c90d3a
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1c6b9294110df87c
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=679428c98f9f0b1c
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0bafd6a1563075d1
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=333b18c43cf08148
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f230661a3ab26ec7
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e8ac133730ea520f
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Mgr SecEng, AGI/AI Security @ Amazon.com
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1f7efba5ea393600
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=560bae5aa853bf4a
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Mgr SecEng, AGI/AI Security @ Amazon.com
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ac519cc4edaa81d5
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=12843f2dc5121af0
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Propulsion Engineer- design, build and test. @ Lesath International Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9fe0c08301556cb5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LesathInternationalI_PropulsionEngineerde.md
+### [DRAFT - POSTULA MANUALMENTE]: CMC Project Schedule Manager (Onsite) @ Pratt & Whitney
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=633d33f31ebc12fa
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrattWhitney_CMCProjectScheduleMa.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Fleet Deployment Specialist @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=69e48ceca825ca39
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_FleetDeploymentSpeci.md
+### [DRAFT - POSTULA MANUALMENTE]: Thermal/Environmental Barrier Coating Engineer (Onsite) @ Pratt & Whitney
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dd98133e73a59a2f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrattWhitney_ThermalEnvironmental.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Electro Magnetic Effects Engineer @ The Aerospace Corporation
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ed55e6762f51dba9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheAerospaceCorporat_ElectroMagneticEffec.md
+### [DRAFT - POSTULA MANUALMENTE]: Linux Systems Engineer @ NTT DATA
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=97dd13894809f36a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATA_LinuxSystemsEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Architect @ Quanta Infrastructure Solutions Group
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=986892e1e7dcec02
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuantaInfrastructure_SoftwareArchitect.md
+### [DRAFT - POSTULA MANUALMENTE]: OPERATIONS SPECIALIST @ IMC Financial Markets
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2aee1142bb893c57
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IMCFinancialMarkets_OPERATIONSSPECIALIST.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Architect @ Quanta Infrastructure Solutions Group
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dcc30e320d0b67bf
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuantaInfrastructure_AIArchitect.md
+### [DRAFT - POSTULA MANUALMENTE]: Design Release Engineer @ Android Industries
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=909f73c4bf39e0c0
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AndroidIndustries_DesignReleaseEnginee.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Forward Deployed Engineer @ Statecraft
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=356ccb57934313d4
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Statecraft_ForwardDeployedEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Geophysical Field Engineer (4758C) - Berkeley Seismological Laboratory @ University of California Berkeley
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f53d0d1d27757e70
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofCaliforn_GeophysicalFieldEngi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Platform Support Engineer (APAC) @ Lightning AI
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2aa6d5d3442c395e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LightningAI_PlatformSupportEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Navigation/IMU Engineer II @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9138be1b39716376
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_NavigationIMUEnginee.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Microelectronics Process Integration Engineer (4th shift) @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=36724959e9991ac7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_MicroelectronicsProc.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: GCP Cloud Engineer - REMOTE in US @ NTT DATA
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fb25af9e8a46ee93
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATA_GCPCloudEngineerREMO.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Data Engineer/Architect, WWPS ProServe Data and Machine Learning @ Amazon Web Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fa692ce085cd8e35
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=97d874b6fee036c5
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_DataEngineerArchitec.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: Data Engineer/Architect, WWPS ProServe Data and Machine Learning @ Amazon Web Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cdb167d970f5fbfc
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1909ab9d73233574
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_DataEngineerArchitec.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Technical Solutions Architect I - Network @ World Wide Technology
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=322e60c1a9dcffd4
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WorldWideTechnology_TechnicalSolutionsAr.md
 - **Fuente:** Google Jobs (Indeed)
 
 

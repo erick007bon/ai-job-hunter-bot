@@ -2,16 +2,22 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=f230661a3ab26ec7
+**URL:** https://www.indeed.com/viewjob?jk=e8ac133730ea520f
 
 ---
 
 Dear Amazon Web Services team,
 
-I am writing to apply for the Worldwide Partner Solutions Architect, Data and AI GTM position. With a dual background in Economics and Data Science, I specialize in combining financial analysis with machine learning and generative AI. My experience building end-to-end AI solutions—from predictive models to autonomous agent architectures—aligns well with your need to scale GenAI workloads on AWS.
+I am writing to apply for the Worldwide Partner Solutions Architect, Data and AI GTM position. My dual background in Economics and Data Science, combined with hands‑on experience in end‑to‑end AI solutions, aligns closely with AWS’s goal of enabling GenAI workloads for partners and customers.
 
-Specifically, I have implemented a multi-agent system using the Model Context Protocol (MCP) for automated financial analysis. This architecture includes a scraping agent, an econometric agent (GARCH volatility modeling), and an LLM-based report generator—directly demonstrating my ability to design and deploy agentic AI solutions. This project is highly relevant to your focus on autonomous agents and generative AI adoption. Additionally, I have developed conversational agents with LLMs, deployed ML models via FastAPI and Docker, and built executive dashboards in Power BI—skills essential for enabling partners to adopt AWS AI and data services effectively.
+I bring practical expertise in autonomous agent architectures and MLOps. In my “Sistema Multi‑Agent con MCP” project, I designed a distributed framework that integrates financial data scraping, econometric analysis with GARCH models, and LLM‑based report generation. The system uses FastAPI, Docker, and a custom Model Context Protocol to support scalable, multi‑agent deployment—exactly the type of solution AWS seeks for partner enablement and streaming data patterns. Additionally, my experience with LLM prompt engineering and generative AI (Hugging Face, GPT‑4 API) has proven effective in creating proof‑of‑concepts that translate business problems into tangible AI capabilities.
 
-I am motivated by AWS’s leadership in cloud AI and the chance to help global partners transform their business through scalable, cutting-edge technologies. My technical depth across MLOps, econometrics, and business intelligence allows me to understand customer challenges and craft practical GTM strategies.
+AWS’s focus on partner collaboration and rapid innovation resonates with my track record of delivering production‑ready services. I have built RESTful inference APIs with FastAPI and Docker, integrated them into CI/CD pipelines with GitHub Actions, and documented them with Swagger—skills that will support the launch of new AWS AI services across regions.
 
-I would welcome the opportunity to discuss how my background can support your team’s goals. Thank you for your time.
+I am eager to contribute to AWS’s global GTM strategy for GenAI, helping partners adopt cutting‑edge solutions while driving measurable business impact. I would welcome the chance to discuss how my technical background and project experience can support your team.
+
+Thank you for considering my application. I look forward to the possibility of contributing to AWS’s next generation of AI solutions.
+
+Sincerely,
+
+FLORES ZAMBRANO ERICK
