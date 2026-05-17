@@ -2,22 +2,21 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=4cf27863cbc721ac
+**URL:** https://www.indeed.com/viewjob?jk=0e3be41c391981a0
 
 ---
 
 Dear Amazon Web Services team,
 
-I am writing to express my interest in the Data Engineer/Architect position. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that align closely with the requirements of your Public Sector engagements.
+I am writing to apply for the Data Engineer/Architect position in WWPS ProServe Data and Machine Learning. With my background in building scalable data solutions and deploying ML models in production, I am well-positioned to help Public Sector customers achieve their mission-critical objectives.
 
-My experience designing scalable data pipelines in the cloud is demonstrated by the “Trading Algorítmico con Deep Learning” project, where I engineered a full pipeline from data ingestion to LSTM forecasting, containerized with Docker and served via FastAPI. This showcases my ability to create robust, production‑ready data platforms and my proficiency with SQL for feature engineering and model training.
+My experience aligns directly with your requirements. I have designed and deployed RESTful APIs for ML models using FastAPI and Docker, containerizing predictive systems for production environments—skills essential for building cloud data platforms. Additionally, my advanced SQL and Power BI expertise enables me to create data warehouses and executive dashboards that transform complex datasets into actionable insights.
 
-I also led the development of a multi‑agent system using the Model Context Protocol (MCP), integrating data scraping, econometric analysis (GARCH), and LLM‑based report generation. This experience directly supports the need for architects who can design complex, distributed data architectures for federal and state clients.
+A relevant example is my Multi-Agent System with MCP project, where I built a distributed architecture connecting specialized agents for financial data scraping, econometric analysis (GARCH models), and automated report generation via LLMs. This demonstrates my ability to design scalable, modular data systems—exactly what Public Sector clients need.
 
-My expertise in Power BI and advanced SQL enables me to deliver actionable dashboards that drive decision‑making – a skill that will help your team translate data into mission‑critical insights for government customers.
+I am particularly motivated by AWS's commitment to innovation and the opportunity to serve government customers who rely on data-driven decision making for critical missions. My background in both technical implementation and business intelligence allows me to bridge the gap between complex engineering and stakeholder value.
 
-I am excited about the opportunity to bring my blend of data engineering, MLOps, and domain expertise to Amazon Web Services, where I can contribute to high‑impact public sector projects and collaborate with world‑class engineers.
+I would welcome the opportunity to discuss how my skills can contribute to your team. Please feel free to contact me to schedule a conversation.
 
-I would welcome the chance to discuss how my background fits your needs. Please let me know a convenient time for a brief conversation.
-
-Thank you for considering my application.
+Best regards,
+FLORES ZAMBRANO ERICK
