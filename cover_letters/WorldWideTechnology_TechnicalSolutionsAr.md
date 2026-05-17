@@ -1,14 +1,14 @@
-# Cover Letter - Mgr SecEng, AGI/AI Security @ Amazon.com
+# Cover Letter - Technical Solutions Architect I - Network @ World Wide Technology
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=12843f2dc5121af0
+**URL:** https://www.indeed.com/viewjob?jk=322e60c1a9dcffd4
 
 ---
 
-Dear Amazon.com team,
+Dear World Wide Technology team,
 
-I am writing to apply for the Mgr SecEng, AGI/AI Security position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Technical Solutions Architect I - Network position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
