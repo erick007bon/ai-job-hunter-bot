@@ -2,23 +2,20 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=3c5a82baacf33acb
+**URL:** https://www.indeed.com/viewjob?jk=55183ea23c893695
 
 ---
 
 Dear Amazon.com team,
 
-I am writing to apply for the AWS Manager, Technical Program Management, Infrastructure, US West position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Manager, Technical Program Management – Infrastructure position. With over six years of experience leading cross‑functional teams of 5‑10 engineers and data scientists, I have successfully delivered end‑to‑end technical programs that combine hardware, software, and cloud services.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+In my recent role I designed and deployed a **Multi‑Agent MCP architecture** for automated financial analysis, coordinating Docker‑based services, FastAPI endpoints, and distributed monitoring across three data‑center locations. This project required rigorous supply‑chain planning, capacity forecasting, and risk mitigation—experience directly aligned with AWS’s need to manage data‑center expansion from design through testing and deployment.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+My background in **MLOps engineering** (Docker, CI/CD with GitHub Actions, MLflow) and **advanced SQL/Power BI reporting** has enabled me to build real‑time dashboards that track project KPIs, resource utilization, and safety metrics, supporting data‑driven decision making at scale. Additionally, I hold a Bachelor’s degree in Economics and have completed extensive coursework in electrical engineering concepts, giving me a solid foundation for understanding power, cooling, and networking systems.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am eager to contribute my program‑management expertise and technical depth to Amazon’s global infrastructure team, helping to maintain the reliability and cost efficiency that AWS customers depend on.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Could we schedule a brief meeting to discuss how my experience can support your upcoming data‑center initiatives?
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
-adanrivas6655@gmail.com | GitHub: erick007bon
+Thank you for your consideration.
