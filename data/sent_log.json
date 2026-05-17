@@ -1399,6 +1399,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WorldWideTechnology_TechnicalSolutionsAr.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:46:57.414625",
+      "url": "https://www.indeed.com/viewjob?jk=9756baf08caaa78d",
+      "title": "AI/ML Engineer",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_AIMLEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:46:59.847637",
+      "url": "https://www.indeed.com/viewjob?jk=63794b601b4e867b",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:47:35.946442",
+      "url": "https://www.indeed.com/viewjob?jk=30c487fcc8b5320a",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:47:49.203069",
+      "url": "https://www.indeed.com/viewjob?jk=6561d6e518b3738e",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:47:50.826107",
+      "url": "https://www.indeed.com/viewjob?jk=05da5c8c5233194f",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:48:10.921131",
+      "url": "https://www.indeed.com/viewjob?jk=0b98671092be0a07",
+      "title": "Worldwide Partner Solutions Architect, Data and AI GTM",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:48:12.942973",
+      "url": "https://www.indeed.com/viewjob?jk=65f159fda6db09c7",
+      "title": "Mgr SecEng, AGI/AI Security",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:48:14.651946",
+      "url": "https://www.indeed.com/viewjob?jk=a26d05036abd04a9",
+      "title": "Mgr SecEng, AGI/AI Security",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:48:18.571417",
+      "url": "https://www.indeed.com/viewjob?jk=ad2713d58ab97291",
+      "title": "Cyber Network Engineering II (Onsite)",
+      "company": "Collins Aerospace",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CollinsAerospace_CyberNetworkEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:48:58.220854",
+      "url": "https://www.indeed.com/viewjob?jk=2db99eabaeabd40b",
+      "title": "Design Quality Engineer II (Hybrid - Aguadilla, PR)",
+      "company": "Collins Aerospace",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CollinsAerospace_DesignQualityEnginee.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:09.913886",
+      "url": "https://www.indeed.com/viewjob?jk=bfb1b05dd2323f77",
+      "title": "Hardware Electrical Engineer I (Onsite)",
+      "company": "Collins Aerospace",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CollinsAerospace_HardwareElectricalEn.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:11.255580",
+      "url": "https://www.indeed.com/viewjob?jk=d9aeb37531ee919f",
+      "title": "IT Configuration Management Analyst (Puerto Rico)",
+      "company": "Collins Aerospace",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CollinsAerospace_ITConfigurationManag.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:24.549671",
+      "url": "https://www.indeed.com/viewjob?jk=5cf6ab6924a04080",
+      "title": "CMCC System Architect",
+      "company": "SAIC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAIC_CMCCSystemArchitect.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:26.543387",
+      "url": "https://www.indeed.com/viewjob?jk=99870dad52c675e4",
+      "title": "CMCC System Architect",
+      "company": "SAIC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAIC_CMCCSystemArchitect.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:28.413129",
+      "url": "https://www.indeed.com/viewjob?jk=eeda93443e62422b",
+      "title": "CMCC System Architect",
+      "company": "SAIC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAIC_CMCCSystemArchitect.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:30.165318",
+      "url": "https://www.indeed.com/viewjob?jk=65684eb598e973b3",
+      "title": "Data Engineer/Architect, WWPS ProServe Data and Machine Learning",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_DataEngineerArchitec.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:45.805519",
+      "url": "https://www.indeed.com/viewjob?jk=4cf27863cbc721ac",
+      "title": "Data Engineer/Architect, WWPS ProServe Data and Machine Learning",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_DataEngineerArchitec.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:47.858090",
+      "url": "https://www.indeed.com/viewjob?jk=a70bd8cc02c01b8f",
+      "title": "AWS Manager, Technical Program Management, Infrastructure, US West",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_AWSManagerTechnicalP.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:49:49.856343",
+      "url": "https://www.indeed.com/viewjob?jk=3c5a82baacf33acb",
+      "title": "AWS Manager, Technical Program Management, Infrastructure, US West",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_AWSManagerTechnicalP.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-17 17:52:30.944393",
+      "url": "https://www.indeed.com/viewjob?jk=3480bb4d3a818167",
+      "title": "Security Engineering Manager, Stores AppSec",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_SecurityEngineeringM.md",
+      "status": "draft"
     }
   ]
 }
