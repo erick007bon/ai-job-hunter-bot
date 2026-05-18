@@ -2,18 +2,21 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=89438141b0517ff7
+**URL:** https://www.indeed.com/viewjob?jk=3f6560c68374b1f3
 
 ---
 
 Dear Amazon Web Services team,
 
-I am writing to apply for the Worldwide Partner Solutions Architect, Data and AI GTM role. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine econometric modeling, deep learning, and MLOps—experience that aligns directly with the partner‑focused, generative‑AI responsibilities outlined in the posting.
+I am a dual‑trained Economist and Data Scientist with hands‑on experience building end‑to‑end GenAI and autonomous agent solutions. My background in MLOps (Docker, FastAPI, MLflow) and conversational AI (LLMs, MCP) aligns directly with your need to enable partners to deploy scalable GenAI workloads on AWS.  
 
-My recent **Multi‑Agent System with MCP** project demonstrates the exact skill set you seek: I designed a distributed architecture where agents retrieve financial data via APIs, apply GARCH volatility models, and generate natural‑language reports using GPT‑4. The solution was containerized with Docker, exposed through FastAPI, and orchestrated via a custom Model Context Protocol, enabling seamless scaling for multiple partners. This mirrors the need to “define and execute engagement strategies for autonomous agent implementations” and to collaborate with AWS service teams on new AI capabilities.
+In my “Sistema Multi‑Agent con MCP” project, I designed a distributed architecture where a scraping agent feeds financial data into an econometric agent that applies GARCH models, while a third agent uses GPT‑4 to generate executive reports. This end‑to‑end pipeline demonstrates my ability to create proof‑of‑concepts that combine streaming data, advanced analytics, and LLM generation—exactly the type of solution AWS wants to market globally.
 
-In addition, I have extensive experience deploying production‑grade models using **MLflow**, **Docker**, and **FastAPI**, as showcased in my credit‑risk inference API. My strong command of **SQL, Power BI, and data storytelling** allows me to translate complex analytics into actionable insights for business stakeholders, supporting the “analytics modernization” and “streaming data” objectives of the role.
+Additionally, my experience with Power BI dashboards for real‑time sales analytics showcases my skill in translating complex data into actionable insights, a core requirement for advising customers on analytics modernization and database migration strategies.
 
-I am eager to leverage my expertise in generative AI, agentic architectures, and data‑driven consulting to help AWS partners accelerate their AI journeys. I would welcome the opportunity to discuss how my background can contribute to your GTM strategy.
+I am drawn to AWS’s commitment to customer‑obsessed innovation and its leadership in AI services. I am eager to contribute to the Worldwide Partner Solutions team by designing partner‑specific GTM plans and delivering tangible, scalable GenAI solutions.
 
-Thank you for your consideration; I look forward to speaking with you soon.
+I would welcome the opportunity to discuss how my expertise can accelerate AWS’s GenAI adoption. Please let me know a convenient time for a brief conversation.
+
+Sincerely,  
+Erick Flores Zambano
