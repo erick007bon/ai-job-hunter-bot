@@ -2,21 +2,23 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=0e3be41c391981a0
+**URL:** https://www.indeed.com/viewjob?jk=165330ba98302ae4
 
 ---
 
 Dear Amazon Web Services team,
 
-I am writing to apply for the Data Engineer/Architect position in WWPS ProServe Data and Machine Learning. With my background in building scalable data solutions and deploying ML models in production, I am well-positioned to help Public Sector customers achieve their mission-critical objectives.
+I am writing to apply for the Data Engineer/Architect, WWPS ProServe Data and Machine Learning position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-My experience aligns directly with your requirements. I have designed and deployed RESTful APIs for ML models using FastAPI and Docker, containerizing predictive systems for production environments—skills essential for building cloud data platforms. Additionally, my advanced SQL and Power BI expertise enables me to create data warehouses and executive dashboards that transform complex datasets into actionable insights.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-A relevant example is my Multi-Agent System with MCP project, where I built a distributed architecture connecting specialized agents for financial data scraping, econometric analysis (GARCH models), and automated report generation via LLMs. This demonstrates my ability to design scalable, modular data systems—exactly what Public Sector clients need.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am particularly motivated by AWS's commitment to innovation and the opportunity to serve government customers who rely on data-driven decision making for critical missions. My background in both technical implementation and business intelligence allows me to bridge the gap between complex engineering and stakeholder value.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-I would welcome the opportunity to discuss how my skills can contribute to your team. Please feel free to contact me to schedule a conversation.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
 FLORES ZAMBRANO ERICK
+Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
+adanrivas6655@gmail.com | GitHub: erick007bon

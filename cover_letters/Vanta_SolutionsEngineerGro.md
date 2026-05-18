@@ -1,14 +1,14 @@
-# Cover Letter - Mgr SecEng, AGI/AI Security @ Amazon.com
+# Cover Letter - Solutions Engineer, Growth @ Vanta
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=67b45c3313e331f6
+**URL:** https://www.indeed.com/viewjob?jk=e194eaa5286aa616
 
 ---
 
-Dear Amazon.com team,
+Dear Vanta team,
 
-I am writing to apply for the Mgr SecEng, AGI/AI Security position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Solutions Engineer, Growth position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
