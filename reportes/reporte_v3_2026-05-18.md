@@ -1,109 +1,109 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-18 06:52
+# AI JOB HUNTER V3 - Reporte 2026-05-18 15:49
 
-> **Extraidas:** 117 | **Filtradas:** 69 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 200 | **Emails enviados total:** 26
+> **Extraidas:** 111 | **Filtradas:** 90 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 220 | **Emails enviados total:** 26
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e7f5992a3a96e645
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
+### [DRAFT - POSTULA MANUALMENTE]: Quality Engineer 3 @ United Launch Alliance (ULA)
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5c8269d4d36589db
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnitedLaunchAlliance_QualityEngineer3.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5f39fd0badbae2c2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Quality Computerized System Validation (CSV) @ Nuvalent
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=86266d6dd765402a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nuvalent_ManagerQualityComput.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9bd482c81a11b38e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
+### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=153e993c75be10da
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Mobile Software Engineer (Android) @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=37e06499ac7f8132
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_MobileSoftwareEngine.md
+### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8fa39c47b9a09234
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Geologist/Environmental Scientist @ Arcadis
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e9f87dd20186c81a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Arcadis_GeologistEnvironment.md
+### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=61cbc206063e521f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: GPU Systems Engineer (CUDA) @ BV Teck
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a7a055f1bbb27b99
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BVTeck_GPUSystemsEngineerCU.md
+### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e84ffb902a6846d0
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Forward Deployed Engineer (SF/On-site) @ Soulside AI
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=be7ef0350aec31bb
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SoulsideAI_ForwardDeployedEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Worldwide Partner Solutions Architect, Data and AI GTM @ Amazon Web Services
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3f6560c68374b1f3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_WorldwidePartnerSolu.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Technical Account Manager - AI Infrastructure @ Prime Intellect
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=459e2c6bbf9131d7
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrimeIntellect_TechnicalAccountMana.md
+### [DRAFT - POSTULA MANUALMENTE]: Mgr SecEng, AGI/AI Security @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=717ae2fb04ad6438
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Developer @ Coca-Cola HBC
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-developer-at-coca-cola-hbc-4302023020/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CocaColaHBC_AIDeveloper.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Mgr SecEng, AGI/AI Security @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1a043780ac214882
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior Data Scientist @ QNB Türkiye
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-qnb-t%C3%BCrkiye-4412247570/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QNBTürkiye_JuniorDataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Electrical Engineer II -- Truck Design @ Aries Industries
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d8bb048bc9fdc3a3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AriesIndustries_ElectricalEngineerII.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (R-19247) @ Dun & Bradstreet
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-r-19247-at-dun-bradstreet-4416083510/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DunBradstreet_DataScientistR19247.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Technical Infrastructure Program Manager, HVAC Design & Maintenance, Global Energy, Sustainability and Automation @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a090c14d4504b47f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_TechnicalInfrastruct.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Wabtec Corporation
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wabtec-corporation-4412254416/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WabtecCorporation_MachineLearningEngin.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Technical Infrastructure Program Manager, HVAC Design & Maintenance, Global Energy, Sustainability and Automation @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=81d3d895f42f28a1
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_TechnicalInfrastruct.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Science Analyst @ Further
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-science-analyst-at-further-4397340241/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Further_DataScienceAnalyst.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Technical Infrastructure Program Manager, HVAC Design & Maintenance, Global Energy, Sustainability and Automation @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=330b69c239694165
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_TechnicalInfrastruct.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Wave Group
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-wave-group-4404699143/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WaveGroup_DataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Technical Infrastructure Program Manager, HVAC Design & Maintenance, Global Energy, Sustainability and Automation @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a3c6c59a36822f93
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_TechnicalInfrastruct.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ DoorDash
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-doordash-4302861025/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DoorDash_DataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Controls Engineer, Data Center, Colocation Regional Engineering - AMER @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1223c8e7bf6341ef
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_ControlsEngineerData.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Analista Junior em Validação de Modelos (ciência de dados) @ banco BV
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/analista-junior-em-valida%C3%A7%C3%A3o-de-modelos-ci%C3%AAncia-de-dados-at-banco-bv-4416040397/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/bancoBV_AnalistaJunioremVali.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Controls Engineer, Data Center, Colocation Regional Engineering - AMER @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=731cc09dd1afb8c2
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_ControlsEngineerData.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Chumley
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-chumley-4416047843/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Chumley_DataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: AWS Technical Program Manager, Infrastructure, US West @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=108b7b329b062011
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_AWSTechnicalProgramM.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: ML Engineer @ Scoutit
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4415461073/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineer.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: AWS Technical Program Manager, Infrastructure, US West @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=24959138a6562105
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_AWSTechnicalProgramM.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Developer @ Genpact
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-developer-at-genpact-4397897058/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_AIDeveloper.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - Pricing @ WebstaurantStore
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8f189e7f34170dd7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DataScientistPricing.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Graduate AI software engineer @ Bending Spoons
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/graduate-ai-software-engineer-at-bending-spoons-4415451657/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BendingSpoons_GraduateAIsoftwareen.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - Marketing @ WebstaurantStore
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=203dd838ab77b605
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DataScientistMarketi.md
+- **Fuente:** Google Jobs (Indeed)
 
 
 ---

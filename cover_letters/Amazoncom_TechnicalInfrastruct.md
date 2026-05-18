@@ -2,18 +2,23 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=97ca4bc81db96ed6
+**URL:** https://www.indeed.com/viewjob?jk=a3c6c59a36822f93
 
 ---
 
 Dear Amazon.com team,
 
-I am writing to express my interest in the Technical Infrastructure Program Manager position within the Global Engineering Services - Sustainability & Automation team. My background as a Data Scientist combined with project management experience makes me well-suited to drive technical programs supporting Amazon's Climate Pledge goals.
+I am writing to apply for the Technical Infrastructure Program Manager, HVAC Design & Maintenance, Global Energy, Sustainability and Automation position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-In my current role at Vamoret S.A., I led end-to-end technical projects including a Power BI executive dashboard that automated daily sales reporting and enabled data-driven decision-making across departments. This experience developed my ability to manage cross-functional stakeholders, align technical solutions with business objectives, and deliver measurable results - skills directly applicable to scaling HVAC sustainability technologies across Amazon operations.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-My technical foundation in building and deploying complex systems further strengthens this role. I designed and implemented a multi-agent architecture using the Model Context Protocol (MCP), coordinating specialized agents for data ingestion, econometric analysis, and automated reporting. This project demonstrates my capability to manage sophisticated technical programs involving multiple components and stakeholders.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am particularly motivated by Amazon's commitment to net-zero carbon operations by 2040 and the strategic importance of HVAC technologies in achieving this goal. I would welcome the opportunity to bring my combination of technical depth and program management skills to your team.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-I would be glad to discuss how my experience can contribute to your sustainability initiatives. Please feel free to contact me to schedule a conversation.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+
+Best regards,
+FLORES ZAMBRANO ERICK
+Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
+REDACTED_EMAIL@example.com | GitHub: erick007bon
