@@ -1799,6 +1799,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_PowerStandardsandHar.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:49:54.970706",
+      "url": "https://www.indeed.com/viewjob?jk=e7f5992a3a96e645",
+      "title": "Full Time Call Center Representative",
+      "company": "TRANZACT",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:50:02.576653",
+      "url": "https://www.indeed.com/viewjob?jk=5f39fd0badbae2c2",
+      "title": "Full Time Call Center Representative",
+      "company": "TRANZACT",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:50:10.205983",
+      "url": "https://www.indeed.com/viewjob?jk=9bd482c81a11b38e",
+      "title": "Full Time Call Center Representative",
+      "company": "TRANZACT",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:50:24.811128",
+      "url": "https://www.indeed.com/viewjob?jk=37e06499ac7f8132",
+      "title": "Mobile Software Engineer (Android)",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_MobileSoftwareEngine.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:50:48.970991",
+      "url": "https://www.indeed.com/viewjob?jk=e9f87dd20186c81a",
+      "title": "Geologist/Environmental Scientist",
+      "company": "Arcadis",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Arcadis_GeologistEnvironment.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:50:58.772666",
+      "url": "https://www.indeed.com/viewjob?jk=a7a055f1bbb27b99",
+      "title": "GPU Systems Engineer (CUDA)",
+      "company": "BV Teck",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BVTeck_GPUSystemsEngineerCU.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:51:01.780964",
+      "url": "https://www.indeed.com/viewjob?jk=be7ef0350aec31bb",
+      "title": "Forward Deployed Engineer (SF/On-site)",
+      "company": "Soulside AI",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SoulsideAI_ForwardDeployedEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:51:12.000974",
+      "url": "https://www.indeed.com/viewjob?jk=459e2c6bbf9131d7",
+      "title": "Technical Account Manager - AI Infrastructure",
+      "company": "Prime Intellect",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrimeIntellect_TechnicalAccountMana.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:51:22.574047",
+      "url": "https://www.linkedin.com/jobs/view/ai-developer-at-coca-cola-hbc-4302023020/",
+      "title": "AI Developer",
+      "company": "Coca-Cola HBC",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CocaColaHBC_AIDeveloper.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:51:30.923845",
+      "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-at-qnb-t%C3%BCrkiye-4412247570/",
+      "title": "Junior Data Scientist",
+      "company": "QNB Türkiye",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QNBTürkiye_JuniorDataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:51:35.598142",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-r-19247-at-dun-bradstreet-4416083510/",
+      "title": "Data Scientist (R-19247)",
+      "company": "Dun & Bradstreet",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DunBradstreet_DataScientistR19247.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:51:42.446113",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-wabtec-corporation-4412254416/",
+      "title": "Machine Learning Engineer",
+      "company": "Wabtec Corporation",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WabtecCorporation_MachineLearningEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:51:48.776702",
+      "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-further-4397340241/",
+      "title": "Data Science Analyst",
+      "company": "Further",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Further_DataScienceAnalyst.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:51:56.229010",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-wave-group-4404699143/",
+      "title": "Data Scientist",
+      "company": "Wave Group",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WaveGroup_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:52:01.957426",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-doordash-4302861025/",
+      "title": "Data Scientist",
+      "company": "DoorDash",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DoorDash_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:52:13.141245",
+      "url": "https://www.linkedin.com/jobs/view/analista-junior-em-valida%C3%A7%C3%A3o-de-modelos-ci%C3%AAncia-de-dados-at-banco-bv-4416040397/",
+      "title": "Analista Junior em Validação de Modelos (ciência de dados)",
+      "company": "banco BV",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/bancoBV_AnalistaJunioremVali.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:52:24.804394",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-chumley-4416047843/",
+      "title": "Data Scientist",
+      "company": "Chumley",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Chumley_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:52:32.012421",
+      "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4415461073/",
+      "title": "ML Engineer",
+      "company": "Scoutit",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:52:38.616097",
+      "url": "https://www.linkedin.com/jobs/view/ai-developer-at-genpact-4397897058/",
+      "title": "AI Developer",
+      "company": "Genpact",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_AIDeveloper.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 06:52:41.506047",
+      "url": "https://www.linkedin.com/jobs/view/graduate-ai-software-engineer-at-bending-spoons-4415451657/",
+      "title": "Graduate AI software engineer",
+      "company": "Bending Spoons",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BendingSpoons_GraduateAIsoftwareen.md",
+      "status": "draft"
     }
   ]
 }
