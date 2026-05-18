@@ -1,14 +1,14 @@
-# Cover Letter - Data Engineer/Architect, WWPS ProServe Data and Machine Learning @ Amazon Web Services
+# Cover Letter - Software Engineer (In Office) @ Rational Enterprise
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=165330ba98302ae4
+**URL:** https://www.indeed.com/viewjob?jk=52759058edf361fd
 
 ---
 
-Dear Amazon Web Services team,
+Dear Rational Enterprise team,
 
-I am writing to apply for the Data Engineer/Architect, WWPS ProServe Data and Machine Learning position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Software Engineer (In Office) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 

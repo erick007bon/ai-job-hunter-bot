@@ -2399,6 +2399,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheStandardInsurance_SoftwareEngineerIII.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:02:02.461687",
+      "url": "https://www.indeed.com/viewjob?jk=35287ec3fc77e03e",
+      "title": "Deputy Director, Web Strategy & Operations",
+      "company": "The Nature Conservancy",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheNatureConservancy_DeputyDirectorWebStr.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:02:37.984690",
+      "url": "https://www.indeed.com/viewjob?jk=4f13e331809e2b91",
+      "title": "DSCA .Net Core Developer (Software Engineer)",
+      "company": "HII",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_DSCANetCoreDeveloper.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:03:15.264136",
+      "url": "https://www.indeed.com/viewjob?jk=71030be38b502d62",
+      "title": "GUAM LINE MAINTENANCE ENGINEERING TECHNICIAN",
+      "company": "Peraton",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Peraton_GUAMLINEMAINTENANCEE.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:03:34.127989",
+      "url": "https://www.indeed.com/viewjob?jk=cfd665fb56c2c41b",
+      "title": "Exploitation Specialist/Imagery Scientist (SAR)",
+      "company": "BTS Software Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BTSSoftwareSolutions_ExploitationSpeciali.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:03:53.663177",
+      "url": "https://www.indeed.com/viewjob?jk=89f7fb30f60202f4",
+      "title": "Mgr SecEng, AGI/AI Security",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:04:06.495198",
+      "url": "https://www.indeed.com/viewjob?jk=67b45c3313e331f6",
+      "title": "Mgr SecEng, AGI/AI Security",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MgrSecEngAGIAISecuri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:04:28.272210",
+      "url": "https://www.indeed.com/viewjob?jk=921a1a5f13968bf0",
+      "title": "Technical Training Specialist",
+      "company": "Duke Energy",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DukeEnergy_TechnicalTrainingSpe.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:04:40.953698",
+      "url": "https://www.indeed.com/viewjob?jk=127f8ec8d16f9fd1",
+      "title": "Signal Integrity Engineering Manager- Cable Backplane Systems",
+      "company": "Amphenol",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amphenol_SignalIntegrityEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:04:53.888169",
+      "url": "https://www.indeed.com/viewjob?jk=52759058edf361fd",
+      "title": "Software Engineer (In Office)",
+      "company": "Rational Enterprise",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RationalEnterprise_SoftwareEngineerInOf.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:05:06.915660",
+      "url": "https://www.indeed.com/viewjob?jk=e194eaa5286aa616",
+      "title": "Solutions Engineer, Growth",
+      "company": "Vanta",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vanta_SolutionsEngineerGro.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:05:29.143353",
+      "url": "https://www.indeed.com/viewjob?jk=67f0de24dce4a27c",
+      "title": "AWS Technical Program Manager, Infrastructure, US West",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_AWSTechnicalProgramM.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:05:48.750945",
+      "url": "https://www.indeed.com/viewjob?jk=2f2f38bcaa2d351a",
+      "title": "AWS Technical Program Manager, Infrastructure, US West",
+      "company": "Amazon.com",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_AWSTechnicalProgramM.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:06:01.468003",
+      "url": "https://www.indeed.com/viewjob?jk=9db6252cf3d2e237",
+      "title": "Manager, Data Engineering and Analytics",
+      "company": "Recology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Recology_ManagerDataEngineeri.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:06:03.354994",
+      "url": "https://www.indeed.com/viewjob?jk=34c59f236373df64",
+      "title": "Environmental Manager",
+      "company": "Airbus",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": "USCareers@airbus.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Airbus_EnvironmentalManager.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-18 23:06:04.187703",
+      "url": "https://www.indeed.com/viewjob?jk=914ab4f764c83300",
+      "title": "Early Career FPGA Design Engineer - Space-based Remote Sensing, Onsite",
+      "company": "Sandia National Laboratories",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SandiaNationalLabora_EarlyCareerFPGADesig.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:06:24.306151",
+      "url": "https://www.indeed.com/viewjob?jk=053e557fc8d30d5f",
+      "title": "Forward Deployed Engineer",
+      "company": "Roboflow",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Roboflow_ForwardDeployedEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:06:25.083802",
+      "url": "https://www.indeed.com/viewjob?jk=20aa463e67d40bba",
+      "title": "Quality Engineer",
+      "company": "Kongsberg",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kongsberg_QualityEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:06:37.709719",
+      "url": "https://www.indeed.com/viewjob?jk=a70538c48f0435bc",
+      "title": "ECG / TCU Product Development Engineer",
+      "company": "Ford Motor Company",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FordMotorCompany_ECGTCUProductDevelop.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:06:38.384283",
+      "url": "https://www.indeed.com/viewjob?jk=3952203aba0f4533",
+      "title": "CIRES / Earth Science and Observation Center, Research Scientist in Remote Sensing",
+      "company": "Univeristy Of Colorado Boulder",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniveristyOfColorado_CIRESEarthScienceand.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-18 23:06:51.176511",
+      "url": "https://www.indeed.com/viewjob?jk=165330ba98302ae4",
+      "title": "Data Engineer/Architect, WWPS ProServe Data and Machine Learning",
+      "company": "Amazon Web Services",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_DataEngineerArchitec.md",
+      "status": "draft"
     }
   ]
 }
