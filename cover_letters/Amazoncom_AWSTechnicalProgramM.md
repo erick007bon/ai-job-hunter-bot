@@ -2,23 +2,19 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=7cb69ad7737f9224
+**URL:** https://www.indeed.com/viewjob?jk=24959138a6562105
 
 ---
 
 Dear Amazon.com team,
 
-I am writing to apply for the AWS Technical Program Manager, Infrastructure, US West position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Technical Program Manager, Infrastructure position. With my background in data science and AI, combined with experience leading complex technical projects end-to-end, I am confident I can contribute to AWS's infrastructure expansion efforts.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My profile aligns with this role in three key areas. First, I have demonstrated ability to coordinate multi-component technical systems—my Multi-Agent System with MCP architecture coordinates specialized agents for financial analysis, similar to managing cross-functional teams across data center projects. Second, I bring strong technical infrastructure experience: I have deployed ML models to production using Docker, FastAPI, and REST APIs, giving me practical understanding of the systems that power cloud services. Third, my analytical background—developing predictive models, managing backtesting pipelines, and optimizing algorithms—provides the problem-solving skills needed for supply chain and infrastructure challenges.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+I am motivated by AWS's scale and technical ambition. Managing data center expansion requires balancing numerous variables while maintaining high standards—exactly the kind of complex, high-impact challenge I seek.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
-
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I would welcome the opportunity to discuss how my technical foundation and project coordination experience can contribute to your infrastructure team.
 
 Best regards,
 FLORES ZAMBRANO ERICK
-Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
-adanrivas6655@gmail.com | GitHub: erick007bon

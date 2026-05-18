@@ -1,14 +1,14 @@
-# Cover Letter - Technical Infrastructure Program Manager, HVAC Design & Maintenance, Global Energy, Sustainability and Automation @ Amazon.com
+# Cover Letter - Data Scientist - Marketing @ WebstaurantStore
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=a3c6c59a36822f93
+**URL:** https://www.indeed.com/viewjob?jk=203dd838ab77b605
 
 ---
 
-Dear Amazon.com team,
+Dear WebstaurantStore team,
 
-I am writing to apply for the Technical Infrastructure Program Manager, HVAC Design & Maintenance, Global Energy, Sustainability and Automation position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Data Scientist - Marketing position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 

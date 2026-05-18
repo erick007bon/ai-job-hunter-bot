@@ -2,22 +2,23 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=55a310ac6232f7df
+**URL:** https://www.indeed.com/viewjob?jk=1a043780ac214882
 
 ---
 
 Dear Amazon.com team,
 
-I am writing to apply for the Mgr SecEng, AGI/AI Security position. My background as an Economist‑Data Scientist, combined with hands‑on experience in secure AI deployments, aligns closely with your need for a leader who can protect generative models from prompt injection, model poisoning, and data leakage.
+I am writing to apply for the Mgr SecEng, AGI/AI Security position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-I have built end‑to‑end security‑aware ML pipelines using Docker, FastAPI, and MLflow, ensuring reproducibility and auditability—skills directly relevant to securing LLM integrations and prompt‑engineering workflows. My experience with the Multi‑Agent System (MCP) architecture involved orchestrating isolated agents, each with dedicated security contexts, which is similar to the compartmentalized approach Amazon requires for GenAI services. Additionally, my work on a deep‑learning trading platform required rigorous data validation and integrity checks, mirroring the stringent data‑leakage safeguards you seek.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-The MCP project, where I designed a distributed agent framework that automatically fetches financial data, applies GARCH econometric models, and generates LLM‑based reports, demonstrates my ability to blend advanced AI techniques with robust security practices. This experience has prepared me to lead a team that balances rapid innovation with rigorous protection of Amazon’s AI assets.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am eager to bring my expertise in secure AI deployment, LLM governance, and cross‑functional leadership to Amazon’s AGI organization. I would welcome the chance to discuss how my skills can support your mission to build trustworthy, world‑class AI services.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Thank you for considering my application. I look forward to your response.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
-
 FLORES ZAMBRANO ERICK
+Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
+adanrivas6655@gmail.com | GitHub: erick007bon
