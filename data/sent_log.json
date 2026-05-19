@@ -2599,6 +2599,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmazonWebServices_DataEngineerArchitec.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:43:50.369334",
+      "url": "https://www.indeed.com/viewjob?jk=cbd6bc099647b70f",
+      "title": "Threat Detection Engineer",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_ThreatDetectionEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:44:04.813068",
+      "url": "https://www.indeed.com/viewjob?jk=8fba7ccb75ea912c",
+      "title": "ENVIRONMENTAL SCIENTIST",
+      "company": "California State Personnel Board",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_ENVIRONMENTALSCIENTI.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:44:21.416677",
+      "url": "https://www.indeed.com/viewjob?jk=3d932edf6f768e40",
+      "title": "Growth Marketing Specialist",
+      "company": "スマートニュース株式会社",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/スマートニュース株式会社_GrowthMarketingSpeci.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:44:24.198500",
+      "url": "https://www.indeed.com/viewjob?jk=348bd584cd3e73f0",
+      "title": "Program Manager I - Cell Lab - GMP",
+      "company": "Thermo Fisher Scientific",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThermoFisherScientif_ProgramManagerICellL.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:44:33.312310",
+      "url": "https://www.indeed.com/viewjob?jk=fb99605f6f1a0619",
+      "title": "Geospatial Specialist",
+      "company": "KBR",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KBR_GeospatialSpecialist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:44:59.666038",
+      "url": "https://www.indeed.com/viewjob?jk=d034a9b54566f452",
+      "title": "AI Engineer, Databricks",
+      "company": "KeyLogic Systems",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KeyLogicSystems_AIEngineerDatabricks.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:45:10.187637",
+      "url": "https://www.indeed.com/viewjob?jk=946c066f2bb5831a",
+      "title": "Recruiting Coordinator- Western US",
+      "company": "The Nature Conservancy",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheNatureConservancy_RecruitingCoordinato.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:45:58.259811",
+      "url": "https://www.indeed.com/viewjob?jk=f319b1ccde972eb1",
+      "title": "Conservation Coordinator",
+      "company": "The Nature Conservancy",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheNatureConservancy_ConservationCoordina.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:46:08.967000",
+      "url": "https://www.indeed.com/viewjob?jk=c9d0cc5109f3863e",
+      "title": "Application Specialist US– Super Resolution Imaging Systems",
+      "company": "CSR Europe",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CSREurope_ApplicationSpecialis.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:46:17.549755",
+      "url": "https://www.indeed.com/viewjob?jk=f819925e61d6d49c",
+      "title": "Security Engineer - Certificate Mgt/ PKI - Remote or Hybrid from MN or DC",
+      "company": "UnitedHealth Group",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnitedHealthGroup_SecurityEngineerCert.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:46:24.875352",
+      "url": "https://www.indeed.com/viewjob?jk=a8a7b0e2cebda8cb",
+      "title": "Data Engineer - Contract Role",
+      "company": "Sourcebooks, Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SourcebooksInc_DataEngineerContract.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:46:47.395846",
+      "url": "https://www.indeed.com/viewjob?jk=70158c15c2eaf632",
+      "title": "Vice President, Software Engineer",
+      "company": "One Rail Australia",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OneRailAustralia_VicePresidentSoftwar.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:47:02.592332",
+      "url": "https://www.indeed.com/viewjob?jk=2150657045b1349f",
+      "title": "Office Assistant 2",
+      "company": "State of Alaska",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofAlaska_OfficeAssistant2.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:47:19.209853",
+      "url": "https://www.indeed.com/viewjob?jk=b328da077c1c1885",
+      "title": "Office Assistant 3",
+      "company": "State of Alaska",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofAlaska_OfficeAssistant3.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:47:36.036502",
+      "url": "https://www.indeed.com/viewjob?jk=204e7314bbc9c64c",
+      "title": "Accountant 3/4",
+      "company": "State of Alaska",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofAlaska_Accountant34.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:47:48.969320",
+      "url": "https://www.indeed.com/viewjob?jk=d93420b4dc46a44d",
+      "title": "Quality Management Systems Engineer",
+      "company": "DBV Technologies",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DBVTechnologies_QualityManagementSys.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:47:57.805855",
+      "url": "https://www.indeed.com/viewjob?jk=edb5800a6888636a",
+      "title": "DoW DSCA Data Analyst 2 (Remote)",
+      "company": "HII",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_DoWDSCADataAnalyst2R.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:48:09.179190",
+      "url": "https://www.indeed.com/viewjob?jk=a1c15f7037512154",
+      "title": "DSCA Mid Project Analyst (Systems Application Analyst)",
+      "company": "HII",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_DSCAMidProjectAnalys.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:48:19.678458",
+      "url": "https://www.indeed.com/viewjob?jk=0bea993a31bcad7e",
+      "title": "AI Solutions Architect",
+      "company": "KLS Martin Group",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KLSMartinGroup_AISolutionsArchitect.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 06:48:24.111231",
+      "url": "https://www.indeed.com/viewjob?jk=2ce7279ef6a04b22",
+      "title": "DSCA Mid QA Software Tester (Programmer Analyst)",
+      "company": "HII",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_DSCAMidQASoftwareTes.md",
+      "status": "draft"
     }
   ]
 }
