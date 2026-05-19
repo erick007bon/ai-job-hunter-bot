@@ -3199,6 +3199,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_InterdisciplinaryEng.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:03:14.764851",
+      "url": "https://www.indeed.com/viewjob?jk=65adc9e50a6534de",
+      "title": "Artificial Intelligence (AI) Engineer - Remote",
+      "company": "Sentara",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sentara_ArtificialIntelligen.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:03:26.040153",
+      "url": "https://www.indeed.com/viewjob?jk=254074a5156dad11",
+      "title": "Data Science Manager",
+      "company": "FlagStar Bank",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": "heather.cole@flagstar.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FlagStarBank_DataScienceManager.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-19 23:03:35.390567",
+      "url": "https://www.indeed.com/viewjob?jk=00fffefbca050579",
+      "title": "Postdoctoral Appointee for Materials Mechanics and Nanomechanics, Onsite",
+      "company": "Sandia National Laboratories",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SandiaNationalLabora_PostdoctoralAppointe.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:03:37.723370",
+      "url": "https://www.indeed.com/viewjob?jk=d18dbd069de2cae0",
+      "title": "Environmental Remediation Project Engineer",
+      "company": "EnSafe Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnSafeInc_EnvironmentalRemedia.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:03:40.162454",
+      "url": "https://www.indeed.com/viewjob?jk=319adb67caf7c1dd",
+      "title": "Environmental Remediation Associate Level Engineer",
+      "company": "EnSafe Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnSafeInc_EnvironmentalRemedia.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:03:55.067373",
+      "url": "https://www.indeed.com/viewjob?jk=30ac9df7bf1886c9",
+      "title": "Environmental Remediation Project Engineer",
+      "company": "EnSafe Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnSafeInc_EnvironmentalRemedia.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:04:05.052830",
+      "url": "https://www.indeed.com/viewjob?jk=d2b43425ac9da795",
+      "title": "Environmental Remediation Associate Level Engineer",
+      "company": "EnSafe Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnSafeInc_EnvironmentalRemedia.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:04:22.174060",
+      "url": "https://www.indeed.com/viewjob?jk=fd755261b8efe46c",
+      "title": "Executive Director, Computational Biology",
+      "company": "Insmed Incorporated",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InsmedIncorporated_ExecutiveDirectorCom.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:04:43.261088",
+      "url": "https://www.indeed.com/viewjob?jk=90943d960735783d",
+      "title": "Vice President, Biologics Research",
+      "company": "Insmed Incorporated",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InsmedIncorporated_VicePresidentBiologi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:04:45.146077",
+      "url": "https://www.indeed.com/viewjob?jk=af76ea3f059842db",
+      "title": "Manager, External Manufacturing",
+      "company": "Insmed Incorporated",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InsmedIncorporated_ManagerExternalManuf.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:04:47.493539",
+      "url": "https://www.indeed.com/viewjob?jk=8f49e32e7a6e674f",
+      "title": "Systems and Cloud Administrator",
+      "company": "Continental Bank",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ContinentalBank_SystemsandCloudAdmin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:05:02.235753",
+      "url": "https://www.indeed.com/viewjob?jk=e89cbd5140cd77e2",
+      "title": "Test Stand Engineer",
+      "company": "Rolls-Royce",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RollsRoyce_TestStandEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:05:04.269467",
+      "url": "https://www.indeed.com/viewjob?jk=1de1721c6976c985",
+      "title": "Major Account Manager",
+      "company": "Thales",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Thales_MajorAccountManager.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:05:06.313889",
+      "url": "https://www.indeed.com/viewjob?jk=fa5c60daa2eb488c",
+      "title": "Data Analytics Engineer",
+      "company": "Zayo Group",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZayoGroup_DataAnalyticsEnginee.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:05:16.416575",
+      "url": "https://www.indeed.com/viewjob?jk=cdcbd4580652b677",
+      "title": "Engineer, Applications Development",
+      "company": "Avantor",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Avantor_EngineerApplications.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:05:18.477505",
+      "url": "https://www.indeed.com/viewjob?jk=a317e0e696188926",
+      "title": "Structural Engineering Professional Associate",
+      "company": "Jacobs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Jacobs_StructuralEngineerin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:05:20.708222",
+      "url": "https://www.indeed.com/viewjob?jk=3bef25819e6f17db",
+      "title": "Sales Engineer",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_SalesEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:05:40.637171",
+      "url": "https://www.indeed.com/viewjob?jk=2dd9af624192e834",
+      "title": "Mechanical Design Engineer (Data Center)",
+      "company": "Jacobs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Jacobs_MechanicalDesignEngi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:05:52.542969",
+      "url": "https://www.indeed.com/viewjob?jk=e22f446a9b5e9ab4",
+      "title": "Product Support Engineer",
+      "company": "Jacobs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Jacobs_ProductSupportEngine.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-19 23:06:02.182641",
+      "url": "https://www.indeed.com/viewjob?jk=b1cf0b9d3bcd2c89",
+      "title": "Product Owner",
+      "company": "Benchmark Solutions LLC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BenchmarkSolutionsLL_ProductOwner.md",
+      "status": "draft"
     }
   ]
 }
