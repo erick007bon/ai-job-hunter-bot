@@ -1,108 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-19 06:48
+# AI JOB HUNTER V3 - Reporte 2026-05-19 16:04
 
-> **Extraidas:** 109 | **Filtradas:** 86 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 280 | **Emails enviados total:** 27
+> **Extraidas:** 108 | **Filtradas:** 90 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 300 | **Emails enviados total:** 27
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Threat Detection Engineer @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cbd6bc099647b70f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_ThreatDetectionEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a198e2f00d09e497
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: ENVIRONMENTAL SCIENTIST @ California State Personnel Board
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8fba7ccb75ea912c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_ENVIRONMENTALSCIENTI.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ac5897cf20f4924d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Growth Marketing Specialist @ スマートニュース株式会社
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3d932edf6f768e40
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/スマートニュース株式会社_GrowthMarketingSpeci.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6add22c42e86ee8d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Program Manager I - Cell Lab - GMP @ Thermo Fisher Scientific
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=348bd584cd3e73f0
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThermoFisherScientif_ProgramManagerICellL.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=060e90baddbaabb6
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Geospatial Specialist @ KBR
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fb99605f6f1a0619
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KBR_GeospatialSpecialist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=29fa15772fc8215e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer, Databricks @ KeyLogic Systems
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d034a9b54566f452
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KeyLogicSystems_AIEngineerDatabricks.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dbeaf5356928be79
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Recruiting Coordinator- Western US @ The Nature Conservancy
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=946c066f2bb5831a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheNatureConservancy_RecruitingCoordinato.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=30aac5b70ec21742
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Conservation Coordinator @ The Nature Conservancy
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f319b1ccde972eb1
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheNatureConservancy_ConservationCoordina.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e1224f39b4d10142
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Application Specialist US– Super Resolution Imaging Systems @ CSR Europe
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c9d0cc5109f3863e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CSREurope_ApplicationSpecialis.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8b20c6e56d2f2685
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Security Engineer - Certificate Mgt/ PKI - Remote or Hybrid from MN or DC @ UnitedHealth Group
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f819925e61d6d49c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnitedHealthGroup_SecurityEngineerCert.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=57de84d9a0a356fd
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer - Contract Role @ Sourcebooks, Inc.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a8a7b0e2cebda8cb
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SourcebooksInc_DataEngineerContract.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4a7a4bbc97a4a7bf
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Vice President, Software Engineer @ One Rail Australia
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=70158c15c2eaf632
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OneRailAustralia_VicePresidentSoftwar.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8e0d1d3131f74e61
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Office Assistant 2 @ State of Alaska
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2150657045b1349f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofAlaska_OfficeAssistant2.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=99acdc5f038ec993
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Office Assistant 3 @ State of Alaska
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b328da077c1c1885
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofAlaska_OfficeAssistant3.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=417fe7ce0dd45b13
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Accountant 3/4 @ State of Alaska
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=204e7314bbc9c64c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofAlaska_Accountant34.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer (Remote) @ FCT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0ba18545223c64cb
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FCT_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Quality Management Systems Engineer @ DBV Technologies
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d93420b4dc46a44d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DBVTechnologies_QualityManagementSys.md
+### [DRAFT - POSTULA MANUALMENTE]: Computational Physicist – Acoustic Tomography @ Fluid Numerics
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=04816cfdd9e73f2f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FluidNumerics_ComputationalPhysici.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: DoW DSCA Data Analyst 2 (Remote) @ HII
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=edb5800a6888636a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_DoWDSCADataAnalyst2R.md
+### [DRAFT - POSTULA MANUALMENTE]: AI - Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2f3215e173a2f079
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: DSCA Mid Project Analyst (Systems Application Analyst) @ HII
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a1c15f7037512154
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_DSCAMidProjectAnalys.md
+### [DRAFT - POSTULA MANUALMENTE]: AI - Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a35019214a98b077
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Solutions Architect @ KLS Martin Group
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0bea993a31bcad7e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KLSMartinGroup_AISolutionsArchitect.md
+### [DRAFT - POSTULA MANUALMENTE]: AI - Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b9516aa524f738d9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: DSCA Mid QA Software Tester (Programmer Analyst) @ HII
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2ce7279ef6a04b22
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_DSCAMidQASoftwareTes.md
+### [DRAFT - POSTULA MANUALMENTE]: AI - Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2d5239019737c1e6
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
 - **Fuente:** Google Jobs (Indeed)
 
 
