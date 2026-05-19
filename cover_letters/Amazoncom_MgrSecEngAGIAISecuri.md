@@ -2,23 +2,18 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=67b45c3313e331f6
+**URL:** https://www.indeed.com/viewjob?jk=da15cfcd9cea0e9d
 
 ---
 
 Dear Amazon.com team,
 
-I am writing to apply for the Mgr SecEng, AGI/AI Security position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Manager, Security Engineering – AGI/AI Security role. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine large‑language‑model integration, secure API design, and MLOps best practices—experience that aligns directly with Amazon’s need to secure generative AI pipelines.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My work on the **Multi‑Agent System with MCP** involved creating a Docker‑based architecture where specialized agents accessed financial APIs, performed econometric modeling (GARCH volatility forecasts), and generated reports via GPT‑4. I implemented strict data‑handling policies, encrypted inter‑agent communication, and automated model‑version tracking with MLflow, mitigating risks of data leakage and model poisoning. This project demonstrates my ability to lead secure LLM integrations and enforce prompt‑engineering safeguards.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+In addition, I have extensive hands‑on experience with **prompt injection defenses** and adversarial testing, having built custom FastAPI endpoints that validate and sanitize user prompts before they reach the model. My expertise in **MLOps (Docker, FastAPI, CI/CD with GitHub Actions)** ensures that security controls are embedded from development through production, supporting the strategic direction Amazon seeks for GenAI security.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am motivated to contribute to Amazon’s AGI mission by shaping robust security processes, guiding a diverse engineering team, and collaborating across data‑science and product groups. I would welcome the opportunity to discuss how my technical background and leadership experience can help Amazon maintain trust in its AI services.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
-
-Best regards,
-FLORES ZAMBRANO ERICK
-Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
-adanrivas6655@gmail.com | GitHub: erick007bon
+Thank you for your consideration; I look forward to the possibility of an interview.
