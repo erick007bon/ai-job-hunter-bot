@@ -1,108 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-20 06:50
+# AI JOB HUNTER V3 - Reporte 2026-05-20 15:38
 
-> **Extraidas:** 114 | **Filtradas:** 90 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 360 | **Emails enviados total:** 28
+> **Extraidas:** 111 | **Filtradas:** 82 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 380 | **Emails enviados total:** 28
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: FISH AND WILDLIFE SCIENTIFIC AID @ California State Personnel Board
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=40d743d95c4aa7f8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_FISHANDWILDLIFESCIEN.md
+### [DRAFT - POSTULA MANUALMENTE]: Research Scientist II, Step 1-4 @ University of Alabama in Huntsville
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3443dcbed8c78277
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofAlabamai_ResearchScientistIIS.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: ENVIRONMENTAL SCIENTIST @ California State Personnel Board
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ae3a32828458ce4a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_ENVIRONMENTALSCIENTI.md
+### [DRAFT - POSTULA MANUALMENTE]: Director Client Services @ NoGood
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bb00e1c4e5fd0d41
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NoGood_DirectorClientServic.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Assistant Vice President - Data Analytics – Retirement Division - Remote @ Symetra
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=15e790a7743c2ed0
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Symetra_AssistantVicePreside.md
+### [DRAFT - POSTULA MANUALMENTE]: Analyst - Data Engineering 5A @ Genpact
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=07441c6e23821f2a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_AnalystDataEngineeri.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Combat Systems Technical Writer @ HII
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=88f74d6406a78c3f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_CombatSystemsTechnic.md
+### [DRAFT - POSTULA MANUALMENTE]: Analyst - Data Engineering 5A @ Genpact
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bd5b76c27e503488
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_AnalystDataEngineeri.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Academic Detailer, College of Pharmacy, PhARM Program @ University of Texas at Austin
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e1cfc3a79a703953
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofTexasatA_AcademicDetailerColl.md
+### [DRAFT - POSTULA MANUALMENTE]: Research Associate @ Harvard University
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=01fc34a768742c07
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HarvardUniversity_ResearchAssociate.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Project Manager - Site Installation Readiness - FIELD/TRAVEL @ Siemens Healthineers
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=68d2a734e4c26fd0
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SiemensHealthineers_ProjectManagerSiteIn.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Bentley Systems
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=13fe0136bd9e3a62
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BentleySystems_DataEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Scientist - AI for Power Electronics @ Hitachi Energy
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9d2ba48b7a8a89d7
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HitachiEnergy_ResearchScientistAIf.md
+### [DRAFT - POSTULA MANUALMENTE]: Project Controls Analyst @ AECOM
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=02d66c02580b21b1
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AECOM_ProjectControlsAnaly.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Program Management Technical Specialist – Space Domain Awareness (SDA) @ Arcfield
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=10e7f6624ab4e93d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Arcfield_ProgramManagementTec.md
+### [DRAFT - POSTULA MANUALMENTE]: Engineering Statistics and Data Analytics Manager (M5) - Onsite @ Pratt & Whitney
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=834799cbb1f126d7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrattWhitney_EngineeringStatistic.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Infra Engineer Intern @ Meshy LLC
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cf18d8c4970e9797
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MeshyLLC_DataInfraEngineerInt.md
+### [DRAFT - POSTULA MANUALMENTE]: Solutions Engineer @ Expertshub
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f121b8260088ae35
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Expertshub_SolutionsEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Environmental Scientist (Technician) @ Stantec
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6760e9e1b4766791
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Stantec_EnvironmentalScienti.md
+### [DRAFT - POSTULA MANUALMENTE]: Solutions Engineer @ Expertshub
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d23cfb41778bb85b
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Expertshub_SolutionsEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: INFORMATION TECHNOLOGY SPECIALIST III @ California State Personnel Board
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fcb397ecef60e118
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_INFORMATIONTECHNOLOG.md
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Data & Analytics-Hybrid @ Logix Federal Credit Union
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=05cf79641e1b4aeb
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LogixFederalCreditUn_ManagerDataAnalytics.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: SSP Manager (Programmatic / Monetization) — Commerce Media Network @ TRG US, Corp.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fd35dbc89d479c1d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRGUSCorp_SSPManagerProgrammat.md
+### [DRAFT - POSTULA MANUALMENTE]: Director Oncology Strategy @ Amgen
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1b144f07875667be
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amgen_DirectorOncologyStra.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Ad Exchange Engineer (Backend Engineer — AdTech/ Trading/ RTB Systems) @ TRG US, Corp.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1d5116998de4de80
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRGUSCorp_AdExchangeEngineerBa.md
+### [DRAFT - POSTULA MANUALMENTE]: Academic Research Scientist | School of Medicine - Pediatrics, Leukemia Lymphoma @ Emory University
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=96a83f698bac2618
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EmoryUniversity_AcademicResearchScie.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AIR RESOURCES TECHNICIAN II @ California State Personnel Board
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=89d1ca716dce87ac
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_AIRRESOURCESTECHNICI.md
+### [DRAFT - POSTULA MANUALMENTE]: Material/Supply Coordinator @ Akima
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=54a8103a8e085e66
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Akima_MaterialSupplyCoordi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Healthcare Domain SME @ ClinDCast LLC
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=14a56fa50c7af1bb
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ClinDCastLLC_HealthcareDomainSME.md
+### [DRAFT - POSTULA MANUALMENTE]: Network Engineer - WAN @ Communications Consulitng Group
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2f96034c23221a07
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CommunicationsConsul_NetworkEngineerWAN.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Cloud Database Administrator (DBA)/ETL Engineer @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=98b32025713e041a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_CloudDatabaseAdminis.md
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer, Mobile @ Watts Water Technologies
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=65707e54d71f0d70
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WattsWaterTechnologi_SoftwareEngineerMobi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Geologist – Sr @ Nalley Consulting
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=77ceaba0bbf24b0e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NalleyConsulting_GeologistSr.md
+### [DRAFT - POSTULA MANUALMENTE]: Technical Writer/Editor III @ DirectViz Solutions, LLC
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=00261d2e3b6cb62e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DirectVizSolutionsLL_TechnicalWriterEdito.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Geologist – Mid @ Nalley Consulting
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cd6fc42b4169f7b5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NalleyConsulting_GeologistMid.md
+### [DRAFT - POSTULA MANUALMENTE]: Reprocessing and Sterilization Development Engineer @ Intuitive (Intuitive Surgical)
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=be6d2b6155b54894
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IntuitiveIntuitiveSu_ReprocessingandSteri.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Product Support Specialist @ Censis
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5c1c66a547956d04
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Censis_ProductSupportSpecia.md
+### [DRAFT - POSTULA MANUALMENTE]: Database Engineer @ Chess.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=89d4f32f720c7b3e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Chesscom_DatabaseEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Datacenter Operations @ XTX Markets
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ec181649e366cff2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/XTXMarkets_DatacenterOperations.md
+### [DRAFT - POSTULA MANUALMENTE]: Process Engineer @ FormFactor, Inc.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=02598f1f604943d2
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FormFactorInc_ProcessEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
 
