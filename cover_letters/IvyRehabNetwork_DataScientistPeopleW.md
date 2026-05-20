@@ -1,14 +1,14 @@
-# Cover Letter - Analyst - Data Engineering 5A @ Genpact
+# Cover Letter - Data Scientist, People & Workforce Analytics @ Ivy Rehab Network
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=e339014ef594f24c
+**URL:** https://www.indeed.com/viewjob?jk=dce8a40632666565
 
 ---
 
-Dear Genpact team,
+Dear Ivy Rehab Network team,
 
-I am writing to apply for the Analyst - Data Engineering 5A position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Data Scientist, People & Workforce Analytics position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
