@@ -1,109 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-20 19:16
+# AI JOB HUNTER V3 - Reporte 2026-05-20 23:38
 
-> **Extraidas:** 109 | **Filtradas:** 88 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 400 | **Emails enviados total:** 28
+> **Extraidas:** 104 | **Filtradas:** 70 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 420 | **Emails enviados total:** 29
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Post Doctoral Fellow @ Mass General Brigham
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4ec67caa0d8260d8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MassGeneralBrigham_PostDoctoralFellow.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Chief Engineer @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f2eaf1b974bf61eb
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_AIChiefEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Analyst - Data Engineering 5A @ Genpact
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e339014ef594f24c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_AnalystDataEngineeri.md
+### [DRAFT - POSTULA MANUALMENTE]: Part-time Program Manager (Mgr Programs 3) @ HII
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e93d3f21929c7d3b
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_ParttimeProgramManag.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Wipro
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6987a625d4262d59
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Wipro_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Cartographer @ University of Alabama
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b11310941770a269
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofAlabama_Cartographer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Precision Rangeland Scientist/Research Specialist/ NDSU Dickinson R/ E Center @ North Dakota State College of Science
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=60415566eb5d510d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NorthDakotaStateColl_PrecisionRangelandSc.md
+### [DRAFT - POSTULA MANUALMENTE]: R&D Computer Science Engineer, Autonomous Sensing and Perception - Onsite @ Sandia National Laboratories
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cd165ab018dd94e3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SandiaNationalLabora_RDComputerScienceEng.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, People & Workforce Analytics @ Ivy Rehab Network
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dce8a40632666565
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IvyRehabNetwork_DataScientistPeopleW.md
+### [DRAFT - POSTULA MANUALMENTE]: Cartographer @ University of Alabama
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8847243f099bafae
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofAlabama_Cartographer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Mid-Level Data Scientist @ Embedded Alliance
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=56352452fdac2b60
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EmbeddedAlliance_MidLevelDataScientis.md
+### [DRAFT - POSTULA MANUALMENTE]: Operations Coordinator & Executive Assistant @ Riskified
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c4ccbef5627ff886
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Riskified_OperationsCoordinato.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Product Manager, Spin Fraud @ adswizz
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=789457559a0fc65e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/adswizz_ProductManagerSpinFr.md
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer II Full Stack Developer @ Leonardo DRS
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4fcabd88d1efe0c9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LeonardoDRS_SoftwareEngineerIIFu.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: ENGINEERING GEOLOGIST @ California State Personnel Board
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=335d6b03dfa0e29b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_ENGINEERINGGEOLOGIST.md
+### [DRAFT - POSTULA MANUALMENTE]: Manager, GRC Subject Matter Experts, Product @ Vanta
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dfc7f5f5615d02fd
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vanta_ManagerGRCSubjectMat.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist II - Client Analysis @ Socure
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a1cf00c21318eb74
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Socure_DataScientistIIClien.md
+### [DRAFT - POSTULA MANUALMENTE]: Operations Engineer @ Ameresco
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ad8e4a2977f2e3b0
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Ameresco_OperationsEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist II - Client Analysis @ Socure
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5c8ef0df9e0e31c5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Socure_DataScientistIIClien.md
+### [DRAFT - POSTULA MANUALMENTE]: Associate Distribution Engineer - Open to Recent Engineering Graduates - Pennsylvania @ Orbital Engineering
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f8df1024ab423916
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OrbitalEngineering_AssociateDistributio.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist II - Client Analysis @ Socure
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2d3c90aa78be26e9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Socure_DataScientistIIClien.md
+### [DRAFT - POSTULA MANUALMENTE]: Associate, AI & Automation (Early Career) - Colorado Candidates @ Betsol
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8af8d62619bf1a41
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Betsol_AssociateAIAutomatio.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Academic HR Analyst 2 @ UC Davis
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6460f51298b3023c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UCDavis_AcademicHRAnalyst2.md
+### [DRAFT - POSTULA MANUALMENTE]: Cybersecurity Services Sales Executive @ Rockwell Automation
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c98e598ac7fdd77a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RockwellAutomation_CybersecurityService.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Infrastructure Engineer @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ec7dae0c0b457a5e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_InfrastructureEngine.md
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer @ Edmunds.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7eb0068bed2158fe
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Edmundscom_SoftwareEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior Software Engineer @ Altamira Technologies Corp.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e52132ef7f440e19
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AltamiraTechnologies_JuniorSoftwareEngine.md
+### [DRAFT - POSTULA MANUALMENTE]: Director of AI/ML Engineering Remote Nationwide or Hybrid in MN/DC @ Optum
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2fa3c7b1d64c544d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Optum_DirectorofAIMLEngine.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: GPU Consultant Engineer @ collabora
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a29c07e30a033c60
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/collabora_GPUConsultantEnginee.md
+### [DRAFT - POSTULA MANUALMENTE]: Engineering Intern @ Celonis
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2783c28fa292862f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Celonis_EngineeringIntern.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Regional Sales Manager- Controls @ IMI Plc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=53f17027c3454ee2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IMIPlc_RegionalSalesManager.md
+### [DRAFT - POSTULA MANUALMENTE]: Engineering Intern @ Celonis
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=713ae36a8775933e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Celonis_EngineeringIntern.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Frontend Software Architect - Vault Platform @ Veeva Systems
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=db5df88a58736799
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VeevaSystems_FrontendSoftwareArch.md
-- **Fuente:** Google Jobs (Indeed)
+### [DRAFT - POSTULA MANUALMENTE]: Cientista de Dados Jr. @ PagBank
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/cientista-de-dados-jr-at-pagbank-4416323402/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PagBank_CientistadeDadosJr.md
+- **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Frontend Software Architect - Vault Platform @ Veeva Systems
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f9d16bfd7435af05
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VeevaSystems_FrontendSoftwareArch.md
-- **Fuente:** Google Jobs (Indeed)
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ CHANEL
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-chanel-4394723940/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CHANEL_DataScientist.md
+- **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Frontend Software Architect - Vault Platform @ Veeva Systems
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=669f5a56dcac6e49
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VeevaSystems_FrontendSoftwareArch.md
-- **Fuente:** Google Jobs (Indeed)
+### [EMAIL ENVIADO]: Data Scientist @ eBay
+- **Email enviado a:** talent@ebay.com
+- **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Frontend Software Architect - Vault Platform @ Veeva Systems
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e319ea78d77a8e2b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VeevaSystems_FrontendSoftwareArch.md
-- **Fuente:** Google Jobs (Indeed)
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ H&R Block
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-h-r-block-4408204128/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HRBlock_DataScientist.md
+- **Fuente:** LinkedIn
 
 
 ---
