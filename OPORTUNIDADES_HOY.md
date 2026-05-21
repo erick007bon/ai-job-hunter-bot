@@ -1,109 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-21 06:52
+# AI JOB HUNTER V3 - Reporte 2026-05-21 15:43
 
-> **Extraidas:** 115 | **Filtradas:** 69 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 440 | **Emails enviados total:** 29
+> **Extraidas:** 111 | **Filtradas:** 90 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 460 | **Emails enviados total:** 30
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Pipeline Scientist @ SETI Institute
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=662c535f78c30039
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SETIInstitute_PipelineScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Project Manager, Environmental Engineer, Geologist, or Scientist @ HALEY & ALDRICH
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d6e129a77b26ae4c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HALEYALDRICH_ProjectManagerEnviro.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Billing Coordinator (Remote Optional) @ Transnetyx
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7eef272865887eaa
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Transnetyx_BillingCoordinatorRe.md
+### [EMAIL ENVIADO]: Academic Wage: Research Associate @ Oregon State University
+- **Email enviado a:** erica.fleishman@oregonstate.edu
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist Chief @ SAIC
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=150ff10d17ed6ba9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAIC_DataScientistChief.md
+### [DRAFT - POSTULA MANUALMENTE]: Account Executive - Mid Atlantic U.S | Protein Metrics New @ Dotmatics Ltd.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cc3f573cc272c8b8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DotmaticsLtd_AccountExecutiveMidA.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Library Of Congress
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c5bf8808ab39ad0a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LibraryOfCongress_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Customer Support Associate New @ Dotmatics Ltd.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=35ce707364802165
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DotmaticsLtd_CustomerSupportAssoc.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Clinical Laboratory Scientist - Microbiologist or Generalist @ US Department of Veterans Affairs
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a5fd86b49a7f1691
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USDepartmentofVetera_ClinicalLaboratorySc.md
+### [DRAFT - POSTULA MANUALMENTE]: Platform Engineer @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2337540de426b38e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_PlatformEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Clinical Laboratory Scientist (Ancillary Testing Coordinator) (EDRP Authorized) @ US Department of Veterans Affairs
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c28d0c98e3dcff1a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USDepartmentofVetera_ClinicalLaboratorySc.md
+### [DRAFT - POSTULA MANUALMENTE]: Lab Service Support Specialist @ PerkinElmer
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ba5a2966e81c093c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PerkinElmer_LabServiceSupportSpe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Clinical Laboratory Scientist (Medical Technologist) @ Federal Bureau of Prisons
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9870d6fb8fbefc16
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FederalBureauofPriso_ClinicalLaboratorySc.md
+### [DRAFT - POSTULA MANUALMENTE]: Lab Service Support Specialist @ PerkinElmer
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8edd31d7edb6a89c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PerkinElmer_LabServiceSupportSpe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Director, Digital Product Manager, Analytical Services @ Thermo Fisher Scientific
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ac4a1cae9d0de44a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThermoFisherScientif_DirectorDigitalProdu.md
+### [DRAFT - POSTULA MANUALMENTE]: Sales Development Representative (SDR) @ BIDGELY INC.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cc214133c859101e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BIDGELYINC_SalesDevelopmentRepr.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Director, Digital Product Manager, Analytical Services @ Thermo Fisher Scientific
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=20b3c3239b85d783
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThermoFisherScientif_DirectorDigitalProdu.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ WellBe Senior Medical
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9f1be584fe969665
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WellBeSeniorMedical_DataEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: INFORMATION TECHNOLOGY MANAGER I @ California State Personnel Board
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bdcc7216686f2a9f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_INFORMATIONTECHNOLOG.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist II @ Auto Club of Southern Calif
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dd16e3f742af8fc7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AutoClubofSouthernCa_DataScientistII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Helix @ BMC Software
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a29ed70508957358
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BMCSoftware_Helix.md
+### [DRAFT - POSTULA MANUALMENTE]: Sell Side - Account Executive @ Daloopa, Inc.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=26be84a3b56e9963
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DaloopaInc_SellSideAccountExecu.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ ComponentWise Solutions, Inc.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=46e8688f1ca57fa1
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ComponentWiseSolutio_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Infrastructure Engineer - Field Systems Support @ Electrosoft
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=12cdb1cf0e76cd10
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Electrosoft_InfrastructureEngine.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer, Identity @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f304cbfeb7610c4f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_SoftwareEngineerIden.md
+### [DRAFT - POSTULA MANUALMENTE]: Solutions Engineer - NetApp @ MarketStar
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3c1bfbb7f94e01c0
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MarketStar_SolutionsEngineerNet.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer, Data @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2012247f8b3bd8a7
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_SoftwareEngineerData.md
+### [DRAFT - POSTULA MANUALMENTE]: Customer Support (Pacific Time) @ Circle.so
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b0c9f4015a140257
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Circleso_CustomerSupportPacif.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Electronics Design Engineer @ CNH Industrial
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=eb2c5938340545d1
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CNHIndustrial_ElectronicsDesignEng.md
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Chicago, IL - US) @ Energy Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c37a556b40df2030
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Python GenAI with GCP @ KPMG India
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/python-genai-with-gcp-at-kpmg-india-4417069316/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KPMGIndia_PythonGenAIwithGCP.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (New York, NY - US) @ Energy Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d63d107953daabed
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ L&T Technology Services
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-l-t-technology-services-4416337141/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LTTechnologyServices_AIMLEngineer.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Portland, OR - US) @ Energy Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=80f73b59852221a9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (Hyderabad, India) @ Kline + Company
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-hyderabad-india-at-kline-%2B-company-4417357812/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KlineCompany_DataScientistHyderab.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Oakland, CA - US) @ Energy Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6eaf6149eacdb6a0
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer I @ CNN
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-cnn-4417399632/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CNN_MachineLearningEngin.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Orange, CA - US) @ Energy Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a272e745dddc0b21
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Timescapes
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-timescapes-4417414932/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Timescapes_MachineLearningEngin.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Boston, MA - US) @ Energy Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9ca93c66ff91b8d4
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+- **Fuente:** Google Jobs (Indeed)
 
 
 ---
