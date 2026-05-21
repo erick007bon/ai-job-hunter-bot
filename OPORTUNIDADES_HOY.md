@@ -1,107 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-21 15:43
+# AI JOB HUNTER V3 - Reporte 2026-05-21 18:55
 
-> **Extraidas:** 111 | **Filtradas:** 90 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 460 | **Emails enviados total:** 30
+> **Extraidas:** 112 | **Filtradas:** 84 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 480 | **Emails enviados total:** 30
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Project Manager, Environmental Engineer, Geologist, or Scientist @ HALEY & ALDRICH
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d6e129a77b26ae4c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HALEYALDRICH_ProjectManagerEnviro.md
+### [DRAFT - POSTULA MANUALMENTE]: Instructor, Chemistry - 1 year assignment @ Lincoln Land Community College
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=abe9b69f7322bae9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LincolnLandCommunity_InstructorChemistry1.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [EMAIL ENVIADO]: Academic Wage: Research Associate @ Oregon State University
-- **Email enviado a:** erica.fleishman@oregonstate.edu
+### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=39e6cd2e1e8d7316
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Account Executive - Mid Atlantic U.S | Protein Metrics New @ Dotmatics Ltd.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cc3f573cc272c8b8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DotmaticsLtd_AccountExecutiveMidA.md
+### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=91b715522c77e303
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Customer Support Associate New @ Dotmatics Ltd.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=35ce707364802165
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DotmaticsLtd_CustomerSupportAssoc.md
+### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ec8bfe4c87f7845d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Platform Engineer @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2337540de426b38e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_PlatformEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c4c9cadcb9278811
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Lab Service Support Specialist @ PerkinElmer
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ba5a2966e81c093c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PerkinElmer_LabServiceSupportSpe.md
+### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c3d0e38084e88e1f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Lab Service Support Specialist @ PerkinElmer
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8edd31d7edb6a89c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PerkinElmer_LabServiceSupportSpe.md
+### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3b936a6b844183b2
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Sales Development Representative (SDR) @ BIDGELY INC.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cc214133c859101e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BIDGELYINC_SalesDevelopmentRepr.md
+### [DRAFT - POSTULA MANUALMENTE]: Research Assistant I, Trauma Imaging, Radiology @ Mass General Brigham
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8f39a5182e88e39b
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MassGeneralBrigham_ResearchAssistantITr.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ WellBe Senior Medical
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9f1be584fe969665
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WellBeSeniorMedical_DataEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Clinical Research Coordinator @ The General Hospital Corporation
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c7e1cfa1a9515226
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheGeneralHospitalCo_ClinicalResearchCoor.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist II @ Auto Club of Southern Calif
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dd16e3f742af8fc7
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AutoClubofSouthernCa_DataScientistII.md
+### [DRAFT - POSTULA MANUALMENTE]: Environmental Project Manager @ Onterris
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6e518dbff313684f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Onterris_EnvironmentalProject.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Sell Side - Account Executive @ Daloopa, Inc.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=26be84a3b56e9963
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DaloopaInc_SellSideAccountExecu.md
+### [DRAFT - POSTULA MANUALMENTE]: Process Development Scientist @ Orano
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=16c1bf5f70ed3c85
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Orano_ProcessDevelopmentSc.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Infrastructure Engineer - Field Systems Support @ Electrosoft
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=12cdb1cf0e76cd10
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Electrosoft_InfrastructureEngine.md
+### [DRAFT - POSTULA MANUALMENTE]: Quality Scientist @ Orano
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=88e093b6cc220f45
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Orano_QualityScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Solutions Engineer - NetApp @ MarketStar
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3c1bfbb7f94e01c0
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MarketStar_SolutionsEngineerNet.md
+### [DRAFT - POSTULA MANUALMENTE]: Power Systems Study Engineer III @ DLB Associates
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6c668a5040c83e9a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DLBAssociates_PowerSystemsStudyEng.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Customer Support (Pacific Time) @ Circle.so
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b0c9f4015a140257
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Circleso_CustomerSupportPacif.md
+### [DRAFT - POSTULA MANUALMENTE]: INFORMATION TECHNOLOGY SPECIALIST II @ California State Personnel Board
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2521221b0a4f471f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_INFORMATIONTECHNOLOG.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Chicago, IL - US) @ Energy Solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c37a556b40df2030
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+### [DRAFT - POSTULA MANUALMENTE]: Computer Vision & 3D Perception Researcher @ Percept AI
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1ee543531e2dc84a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PerceptAI_ComputerVision3DPerc.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (New York, NY - US) @ Energy Solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d63d107953daabed
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+### [DRAFT - POSTULA MANUALMENTE]: Mechanical Engineer II @ DLB Associates
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f2162a576e591e54
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DLBAssociates_MechanicalEngineerII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Portland, OR - US) @ Energy Solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=80f73b59852221a9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+### [DRAFT - POSTULA MANUALMENTE]: Network Engineer @ Command Cyber Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4ef9662b4946e50a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CommandCyberSolution_NetworkEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Oakland, CA - US) @ Energy Solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6eaf6149eacdb6a0
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+### [DRAFT - POSTULA MANUALMENTE]: Program Manager @ VivSoft technologies
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=69e938759aee3e53
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VivSofttechnologies_ProgramManager.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Orange, CA - US) @ Energy Solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a272e745dddc0b21
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+### [DRAFT - POSTULA MANUALMENTE]: Electrical Associate Director @ DLB Associates
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5e372aca04a7564c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DLBAssociates_ElectricalAssociateD.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Manager, Software Project Management (Boston, MA - US) @ Energy Solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9ca93c66ff91b8d4
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md
+### [DRAFT - POSTULA MANUALMENTE]: Process Engineer @ FLSmidth
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7c148a5d12fd11d8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FLSmidth_ProcessEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
 
