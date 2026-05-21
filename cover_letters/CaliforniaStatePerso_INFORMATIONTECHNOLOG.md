@@ -1,22 +1,19 @@
-# Cover Letter - INFORMATION TECHNOLOGY SPECIALIST III @ California State Personnel Board
+# Cover Letter - INFORMATION TECHNOLOGY MANAGER I @ California State Personnel Board
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=fcb397ecef60e118
+**URL:** https://www.indeed.com/viewjob?jk=bdcc7216686f2a9f
 
 ---
 
 Dear California State Personnel Board team,
 
-I am writing to apply for the Information Technology Specialist III (Enterprise Architect) position at the Office of Energy Infrastructure Safety. My background in data science, AI, and software engineering aligns well with the cloud and application architecture responsibilities described.
+I am writing to apply for the Information Technology Manager I position at the Public Employees Retirement System. With a dual background in Economics and Data Science, I bring a unique combination of analytical rigor and systems engineering experience to lead your Systems Engineering team.
 
-I bring hands-on experience in cloud engineering—deploying machine learning models with Docker, FastAPI, and MLflow, and building production-grade APIs with automated CI/CD. Additionally, I have designed multi-agent systems using the Model Context Protocol (MCP) to orchestrate specialized agents for data extraction, analysis, and reporting. This demonstrates my ability to architect scalable, secure solutions, which I understand is a core need for Energy Safety’s enterprise web platforms.
+Over the past years, I have built and deployed end-to-end machine learning architectures—from Docker-based FastAPI services to distributed multi-agent systems using the Model Context Protocol (MCP). For example, I designed a multi-agent platform that orchestrates financial data scraping, econometric analysis (GARCH volatility models), and LLM-driven report generation. This project required integrating Linux containers, cloud APIs, and real-time performance monitoring—skills directly applicable to managing your infrastructure stack, including virtualization, backups, and disaster recovery.
 
-One relevant project is my **Multi-Agent MCP System** for financial analysis: it integrates real-time data scraping, econometric modeling (GARCH), and LLM-based report generation—all containerized and served via FastAPI. This reflects my capability to lead application development and implement cloud governance.
+Additionally, I have supervised technical projects involving SQL optimization, Power BI dashboard automation, and CI/CD pipelines (GitHub Actions, pytest). My experience translating business needs into scalable technical solutions aligns well with your need to align IT strategies with organizational goals while mentoring staff and managing workloads.
 
-I am motivated by the opportunity to apply my technical skills to support California’s energy infrastructure safety. My proficiency in Power BI and SQL also adds value for business technology management and data-driven decisions.
+I am genuinely motivated by the opportunity to apply my systems engineering and leadership capabilities to support California’s public employees. I am confident I can drive both team performance and system reliability in your fast-paced environment.
 
-I invite you to review my portfolio on GitHub for further details. I am available for an interview to discuss how my experience can contribute to your team.
-
-Sincerely,  
-Erick Flores Zambrano
+I welcome the chance to discuss how my background fits this role. Please let me know when we can schedule an interview.
