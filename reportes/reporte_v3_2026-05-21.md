@@ -1,108 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-21 18:55
+# AI JOB HUNTER V3 - Reporte 2026-05-21 23:08
 
-> **Extraidas:** 112 | **Filtradas:** 84 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 480 | **Emails enviados total:** 30
+> **Extraidas:** 113 | **Filtradas:** 89 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 500 | **Emails enviados total:** 30
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Instructor, Chemistry - 1 year assignment @ Lincoln Land Community College
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=abe9b69f7322bae9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LincolnLandCommunity_InstructorChemistry1.md
+### [DRAFT - POSTULA MANUALMENTE]: Scientific Program Manager @ GAP Solutions, Inc.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b690a11f81fdaad8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GAPSolutionsInc_ScientificProgramMan.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=39e6cd2e1e8d7316
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer III @ University of Utah
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f062e7787882a50b
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofUtah_DataEngineerIII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=91b715522c77e303
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
+### [DRAFT - POSTULA MANUALMENTE]: SCIENTIST I @ University of Alabama, Birmingham
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=164d7af723744d04
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofAlabamaB_SCIENTISTI.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ec8bfe4c87f7845d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (Remote - US) @ Allstate Insurance
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=26f03078be278563
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AllstateInsurance_DataScientistRemoteU.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c4c9cadcb9278811
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Stack Developer @ KeyLogic Systems
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=68df9d27dfd3cae2
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KeyLogicSystems_FullStackDeveloper.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c3d0e38084e88e1f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
+### [DRAFT - POSTULA MANUALMENTE]: Principle Engineer -In Bayesian, Large Foundational Systems, and Distributional Reinforcement Learning @ Airbnb
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1665a53cdb4a47d6
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Airbnb_PrincipleEngineerInB.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: National Account Director, Business Development — RWE/Pharma (Remote US) @ Genomenon
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3b936a6b844183b2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genomenon_NationalAccountDirec.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b7435ef03b93f97d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Assistant I, Trauma Imaging, Radiology @ Mass General Brigham
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8f39a5182e88e39b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MassGeneralBrigham_ResearchAssistantITr.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=44e76729fcf0a61d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Clinical Research Coordinator @ The General Hospital Corporation
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c7e1cfa1a9515226
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheGeneralHospitalCo_ClinicalResearchCoor.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d2f159c380e03846
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Environmental Project Manager @ Onterris
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6e518dbff313684f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Onterris_EnvironmentalProject.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fb354a42e4e4269a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Process Development Scientist @ Orano
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=16c1bf5f70ed3c85
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Orano_ProcessDevelopmentSc.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b905923f4172aca7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Quality Scientist @ Orano
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=88e093b6cc220f45
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Orano_QualityScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1fe425228b9a4787
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Power Systems Study Engineer III @ DLB Associates
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6c668a5040c83e9a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DLBAssociates_PowerSystemsStudyEng.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4ba0957171fe97f2
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: INFORMATION TECHNOLOGY SPECIALIST II @ California State Personnel Board
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2521221b0a4f471f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaStatePerso_INFORMATIONTECHNOLOG.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Time Call Center Representative @ TRANZACT
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2c0bc36be26ed055
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TRANZACT_FullTimeCallCenterRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Computer Vision & 3D Perception Researcher @ Percept AI
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1ee543531e2dc84a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PerceptAI_ComputerVision3DPerc.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Center Project Manager - Electrical @ Flexential
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5afb3b87e9f65a45
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Flexential_DataCenterProjectMan.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Mechanical Engineer II @ DLB Associates
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f2162a576e591e54
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DLBAssociates_MechanicalEngineerII.md
+### [DRAFT - POSTULA MANUALMENTE]: OT Network Engineer @ AES Corporation
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e58e2cd184d221ba
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AESCorporation_OTNetworkEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Network Engineer @ Command Cyber Solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4ef9662b4946e50a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CommandCyberSolution_NetworkEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: OT Network Engineer @ AES Corporation
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=340d41c76e3eefc4
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AESCorporation_OTNetworkEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Program Manager @ VivSoft technologies
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=69e938759aee3e53
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VivSofttechnologies_ProgramManager.md
+### [DRAFT - POSTULA MANUALMENTE]: OT Network Engineer @ AES Corporation
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=be73e55842b638ee
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AESCorporation_OTNetworkEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Electrical Associate Director @ DLB Associates
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5e372aca04a7564c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DLBAssociates_ElectricalAssociateD.md
+### [DRAFT - POSTULA MANUALMENTE]: OT Network Engineer @ AES Corporation
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8a6c11e7bf380f53
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AESCorporation_OTNetworkEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Process Engineer @ FLSmidth
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7c148a5d12fd11d8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FLSmidth_ProcessEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer @ Advanced RF Technologies, Inc. (ADRF)
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a1da38470ec44a48
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AdvancedRFTechnologi_SoftwareEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
 
