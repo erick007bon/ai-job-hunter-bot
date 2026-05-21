@@ -4399,6 +4399,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Timescapes_MachineLearningEngin.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:39:49.023941",
+      "url": "https://www.indeed.com/viewjob?jk=d6e129a77b26ae4c",
+      "title": "Project Manager, Environmental Engineer, Geologist, or Scientist",
+      "company": "HALEY & ALDRICH",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HALEYALDRICH_ProjectManagerEnviro.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:40:02.788333",
+      "url": "https://www.indeed.com/viewjob?jk=6acfffdd1f0bb361",
+      "title": "Academic Wage: Research Associate",
+      "company": "Oregon State University",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": "erica.fleishman@oregonstate.edu",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OregonStateUniversit_AcademicWageResearch.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-21 15:40:23.458529",
+      "url": "https://www.indeed.com/viewjob?jk=cc3f573cc272c8b8",
+      "title": "Account Executive - Mid Atlantic U.S | Protein Metrics New",
+      "company": "Dotmatics Ltd.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DotmaticsLtd_AccountExecutiveMidA.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:40:36.685121",
+      "url": "https://www.indeed.com/viewjob?jk=35ce707364802165",
+      "title": "Customer Support Associate New",
+      "company": "Dotmatics Ltd.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DotmaticsLtd_CustomerSupportAssoc.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:40:59.256506",
+      "url": "https://www.indeed.com/viewjob?jk=2337540de426b38e",
+      "title": "Platform Engineer",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_PlatformEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:41:11.931742",
+      "url": "https://www.indeed.com/viewjob?jk=ba5a2966e81c093c",
+      "title": "Lab Service Support Specialist",
+      "company": "PerkinElmer",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PerkinElmer_LabServiceSupportSpe.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:41:12.509603",
+      "url": "https://www.indeed.com/viewjob?jk=8edd31d7edb6a89c",
+      "title": "Lab Service Support Specialist",
+      "company": "PerkinElmer",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PerkinElmer_LabServiceSupportSpe.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:41:25.326075",
+      "url": "https://www.indeed.com/viewjob?jk=cc214133c859101e",
+      "title": "Sales Development Representative (SDR)",
+      "company": "BIDGELY INC.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BIDGELYINC_SalesDevelopmentRepr.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:41:26.018543",
+      "url": "https://www.indeed.com/viewjob?jk=9f1be584fe969665",
+      "title": "Data Engineer",
+      "company": "WellBe Senior Medical",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WellBeSeniorMedical_DataEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:42:07.312631",
+      "url": "https://www.indeed.com/viewjob?jk=dd16e3f742af8fc7",
+      "title": "Data Scientist II",
+      "company": "Auto Club of Southern Calif",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AutoClubofSouthernCa_DataScientistII.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:42:22.037846",
+      "url": "https://www.indeed.com/viewjob?jk=26be84a3b56e9963",
+      "title": "Sell Side - Account Executive",
+      "company": "Daloopa, Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DaloopaInc_SellSideAccountExecu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:42:22.749531",
+      "url": "https://www.indeed.com/viewjob?jk=12cdb1cf0e76cd10",
+      "title": "Infrastructure Engineer - Field Systems Support",
+      "company": "Electrosoft",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Electrosoft_InfrastructureEngine.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:42:23.341804",
+      "url": "https://www.indeed.com/viewjob?jk=3c1bfbb7f94e01c0",
+      "title": "Solutions Engineer - NetApp",
+      "company": "MarketStar",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MarketStar_SolutionsEngineerNet.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:42:24.080201",
+      "url": "https://www.indeed.com/viewjob?jk=b0c9f4015a140257",
+      "title": "Customer Support (Pacific Time)",
+      "company": "Circle.so",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Circleso_CustomerSupportPacif.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:42:44.539833",
+      "url": "https://www.indeed.com/viewjob?jk=c37a556b40df2030",
+      "title": "Manager, Software Project Management (Chicago, IL - US)",
+      "company": "Energy Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:42:45.551052",
+      "url": "https://www.indeed.com/viewjob?jk=d63d107953daabed",
+      "title": "Manager, Software Project Management (New York, NY - US)",
+      "company": "Energy Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:42:46.809615",
+      "url": "https://www.indeed.com/viewjob?jk=80f73b59852221a9",
+      "title": "Manager, Software Project Management (Portland, OR - US)",
+      "company": "Energy Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:43:05.230443",
+      "url": "https://www.indeed.com/viewjob?jk=6eaf6149eacdb6a0",
+      "title": "Manager, Software Project Management (Oakland, CA - US)",
+      "company": "Energy Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:43:28.686322",
+      "url": "https://www.indeed.com/viewjob?jk=a272e745dddc0b21",
+      "title": "Manager, Software Project Management (Orange, CA - US)",
+      "company": "Energy Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-21 15:43:30.285012",
+      "url": "https://www.indeed.com/viewjob?jk=9ca93c66ff91b8d4",
+      "title": "Manager, Software Project Management (Boston, MA - US)",
+      "company": "Energy Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EnergySolutions_ManagerSoftwareProje.md",
+      "status": "draft"
     }
   ]
 }
