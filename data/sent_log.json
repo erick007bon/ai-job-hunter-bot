@@ -5199,6 +5199,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RobertsonCompanyLtd_DataScientist.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:49:37.358883",
+      "url": "https://www.indeed.com/viewjob?jk=0d726a68e31aceaf",
+      "title": "Data Analyst",
+      "company": "Rutgers University",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RutgersUniversity_DataAnalyst.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:49:38.873077",
+      "url": "https://www.indeed.com/viewjob?jk=451ab51810982001",
+      "title": "Environmental Scientists and Engineers - Site Assessments and Remediation",
+      "company": "terra environmental",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/terraenvironmental_EnvironmentalScienti.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:49:43.635904",
+      "url": "https://www.indeed.com/viewjob?jk=5fd350287e3cae98",
+      "title": "Director, AI/ML Applied Science - Remote",
+      "company": "Optum",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Optum_DirectorAIMLAppliedS.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:49:45.001322",
+      "url": "https://www.indeed.com/viewjob?jk=6a08e1a48501f481",
+      "title": "Materials Management Engineer II",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_MaterialsManagementE.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:49:58.339952",
+      "url": "https://www.indeed.com/viewjob?jk=56cc86228a6699a7",
+      "title": "Associate Project Engineer, Electric Transmission Line",
+      "company": "Pacific Gas and Electric",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PacificGasandElectri_AssociateProjectEngi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:50:23.622933",
+      "url": "https://www.indeed.com/viewjob?jk=ef74aa72177fc02f",
+      "title": "Clinical/Medical Lab Scientist",
+      "company": "Ochsner Health",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OchsnerHealth_ClinicalMedicalLabSc.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:50:25.184592",
+      "url": "https://www.indeed.com/viewjob?jk=4eedea720bd23228",
+      "title": "Data Engineer III",
+      "company": "University of Utah",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofUtah_DataEngineerIII.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:50:26.550438",
+      "url": "https://www.indeed.com/viewjob?jk=4c2cb1a79a923cf4",
+      "title": "Data Scientist",
+      "company": "Banner Life Family of Companies",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BannerLifeFamilyofCo_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:50:39.993698",
+      "url": "https://www.indeed.com/viewjob?jk=39cd0d623d55ebb6",
+      "title": "Environmental Engineer/Scientist/Geologist",
+      "company": "GEI Consultants",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GEIConsultants_EnvironmentalEnginee.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:50:53.356220",
+      "url": "https://www.indeed.com/viewjob?jk=31ce07c7e063df8c",
+      "title": "Environmental Engineer/Scientist/Geologist",
+      "company": "GEI Consultants",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GEIConsultants_EnvironmentalEnginee.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:51:23.039542",
+      "url": "https://www.indeed.com/viewjob?jk=db0e2e3b62b6daee",
+      "title": "Departmental Specialist 14 - Data Scientist Subject Matter Expert - MDHHS OIG",
+      "company": "State of Michigan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofMichigan_DepartmentalSpeciali.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:51:36.201477",
+      "url": "https://www.indeed.com/viewjob?jk=50c9b2badc5e233f",
+      "title": "Data Analyst - Surgical Oncology Research",
+      "company": "MD Anderson Cancer Center",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDAndersonCancerCent_DataAnalystSurgicalO.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:51:49.465128",
+      "url": "https://www.indeed.com/viewjob?jk=a1ba0cdad06ba2a8",
+      "title": "Research Technologist - Life Sciences – Advanced Professional",
+      "company": "Penn State University",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PennStateUniversity_ResearchTechnologist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:51:50.276082",
+      "url": "https://www.indeed.com/viewjob?jk=4d52be385bcf4b30",
+      "title": "Industrial Engineer",
+      "company": "Martin Brower",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MartinBrower_IndustrialEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:52:03.470325",
+      "url": "https://www.indeed.com/viewjob?jk=df0a852ec16cdd06",
+      "title": "Commissioning Field Manager I - Fort Wayne, IN",
+      "company": "DLB Associates",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DLBAssociates_CommissioningFieldMa.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:52:04.467704",
+      "url": "https://www.indeed.com/viewjob?jk=12ab827d8ab52c62",
+      "title": "Identity Management Engineer",
+      "company": "General Dynamics Information Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneralDynamicsInfor_IdentityManagementEn.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:52:06.202015",
+      "url": "https://www.indeed.com/viewjob?jk=0d4e12a663e37d98",
+      "title": "Engineer II",
+      "company": "Chitra Productions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ChitraProductions_EngineerII.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:52:19.630738",
+      "url": "https://www.indeed.com/viewjob?jk=04c4ab5f59fe78e5",
+      "title": "Engineer I",
+      "company": "Chitra Productions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ChitraProductions_EngineerI.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:52:20.606324",
+      "url": "https://www.indeed.com/viewjob?jk=441f7b000baf613d",
+      "title": "Project Engineer, Utility",
+      "company": "AES Corporation",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AESCorporation_ProjectEngineerUtili.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-22 14:52:22.038425",
+      "url": "https://www.indeed.com/viewjob?jk=aacdbc995b9e9946",
+      "title": "Project Engineer, Utility",
+      "company": "AES Corporation",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AESCorporation_ProjectEngineerUtili.md",
+      "status": "draft"
     }
   ]
 }
