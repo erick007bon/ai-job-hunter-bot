@@ -1,108 +1,109 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-22 06:48
+# AI JOB HUNTER V3 - Reporte 2026-05-22 14:52
 
-> **Extraidas:** 113 | **Filtradas:** 68 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 520 | **Emails enviados total:** 31
+> **Extraidas:** 117 | **Filtradas:** 89 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 540 | **Emails enviados total:** 31
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Environmental Scientist I/II/III - AGSC @ Ahtna, Incorporated
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c5c079368158985a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AhtnaIncorporated_EnvironmentalScienti.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Analyst @ Rutgers University
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0d726a68e31aceaf
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RutgersUniversity_DataAnalyst.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Temporary Regulated Research Support Specialist @ Cornell University
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bfce22ad7e98fa14
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CornellUniversity_TemporaryRegulatedRe.md
+### [DRAFT - POSTULA MANUALMENTE]: Environmental Scientists and Engineers - Site Assessments and Remediation @ terra environmental
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=451ab51810982001
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/terraenvironmental_EnvironmentalScienti.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Clinical Laboratory Scientist @ US Department of Veterans Affairs
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a330536e9f1aa857
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USDepartmentofVetera_ClinicalLaboratorySc.md
+### [DRAFT - POSTULA MANUALMENTE]: Director, AI/ML Applied Science - Remote @ Optum
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5fd350287e3cae98
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Optum_DirectorAIMLAppliedS.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Environmental Protection Specialist - Technical Career Field (TCF) Trainee @ US Department of Veterans Affairs
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cf7061663efbebf5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USDepartmentofVetera_EnvironmentalProtect.md
+### [DRAFT - POSTULA MANUALMENTE]: Materials Management Engineer II @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6a08e1a48501f481
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_MaterialsManagementE.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: GEOINT SAR Analyst @ Etegent Technologies, LTD
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a64dba3a7c9fb91b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EtegentTechnologiesL_GEOINTSARAnalyst.md
+### [DRAFT - POSTULA MANUALMENTE]: Associate Project Engineer, Electric Transmission Line @ Pacific Gas and Electric
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=56cc86228a6699a7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PacificGasandElectri_AssociateProjectEngi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer (TS/SCI with Poly) @ Solerity
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=05f2f4271dbad959
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Solerity_SoftwareEngineerTSSC.md
+### [DRAFT - POSTULA MANUALMENTE]: Clinical/Medical Lab Scientist @ Ochsner Health
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ef74aa72177fc02f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OchsnerHealth_ClinicalMedicalLabSc.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Health Science Research Intern @ oura
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=df4d34f224438779
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/oura_HealthScienceResearc.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer III @ University of Utah
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4eedea720bd23228
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofUtah_DataEngineerIII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Digital Product Manager, Strategy and Innovation @ Amgen
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ae85e33f9af1d672
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amgen_DigitalProductManage.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Banner Life Family of Companies
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4c2cb1a79a923cf4
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BannerLifeFamilyofCo_DataScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [EMAIL ENVIADO]: Academic Wage: Research Associate (Hydroclimate & Fire Weather) @ Oregon State University
-- **Email enviado a:** erica.fleishman@oregonstate.edu
+### [DRAFT - POSTULA MANUALMENTE]: Environmental Engineer/Scientist/Geologist @ GEI Consultants
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=39cd0d623d55ebb6
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GEIConsultants_EnvironmentalEnginee.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Site Reliability Engineering Manager New @ RapidSOS
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d2f685502f1100b4
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RapidSOS_SiteReliabilityEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Environmental Engineer/Scientist/Geologist @ GEI Consultants
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=31ce07c7e063df8c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GEIConsultants_EnvironmentalEnginee.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Cloud Network Engineer @ CCS Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8160c73ce3917242
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CCSInc_CloudNetworkEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Departmental Specialist 14 - Data Scientist Subject Matter Expert - MDHHS OIG @ State of Michigan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=db0e2e3b62b6daee
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofMichigan_DepartmentalSpeciali.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Infrastructure Architect @ MANTECH
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=65436214ae2c0e4b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MANTECH_AIInfrastructureArch.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Analyst - Surgical Oncology Research @ MD Anderson Cancer Center
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=50c9b2badc5e233f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDAndersonCancerCent_DataAnalystSurgicalO.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS) @ TikTok
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=832cb3903d499a9c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TikTok_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Research Technologist - Life Sciences – Advanced Professional @ Penn State University
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a1ba0cdad06ba2a8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PennStateUniversity_ResearchTechnologist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer II @ Pearson
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d6dacb1e11466839
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pearson_SoftwareEngineerII.md
+### [DRAFT - POSTULA MANUALMENTE]: Industrial Engineer @ Martin Brower
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4d52be385bcf4b30
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MartinBrower_IndustrialEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Cientista de Dados I (GenAI) - Performance Comercial @ Omie
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/cientista-de-dados-i-genai-performance-comercial-at-omie-4418009831/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Omie_CientistadeDadosIGen.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Commissioning Field Manager I - Fort Wayne, IN @ DLB Associates
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=df0a852ec16cdd06
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DLBAssociates_CommissioningFieldMa.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior Data Scientist @ Joinrs
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-joinrs-4416099353/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Joinrs_JuniorDataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Identity Management Engineer @ General Dynamics Information Technology
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=12ab827d8ab52c62
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneralDynamicsInfor_IdentityManagementEn.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Citi
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-citi-4314037805/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Citi_DataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Engineer II @ Chitra Productions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0d4e12a663e37d98
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ChitraProductions_EngineerII.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ The HEINEKEN Company
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-the-heineken-company-4417715117/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheHEINEKENCompany_DataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Engineer I @ Chitra Productions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=04c4ab5f59fe78e5
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ChitraProductions_EngineerI.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Associate Data Scientist @ Yext
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/associate-data-scientist-at-yext-4416705341/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Yext_AssociateDataScienti.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Project Engineer, Utility @ AES Corporation
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=441f7b000baf613d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AESCorporation_ProjectEngineerUtili.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Robertson & Company Ltd.
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-robertson-company-ltd-4416712110/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RobertsonCompanyLtd_DataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Project Engineer, Utility @ AES Corporation
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=aacdbc995b9e9946
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AESCorporation_ProjectEngineerUtili.md
+- **Fuente:** Google Jobs (Indeed)
 
 
 ---
