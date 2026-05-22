@@ -1,24 +1,20 @@
-# Cover Letter - Academic Wage: Research Associate @ Oregon State University
+# Cover Letter - Academic Wage: Research Associate (Hydroclimate & Fire Weather) @ Oregon State University
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** erica.fleishman@oregonstate.edu
 
-**URL:** https://www.indeed.com/viewjob?jk=6acfffdd1f0bb361
+**URL:** https://www.indeed.com/viewjob?jk=d3c6e7d621267366
 
 ---
 
 Dear Oregon State University team,
 
-I am writing to apply for the Academic Wage: Research Associate position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Research Associate position in Hydroclimate and Fire Weather at the Oregon Climate Change Research Institute. With a dual background in Economics and Data Science, I have strong econometric and machine learning skills that align with the role’s focus on predictive modeling and analysis of climate observations.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My experience includes applying time-series econometrics (ARIMA, GARCH) and deep learning (LSTM) to forecast financial and environmental time series. For example, I developed a deep learning trading system that achieved 68% directional accuracy on S&P 500 data – a methodology transferable to hydroclimate forecasting. I also deploy machine learning models in production (Docker, FastAPI, MLflow) and create interactive dashboards (Power BI) to communicate complex data to diverse stakeholders.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+I am motivated to contribute to OCCRI’s mission of using data-driven approaches to understand and anticipate hydroclimate and fire weather changes. My skills in predictive modeling, data engineering, and visualization will support your work with observations and machine learning models.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I would welcome the opportunity to discuss how my background can benefit your team. Please feel free to contact me at your convenience.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
-
-Best regards,
-FLORES ZAMBRANO ERICK
-Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
-adanrivas6655@gmail.com | GitHub: erick007bon
+Sincerely,
+Flores Zambrano Erick

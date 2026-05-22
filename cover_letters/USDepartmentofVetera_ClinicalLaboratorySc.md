@@ -1,24 +1,20 @@
-# Cover Letter - Clinical Laboratory Scientist (Ancillary Testing Coordinator) (EDRP Authorized) @ US Department of Veterans Affairs
+# Cover Letter - Clinical Laboratory Scientist @ US Department of Veterans Affairs
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=c28d0c98e3dcff1a
+**URL:** https://www.indeed.com/viewjob?jk=a330536e9f1aa857
 
 ---
 
-Dear US Department of Veterans Affairs team,
+Dear US Department of Veterans Affairs Team,
 
-I am writing to apply for the Clinical Laboratory Scientist (Ancillary Testing Coordinator) (EDRP Authorized) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Clinical Laboratory Scientist position with the highest priority. With a strong background in data science and AI, particularly in financial analysis and predictive modeling, I am confident in my ability to contribute to your mission of delivering high-quality, insightful laboratory services.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My expertise spans machine learning, econometrics, and advanced analytics, allowing me to design and implement robust data-driven solutions that enhance operational efficiency. I have developed predictive models using Python libraries like scikit-learn and PyTorch, and am experienced in deploying models via FastAPI and MLflow. Additionally, my work with multi-agent systems and API integrations aligns well with your requirement for intelligent automation and scalable architectures.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+I am particularly drawn to this role due to its emphasis on innovation and precision—values that resonate deeply with my professional approach. My background in handling complex datasets and delivering actionable insights has prepared me to support your laboratory’s objectives.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I would welcome the opportunity to discuss how my skills and projects can contribute to your team. Please feel free to contact me at your convenience.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
-
-Best regards,
-FLORES ZAMBRANO ERICK
-Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
-adanrivas6655@gmail.com | GitHub: erick007bon
+Sincerely,  
+Flosz Zambrano Erick
