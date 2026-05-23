@@ -6399,6 +6399,206 @@
       "email_sent_to": "accommodations@docusign.com",
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Docusign_MachineLearningEngin.md",
       "status": "sent"
+    },
+    {
+      "date": "2026-05-23 22:54:49.391406",
+      "url": "https://www.indeed.com/viewjob?jk=60b22a0792b8b81f",
+      "title": "Facility Manager",
+      "company": "Downhole Chemical Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DownholeChemicalSolu_FacilityManager.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:55:02.103410",
+      "url": "https://www.indeed.com/viewjob?jk=001494883779de9b",
+      "title": "Databricks Administrator / Platform Engineer",
+      "company": "General Dynamics Information Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneralDynamicsInfor_DatabricksAdministra.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:55:13.045216",
+      "url": "https://www.indeed.com/viewjob?jk=77d9f9accfb59272",
+      "title": "Network Engineer – Remote",
+      "company": "General Dynamics Information Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneralDynamicsInfor_NetworkEngineerRemot.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:55:24.482011",
+      "url": "https://www.indeed.com/viewjob?jk=441afc6543bd4cdc",
+      "title": "Software Development Manager/IC",
+      "company": "General Dynamics Information Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneralDynamicsInfor_SoftwareDevelopmentM.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:55:42.433175",
+      "url": "https://www.indeed.com/viewjob?jk=2b339243bf18ff7b",
+      "title": "Build Engineer (Starship)",
+      "company": "SpaceX",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SpaceX_BuildEngineerStarshi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:55:44.075937",
+      "url": "https://www.indeed.com/viewjob?jk=d64baeff76b1ca13",
+      "title": "Independent Sales Engineer / Independent Sales Representative (100% Commission-Based - 1099)",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_IndependentSalesEngi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:55:56.412107",
+      "url": "https://www.indeed.com/viewjob?jk=81a07308e6cbdc53",
+      "title": "Automation Quality Assurance Engineer",
+      "company": "SSBN Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SSBNInc_AutomationQualityAss.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:55:58.356501",
+      "url": "https://www.indeed.com/viewjob?jk=47807adde4255640",
+      "title": "Manual Quality Assurance Engineer",
+      "company": "SSBN Inc.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SSBNInc_ManualQualityAssuran.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:56:20.619139",
+      "url": "https://www.indeed.com/viewjob?jk=92e45ed5b657bc8a",
+      "title": "IT Server Engineer",
+      "company": "TITAN COMMUNICATIONS",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TITANCOMMUNICATIONS_ITServerEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:56:37.641828",
+      "url": "https://www.indeed.com/viewjob?jk=09464e604326699d",
+      "title": "Azure DevOps Cloud & Infrastructure Engineer",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_AzureDevOpsCloudInfr.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:56:57.551558",
+      "url": "https://www.indeed.com/viewjob?jk=b2b681d9eba07ecc",
+      "title": "AI Engineer",
+      "company": "Densight AI",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DensightAI_AIEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:57:10.623899",
+      "url": "https://www.linkedin.com/jobs/view/data-science-analyst-at-citi-4398701160/",
+      "title": "Data Science Analyst",
+      "company": "Citi",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Citi_DataScienceAnalyst.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:57:12.253514",
+      "url": "https://www.linkedin.com/jobs/view/analista-cientista-de-dados-i-at-serasa-experian-4400682126/",
+      "title": "Analista Cientista de Dados I",
+      "company": "Serasa Experian",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SerasaExperian_AnalistaCientistadeD.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:57:14.123177",
+      "url": "https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4414391755/",
+      "title": "Jr. Data Scientist",
+      "company": "Why Hiring",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JrDataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:57:29.329122",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-stefanini-north-america-and-apac-4409517258/",
+      "title": "Data Scientist",
+      "company": "Stefanini North America and APAC",
+      "source": "LinkedIn",
+      "email_sent_to": "Micah.Andres@Stefanini.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StefaniniNorthAmeric_DataScientist.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-23 22:57:40.336137",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-intern-at-avathon-4368412060/",
+      "title": "Data Scientist Intern",
+      "company": "Avathon",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Avathon_DataScientistIntern.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:57:58.162548",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-i-at-mastercard-4414364581/",
+      "title": "Data scientist I",
+      "company": "Mastercard",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mastercard_DatascientistI.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:58:10.527451",
+      "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4417547800/",
+      "title": "ML Engineer",
+      "company": "Scoutit",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:58:12.167038",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-twilio-4387963075/",
+      "title": "Machine Learning Engineer",
+      "company": "Twilio",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Twilio_MachineLearningEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 22:58:32.503923",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-morse-corp-4368942790/",
+      "title": "Machine Learning Engineer",
+      "company": "MORSE Corp",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MORSECorp_MachineLearningEngin.md",
+      "status": "draft"
     }
   ]
 }
