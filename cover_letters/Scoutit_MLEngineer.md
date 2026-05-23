@@ -2,19 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4415461073/
+**URL:** https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4417547800/
 
 ---
 
 Dear Scoutit team,
 
-I am writing to apply for the ML Engineer position. With a dual background in Economics and Data Science, I specialize in building end-to-end machine learning solutions—from predictive models to production-ready APIs—aligning directly with your need to design, develop, and deploy scalable ML/DL systems.
+I am writing to apply for the ML Engineer position. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine rigorous statistical analysis with production‑ready engineering.
 
-My technical stack includes extensive Python, scikit-learn, and PyTorch/TensorFlow. I recently developed a **deep learning trading system** that uses LSTMs to forecast S&P 500 price direction with 68% directional accuracy. The pipeline covered feature engineering, model training (PyTorch), backtesting with Backtrader, and experiment tracking via MLflow—mirroring the full cycle of training, validation, and tuning you require. I also containerized a credit-risk classifier (Random Forest) into a FastAPI service with Docker, ensuring robust deployment and CI/CD readiness.
+My recent **Trading Algorithm with Deep Learning** project demonstrates the core competencies you require: I designed and trained an LSTM model in PyTorch to forecast S&P 500 price direction (68 % directional accuracy), implemented a full back‑testing pipeline, and deployed the inference service via FastAPI, Docker, and MLflow for continuous monitoring. This experience aligns directly with your need for designing, developing, and deploying scalable ML/DL systems.
 
-Beyond deep learning, I apply statistical and econometric principles (time series, GARCH, causal inference) to extract insights from large datasets and optimize model performance. My experience with MCP-based multi-agent architectures further demonstrates my ability to integrate AI into production systems while staying current with AI advancements.
+I also have extensive work with **MLOps tools**—Docker, FastAPI, and experiment tracking with MLflow—ensuring models are production‑ready and can be updated automatically. My expertise in **scikit‑learn, TensorFlow, and NumPy** enables rapid prototyping, while my econometric background (ARIMA, GARCH, causal inference) adds a strong statistical foundation for solving complex business problems.
 
-I would be excited to bring my hands-on ML engineering, deployment skills, and data-driven problem-solving to Scoutit’s client projects. I welcome the opportunity to discuss how my background can contribute to your team.
+Scoutit’s focus on building self‑learning systems that continuously improve matches my own drive to create adaptive pipelines that integrate data engineering and software teams seamlessly. I am eager to contribute to your client projects by delivering high‑performance, scalable models and maintaining rigorous validation standards.
 
-Best regards,  
-Erick Flores Zambrano
+I would welcome the opportunity to discuss how my technical skills and project experience can add value to Scoutit. Please let me know a convenient time for a conversation.
+
+Thank you for your consideration.
