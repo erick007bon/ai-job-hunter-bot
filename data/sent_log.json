@@ -5999,6 +5999,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAIC_DevSecOpsEngineer.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:46:57.673453",
+      "url": "https://www.indeed.com/viewjob?jk=9f315465383f0c46",
+      "title": "AI/ML Engineer",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_AIMLEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:47:21.451750",
+      "url": "https://www.indeed.com/viewjob?jk=a17ed8e4593a54fd",
+      "title": "Operations Manager - Enterprise AI Solutions",
+      "company": "Snorkel AI",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SnorkelAI_OperationsManagerEnt.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:47:44.750172",
+      "url": "https://www.indeed.com/viewjob?jk=a241748245482edc",
+      "title": "Space Hardware Structural/Thermal Analyst (R&D Engineer 2/3)",
+      "company": "Los Alamos National Laboratory",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LosAlamosNationalLab_SpaceHardwareStructu.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:48:06.186361",
+      "url": "https://www.indeed.com/viewjob?jk=85612160ecd5f89c",
+      "title": "Dat Science/AIML Engineering Summer Intern",
+      "company": "QinetiQ",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QinetiQ_DatScienceAIMLEngine.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:48:06.894524",
+      "url": "https://www.indeed.com/viewjob?jk=794f92464224129e",
+      "title": "Customer Service Engineer - PHOENIX/TUCSON",
+      "company": "Siemens Healthineers",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SiemensHealthineers_CustomerServiceEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:48:25.630421",
+      "url": "https://www.indeed.com/viewjob?jk=6af238fcb8c0f5d9",
+      "title": "Program Manager",
+      "company": "NYU Langone Health",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NYULangoneHealth_ProgramManager.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:48:43.906739",
+      "url": "https://www.indeed.com/viewjob?jk=dedb368ff3e9a708",
+      "title": "R&D Engineering, Scientist - 17200",
+      "company": "Synopsys",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Synopsys_RDEngineeringScienti.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:49:01.552502",
+      "url": "https://www.indeed.com/viewjob?jk=310404eb559535a1",
+      "title": "AI Software Engineer",
+      "company": "Boats Group",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoatsGroup_AISoftwareEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:49:02.049177",
+      "url": "https://www.indeed.com/viewjob?jk=f3ca21f37d2ddc41",
+      "title": "Electrical Engineer for Embedded Sensor Systems, PCB Designer and Firmware Programming",
+      "company": "Aeternum",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Aeternum_ElectricalEngineerfo.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:49:23.231056",
+      "url": "https://www.indeed.com/viewjob?jk=6f9b908bd038e65e",
+      "title": "Engineer - Operations Improvement",
+      "company": "Micron Technology",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MicronTechnology_EngineerOperationsIm.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:49:23.705808",
+      "url": "https://www.indeed.com/viewjob?jk=574c35ab48935932",
+      "title": "Wireline Field Engineer/Specialist III",
+      "company": "Weatherford",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Weatherford_WirelineFieldEnginee.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:49:24.192384",
+      "url": "https://www.indeed.com/viewjob?jk=cbe99c1886f635a3",
+      "title": "Power Systems Software Engineer Student Employee",
+      "company": "Electric Power Research Institute",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElectricPowerResearc_PowerSystemsSoftware.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:49:24.693685",
+      "url": "https://www.indeed.com/viewjob?jk=e4dc5fc95af68aee",
+      "title": "Field Tech Support Specialist",
+      "company": "Behm Consulting LLC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BehmConsultingLLC_FieldTechSupportSpec.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:49:25.708691",
+      "url": "https://www.indeed.com/viewjob?jk=4f4f14525b39ddf8",
+      "title": "Associate Director, Data Validation Engineer",
+      "company": "Takeda Pharmaceuticals",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TakedaPharmaceutical_AssociateDirectorDat.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:49:26.381184",
+      "url": "https://www.indeed.com/viewjob?jk=59c7a7c2bfb37db8",
+      "title": "SCADA OT Network Administrator",
+      "company": "City of Brighton",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CityofBrighton_SCADAOTNetworkAdmini.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:51:36.571093",
+      "url": "https://www.indeed.com/viewjob?jk=23692df810b64dd7",
+      "title": "Technical Product Manager",
+      "company": "Applied Materials",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AppliedMaterials_TechnicalProductMana.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:51:37.056516",
+      "url": "https://www.indeed.com/viewjob?jk=9589b80122784d76",
+      "title": "Machine Shop Production Supervisor - Polymer Seals",
+      "company": "A.W. Chesterton Company",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AWChestertonCompany_MachineShopProductio.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:52:00.674933",
+      "url": "https://www.indeed.com/viewjob?jk=d5be2d68e612c240",
+      "title": "Water & Wastewater Project Engineer",
+      "company": "Consor Engineers",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ConsorEngineers_WaterWastewaterProje.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:52:01.218251",
+      "url": "https://www.indeed.com/viewjob?jk=a108df63e7932326",
+      "title": "Research Engineer - Autonomous Collaborative Systems",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_ResearchEngineerAuto.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 13:52:02.054888",
+      "url": "https://www.indeed.com/viewjob?jk=956b5a767d3aa4c2",
+      "title": "Distinguished Engineer , Bank Tech (Remote- Eligible)",
+      "company": "Capital One",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CapitalOne_DistinguishedEnginee.md",
+      "status": "draft"
     }
   ]
 }
