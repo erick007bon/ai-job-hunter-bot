@@ -1,109 +1,106 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-23 13:52
+# AI JOB HUNTER V3 - Reporte 2026-05-23 17:57
 
-> **Extraidas:** 112 | **Filtradas:** 76 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 620 | **Emails enviados total:** 32
+> **Extraidas:** 117 | **Filtradas:** 80 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 640 | **Emails enviados total:** 35
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9f315465383f0c46
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_AIMLEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Director, Quantitative Pharmacology and Pharmacometrics – Oncology @ Merck
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ad5ea13d1fd156e2
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Merck_DirectorQuantitative.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Operations Manager - Enterprise AI Solutions @ Snorkel AI
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a17ed8e4593a54fd
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SnorkelAI_OperationsManagerEnt.md
+### [DRAFT - POSTULA MANUALMENTE]: Investigator - Worker Protection @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5c16820f761c3c57
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_InvestigatorWorkerPr.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Space Hardware Structural/Thermal Analyst (R&D Engineer 2/3) @ Los Alamos National Laboratory
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a241748245482edc
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LosAlamosNationalLab_SpaceHardwareStructu.md
+### [DRAFT - POSTULA MANUALMENTE]: Director, Business Development Manager - PMO @ E2 Consulting Engineers, Inc.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6a632d9b3b767119
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/E2ConsultingEngineer_DirectorBusinessDeve.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Dat Science/AIML Engineering Summer Intern @ QinetiQ
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=85612160ecd5f89c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QinetiQ_DatScienceAIMLEngine.md
+### [DRAFT - POSTULA MANUALMENTE]: Director, Business Development Manager - PMO @ E2 Consulting Engineers, Inc.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a4b694783febd7bd
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/E2ConsultingEngineer_DirectorBusinessDeve.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Customer Service Engineer - PHOENIX/TUCSON @ Siemens Healthineers
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=794f92464224129e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SiemensHealthineers_CustomerServiceEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Director, Business Development Manager - PMO @ E2 Consulting Engineers, Inc.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bd621529c1f17bca
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/E2ConsultingEngineer_DirectorBusinessDeve.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Program Manager @ NYU Langone Health
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6af238fcb8c0f5d9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NYULangoneHealth_ProgramManager.md
+### [DRAFT - POSTULA MANUALMENTE]: Director, Business Development Manager - PMO @ E2 Consulting Engineers, Inc.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2087dc940f6b22c3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/E2ConsultingEngineer_DirectorBusinessDeve.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: R&D Engineering, Scientist - 17200 @ Synopsys
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dedb368ff3e9a708
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Synopsys_RDEngineeringScienti.md
+### [DRAFT - POSTULA MANUALMENTE]: Founding Product Manager @ Lyv health
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c8c7766b6219ce0a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Lyvhealth_FoundingProductManag.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Software Engineer @ Boats Group
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=310404eb559535a1
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoatsGroup_AISoftwareEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Mid Lev-React Developer-W2 role @ HARAMAIN SYSTEMS INC.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=44d25300283e9891
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HARAMAINSYSTEMSINC_MidLevReactDeveloper.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Electrical Engineer for Embedded Sensor Systems, PCB Designer and Firmware Programming @ Aeternum
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f3ca21f37d2ddc41
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Aeternum_ElectricalEngineerfo.md
+### [DRAFT - POSTULA MANUALMENTE]: Mid lev- React Developer : w2 role @ HARAMAIN SYSTEMS INC.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4330020f7c2bbcfd
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HARAMAINSYSTEMSINC_MidlevReactDeveloper.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Engineer - Operations Improvement @ Micron Technology
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6f9b908bd038e65e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MicronTechnology_EngineerOperationsIm.md
+### [DRAFT - POSTULA MANUALMENTE]: Autonomous Systems Software Engineer @ Anglin Civil LLC
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e03b5d27a3478787
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AnglinCivilLLC_AutonomousSystemsSof.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Wireline Field Engineer/Specialist III @ Weatherford
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=574c35ab48935932
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Weatherford_WirelineFieldEnginee.md
+### [DRAFT - POSTULA MANUALMENTE]: Program Manager @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c27071217a365231
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_ProgramManager.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Power Systems Software Engineer Student Employee @ Electric Power Research Institute
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cbe99c1886f635a3
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElectricPowerResearc_PowerSystemsSoftware.md
+### [DRAFT - POSTULA MANUALMENTE]: Business Development Partnership Manager @ KinderCare Learning Companies
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7717b815205da75b
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KinderCareLearningCo_BusinessDevelopmentP.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Field Tech Support Specialist @ Behm Consulting LLC
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e4dc5fc95af68aee
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BehmConsultingLLC_FieldTechSupportSpec.md
+### [DRAFT - POSTULA MANUALMENTE]: General Engineer @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=31b0c32e8f66f283
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_GeneralEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Associate Director, Data Validation Engineer @ Takeda Pharmaceuticals
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4f4f14525b39ddf8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TakedaPharmaceutical_AssociateDirectorDat.md
+### [DRAFT - POSTULA MANUALMENTE]: Electrical Engineers and Electrical Designers @ Eichleay
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0f4ea9b03e2a8fec
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Eichleay_ElectricalEngineersa.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: SCADA OT Network Administrator @ City of Brighton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=59c7a7c2bfb37db8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CityofBrighton_SCADAOTNetworkAdmini.md
+### [DRAFT - POSTULA MANUALMENTE]: Platform Engineer L2 @ Curative, Inc.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=143d707176edca1a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CurativeInc_PlatformEngineerL2.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Technical Product Manager @ Applied Materials
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=23692df810b64dd7
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AppliedMaterials_TechnicalProductMana.md
-- **Fuente:** Google Jobs (Indeed)
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer (Remote) @ StackAdapt
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-stackadapt-4400621286/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StackAdapt_MachineLearningEngin.md
+- **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Shop Production Supervisor - Polymer Seals @ A.W. Chesterton Company
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9589b80122784d76
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AWChestertonCompany_MachineShopProductio.md
-- **Fuente:** Google Jobs (Indeed)
+### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineering @ Cint
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineering-at-cint-4418429021/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cint_AIMLEngineering.md
+- **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Water & Wastewater Project Engineer @ Consor Engineers
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d5be2d68e612c240
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ConsorEngineers_WaterWastewaterProje.md
-- **Fuente:** Google Jobs (Indeed)
+### [EMAIL ENVIADO]: Machine Learning Engineer @ Docusign
+- **Email enviado a:** accommodations@docusign.com
+- **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Engineer - Autonomous Collaborative Systems @ Raytheon
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a108df63e7932326
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_ResearchEngineerAuto.md
-- **Fuente:** Google Jobs (Indeed)
+### [EMAIL ENVIADO]: Machine Learning Engineer @ Docusign
+- **Email enviado a:** accommodations@docusign.com
+- **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Distinguished Engineer , Bank Tech (Remote- Eligible) @ Capital One
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=956b5a767d3aa4c2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CapitalOne_DistinguishedEnginee.md
-- **Fuente:** Google Jobs (Indeed)
+### [EMAIL ENVIADO]: Machine Learning Engineer @ Docusign
+- **Email enviado a:** accommodations@docusign.com
+- **Fuente:** LinkedIn
 
 
 ---
