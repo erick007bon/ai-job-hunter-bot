@@ -5799,6 +5799,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_ManhattanActiveWMMob.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:09:29.943944",
+      "url": "https://www.indeed.com/viewjob?jk=9579498d52296cd8",
+      "title": "Data Scientist",
+      "company": "NT Concepts",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTConcepts_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:09:43.859891",
+      "url": "https://www.indeed.com/viewjob?jk=8371a4084d99367e",
+      "title": "Clinical Laboratory Scientist (Quality Manager/Back-up Contracting Officer Representative)",
+      "company": "US Department of Veterans Affairs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USDepartmentofVetera_ClinicalLaboratorySc.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:10:06.164670",
+      "url": "https://www.indeed.com/viewjob?jk=465f1c5eaafc6db5",
+      "title": "Supv, Inside Sales",
+      "company": "Natera",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Natera_SupvInsideSales.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:10:15.869628",
+      "url": "https://www.indeed.com/viewjob?jk=551aaf3261757dde",
+      "title": "Key Account Executive, Imaging Sales - Florida",
+      "company": "Siemens Healthineers",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SiemensHealthineers_KeyAccountExecutiveI.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:10:23.219529",
+      "url": "https://www.indeed.com/viewjob?jk=2a5d2e3e53398520",
+      "title": "XPWH Clinical Education Specialist",
+      "company": "Siemens Healthineers",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SiemensHealthineers_XPWHClinicalEducatio.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:10:27.299372",
+      "url": "https://www.indeed.com/viewjob?jk=fee3e84c166a1bd4",
+      "title": "Software Developer III",
+      "company": "Scientific Research Corporation",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ScientificResearchCo_SoftwareDeveloperIII.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:10:43.758565",
+      "url": "https://www.indeed.com/viewjob?jk=8566e047bb7b2408",
+      "title": "Federal Account Executive",
+      "company": "Handshake",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Handshake_FederalAccountExecut.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:10:59.439888",
+      "url": "https://www.indeed.com/viewjob?jk=9fd1429db835fa7a",
+      "title": "Geospatial Data Engineer",
+      "company": "Pano AI",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PanoAI_GeospatialDataEngine.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:11:02.772395",
+      "url": "https://www.indeed.com/viewjob?jk=850c5a1935b2dc86",
+      "title": "Research Scientist",
+      "company": "Michigan Sugar Company",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MichiganSugarCompany_ResearchScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:11:16.506935",
+      "url": "https://www.indeed.com/viewjob?jk=745de937c0ec5fd4",
+      "title": "Clinical Laboratory Study Manager - FSP",
+      "company": "Parexel",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Parexel_ClinicalLaboratorySt.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:11:22.396884",
+      "url": "https://www.indeed.com/viewjob?jk=11d52610caf8497f",
+      "title": "Research Engineer",
+      "company": "University of Minnesota",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofMinnesot_ResearchEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:11:37.269238",
+      "url": "https://www.indeed.com/viewjob?jk=83dda12dc842a13f",
+      "title": "Finance Professional 3 - Department of Medicine",
+      "company": "University of Minnesota",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofMinnesot_FinanceProfessional3.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:11:42.251658",
+      "url": "https://www.indeed.com/viewjob?jk=f3e9e484fe592fa2",
+      "title": "System Architect",
+      "company": "Blueprint Technologies",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BlueprintTechnologie_SystemArchitect.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:12:01.782649",
+      "url": "https://www.indeed.com/viewjob?jk=a41bc8014abf5a1a",
+      "title": "College Intern 1-4",
+      "company": "State of Alaska",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StateofAlaska_CollegeIntern14.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:12:16.808169",
+      "url": "https://www.indeed.com/viewjob?jk=6084958be408c033",
+      "title": "Commercial Process Excellence Engineer",
+      "company": "Omnicell",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Omnicell_CommercialProcessExc.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:12:33.075856",
+      "url": "https://www.indeed.com/viewjob?jk=e40502b0239bc1ff",
+      "title": "Facilities Planner",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_FacilitiesPlanner.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:12:59.374853",
+      "url": "https://www.indeed.com/viewjob?jk=380901a498b8a5cc",
+      "title": "Network & Security Engineer",
+      "company": "Citadel Completions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CitadelCompletions_NetworkSecurityEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:13:18.594404",
+      "url": "https://www.indeed.com/viewjob?jk=5fd241ca86f09196",
+      "title": "Customer Success Manager - US EST",
+      "company": "Kentik",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kentik_CustomerSuccessManag.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:13:31.689334",
+      "url": "https://www.indeed.com/viewjob?jk=7417d70257e41909",
+      "title": "Mechanical Engineer",
+      "company": "SAIC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAIC_MechanicalEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-23 06:13:44.467849",
+      "url": "https://www.indeed.com/viewjob?jk=c3db3047785f7607",
+      "title": "DevSecOps Engineer",
+      "company": "SAIC",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAIC_DevSecOpsEngineer.md",
+      "status": "draft"
     }
   ]
 }
