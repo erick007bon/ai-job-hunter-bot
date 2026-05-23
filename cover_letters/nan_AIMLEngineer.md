@@ -2,22 +2,21 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=9756baf08caaa78d
+**URL:** https://www.indeed.com/viewjob?jk=9f315465383f0c46
 
 ---
 
 Dear nan team,
 
-I am writing to apply for the AI/ML Engineer position. With five years of experience delivering end‑to‑end AI solutions, I combine strong software engineering practices with deep expertise in generative AI and agentic frameworks—precisely the mix required to modernize pharmacy platforms at VXForward.
+I am writing to apply for the AI/ML Engineer position. With five years of experience building end‑to‑end AI solutions, I combine strong software engineering with deep econometric and machine‑learning expertise that aligns directly with your needs.
 
-My work on a **Multi‑Agent System with MCP** involved building specialized agents for financial data scraping, econometric volatility modeling (GARCH), and report generation using GPT‑4. I designed the architecture, containerized each service with Docker, and exposed them through FastAPI endpoints, achieving scalable, secure deployments that align with your need for reliable, high‑performance pipelines.
+My work on a **Multi‑Agent system with MCP** integrated FastAPI, Docker, and LLM‑based report generation to automate financial analysis pipelines. This experience matches your requirement to design scalable, secure AI/ML pipelines and to collaborate with cross‑functional teams on architecture and deployment. Additionally, I have deployed **generative AI models (GPT‑4 API) and classic ML models (Random Forest, LSTM) in production** using FastAPI, Docker, and MLflow, ensuring reliability and performance—key aspects of modernizing core pharmacy platforms.
 
-Key competencies that match the role include:
+I am proficient in **MLOps practices** (Docker, CI/CD with GitHub Actions, experiment tracking with MLflow) and have implemented **agentic AI frameworks** that streamline decision‑making workflows, directly supporting your goal of leveraging LLMs to enhance pharmacy processes. My background in econometrics (ARIMA, GARCH) also provides a solid foundation for rigorous model evaluation and monitoring.
 
-* **Generative AI & LLM integration** – I have engineered prompt‑driven agents and fine‑tuned language models via Hugging Face, enabling automated decision‑making workflows.  
-* **MLOps and deployment** – Daily use of Docker, FastAPI, MLflow, and CI/CD (GitHub Actions) ensures reproducible models, robust monitoring, and efficient resource utilization.  
-* **Collaboration with cross‑functional teams** – In my recent project I coordinated data scientists, product owners, and DevOps engineers to deliver a production‑grade forecasting service, conducting code reviews and mentoring junior developers throughout the process.
+I am eager to contribute to VXForward’s innovative projects and help modernize your pharmacy solutions. I would welcome the opportunity to discuss how my technical skills and project experience can add value to your team.
 
-I am particularly attracted to VXForward’s focus on continuous learning and its impact on healthcare technology. I would welcome the opportunity to discuss how my background can contribute to your AI initiatives.
+Thank you for your consideration; I look forward to your response.
 
-Could we schedule a brief meeting next week to explore this further?
+Best regards,
+Erick Flores Zambrano
