@@ -1,107 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-24 13:51
+# AI JOB HUNTER V3 - Reporte 2026-05-24 17:53
 
-> **Extraidas:** 127 | **Filtradas:** 103 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 700 | **Emails enviados total:** 37
+> **Extraidas:** 130 | **Filtradas:** 101 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 720 | **Emails enviados total:** 37
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Laser Weapon System Test Engineer and Scientist @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=05558a656b45b091
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_LaserWeaponSystemTes.md
+### [DRAFT - POSTULA MANUALMENTE]: Bioinformatics Scientist (Hybrid) @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=17f2bd9e6b8e1e3f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_BioinformaticsScient.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Program Manager @ NYU Langone Health
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=48bad1bc5945bee8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NYULangoneHealth_ProgramManager.md
+### [DRAFT - POSTULA MANUALMENTE]: Bioinformatics Analyst - (Hybrid) @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=848a0460c8b6da63
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_BioinformaticsAnalys.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Electrical Designer (Remote) @ ZELUS
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=49e66145b6fa2aac
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZELUS_ElectricalDesignerRe.md
+### [DRAFT - POSTULA MANUALMENTE]: Training Systems Specialist- Part-time/remote (Mission Assurance 5)- 28431 @ HII
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5155c0ecb7d93b09
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_TrainingSystemsSpeci.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Network Infrastructure Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c18b01547d5356e9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_NetworkInfrastructur.md
+### [DRAFT - POSTULA MANUALMENTE]: Systems Engineer III - Eglin AFB @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6ccb215c5f085ca5
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_SystemsEngineerIIIEg.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Network Infrastructure Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5a3e637c45f166f1
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_NetworkInfrastructur.md
+### [DRAFT - POSTULA MANUALMENTE]: Systems Engineer III - Ridgecrest @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e3cddf9b42152423
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_SystemsEngineerIIIRi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Network Infrastructure Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bbaf7976dd77692c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_NetworkInfrastructur.md
+### [DRAFT - POSTULA MANUALMENTE]: Raytheon Full Time 2026 - Power & Analog Design Engineer II @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b7cfb12a5032fffe
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_RaytheonFullTime2026.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Network Infrastructure Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2026621c9736f47f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_NetworkInfrastructur.md
+### [DRAFT - POSTULA MANUALMENTE]: Structures Stress Engineer 1 (Onsite) @ Collins Aerospace
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=847c61b4b084c8c8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CollinsAerospace_StructuresStressEngi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: DevOps Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c57623c5bb50d272
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DevOpsEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer II @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5841aa4fbb74c310
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_SoftwareEngineerII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: [Remote] Product Designer @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=40cbb03f198f8cf9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_RemoteProductDesigne.md
+### [DRAFT - POSTULA MANUALMENTE]: Founding Operator @ CLERA
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8bb8edb018690f6d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CLERA_FoundingOperator.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Security Engineer @ Blue Cross and Blue Shield of North Carolina
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0b7917e60fa4b6b0
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BlueCrossandBlueShie_SecurityEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Forward Deployed Engineer (Founding Customer Engineer) @ CLERA
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=65ffbd5a49ab25f1
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CLERA_ForwardDeployedEngin.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Solutions Consultant 2 @ Palo Alto Networks
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=05f363379461a52a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PaloAltoNetworks_SolutionsConsultant2.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Electrical Engineer II @ Raytheon
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0b406ee2ec534dd8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_ElectricalEngineerII.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Technical Support Engineer, Focused Services, NGFW @ Palo Alto Networks
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=683e0a9fbc604b57
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PaloAltoNetworks_TechnicalSupportEngi.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: IT Support Engineer (Tier 2) - AZ @ CubX Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ec3f4848b1f25c95
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CubXInc_ITSupportEngineerTie.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Full Stack Software Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6a7ec06070b61448
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_FullStackSoftwareEng.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Cybersecurity Engineer, Junior @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e11fd03bb6b92552
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_CybersecurityEnginee.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Channel Systems Engineer Manager @ Palo Alto Networks
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5d541c8382fecb7d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PaloAltoNetworks_ChannelSystemsEngine.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [EMAIL ENVIADO]: Data Scientist @ ONE datAI
-- **Email enviado a:** Reut.k@onedatAI.co.il
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Cint
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-cint-4400538550/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cint_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Science Expert @ PwC Bulgaria
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-science-expert-at-pwc-bulgaria-4306386655/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PwCBulgaria_DataScienceExpert.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Forbes Advisor
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-forbes-advisor-4325461135/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ForbesAdvisor_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ HUNTHEAD
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-hunthead-4417599597/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HUNTHEAD_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - QuantumBlack, AI by McKinsey @ QuantumBlack, AI by McKinsey
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4219666091/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuantumBlackAIbyMcKi_DataScientistQuantum.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Junior Machine Learning Engineer @ Eleva Wellbeing
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-machine-learning-engineer-at-eleva-wellbeing-4418658880/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElevaWellbeing_JuniorMachineLearnin.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist Graduate @ targetjobs UK
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-graduate-at-targetjobs-uk-4417805453/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/targetjobsUK_DataScientistGraduat.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Freelance Machine Learning Engineer @ Mindrift
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/freelance-machine-learning-engineer-at-mindrift-4418682110/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_FreelanceMachineLear.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer (Python) - AI Platform @ Revolut
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/software-engineer-python-ai-platform-at-revolut-4250198850/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Revolut_SoftwareEngineerPyth.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer (Python) - AI Platform @ Revolut
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/software-engineer-python-ai-platform-at-revolut-4250504096/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Revolut_SoftwareEngineerPyth.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer (Python) - AI Platform @ Revolut
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/software-engineer-python-ai-platform-at-revolut-4299002494/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Revolut_SoftwareEngineerPyth.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: ML Engineer @ Scoutit
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4417803806/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineer.md
 - **Fuente:** LinkedIn
 
 
