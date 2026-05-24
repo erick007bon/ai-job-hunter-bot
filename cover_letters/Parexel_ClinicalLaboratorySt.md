@@ -2,24 +2,21 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=745de937c0ec5fd4
+**URL:** https://www.indeed.com/viewjob?jk=7b553510af08b76d
 
 ---
 
 Dear Parexel team,
 
-I am writing to apply for the Clinical Laboratory Study Manager – FSP position. With a dual background in Economics and Data Science, I have built end‑to‑end AI pipelines that integrate data acquisition, validation, and reporting—capabilities directly aligned with your need for robust sample tracking and laboratory data management.
+I am writing to express my interest in the Clinical Laboratory Study Manager role. My background combines data science expertise with operational project management, which aligns with the role's focus on sample data management, cross-functional coordination, and reporting.
 
-My experience designing a **Multi‑Agent system with MCP** (Python, FastAPI, Docker) involved automated data scraping from financial APIs, econometric analysis (GARCH volatility models), and generation of structured reports via LLMs. This architecture mirrors the workflow of collecting biological samples, routing them to central labs, and delivering validated results, ensuring traceability and compliance at each step.
+In my current work, I design end-to-end data pipelines and reporting systems. For example, I built a Power BI executive dashboard at Vamoret S.A. that connected directly to SQL Server, automated daily refreshes, and tracked KPIs with cohort analysis and DAX forecasting—enabling the leadership team to make timely operational decisions. This experience translates directly to the role's requirement of managing sample and testing data capture, blinded transfer, and reporting for clinical trials.
 
-Key competencies I bring to Parexel include:
+Additionally, my work with the Multi-Agent system using MCP architecture required coordinating specialized agents—data ingestion, analysis, and reporting—while ensuring data integrity and compliance. This mirrors the need to liaise across SKDL, DM, and CLPM groups to align sample collection, processing, and storage with protocol requirements.
 
-* **MLOps & API integration:** Containerized services (Docker, FastAPI) for secure, reproducible data pipelines, enabling real‑time monitoring of sample status and chain‑of‑custody logs.  
-* **Statistical and econometric expertise:** Time‑series and causal inference methods (ARIMA, panel data) that translate to rigorous biomarker data analysis and quality control.  
-* **Business intelligence reporting:** Power BI dashboards with DAX‑driven KPI visualizations, supporting cross‑functional study teams with clear, actionable insights.
+I am drawn to Parexel's work translating science into medicine through precision medicine strategy. I would welcome the opportunity to discuss how my combination of data management, stakeholder coordination, and operational reporting can support your clinical study teams.
 
-I am motivated to contribute to Parexel’s precision‑medicine strategy by ensuring that clinical specimens are managed efficiently and that laboratory data meet the highest scientific standards. I would welcome the opportunity to discuss how my technical background and project experience can support your study teams.
+Could we schedule a brief call this week to discuss the role further?
 
-Please let me know a convenient time for a conversation.
-
-Thank you for your consideration.
+Best regards,
+Flores Zambrano Erick
