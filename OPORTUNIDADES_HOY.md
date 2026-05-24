@@ -1,108 +1,107 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-24 06:35
+# AI JOB HUNTER V3 - Reporte 2026-05-24 13:51
 
-> **Extraidas:** 100 | **Filtradas:** 77 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 680 | **Emails enviados total:** 36
+> **Extraidas:** 127 | **Filtradas:** 103 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 700 | **Emails enviados total:** 37
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (All Levels) @ Southern Company
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=04e5e35220e1dbf0
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SouthernCompany_DataScientistAllLeve.md
+### [DRAFT - POSTULA MANUALMENTE]: Laser Weapon System Test Engineer and Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=05558a656b45b091
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_LaserWeaponSystemTes.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Clinical Laboratory Study Manager - FSP @ Parexel
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7b553510af08b76d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Parexel_ClinicalLaboratorySt.md
+### [DRAFT - POSTULA MANUALMENTE]: Program Manager @ NYU Langone Health
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=48bad1bc5945bee8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NYULangoneHealth_ProgramManager.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Intern, Per Diem @ Cedars-Sinai Medical Center
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a2f4da79533b30d6
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CedarsSinaiMedicalCe_ResearchInternPerDie.md
+### [DRAFT - POSTULA MANUALMENTE]: Electrical Designer (Remote) @ ZELUS
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=49e66145b6fa2aac
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZELUS_ElectricalDesignerRe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7dff06d5e8cdf010
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Network Infrastructure Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c18b01547d5356e9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_NetworkInfrastructur.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7336d3f3e200ff29
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Network Infrastructure Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5a3e637c45f166f1
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_NetworkInfrastructur.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=89b1cc0b9d618f25
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Network Infrastructure Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bbaf7976dd77692c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_NetworkInfrastructur.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e850436e82063f0d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Network Infrastructure Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2026621c9736f47f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_NetworkInfrastructur.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=46ba53c3513ae572
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: DevOps Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c57623c5bb50d272
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DevOpsEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e996a317f257dacf
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: [Remote] Product Designer @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=40cbb03f198f8cf9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_RemoteProductDesigne.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=acb8c1037946350e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Security Engineer @ Blue Cross and Blue Shield of North Carolina
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0b7917e60fa4b6b0
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BlueCrossandBlueShie_SecurityEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7d4a3058f999b0a3
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Solutions Consultant 2 @ Palo Alto Networks
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=05f363379461a52a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PaloAltoNetworks_SolutionsConsultant2.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fe05adeee8292dc1
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Electrical Engineer II @ Raytheon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0b406ee2ec534dd8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_ElectricalEngineerII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=462990b0aa486517
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Technical Support Engineer, Focused Services, NGFW @ Palo Alto Networks
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=683e0a9fbc604b57
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PaloAltoNetworks_TechnicalSupportEngi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c96229134cc6d994
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: IT Support Engineer (Tier 2) - AZ @ CubX Inc
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ec3f4848b1f25c95
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CubXInc_ITSupportEngineerTie.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6030172fb63cad84
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Full Stack Software Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6a7ec06070b61448
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_FullStackSoftwareEng.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6f9ab909ec5e008c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Cybersecurity Engineer, Junior @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e11fd03bb6b92552
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_CybersecurityEnginee.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3c49a0e1a0f15470
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Channel Systems Engineer Manager @ Palo Alto Networks
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5d541c8382fecb7d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PaloAltoNetworks_ChannelSystemsEngine.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Databricks Engineer @ Deloitte
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4103790052d21d8f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DatabricksEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ MCA España
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-mca-espa%C3%B1a-4397482429/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MCAEspaña_DataScientist.md
+### [EMAIL ENVIADO]: Data Scientist @ ONE datAI
+- **Email enviado a:** Reut.k@onedatAI.co.il
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ CG-VAK Software & Exports Ltd.
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-cg-vak-software-exports-ltd-4417800128/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CGVAKSoftwareExports_AIMLEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Science Expert @ PwC Bulgaria
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-science-expert-at-pwc-bulgaria-4306386655/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PwCBulgaria_DataScienceExpert.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ HUNTHEAD
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-hunthead-4417599597/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HUNTHEAD_DataScientist.md
 - **Fuente:** LinkedIn
 
 
