@@ -2,23 +2,18 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/freelance-machine-learning-engineer-at-mindrift-4418682110/
+**URL:** https://www.linkedin.com/jobs/view/freelance-machine-learning-engineer-at-mindrift-4418685090/
 
 ---
 
 Dear Mindrift team,
 
-I am writing to apply for the Freelance Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am a data scientist and economist with five years of hands‑on machine‑learning experience, fluent in Python (NumPy, pandas, SciPy, scikit‑learn) and proficient in SQL for large‑scale data manipulation. My recent work on a **Multi‑Agent System with MCP** combined automated data ingestion, GARCH‑based volatility modeling, and LLM‑generated financial reports, delivering a fully containerized pipeline (Docker, FastAPI, MLflow) that can be deployed and tested in minutes. This project demonstrates my ability to design computationally intensive problems, verify solutions programmatically, and document every step clearly—exactly the tasks described for Mindrift’s freelance engineers.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+In addition, I have built and back‑tested a **deep‑learning trading system** using PyTorch LSTM models, achieving 68 % directional accuracy on S&P 500 data. The end‑to‑end pipeline includes feature engineering, model training, and performance validation with statistical rigor, aligning with your need for strong statistical analysis and practical ML application.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+My experience with LLM APIs, prompt engineering, and vector‑database concepts equips me to create novel GenAI challenges, while my MLOps background ensures reproducible and scalable deployments. I am eager to contribute to Mindrift’s project‑based AI evaluations and help design robust, creative problem sets for your clients.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+Please let me know a convenient time to discuss how my skill set matches your upcoming projects. I look forward to the opportunity to collaborate.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
-
-Best regards,
-FLORES ZAMBRANO ERICK
-Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
-adanrivas6655@gmail.com | GitHub: erick007bon
+Thank you for your consideration.
