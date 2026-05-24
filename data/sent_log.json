@@ -6999,6 +6999,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HUNTHEAD_DataScientist.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:49:41.349733",
+      "url": "https://www.indeed.com/viewjob?jk=17f2bd9e6b8e1e3f",
+      "title": "Bioinformatics Scientist (Hybrid)",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_BioinformaticsScient.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:49:42.303521",
+      "url": "https://www.indeed.com/viewjob?jk=848a0460c8b6da63",
+      "title": "Bioinformatics Analyst - (Hybrid)",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_BioinformaticsAnalys.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:50:02.898257",
+      "url": "https://www.indeed.com/viewjob?jk=5155c0ecb7d93b09",
+      "title": "Training Systems Specialist- Part-time/remote (Mission Assurance 5)- 28431",
+      "company": "HII",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_TrainingSystemsSpeci.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:50:15.350637",
+      "url": "https://www.indeed.com/viewjob?jk=6ccb215c5f085ca5",
+      "title": "Systems Engineer III - Eglin AFB",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_SystemsEngineerIIIEg.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:50:28.065058",
+      "url": "https://www.indeed.com/viewjob?jk=e3cddf9b42152423",
+      "title": "Systems Engineer III - Ridgecrest",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_SystemsEngineerIIIRi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:50:30.239516",
+      "url": "https://www.indeed.com/viewjob?jk=b7cfb12a5032fffe",
+      "title": "Raytheon Full Time 2026 - Power & Analog Design Engineer II",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_RaytheonFullTime2026.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:50:44.418097",
+      "url": "https://www.indeed.com/viewjob?jk=847c61b4b084c8c8",
+      "title": "Structures Stress Engineer 1 (Onsite)",
+      "company": "Collins Aerospace",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CollinsAerospace_StructuresStressEngi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:50:57.180694",
+      "url": "https://www.indeed.com/viewjob?jk=5841aa4fbb74c310",
+      "title": "Software Engineer II",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_SoftwareEngineerII.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:51:11.608070",
+      "url": "https://www.indeed.com/viewjob?jk=8bb8edb018690f6d",
+      "title": "Founding Operator",
+      "company": "CLERA",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CLERA_FoundingOperator.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:51:29.570055",
+      "url": "https://www.indeed.com/viewjob?jk=65ffbd5a49ab25f1",
+      "title": "Forward Deployed Engineer (Founding Customer Engineer)",
+      "company": "CLERA",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CLERA_ForwardDeployedEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:51:30.320290",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-cint-4400538550/",
+      "title": "Data Scientist",
+      "company": "Cint",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cint_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:51:51.010442",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-forbes-advisor-4325461135/",
+      "title": "Data Scientist",
+      "company": "Forbes Advisor",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ForbesAdvisor_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:52:07.147147",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4219666091/",
+      "title": "Data Scientist - QuantumBlack, AI by McKinsey",
+      "company": "QuantumBlack, AI by McKinsey",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuantumBlackAIbyMcKi_DataScientistQuantum.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:52:07.737603",
+      "url": "https://www.linkedin.com/jobs/view/junior-machine-learning-engineer-at-eleva-wellbeing-4418658880/",
+      "title": "Junior Machine Learning Engineer",
+      "company": "Eleva Wellbeing",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElevaWellbeing_JuniorMachineLearnin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:52:31.399903",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-graduate-at-targetjobs-uk-4417805453/",
+      "title": "Data Scientist Graduate",
+      "company": "targetjobs UK",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/targetjobsUK_DataScientistGraduat.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:52:31.918501",
+      "url": "https://www.linkedin.com/jobs/view/freelance-machine-learning-engineer-at-mindrift-4418682110/",
+      "title": "Freelance Machine Learning Engineer",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_FreelanceMachineLear.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:52:52.721945",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-python-ai-platform-at-revolut-4250198850/",
+      "title": "Software Engineer (Python) - AI Platform",
+      "company": "Revolut",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Revolut_SoftwareEngineerPyth.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:53:08.601904",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-python-ai-platform-at-revolut-4250504096/",
+      "title": "Software Engineer (Python) - AI Platform",
+      "company": "Revolut",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Revolut_SoftwareEngineerPyth.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:53:26.254368",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-python-ai-platform-at-revolut-4299002494/",
+      "title": "Software Engineer (Python) - AI Platform",
+      "company": "Revolut",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Revolut_SoftwareEngineerPyth.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-24 17:53:47.484783",
+      "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4417803806/",
+      "title": "ML Engineer",
+      "company": "Scoutit",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineer.md",
+      "status": "draft"
     }
   ]
 }
