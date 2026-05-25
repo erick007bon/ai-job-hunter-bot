@@ -1,33 +1,50 @@
-import re
-from typing import List, Dict
-from src.config import Config
+"""
+Motor de filtrado inteligente: filtra trabajos por keywords relevantes al perfil de Erick
+"""
+
+KEYWORDS_POSITIVOS = [
+    'python', 'data', 'analyst', 'engineer', 'scientist', 'machine learning',
+    'ml', 'ai', 'sql', 'power bi', 'economist', 'econom', 'analytics',
+    'backend', 'fastapi', 'django', 'flask', 'remote', 'remoto',
+    'junior', 'mid', 'entry', 'associate', 'intern', 'trainee',
+    'llm', 'nlp', 'deep learning', 'pytorch', 'tensorflow',
+]
+
+KEYWORDS_NEGATIVOS = [
+    'senior only', '10+ years', '8+ years', 'director', 'vp of',
+    'chief', 'c-level', 'native english required', 'fluent english required',
+    'clearance', 'us citizen only', 'must be us',
+]
 
 class MatchEngine:
-    def __init__(self):
-        self.senior_keywords = ["senior", "lead", "staff", "principal", "10+ years", "sr.", "sr ", "head"]
-        self.english_reject_keywords = ["native english", "c1", "c2", "fluent in english is mandatory"]
-        
-    def _is_senior(self, text: str) -> bool:
-        text = text.lower()
-        return any(keyword in text for keyword in self.senior_keywords)
-        
-    def _demands_high_english(self, text: str) -> bool:
-        text = text.lower()
-        return any(keyword in text for keyword in self.english_reject_keywords)
+    def filter_jobs(self, jobs: list) -> list:
+        resultados = []
+        vistos = set()
 
-    def filter_jobs(self, jobs: List[Dict]) -> List[Dict]:
-        matched_jobs = []
         for job in jobs:
-            title_desc = (job['title'] + " " + job.get('description', '')).lower()
-            
-            # 1. Filtro Seniority (Rechazar si es Senior)
-            if self._is_senior(job['title']):
+            url = job.get('url', '')
+            if url in vistos:
                 continue
-                
-            # 2. Filtro Inglés (Rechazar si exige Nativo o C1/C2 y no somos de ese nivel)
-            if Config.ENGLISH_LEVEL == "B2" and self._demands_high_english(title_desc):
-                continue
-                
-            matched_jobs.append(job)
-            
-        return matched_jobs
+            vistos.add(url)
+
+            texto = (
+                job.get('title', '') + ' ' +
+                job.get('description', '') + ' ' +
+                ' '.join(str(t) for t in job.get('tags', []))
+            ).lower()
+
+            # Verificar al menos 1 keyword positivo
+            tiene_match = any(kw in texto for kw in KEYWORDS_POSITIVOS)
+            # Verificar que no tiene keywords negativos bloqueantes
+            bloqueado = any(kw in texto for kw in KEYWORDS_NEGATIVOS)
+
+            if tiene_match and not bloqueado:
+                resultados.append(job)
+
+        # Ordenar: primero los que tengan mas matches
+        def score(j):
+            t = (j.get('title','') + ' ' + j.get('description','')).lower()
+            return sum(1 for kw in KEYWORDS_POSITIVOS if kw in t)
+
+        resultados.sort(key=score, reverse=True)
+        return resultados[:30]

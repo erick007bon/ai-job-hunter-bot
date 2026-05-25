@@ -1,14 +1,10 @@
-name: 🤖 AI Job Hunter V4 — LinkedIn + Gmail + Hunter.io
+name: 🤖 AI Job Hunter V5 — Remotive + RemoteOK + GetOnBoard
 
 on:
   schedule:
-    # 4 ciclos al dia: 7am, 12pm, 5pm, 10pm hora Ecuador (UTC-5)
-    - cron: '0 12 * * *'   # 7am Ecuador
-    - cron: '0 17 * * *'   # 12pm Ecuador
+    - cron: '0 12 * * *'   # 7am Ecuador (UTC-5)
     - cron: '0 22 * * *'   # 5pm Ecuador
-    - cron: '0 3 * * *'    # 10pm Ecuador
-  workflow_dispatch:
-    # Puedes correrlo manualmente desde github.com o app movil de GitHub
+  workflow_dispatch:        # Ejecucion manual desde GitHub
 
 jobs:
   job_hunt:
@@ -29,32 +25,24 @@ jobs:
 
     - name: 📦 Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml python-dotenv
 
-    - name: 🔑 Reconstruct Secure Credentials (Gmail OAuth)
+    - name: 📁 Prepare directories
       run: |
-        mkdir -p data
-        echo "${{ secrets.GMAIL_CREDENTIALS_B64 }}" | base64 -d > data/credentials.json
-        echo "${{ secrets.GMAIL_TOKEN_B64 }}" | base64 -d > data/token.json
-        echo "Credenciales Gmail restauradas OK"
+        mkdir -p data reportes
 
-    - name: 🚀 Run AI Job Hunter V4
+    - name: 🔍 Run Job Hunter V5
       env:
-        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
-        HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
-        LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
-        LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
-      run: |
-        echo "Iniciando ciclo de postulaciones..."
-        python main_v3.py --send --max 20
-        echo "Ciclo completado."
+        GMAIL_USER: ${{ secrets.GMAIL_USER }}
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        MAX_APPLICATIONS: "8"
+      run: python main_v5.py
 
-    - name: 📊 Commit y Push resultados
+    - name: 💾 Commit results
       run: |
-        git config --global user.name "AI Job Hunter Bot 🤖"
-        git config --global user.email "bot@job-hunter.ai"
-        git add cover_letters/ reportes/ data/sent_log.json OPORTUNIDADES_HOY.md || true
-        git commit -m "🎯 Ciclo Auto: $(date +'%Y-%m-%d %H:%M UTC') — $(python -c "import json; d=json.load(open('data/sent_log.json')); print(len(d.get('applications',[])), 'aplicaciones totales')" 2>/dev/null || echo 'nuevo ciclo')" || echo "Sin cambios nuevos"
-        git push || echo "Push fallido, pero el bot corrio OK"
+        git config user.email "bot@github-actions.com"
+        git config user.name "AI Job Hunter Bot"
+        git add OPORTUNIDADES_HOY.md reportes/ data/ || true
+        git diff --staged --quiet || git commit -m "🤖 [Bot] Reporte $(date +'%Y-%m-%d %H:%M') — Job Hunt V5"
+        git push || true
