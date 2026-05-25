@@ -7399,6 +7399,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:07:17.689603",
+      "url": "https://www.indeed.com/viewjob?jk=3a031e9a27e265a8",
+      "title": "Software Engineer II, QA Automation",
+      "company": "Teladoc Health",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TeladocHealth_SoftwareEngineerIIQA.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:07:35.956437",
+      "url": "https://www.indeed.com/viewjob?jk=06d6c29e884a89e1",
+      "title": "Research Scientist Intern (Seed Responsible AI) - 2026 Start (PhD)",
+      "company": "ByteDance",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ByteDance_ResearchScientistInt.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:07:40.702130",
+      "url": "https://www.indeed.com/viewjob?jk=ad988ce96b85a658",
+      "title": "Jr. Data Scientist",
+      "company": "Focus Camera",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FocusCamera_JrDataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:08:05.141945",
+      "url": "https://www.indeed.com/viewjob?jk=3df520183b0a159b",
+      "title": "SCADA Controls Engineer (AVEVA System Platform, Ignition, Modicon M580)",
+      "company": "Strategic Engineering & Automation Systems",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": "info@StrategicEASY.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StrategicEngineering_SCADAControlsEnginee.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-25 07:08:19.620124",
+      "url": "https://www.indeed.com/viewjob?jk=2e8cbddcdf440bdb",
+      "title": "Systems Engineer",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_SystemsEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:09:41.434135",
+      "url": "https://www.indeed.com/viewjob?jk=df257baecfd1b4c8",
+      "title": "Test and Validation Engineer II - 4th Shift",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_TestandValidationEng.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:11:25.021034",
+      "url": "https://www.indeed.com/viewjob?jk=a7703d162487987a",
+      "title": "Electrical Engineer II - Failure Analysis",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_ElectricalEngineerII.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:11:42.026321",
+      "url": "https://www.indeed.com/viewjob?jk=08bf3c92770d88bb",
+      "title": "Manufacturing Engineer II - 2nd Shift",
+      "company": "Raytheon",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Raytheon_ManufacturingEnginee.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:11:58.180100",
+      "url": "https://www.indeed.com/viewjob?jk=332958eb12a52a40",
+      "title": "Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD)",
+      "company": "TikTok",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TikTok_EfficientMLEngineerR.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:12:12.373902",
+      "url": "https://www.indeed.com/viewjob?jk=664ac749b66cbda9",
+      "title": "Data Engineer",
+      "company": "Protagona",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Protagona_DataEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:12:16.677082",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418682115/",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:12:42.303825",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418683108/",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:12:46.950883",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418670196/",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:12:52.188259",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418685111/",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:12:58.605833",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418671189/",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:13:17.263671",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418671184/",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:13:18.875426",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418683113/",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:13:19.682235",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418681111/",
+      "title": "Machine Learning Developer (Freelance)",
+      "company": "Mindrift",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:13:29.895755",
+      "url": "https://remotive.com/remote-jobs/marketing/paid-media-specialist-2090885",
+      "title": "Paid Media Specialist",
+      "company": "Noventra Group Europe",
+      "source": "Remotive",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NoventraGroupEurope_PaidMediaSpecialist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 07:13:39.413859",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-annotator-curasenseai-1132152",
+      "title": "Data Annotator",
+      "company": "CuraSenseAI",
+      "source": "RemoteOK",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CuraSenseAI_DataAnnotator.md",
+      "status": "draft"
     }
   ]
 }
