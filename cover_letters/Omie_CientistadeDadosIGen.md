@@ -2,24 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/cientista-de-dados-i-genai-performance-comercial-at-omie-4418009831/
+**URL:** https://www.linkedin.com/jobs/view/cientista-de-dados-i-genai-performance-comercial-at-omie-4415243554/
 
 ---
 
-
 Dear Omie team,
 
-I am writing to apply for the Data Scientist I (GenAI) - Commercial Performance position. My experience in building end-to-end AI solutions directly aligns with your need for a "builder" to enhance commercial productivity.
+I am writing to apply for the Cientista de Dados I (GenAI) – Performance Comercial role. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that directly boost commercial productivity.
 
-Specifically, I have hands-on experience developing autonomous AI agents, as demonstrated in my **Multi-Agent System with MCP project**. This system uses specialized agents for data scraping, econometric analysis (GARCH models), and LLM-powered report generation—a framework directly applicable to automating lead generation, sales prioritization, and opportunity analysis within your CRM.
+My experience designing and deploying conversational agents aligns with your need for autonomous SDR‑type assistants. In the “AI Autonomous Job Hunter Bot” project I created a 24/7 LLM‑driven system that scraped job listings, evaluated fit, and sent personalized InMails via API integration. The same architecture can be adapted to generate and qualify leads, automate follow‑ups, and produce proposal drafts for Omie’s sales funnel.
 
-Furthermore, my proficiency in **LLMs & Generative AI** (Hugging Face, prompt engineering) and **MLOps deployment** (FastAPI, Docker) allows me to translate business problems—like qualifying leads or supporting follow-ups—into scalable, integrated AI tools. My background in **Power BI** and **econometric modeling** ensures I can measure impact through clear metrics and robust analysis.
+I also specialize in MLOps pipelines (Docker, FastAPI, MLflow) that enable rapid experimentation and scaling—essential for defining conversion and cycle‑time metrics and iterating on agent performance. My work on a multi‑agent MCP platform for automated financial analysis demonstrates the ability to integrate AI models with existing CRM and data sources, ensuring seamless hand‑off between technical and commercial teams.
 
-Omie's mission to drive prosperity for Brazilian entrepreneurs resonates deeply with me. I am motivated by the chance to apply my technical skills in ML, agentic AI, and automation to solve real operational bottlenecks and directly boost commercial conversion.
+I am motivated by Omie’s mission to empower Brazilian entrepreneurs and see a clear opportunity to translate my technical expertise into measurable sales growth.
 
-I am confident I can contribute to building and scaling your AI-driven commercial engine. My resume provides further detail on my projects and skills.
+I would welcome the chance to discuss how my skills can be deployed to accelerate Omie’s commercial engine. Please let me know a convenient time for a conversation.
 
-I look forward to discussing how I can support your team.
-
-Sincerely,
-FLORES ZAMBRANO ERICK
+Thank you for your consideration.
