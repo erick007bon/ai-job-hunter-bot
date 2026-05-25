@@ -34,8 +34,11 @@ jobs:
 
     - name: 🔍 Run Job Hunter V5
       env:
-        GMAIL_USER: ${{ secrets.GMAIL_USER }}
-        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        SMTP_HOST: smtp.office365.com
+        SMTP_PORT: "587"
+        SMTP_TLS: "true"
         MAX_APPLICATIONS: "8"
       run: python main_v5.py
 
