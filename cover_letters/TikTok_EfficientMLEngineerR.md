@@ -1,14 +1,14 @@
-# Cover Letter - Machine Learning Developer (Freelance) @ Mindrift
+# Cover Letter - Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD) @ TikTok
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4418681111/
+**URL:** https://www.indeed.com/viewjob?jk=332958eb12a52a40
 
 ---
 
-Dear Mindrift team,
+Dear TikTok team,
 
-I am writing to apply for the Machine Learning Developer (Freelance) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Efficient ML Engineer Research Intern (AI Platform) - 2026 Start (PhD) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
