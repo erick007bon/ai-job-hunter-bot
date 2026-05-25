@@ -1,21 +1,21 @@
-# Cover Letter - AI - Native Builder @ Newpage Digital Healthcare solutions
+# Cover Letter - AI-Native Builder @ Newpage Digital Healthcare solutions
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=2d5239019737c1e6
+**URL:** https://www.indeed.com/viewjob?jk=dc95b3c395886fe7
 
 ---
 
 Dear Newpage Digital Healthcare solutions team,
 
-I am an economist‑turned data scientist with solid experience delivering end‑to‑end AI products, and I am eager to join Newpage as a Forward Deployed Engineer. My background aligns directly with your “builder‑first” mandate:
+I am excited to apply for the AI‑Native Builder position. My background in econometrics and AI equips me to transform vague clinical challenges into concrete, production‑ready solutions. I specialize in MCP architecture, LLM‑based agent systems, and end‑to‑end MLOps pipelines—skills that match your need for engineers who can build and ship AI directly in production.
 
-* **Rapid problem framing & prototyping** – In my “Multi‑Agent System with MCP” project I worked with business stakeholders to define financial‑analysis use cases, then built a suite of Docker‑containerized agents (scraping, econometric GARCH modeling, LLM‑generated reports) that produced a functional prototype within a single client meeting.  
-* **AI as the development substrate** – I routinely develop production‑ready models in Python (scikit‑learn, PyTorch) and expose them via FastAPI, using MLOps tools such as Docker, MLflow and the Model Context Protocol (MCP). This matches your requirement to ship AI‑driven software without an intermediate platform team.  
-* **Modern tooling** – My daily stack includes TypeScript for front‑end components, Claude‑style prompt engineering for generative LLMs, and evaluation harnesses for continuous model validation.
+In my “Sistema Multi‑Agent con MCP” project, I designed a distributed agent framework that scrapes financial data, applies GARCH volatility models, and generates executive reports with GPT‑4. The system runs on Docker, FastAPI, and a custom MCP protocol, delivering real‑time insights without a separate platform team. This demonstrates my ability to create end‑to‑end AI workflows, a core requirement for the role.
 
-Newpage’s focus on human‑centered health innovation resonates with my own drive to translate complex data into actionable clinical insights. I would welcome the chance to discuss how my technical expertise and hands‑on delivery style can accelerate your AI solutions for life‑science partners.
+Additionally, my experience with Power BI dashboards for sales analytics shows my capacity to translate complex data into actionable business stories—a valuable asset for collaborating with product leaders and stakeholders at Newpage.
 
-Could we schedule a brief call next week to explore this fit?
+I am drawn to Newpage’s focus on human‑centered, transformative health solutions and its remote‑first culture, which aligns with my own commitment to continuous learning and impactful work. I am confident that my technical expertise and hands‑on approach will contribute to delivering AI products that improve patient outcomes.
 
-Thank you for your consideration.
+I would welcome the chance to discuss how my experience can support Newpage’s mission. Please let me know a convenient time for a brief call.
+
+Thank you for considering my application.
