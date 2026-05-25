@@ -1,5 +1,8 @@
 name: 🤖 AI Job Hunter V5 — Remotive + RemoteOK + GetOnBoard
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   schedule:
     - cron: '0 12 * * *'   # 7am Ecuador (UTC-5)
