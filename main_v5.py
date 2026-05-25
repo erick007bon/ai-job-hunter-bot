@@ -21,7 +21,7 @@ CV_PATH = os.environ.get('CV_PATH', 'CV_Erick_Flores.pdf')
 
 PROFILE = {
     'name': 'Erick Flores Zambrano',
-    'email': 'erickflores6655@gmail.com',
+    'email': 'eflores4006@utm.edu.ec',
     'phone': '+593 096 395 1193',
     'github': 'github.com/erick007bon',
     'linkedin': 'linkedin.com/in/erick-flores-zambrano-69075b198',
