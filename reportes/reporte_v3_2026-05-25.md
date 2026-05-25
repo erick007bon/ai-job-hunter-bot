@@ -1,108 +1,107 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-25 18:26
+# AI JOB HUNTER V3 - Reporte 2026-05-25 23:05
 
-> **Extraidas:** 101 | **Filtradas:** 81 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 800 | **Emails enviados total:** 38
+> **Extraidas:** 112 | **Filtradas:** 88 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 820 | **Emails enviados total:** 39
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer II @ Affirm
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7b630826288e449b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Affirm_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Program Manager / Project Director @ NexThreat
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f1301000ddeac043
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NexThreat_ProgramManagerProjec.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior AI Engineer @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0c8aec45c1a01968
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_JuniorAIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: MLS/MLT - OLGMC - Evenings, full time @ Ochsner Health
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=eb79435714cb6f57
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OchsnerHealth_MLSMLTOLGMCEveningsf.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI - Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bcd329279eb0cbc5
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI-Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f5397e30a285245d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI - Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0a8ea8730e4cf117
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: AI Native Developer @ Newpage Digital Healthcare solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=622e5174e22fc102
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dbc661e109c14228
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeDeveloper.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI-Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=37bc77d9dc22a6a9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI - Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c0214499e127c894
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI - Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3ad88277e472de1e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI Native Developer @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ba608063466f07bd
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeDeveloper.md
 - **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: AI Native Developer @ Newpage Digital Healthcare solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=239176039e388a7a
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=36ab7b1b575050e1
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeDeveloper.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Native Developer @ Newpage Digital Healthcare solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3ac1dcfa7fd19426
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeDeveloper.md
+### [DRAFT - POSTULA MANUALMENTE]: AI-Native Builder @ Newpage Digital Healthcare solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dc95b3c395886fe7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeBuilder.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Rivo Holdings
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7d901076a42192a2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RivoHoldings_DataEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: SYSTEMS ENGINEER - TS/SCI W/ POLY @ Peraton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2e012f0e380d5195
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Peraton_SYSTEMSENGINEERTSSCI.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: SECURITY ENGINEER @ Peraton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f1f16127d162f59b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Peraton_SECURITYENGINEER.md
+### [DRAFT - POSTULA MANUALMENTE]: Founding Engineer @ Aesthetic Enterprises
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=adbd001dbc88344f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AestheticEnterprises_FoundingEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Database Reliability Engineer (Remote) @ WebstaurantStore
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=09b4a79def57981b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DatabaseReliabilityE.md
+### [DRAFT - POSTULA MANUALMENTE]: Infrastructure Engineer (MSP | Onsite) @ Intelligent Technical Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7d37fd23bff6e14f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IntelligentTechnical_InfrastructureEngine.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Database Reliability Engineer (Remote) @ WebstaurantStore
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fec1a30e8ca8861a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DatabaseReliabilityE.md
+### [DRAFT - POSTULA MANUALMENTE]: Field Engineer @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2e2d6a659263e7db
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_FieldEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Machine Learning Engineer @ Lockheed Martin
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=13a4a4f5adcc9bb4
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LockheedMartin_AIMachineLearningEng.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Executive Assistant @ Elevenlabs
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=70dfd8bd9d24fb73
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Elevenlabs_ExecutiveAssistant.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Executive Assistant @ Elevenlabs
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7fac1babe121fa5b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Elevenlabs_ExecutiveAssistant.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Channel Partner Development Executive -UCaaS @ vitel global communications
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9c845f901abebfdb
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/vitelglobalcommunica_ChannelPartnerDevelo.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (Analytics) @ Grab
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-analytics-at-grab-4399170265/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Grab_DataScientistAnalyti.md
+### [DRAFT - POSTULA MANUALMENTE]: Cientista de Dados I (GenAI) - Performance Comercial @ Omie
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/cientista-de-dados-i-genai-performance-comercial-at-omie-4415243554/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Omie_CientistadeDadosIGen.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist – Funnel Analytics & Optimization @ Inizio Partners
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-funnel-analytics-optimization-at-inizio-partners-4415554273/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InizioPartners_DataScientistFunnelA.md
+### [DRAFT - POSTULA MANUALMENTE]: Graduate data scientist @ Bending Spoons
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4418201466/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BendingSpoons_Graduatedatascientis.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer, AI Platform - New Grad @ Nuro
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/software-engineer-ai-platform-new-grad-at-nuro-4317707969/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nuro_SoftwareEngineerAIPl.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Capgemini
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-capgemini-4417885804/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Capgemini_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Smart Bricks
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-smart-bricks-4418977492/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SmartBricks_AIEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: ML Engineer @ Scoutit
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4417890018/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Artificial Intelligence Engineer @ Genpact
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-genpact-4415206395/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_ArtificialIntelligen.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: ML Engineer (Intern) @ Pathos
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ml-engineer-intern-at-pathos-4418677852/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pathos_MLEngineerIntern.md
+### [EMAIL ENVIADO]: AI Engineer @ Enjins
+- **Email enviado a:** work@enjins.com
 - **Fuente:** LinkedIn
 
 
