@@ -7799,6 +7799,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QUEENSOFT_MachineLearningEngin.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:21:38.804564",
+      "url": "https://www.indeed.com/viewjob?jk=7b630826288e449b",
+      "title": "Machine Learning Engineer II",
+      "company": "Affirm",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Affirm_MachineLearningEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:21:56.917096",
+      "url": "https://www.indeed.com/viewjob?jk=0c8aec45c1a01968",
+      "title": "Junior AI Engineer",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_JuniorAIEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:22:16.196508",
+      "url": "https://www.indeed.com/viewjob?jk=622e5174e22fc102",
+      "title": "AI Native Developer",
+      "company": "Newpage Digital Healthcare solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeDeveloper.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:22:32.084734",
+      "url": "https://www.indeed.com/viewjob?jk=239176039e388a7a",
+      "title": "AI Native Developer",
+      "company": "Newpage Digital Healthcare solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeDeveloper.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:22:33.929443",
+      "url": "https://www.indeed.com/viewjob?jk=3ac1dcfa7fd19426",
+      "title": "AI Native Developer",
+      "company": "Newpage Digital Healthcare solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NewpageDigitalHealth_AINativeDeveloper.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:22:36.414098",
+      "url": "https://www.indeed.com/viewjob?jk=7d901076a42192a2",
+      "title": "Data Engineer",
+      "company": "Rivo Holdings",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RivoHoldings_DataEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:22:46.030391",
+      "url": "https://www.indeed.com/viewjob?jk=f1f16127d162f59b",
+      "title": "SECURITY ENGINEER",
+      "company": "Peraton",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Peraton_SECURITYENGINEER.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:22:59.996574",
+      "url": "https://www.indeed.com/viewjob?jk=09b4a79def57981b",
+      "title": "Database Reliability Engineer (Remote)",
+      "company": "WebstaurantStore",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DatabaseReliabilityE.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:24:23.612928",
+      "url": "https://www.indeed.com/viewjob?jk=fec1a30e8ca8861a",
+      "title": "Database Reliability Engineer (Remote)",
+      "company": "WebstaurantStore",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DatabaseReliabilityE.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:24:25.259141",
+      "url": "https://www.indeed.com/viewjob?jk=13a4a4f5adcc9bb4",
+      "title": "AI Machine Learning Engineer",
+      "company": "Lockheed Martin",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LockheedMartin_AIMachineLearningEng.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:24:35.649542",
+      "url": "https://www.indeed.com/viewjob?jk=70dfd8bd9d24fb73",
+      "title": "Executive Assistant",
+      "company": "Elevenlabs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Elevenlabs_ExecutiveAssistant.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:24:37.639193",
+      "url": "https://www.indeed.com/viewjob?jk=7fac1babe121fa5b",
+      "title": "Executive Assistant",
+      "company": "Elevenlabs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Elevenlabs_ExecutiveAssistant.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:25:05.871041",
+      "url": "https://www.indeed.com/viewjob?jk=9c845f901abebfdb",
+      "title": "Channel Partner Development Executive -UCaaS",
+      "company": "vitel global communications",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/vitelglobalcommunica_ChannelPartnerDevelo.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:25:08.063099",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-analytics-at-grab-4399170265/",
+      "title": "Data Scientist (Analytics)",
+      "company": "Grab",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Grab_DataScientistAnalyti.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:25:23.687353",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-funnel-analytics-optimization-at-inizio-partners-4415554273/",
+      "title": "Data Scientist – Funnel Analytics & Optimization",
+      "company": "Inizio Partners",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InizioPartners_DataScientistFunnelA.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:25:33.404918",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-ai-platform-new-grad-at-nuro-4317707969/",
+      "title": "Software Engineer, AI Platform - New Grad",
+      "company": "Nuro",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nuro_SoftwareEngineerAIPl.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:25:45.481438",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-smart-bricks-4418977492/",
+      "title": "AI Engineer",
+      "company": "Smart Bricks",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SmartBricks_AIEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:25:59.912209",
+      "url": "https://www.linkedin.com/jobs/view/ml-engineer-at-scoutit-4417890018/",
+      "title": "ML Engineer",
+      "company": "Scoutit",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:26:01.396456",
+      "url": "https://www.linkedin.com/jobs/view/artificial-intelligence-engineer-at-genpact-4415206395/",
+      "title": "Artificial Intelligence Engineer",
+      "company": "Genpact",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_ArtificialIntelligen.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-25 18:26:14.034930",
+      "url": "https://www.linkedin.com/jobs/view/ml-engineer-intern-at-pathos-4418677852/",
+      "title": "ML Engineer (Intern)",
+      "company": "Pathos",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pathos_MLEngineerIntern.md",
+      "status": "draft"
     }
   ]
 }
