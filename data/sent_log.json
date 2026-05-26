@@ -8199,6 +8199,206 @@
       "email_sent_to": "work@enjins.com",
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Enjins_AIEngineer.md",
       "status": "sent"
+    },
+    {
+      "date": "2026-05-26 06:43:06.334914",
+      "url": "https://www.indeed.com/viewjob?jk=4e3306c76e6f412d",
+      "title": "Engineering Specialist - Signal & Image Processing and Modeling & Simulation Engineering",
+      "company": "The Aerospace Corporation",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheAerospaceCorporat_EngineeringSpecialis.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:43:27.130170",
+      "url": "https://www.indeed.com/viewjob?jk=ed9b5e23ff8eae06",
+      "title": "Applications Engineer (Analytics Solutions Focus)",
+      "company": "Blueprint Technologies",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BlueprintTechnologie_ApplicationsEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:43:30.794755",
+      "url": "https://www.indeed.com/viewjob?jk=03fe5c4d52790afc",
+      "title": "Technical Account Manager",
+      "company": "vCluster Labs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/vClusterLabs_TechnicalAccountMana.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:43:38.986822",
+      "url": "https://www.indeed.com/viewjob?jk=ebd2f0ec89af3116",
+      "title": "AI Infrastructure Engineer",
+      "company": "vCluster Labs",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/vClusterLabs_AIInfrastructureEngi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:44:05.046459",
+      "url": "https://www.indeed.com/viewjob?jk=87c93189a9ef81e7",
+      "title": "Software QA Engineer",
+      "company": "WE DO IT",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WEDOIT_SoftwareQAEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:44:16.166936",
+      "url": "https://www.indeed.com/viewjob?jk=a39793f4cfb80755",
+      "title": "Data Architect",
+      "company": "The Data Sherpas",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheDataSherpas_DataArchitect.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:44:39.285133",
+      "url": "https://www.indeed.com/viewjob?jk=1de90fb224e5a447",
+      "title": "Security Engineer",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_SecurityEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:44:52.439299",
+      "url": "https://www.indeed.com/viewjob?jk=a043281f58642aa7",
+      "title": "Solutions Architect",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_SolutionsArchitect.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:45:10.544346",
+      "url": "https://www.indeed.com/viewjob?jk=f02c26a6df7f5b7c",
+      "title": "Customer Success Manager",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_CustomerSuccessManag.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:45:39.815605",
+      "url": "https://www.indeed.com/viewjob?jk=62e69c4b3eca952a",
+      "title": "Systems Engineer - Controls",
+      "company": "Nexteer Automotive",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NexteerAutomotive_SystemsEngineerContr.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:46:10.108715",
+      "url": "https://www.indeed.com/viewjob?jk=63413128e28afb4c",
+      "title": "Software Engineer (Web Platform)",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_SoftwareEngineerWebP.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:46:29.294907",
+      "url": "https://www.indeed.com/viewjob?jk=b65162d89489ddd4",
+      "title": "Customer Delivery Engineer, NASA",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_CustomerDeliveryEngi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:47:27.172490",
+      "url": "https://www.indeed.com/viewjob?jk=885e24059ab9b9e8",
+      "title": "Database Support Engineer - US",
+      "company": "nan",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_DatabaseSupportEngin.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:47:31.425260",
+      "url": "https://www.linkedin.com/jobs/view/data-science-at-reliance-retail-4415252665/",
+      "title": "Data Science",
+      "company": "Reliance Retail",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RelianceRetail_DataScience.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:47:45.059139",
+      "url": "https://www.linkedin.com/jobs/view/data-scientist-at-southbridge-compa%C3%B1%C3%ADa-de-seguros-4415250379/",
+      "title": "Data Scientist",
+      "company": "Southbridge Compañía de Seguros",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SouthbridgeCompañíad_DataScientist.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:47:48.172020",
+      "url": "https://www.linkedin.com/jobs/view/ai-data-engineer-m-%C5%BE-at-agilos-it-4415205436/",
+      "title": "AI/Data Engineer (m/ž)",
+      "company": "Agilos IT",
+      "source": "LinkedIn",
+      "email_sent_to": "jobs@agilosit.com",
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AgilosIT_AIDataEngineermž.md",
+      "status": "sent"
+    },
+    {
+      "date": "2026-05-26 06:47:49.756998",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411881005/",
+      "title": "AI Engineer",
+      "company": "Casumo",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:48:18.547684",
+      "url": "https://www.linkedin.com/jobs/view/ai-engineer-80%25-100%25-at-swiss-re-4417885688/",
+      "title": "AI Engineer (80%-100%)",
+      "company": "Swiss Re",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SwissRe_AIEngineer80100.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:48:19.977532",
+      "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-a1-4403896162/",
+      "title": "Applied AI Engineer",
+      "company": "A1",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1_AppliedAIEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-26 06:48:23.738496",
+      "url": "https://www.linkedin.com/jobs/view/ai-developer-at-sii-group-romania-4418950934/",
+      "title": "AI Developer",
+      "company": "SII Group Romania",
+      "source": "LinkedIn",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SIIGroupRomania_AIDeveloper.md",
+      "status": "draft"
     }
   ]
 }
