@@ -1,108 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-26 19:21
+# AI JOB HUNTER V3 - Reporte 2026-05-26 23:13
 
-> **Extraidas:** 116 | **Filtradas:** 91 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 880 | **Emails enviados total:** 42
+> **Extraidas:** 124 | **Filtradas:** 92 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 900 | **Emails enviados total:** 42
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Oncology Data Specialist, Regional Editor @ Mary Bird Perkins Cancer Center
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e1d9868a63a3edec
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MaryBirdPerkinsCance_OncologyDataSpeciali.md
+### [DRAFT - POSTULA MANUALMENTE]: Clinical Scientist @ Clario
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=67e76c2178db8547
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Clario_ClinicalScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Scientist (Temporary), RGUD @ University Of Washington
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6602e36f4f9094bf
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityOfWashingt_ResearchScientistTem.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer, Databricks @ KeyLogic Systems
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=77e2ac7cac3443c3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KeyLogicSystems_DataEngineerDatabric.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Manager, Test Automation @ Abbott
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=68977672bc2bd68a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Abbott_ManagerTestAutomatio.md
+### [DRAFT - POSTULA MANUALMENTE]: DevOps Engineer, Databricks @ KeyLogic Systems
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=400167f7c4d2be56
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KeyLogicSystems_DevOpsEngineerDatabr.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer III- iOS @ Walmart
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bcbb3f242c2b15b8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Walmart_SoftwareEngineerIIIi.md
+### [DRAFT - POSTULA MANUALMENTE]: Manager - Toxicology Operations - Remote @ Regeneron
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=379495afa2bc7741
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Regeneron_ManagerToxicologyOpe.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Scientist - CR610 @ Department of General Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a84802c19a5c1d0f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DepartmentofGeneralS_ScientistCR610.md
+### [DRAFT - POSTULA MANUALMENTE]: Assistant Scientist/Planner @ BKF Engineers
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4812327c43d2201e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BKFEngineers_AssistantScientistPl.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Patent Agent @ Mercola
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dc8f0352ca690eda
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mercola_PatentAgent.md
+### [DRAFT - POSTULA MANUALMENTE]: Assistant Scientist/Planner @ BKF Engineers
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=69d7400e68318583
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BKFEngineers_AssistantScientistPl.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Patent Agent @ Mercola
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6604cdc9a11a87b2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mercola_PatentAgent.md
+### [DRAFT - POSTULA MANUALMENTE]: Assistant Scientist/Planner @ BKF Engineers
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0e29f5728f2e5950
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BKFEngineers_AssistantScientistPl.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Civil CAD Designer II @ Tetra Tech
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=dc1858448e7e955f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TetraTech_CivilCADDesignerII.md
+### [DRAFT - POSTULA MANUALMENTE]: Assistant Scientist/Planner @ BKF Engineers
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=98162a16f5742428
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BKFEngineers_AssistantScientistPl.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Civil CAD Designer II @ Tetra Tech
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0581d4be41d1c787
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TetraTech_CivilCADDesignerII.md
+### [DRAFT - POSTULA MANUALMENTE]: Prompt Engineer @ Cognizant
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6d32a2eabd210ba3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cognizant_PromptEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer - Analytics @ Beacon Biosignals
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cc8ebf819e5f6830
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BeaconBiosignals_SoftwareEngineerAnal.md
+### [DRAFT - POSTULA MANUALMENTE]: MSL Support and Clinician Engagement (West) @ GeneDx
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4070c6bc77ad6117
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneDx_MSLSupportandClinici.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer - Analytics @ Beacon Biosignals
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e434068728532677
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BeaconBiosignals_SoftwareEngineerAnal.md
+### [DRAFT - POSTULA MANUALMENTE]: Product Sales Specialist I @ Netwrix
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8a3b01f0a4c16e99
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Netwrix_ProductSalesSpeciali.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Chemist II @ Saint-Gobain
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5193a910254095a9
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SaintGobain_ResearchChemistII.md
+### [DRAFT - POSTULA MANUALMENTE]: Front End Software Engineer, Delivery Experience @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=34f4868a572427ea
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_FrontEndSoftwareEngi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Belgard Sales Representative (Hardscapes) @ Oldcastle APG
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7453f65f302fd2ab
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OldcastleAPG_BelgardSalesRepresen.md
+### [DRAFT - POSTULA MANUALMENTE]: Product Manager, Wireless Controls @ Columbus McKinnon
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=58bbf0f70f307ad5
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ColumbusMcKinnon_ProductManagerWirele.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Belgard Sales Representative (Hardscapes) @ Oldcastle APG
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9b8c5df491f5f21c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OldcastleAPG_BelgardSalesRepresen.md
+### [DRAFT - POSTULA MANUALMENTE]: Commercial Property Underwriter / COPE Data Consultant @ Blueprint NYC
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b77d9d42d15ad6c7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BlueprintNYC_CommercialPropertyUn.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Belgard Sales Representative (Hardscapes) @ Oldcastle APG
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7066b6f6a1fe2ebf
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OldcastleAPG_BelgardSalesRepresen.md
+### [DRAFT - POSTULA MANUALMENTE]: AI (Artificial Intelligence) QA Software Engineer @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9f5a4bd8a291d9f8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_AIArtificialIntellig.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineering Manager (Data Engineering) @ McKinstry
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=70c1ee18f9f9878c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/McKinstry_SoftwareEngineeringM.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer II @ Pearson
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7b8a567bdd35f252
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pearson_DataEngineerII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: ServiceNow System Administrator (SAMPro) @ InSequence, Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e0b5dcd781bd412c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InSequenceInc_ServiceNowSystemAdmi.md
+### [DRAFT - POSTULA MANUALMENTE]: Maintenance Technician, Prime Air - Data for Autonomous Aircraft (DA2) @ Amazon.com
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ded0c72f6ea8e3cc
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Amazoncom_MaintenanceTechnicia.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Director, Engineering – Web & Connected TV @ Univision Communications Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=95f989afa251414f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnivisionCommunicati_DirectorEngineeringW.md
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer III @ Pearson
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=af12e888fc65f99f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pearson_SoftwareEngineerIII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Resident Engineer_Remote @ Wired360 Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=91cd84000a785fc5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Wired360Inc_ResidentEngineer_Rem.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Deployment Engineer @ Zoom Communications
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=02e67d53e345fb5d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZoomCommunications_AIDeploymentEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: ServiceNow Software Asset Management (SAM) Architect @ InSequence, Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0ca7224f7d2a6cc6
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InSequenceInc_ServiceNowSoftwareAs.md
+### [DRAFT - POSTULA MANUALMENTE]: Onboarding Project Manager @ CloudBeds
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1e0a00233c8c09f0
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CloudBeds_OnboardingProjectMan.md
 - **Fuente:** Google Jobs (Indeed)
 
 
