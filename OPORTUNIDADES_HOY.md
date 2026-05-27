@@ -1,108 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-05-27 19:15
+# AI JOB HUNTER V3 - Reporte 2026-05-27 23:22
 
-> **Extraidas:** 124 | **Filtradas:** 93 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 960 | **Emails enviados total:** 43
+> **Extraidas:** 124 | **Filtradas:** 85 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 980 | **Emails enviados total:** 43
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Engagement Manager - Pharmaceutical Manufacturing @ Flexware Innovation
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=501b52ee5f16f15b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FlexwareInnovation_EngagementManagerPha.md
+### [DRAFT - POSTULA MANUALMENTE]: Inspector Elec-Mech Phys Test @ Kansas City National Security Campus
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5d6536aa08f07c8c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KansasCityNationalSe_InspectorElecMechPhy.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Oncology Registry Manager - Hybrid - Cancer Center @ The University of Iowa
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=154ca92f4becebc3
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheUniversityofIowa_OncologyRegistryMana.md
+### [DRAFT - POSTULA MANUALMENTE]: Capture and Proposal Specialist @ Onterris
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=253af49e1ab2683e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Onterris_CaptureandProposalSp.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: RN/Registered Nurse, Trauma Injury Severity Coder @ University Of Washington
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=de0c256032aa19b5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityOfWashingt_RNRegisteredNurseTra.md
+### [DRAFT - POSTULA MANUALMENTE]: Project Analyst II @ Kansas City National Security Campus
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a9bd002ef8357afd
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KansasCityNationalSe_ProjectAnalystII.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: VAD Clinical Specialist, Acelis Connected Health - Washington DC/Virginia @ Abbott
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=34eb3aebbe17a4eb
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Abbott_VADClinicalSpecialis.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5b2c9ef73a623463
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AIEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: ASSOCIATE ENVIRONMENTAL PLANNER @ California Governor's Office of Emergency Services
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ba8873d715f8509d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CaliforniaGovernorsO_ASSOCIATEENVIRONMENT.md
+### [DRAFT - POSTULA MANUALMENTE]: Manager, Data Science @ Zillow
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b85040aff5329fcc
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Zillow_ManagerDataScience.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Wetland Biologist @ Tetra Tech
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cfb29439fd6e3c64
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TetraTech_WetlandBiologist.md
+### [DRAFT - POSTULA MANUALMENTE]: Clinical Research Coordinator @ Indiana University
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=85e2bb405286376f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IndianaUniversity_ClinicalResearchCoor.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Division Manager, OR/WA @ JUUL Labs
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d12d3bb42be706dc
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JUULLabs_DivisionManagerORWA.md
+### [DRAFT - POSTULA MANUALMENTE]: MANAGER-DATA SCIENTIST - OPHTHALMOLOGY @ University of Alabama, Birmingham
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8a7c5dd02afe9623
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofAlabamaB_MANAGERDATASCIENTIST.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Division Manager, OR/WA @ JUUL Labs
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b5581333b7f1943c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JUULLabs_DivisionManagerORWA.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist II, Outcomes Research @ Tempus
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0e3277626fa6c397
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Tempus_DataScientistIIOutco.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Technician @ The General Hospital Corporation
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f33ff7aaf4b77a54
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheGeneralHospitalCo_ResearchTechnician.md
+### [DRAFT - POSTULA MANUALMENTE]: Systems Engineer Associate - Entry Level @ Lockheed Martin
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=71fd5012ce62b9e5
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LockheedMartin_SystemsEngineerAssoc.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Data Analyst @ The General Hospital Corporation
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cbf66d2d8071569d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheGeneralHospitalCo_ResearchDataAnalyst.md
+### [DRAFT - POSTULA MANUALMENTE]: Medical Science Liaison @ Jazz Pharmaceuticals
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=49dec4f9de0eedd7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JazzPharmaceuticals_MedicalScienceLiaiso.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Traffic Engineer/Project Manager @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=79458f46dcadbe2a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_TrafficEngineerProje.md
+### [DRAFT - POSTULA MANUALMENTE]: Medical Science Liaison @ Jazz Pharmaceuticals
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=8c49d6f0d4e89d43
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JazzPharmaceuticals_MedicalScienceLiaiso.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: TECHNICAL ASSITANT TO THE CTO – USA Candidates only @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c51b2ff8d6ae37d5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_TECHNICALASSITANTTOT.md
+### [DRAFT - POSTULA MANUALMENTE]: DevOps Engineer V @ Availity, LLC.
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5e68650fbc89cc24
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AvailityLLC_DevOpsEngineerV.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Project Manager @ StellaMSP
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d1478ed705b5145e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StellaMSP_ProjectManager.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineering Manager @ DRAGOS
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5cad4b8cf8d2fcc9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DRAGOS_DataEngineeringManag.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Architect II @ ms consultants, inc.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=725db729ebbabc09
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/msconsultantsinc_ArchitectII.md
+### [DRAFT - POSTULA MANUALMENTE]: Modem Chipset Field Test Engineer @ BTI Solutions
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=affffe5e8f80f9c1
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BTISolutions_ModemChipsetFieldTes.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Architect II @ ms consultants, inc.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=86928dcfe0daee88
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/msconsultantsinc_ArchitectII.md
+### [DRAFT - POSTULA MANUALMENTE]: Baseband Installer @ Nightwing
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=68965e9546b036c9
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nightwing_BasebandInstaller.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Director, Software Engineering @ HHAeXchange
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7978b809fd159c9a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HHAeXchange_DirectorSoftwareEngi.md
+### [DRAFT - POSTULA MANUALMENTE]: Satellite Systems Engineer @ Nightwing
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=956034f12160b352
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nightwing_SatelliteSystemsEngi.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior AI Platform Engineer, Infrastrucure @ accrete
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5496a0bc2b4bd3eb
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/accrete_JuniorAIPlatformEngi.md
+### [DRAFT - POSTULA MANUALMENTE]: Systems Engineer (RF Hardware) @ CACI International
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=46c8a93410ba1169
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CACIInternational_SystemsEngineerRFHar.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Technical Engineering Manager @ Alkami Technology
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3b6d89b5dce4d7bf
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AlkamiTechnology_TechnicalEngineering.md
+### [DRAFT - POSTULA MANUALMENTE]: Artificial Intelligence and Privacy Associate General Counsel @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6b342095e8f2ebad
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_ArtificialIntelligen.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Critical Facility Engineer @ Meta
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2af85a00a2aa8679
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_CriticalFacilityEngi.md
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer, Agentic Tooling @ Upstart
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=16fd21c278e70f0f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Upstart_SoftwareEngineerAgen.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Critical Facility Engineer @ Meta
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4fe6e8321130cf66
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_CriticalFacilityEngi.md
+### [DRAFT - POSTULA MANUALMENTE]: Cross-functional Engineering Associate - 1st Shift - Technical - OCU @ Cummins
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=40780fdbe929956f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cummins_CrossfunctionalEngin.md
 - **Fuente:** Google Jobs (Indeed)
 
 

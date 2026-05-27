@@ -9599,6 +9599,206 @@
       "email_sent_to": null,
       "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_CriticalFacilityEngi.md",
       "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:18:02.021916",
+      "url": "https://www.indeed.com/viewjob?jk=5d6536aa08f07c8c",
+      "title": "Inspector Elec-Mech Phys Test",
+      "company": "Kansas City National Security Campus",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KansasCityNationalSe_InspectorElecMechPhy.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:18:12.444453",
+      "url": "https://www.indeed.com/viewjob?jk=253af49e1ab2683e",
+      "title": "Capture and Proposal Specialist",
+      "company": "Onterris",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Onterris_CaptureandProposalSp.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:18:14.128567",
+      "url": "https://www.indeed.com/viewjob?jk=a9bd002ef8357afd",
+      "title": "Project Analyst II",
+      "company": "Kansas City National Security Campus",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KansasCityNationalSe_ProjectAnalystII.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:18:28.486533",
+      "url": "https://www.indeed.com/viewjob?jk=5b2c9ef73a623463",
+      "title": "AI Engineer",
+      "company": "Booz Allen Hamilton",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AIEngineer.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:18:31.929290",
+      "url": "https://www.indeed.com/viewjob?jk=b85040aff5329fcc",
+      "title": "Manager, Data Science",
+      "company": "Zillow",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Zillow_ManagerDataScience.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:18:33.361665",
+      "url": "https://www.indeed.com/viewjob?jk=85e2bb405286376f",
+      "title": "Clinical Research Coordinator",
+      "company": "Indiana University",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IndianaUniversity_ClinicalResearchCoor.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:18:45.419261",
+      "url": "https://www.indeed.com/viewjob?jk=8a7c5dd02afe9623",
+      "title": "MANAGER-DATA SCIENTIST - OPHTHALMOLOGY",
+      "company": "University of Alabama, Birmingham",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofAlabamaB_MANAGERDATASCIENTIST.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:18:47.002549",
+      "url": "https://www.indeed.com/viewjob?jk=0e3277626fa6c397",
+      "title": "Data Scientist II, Outcomes Research",
+      "company": "Tempus",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Tempus_DataScientistIIOutco.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:19:06.032390",
+      "url": "https://www.indeed.com/viewjob?jk=71fd5012ce62b9e5",
+      "title": "Systems Engineer Associate - Entry Level",
+      "company": "Lockheed Martin",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LockheedMartin_SystemsEngineerAssoc.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:19:07.697329",
+      "url": "https://www.indeed.com/viewjob?jk=49dec4f9de0eedd7",
+      "title": "Medical Science Liaison",
+      "company": "Jazz Pharmaceuticals",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JazzPharmaceuticals_MedicalScienceLiaiso.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:19:08.872073",
+      "url": "https://www.indeed.com/viewjob?jk=8c49d6f0d4e89d43",
+      "title": "Medical Science Liaison",
+      "company": "Jazz Pharmaceuticals",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JazzPharmaceuticals_MedicalScienceLiaiso.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:19:27.751745",
+      "url": "https://www.indeed.com/viewjob?jk=5e68650fbc89cc24",
+      "title": "DevOps Engineer V",
+      "company": "Availity, LLC.",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AvailityLLC_DevOpsEngineerV.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:19:45.155678",
+      "url": "https://www.indeed.com/viewjob?jk=5cad4b8cf8d2fcc9",
+      "title": "Data Engineering Manager",
+      "company": "DRAGOS",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DRAGOS_DataEngineeringManag.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:20:02.109740",
+      "url": "https://www.indeed.com/viewjob?jk=affffe5e8f80f9c1",
+      "title": "Modem Chipset Field Test Engineer",
+      "company": "BTI Solutions",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BTISolutions_ModemChipsetFieldTes.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:20:17.420901",
+      "url": "https://www.indeed.com/viewjob?jk=68965e9546b036c9",
+      "title": "Baseband Installer",
+      "company": "Nightwing",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nightwing_BasebandInstaller.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:20:38.495665",
+      "url": "https://www.indeed.com/viewjob?jk=956034f12160b352",
+      "title": "Satellite Systems Engineer",
+      "company": "Nightwing",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nightwing_SatelliteSystemsEngi.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:21:11.009134",
+      "url": "https://www.indeed.com/viewjob?jk=46c8a93410ba1169",
+      "title": "Systems Engineer (RF Hardware)",
+      "company": "CACI International",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CACIInternational_SystemsEngineerRFHar.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:21:23.845946",
+      "url": "https://www.indeed.com/viewjob?jk=6b342095e8f2ebad",
+      "title": "Artificial Intelligence and Privacy Associate General Counsel",
+      "company": "Booz Allen Hamilton",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_ArtificialIntelligen.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:21:43.606622",
+      "url": "https://www.indeed.com/viewjob?jk=16fd21c278e70f0f",
+      "title": "Software Engineer, Agentic Tooling",
+      "company": "Upstart",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Upstart_SoftwareEngineerAgen.md",
+      "status": "draft"
+    },
+    {
+      "date": "2026-05-27 23:22:00.039734",
+      "url": "https://www.indeed.com/viewjob?jk=40780fdbe929956f",
+      "title": "Cross-functional Engineering Associate - 1st Shift - Technical - OCU",
+      "company": "Cummins",
+      "source": "Google Jobs (Indeed)",
+      "email_sent_to": null,
+      "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cummins_CrossfunctionalEngin.md",
+      "status": "draft"
     }
   ]
 }
