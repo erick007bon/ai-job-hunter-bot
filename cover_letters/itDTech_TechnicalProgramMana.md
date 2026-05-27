@@ -2,14 +2,18 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=3ad029c9681cbf56
+**URL:** https://www.indeed.com/viewjob?jk=7b34a04111c8cf4d
 
 ---
 
 Dear itD Tech team,
 
-My background in managing complex data programs aligns closely with your Technical Program Manager III role. I have successfully coordinated cross-functional teams, including data scientists and legal stakeholders, to deploy scalable solutions. Specifically, my experience in orchestrating multi-agent architectures (like the MCP-based financial analysis system) demonstrates my ability to align technical deliverables with business goals across diverse teams. Additionally, my expertise in translating technical insights for executive audiences, honed through Power BI executive dashboards implementing RFM analysis and forecasting, ensures clear communication with non-technical stakeholders.
+I am writing to apply for the Technical Program Manager III position. With a dual background in Economics and Data Science, I have led end‑to‑end AI initiatives that required tight coordination between data engineers, analysts, and business stakeholders—experience that aligns directly with the cross‑functional program management you seek.
 
-I am particularly motivated by itD Tech's focus on eDiscovery and Information Governance. My project in developing a multi-agent system for automated financial analysis involved integrating specialized agents for data ingestion, econometric modeling (GARCH), and report generation via LLMs – directly relevant to building efficient, legally compliant data pipelines. I excel in identifying dependencies, mitigating risks, and driving projects to completion in fast-paced environments.
+In my recent “Multi‑Agent System with MCP” project, I designed a distributed architecture where agents scraped financial data, applied GARCH econometric models, and generated automated reports via GPT‑4. I oversaw the full delivery pipeline: defining scope, setting milestones, containerizing services with Docker, exposing FastAPI endpoints, and tracking experiments with MLflow. This required constant alignment with data engineers, legal compliance reviewers, and executive sponsors, mirroring the collaboration needed between attorneys, data scientists, and operational teams at itD.
 
-I am eager to discuss how my skills can support your critical data initiatives. Please let me know a convenient time for a brief call.
+My expertise in MLOps (Docker, FastAPI, CI/CD) and data‑engineering workflows (SQL‑optimized pipelines, Airflow concepts) enables me to anticipate risks, remove blockers, and ensure timely delivery of scalable data solutions. Additionally, I have produced executive‑level dashboards in Power BI that translate complex analytics into clear business insights, supporting effective communication with non‑technical audiences.
+
+I am eager to contribute my program‑management discipline and technical depth to help itD’s eDiscovery and Information Governance initiatives succeed. I would welcome the opportunity to discuss how my experience can advance your data engineering programs.
+
+Thank you for your consideration; I look forward to speaking with you soon.
