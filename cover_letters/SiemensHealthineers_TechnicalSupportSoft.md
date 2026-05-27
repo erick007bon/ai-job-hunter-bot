@@ -1,14 +1,14 @@
-# Cover Letter - Clinical Laboratory Scientist (Laboratory Information Manager) @ US Department of Veterans Affairs
+# Cover Letter - Technical Support Software Representative @ Siemens Healthineers
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=d9565509cc0f5c77
+**URL:** https://www.indeed.com/viewjob?jk=499665f6a4ed208c
 
 ---
 
-Dear US Department of Veterans Affairs team,
+Dear Siemens Healthineers team,
 
-I am writing to apply for the Clinical Laboratory Scientist (Laboratory Information Manager) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Technical Support Software Representative position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
