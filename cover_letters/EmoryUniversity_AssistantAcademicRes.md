@@ -1,19 +1,24 @@
-# Cover Letter - Assistant Academic Research Scientist | School of Medicine - Pediatrics, Emory LOBP @ Emory University
+# Cover Letter - Assistant Academic Research Scientist, School of Medicine: Biomedical Engineering @ Emory University
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=e79c9cfe733500f2
+**URL:** https://www.indeed.com/viewjob?jk=4e056a228b872953
 
 ---
 
 Dear Emory University team,
 
-I bring a strong background in quantitative modeling and data-driven research that aligns with the Robert Dick Laboratory’s focus on structural virology. My experience designing end‑to‑end AI pipelines, including data ingestion, feature engineering, and model deployment, equips me to process cryo‑EM datasets efficiently. I have applied advanced statistical methods (ARIMA, GARCH) and machine learning (PyTorch LSTMs) to large, high‑dimensional biological data, ensuring reproducibility and rigorous validation—skills directly useful for analyzing viral lattice structures.
+I am writing to apply for the Assistant Academic Research Scientist, School of Medicine: Biomedical Engineering position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-In my “Trading Algorítmico con Deep Learning” project, I built a full pipeline that ingested raw market data, engineered features, trained deep neural networks, and performed backtesting in an automated environment. This demonstrates my ability to handle complex data workflows, a requirement for the laboratory’s cryo‑EM data processing and biochemical assay analysis.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-I am drawn to Emory’s interdisciplinary environment and the opportunity to contribute to antiviral strategy development. The chance to combine my quantitative expertise with cutting‑edge structural biology resonates with my career goal of translating data insights into tangible biomedical advances.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I would welcome the opportunity to discuss how my skills can support your research objectives. Please let me know a convenient time for a brief conversation.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Thank you for considering my application.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+
+Best regards,
+FLORES ZAMBRANO ERICK
+Economista & Científico de Datos | Especialista en IA Aplicada y Análisis Financiero
+adanrivas6655@gmail.com | GitHub: erick007bon
