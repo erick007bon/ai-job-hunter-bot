@@ -97,9 +97,20 @@ class GmailReplyBot:
                 body = base64.urlsafe_b64decode(data + '==').decode('utf-8', errors='ignore')
         return body[:3000]  # Limitar a 3000 chars
 
-    def _classify_email(self, subject: str, body: str) -> str:
-        """Clasifica el email: 'positive', 'rejection', 'question', 'unknown'"""
+    def _classify_email(self, subject: str, body: str, sender_email: str) -> str:
+        """Clasifica el email y asegura que venga de un humano/reclutador."""
+        # 1. IGNORAR ABSOLUTAMENTE correos automatizados, marketing o personales
+        bad_senders = ["no-reply", "noreply", "donotreply", "mailer-daemon", "bounce", "newsletter", "marketing"]
+        if any(bad in sender_email.lower() for bad in bad_senders):
+            return "unknown"
+            
+        # 2. IGNORAR correos que no parezcan de trabajo
         text = (subject + " " + body).lower()
+        job_keywords = ["application", "aplicación", "candidate", "candidato", "interview", "entrevista", "role", "rol", "position", "posición", "resume", "cv", "perfil", "profile"]
+        if not any(k in text for k in job_keywords):
+            return "unknown"
+
+        # 3. Clasificación real
         if any(signal in text for signal in POSITIVE_SIGNALS):
             return "positive"
         if any(signal in text for signal in REJECTION_SIGNALS):
@@ -266,9 +277,9 @@ Keep reply under 150 words. Sign as {nombre}."""
             # Extraer cuerpo
             body_text = self._decode_body(msg['payload'])
 
-            # Clasificar
-            email_type = self._classify_email(subject, body_text)
-            print(f"\n  📧 De: {sender_name} | {email_type.upper()} | Asunto: {subject[:50]}")
+            # Clasificar con filtro ESTRICTO
+            email_type = self._classify_email(subject, body_text, sender_email)
+            print(f"\n  📧 De: {sender_name} <{sender_email}> | {email_type.upper()} | Asunto: {subject[:50]}")
 
             if email_type == "unknown":
                 stats['skipped'] += 1
