@@ -1,4 +1,4 @@
-name: 🤖 AI Job Hunter V4 — LinkedIn + Gmail + Hunter.io
+name: 🤖 AI Job Hunter V5 — Jobs + Becas + Telegram
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
     - cron: '0 22 * * *'   # 5pm Ecuador
     - cron: '0 3 * * *'    # 10pm Ecuador
   workflow_dispatch:
-    # Puedes correrlo manualmente desde github.com o app movil de GitHub
+    # Correr manualmente desde github.com o la app móvil de GitHub
 
 jobs:
   job_hunt:
@@ -32,24 +32,37 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: 🔑 Reconstruct Secure Credentials (Gmail OAuth)
+    - name: 🔑 Reconstruct Gmail Credentials
       run: |
         mkdir -p data
         echo "${{ secrets.GMAIL_CREDENTIALS_B64 }}" | base64 -d > data/credentials.json
         echo "${{ secrets.GMAIL_TOKEN_B64 }}" | base64 -d > data/token.json
         echo "Credenciales Gmail restauradas OK"
 
-    - name: 🚀 Run AI Job Hunter V4
+    - name: 🚀 Run AI Job Hunter V5 (Empleos)
       env:
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
         HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
         LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
         LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
         echo "Iniciando ciclo de postulaciones..."
         python main_v3.py --send --max 20
         echo "Ciclo completado."
+
+    - name: 🎓 Run Scholarship Hunter (Becas — 1x al dia a las 7am)
+      if: github.event.schedule == '0 12 * * *' || github.event_name == 'workflow_dispatch'
+      env:
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        echo "Buscando becas internacionales..."
+        python scholarship_hunter.py
+        echo "Búsqueda de becas completada."
 
     - name: 📊 Commit y Push resultados
       run: |
