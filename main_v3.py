@@ -1,14 +1,16 @@
 """
-AI Job Hunter Bot V4 - Agente Autonomo de Postulacion + InMail Ultra Avanzado
+AI Job Hunter Bot V5 - Agente Autonomo de Postulacion + Reply Bot
 ==============================================================================
 Flujo:
+  0. [NUEVO] Lee respuestas de reclutadores en Gmail y responde automaticamente
   1. Extrae trabajos de 9+ plataformas (Ecuador + Sudamerica + Global Remoto)
-  2. Filtra por seniority y nivel de ingles B2
+  2. Filtra por seniority — SOLO roles Data/AI/ML (whitelist explicita)
   3. Extrae emails de contacto de cada oferta (Hunter.io verificado)
   4. Genera Cover Letter personalizada con IA (leyendo el JD real)
   5. Envia email desde Gmail con CV adjunto (ES/EN segun oferta)
-  6. [FASE 2] Envia InMail inteligente a reclutadores en LinkedIn con proyectos reales
+  6. [FASE 2] Envia InMail inteligente a reclutadores en LinkedIn
   7. Registra en memoria para no repetir postulaciones
+  8. Notifica por Telegram cada oportunidad relevante
 """
 import os
 import sys
@@ -34,6 +36,8 @@ from src.email.gmail_sender import GmailSender
 from src.memory.memory_store import MemoryStore
 from src.linkedin.linkedin_messenger import LinkedInMessenger
 from src.linkedin.recruiter_connector import RecruiterConnector
+from src.email.gmail_reply_bot import GmailReplyBot
+from src.notifications.telegram_notifier import notify_job_found, notify_cycle_summary
 
 def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = True):
     """
@@ -47,7 +51,17 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
     print(f" Modo Email: {'[EMAIL REAL]' if send_emails else '[MODO DRAFT]'}")
     print(f" Modo InMail: {'[LINKEDIN ACTIVO]' if send_inmails else '[LINKEDIN SKIP]'}")
     print("=" * 60)
-    
+
+    # PASO 0: RESPONDER EMAILS DE RECLUTADORES (antes de buscar nuevos)
+    print("\n[PASO 0] Revisando respuestas de reclutadores en Gmail...")
+    try:
+        reply_bot = GmailReplyBot()
+        reply_stats = reply_bot.run(max_replies=10)
+        print(f"  -> Respondidos: positivos={reply_stats['positive']} "
+              f"preguntas={reply_stats['question']} rechazos={reply_stats['rejection']}")
+    except Exception as e:
+        print(f"  -> [SKIP] Reply bot error: {e}")
+
     # PASO 1: RECOLECTAR TRABAJOS BRUTOS
     scrapers = [
         GoogleJobsScraper(),     # Google Jobs + Indeed + Glassdoor (NUEVO)
