@@ -22,6 +22,7 @@ class ScholarshipScraper:
         scholarships.extend(self._fetch_daad())
         scholarships.extend(self._fetch_oas())
         scholarships.extend(self._fetch_aigrants())
+        scholarships.extend(self._fetch_networking())
         return scholarships
 
     def _base(self, name, url, org, desc, amount="", deadline="", lang="en"):
@@ -109,3 +110,49 @@ class ScholarshipScraper:
         except Exception as e:
             print(f"  [BECAS] AI Grants error: {e}")
         return results
+
+    def _fetch_networking(self) -> List[Dict]:
+        """Comunidades y programas para hacer networking en IA (LatAm)."""
+        results = []
+        
+        results.append(self._base(
+            name="LatinX in AI (LXAI) — Research & Networking",
+            url="https://www.latinxinai.org/",
+            org="LatinX in AI",
+            desc="Comunidad mundial para investigadores latinos en IA. "
+                 "Tienen programas de mentoría, organizan talleres en NeurIPS, ICML, CVPR, "
+                 "y ofrecen becas de viaje para presentar papers. "
+                 "PERFECTO para presentar FCH-ARX V4 y conocer a investigadores top de OpenAI/Google.",
+            amount="Networking + Becas de viaje a conferencias",
+            deadline="Membresía abierta todo el año",
+            lang="en/es",
+        ))
+        
+        results.append(self._base(
+            name="DeepLearning.AI Pie & AI Ambassador",
+            url="https://www.deeplearning.ai/pie-and-ai/",
+            org="DeepLearning.AI",
+            desc="Conviértete en embajador y organiza meetups de IA en Ecuador. "
+                 "Andrew Ng y su equipo te dan soporte oficial. "
+                 "Es la mejor forma de volverte el referente de IA en tu ciudad y "
+                 "construir contactos con empresas locales e internacionales.",
+            amount="Soporte oficial de marca + Networking VIP",
+            deadline="Aplicaciones abiertas continuamente",
+            lang="en/es",
+        ))
+        
+        results.append(self._base(
+            name="OpenAI Residency / Scholar Program",
+            url="https://openai.com/careers/residency",
+            org="OpenAI",
+            desc="Programa para investigadores talentosos de campos no tradicionales "
+                 "(tu perfil Economía + Criptografía + IA es ideal). "
+                 "Te pagan por investigar en San Francisco junto al equipo de OpenAI. "
+                 "Networking del más alto nivel mundial.",
+            amount="Salario completo de Silicon Valley",
+            deadline="Revisar convocatorias anuales",
+            lang="en",
+        ))
+        
+        return results
+
