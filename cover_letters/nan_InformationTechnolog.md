@@ -1,23 +1,25 @@
-# Cover Letter - Information Technology Project Manager (Release Train Engineer) @ nan
+# Cover Letter - Information Technology Specialist (Data Scientist) (Direct Hire) @ nan
 
-**Fuente:** Google Jobs (Indeed) | **Email contacto:** csmith@nan.com
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=5fd02c18dd49d969
+**URL:** https://www.indeed.com/viewjob?jk=78ec4dde560a1cb2
 
 ---
 
 Dear nan team,
 
-I am writing to apply for the Information Technology Project Manager (Release Train Engineer) position. My background in coordinating complex technical projects and delivering data-driven insights makes me a strong fit for this role.
+I am writing to express my interest in the Information Technology Specialist (Data Scientist) position. With a dual background in economics and data science, I have led end‑to‑end AI projects that align closely with NASA’s modernization objectives.  
 
-In my recent work, I designed and deployed a Multi-Agent System with MCP architecture that coordinated specialized agents for financial data scraping, econometric analysis, and automated reporting. This required managing dependencies across modules, maintaining visibility into each agent's progress, and ensuring synchronized delivery—skills directly applicable to overseeing release trains and cross-pod coordination.
+Your need for a principal technical expert in enterprise data systems matches my experience deploying scalable, reproducible data pipelines using Docker, FastAPI, and MLflow. In the “Sistema Multi‑Agente con MCP” project, I designed a distributed architecture that ingested, processed, and archived financial data at petabyte scale, ensuring traceability and interoperability—skills directly applicable to consolidating Earth science data archives.  
 
-I also developed production ML APIs using FastAPI and Docker, implementing experiment tracking with MLflow to monitor model performance, dependencies, and deployment status. This experience taught me how to maintain integrated visibility into technical deliverables while managing scope and timelines effectively.
+I also built a predictive trading system that combined LSTM models with backtesting frameworks, demonstrating my ability to create robust, reproducible analytics workflows—an essential requirement for developing foundational data products that support open science.  
 
-Additionally, my Power BI dashboard implementations for executive reporting demonstrate my ability to transform complex data into clear, actionable insights—a capability that supports the RAID tracking and value stream visibility this role requires.
+Working at a research‑intensive organization, I routinely evaluate emerging technologies, such as cloud‑native services and micro‑service architectures, to drive long‑term modernization. I am eager to bring this expertise to nan, contributing to the agency’s mission of advancing Earth science data accessibility and reliability.  
 
-I am motivated by the U.S. Courts' mission to modernize case management systems and believe my technical background combined with project coordination experience would contribute to successful program delivery.
+I would welcome the opportunity to discuss how my technical leadership and architectural experience can support your consolidation and cloud‑infrastructure initiatives. Please let me know a convenient time for a brief call.  
 
-I would welcome the opportunity to discuss how my skills align with your needs. Please find my detailed CV attached for your review.
+Thank you for considering my application.  
 
-Best regards
+Best regards,  
+
+FLORES ZAMBRANO ERICK
