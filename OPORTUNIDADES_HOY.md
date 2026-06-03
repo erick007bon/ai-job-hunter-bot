@@ -1,107 +1,80 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-03 20:16
+# AI JOB HUNTER V3 - Reporte 2026-06-03 23:48
 
-> **Extraidas:** 126 | **Filtradas:** 34 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 76 | **Emails enviados total:** 2
+> **Extraidas:** 78 | **Filtradas:** 32 | **Procesadas hoy:** 15
+> **Total historico postulaciones:** 91 | **Emails enviados total:** 6
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ University of Pittsburgh
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6113854431f1d403
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofPittsbur_DataScientist.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Hollstadt Consulting
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1849a5b7a2f2af9b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HollstadtConsulting_DataEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist Manager - Eso @ Quest Diagnostics
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9ca1b5a44cfb61f7
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuestDiagnostics_DataScientistManager.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Kotak Mahindra Bank
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-kotak-mahindra-bank-4422901676/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KotakMahindraBank_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Intern @ Ouro
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-intern-at-ouro-4423029423/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Ouro_DataScientistIntern.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior Data Scientist @ Why Hiring
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4419675562/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Proprietary Research @ Point72
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-proprietary-research-at-point72-4191961576/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Point72_DataScientistProprie.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist JR - Digital Analytics @ American Express
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-jr-digital-analytics-at-american-express-4424222812/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmericanExpress_DataScientistJRDigit.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Velo3D
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-velo3d-4423039068/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Velo3D_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - (Knowledge Graph & Identity) @ Samba TV
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-knowledge-graph-identity-at-samba-tv-4383810332/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SambaTV_DataScientistKnowled.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer, Reinforcement Learning @ Skild AI
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-reinforcement-learning-at-skild-ai-4043212053/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SkildAI_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, New Grad @ SentiLink
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-new-grad-at-sentilink-4405209557/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SentiLink_DataScientistNewGrad.md
+### [EMAIL ENVIADO]: Deep Learning Engineer II @ Hayden AI
+- **Email enviado a:** janet.le@hayden.ai
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist | Remote @ Crossing Hurdles
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-remote-at-crossing-hurdles-4413884406/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrossingHurdles_DataScientistRemote.md
+### [EMAIL ENVIADO]: Software Engineer, Machine Learning @ Meta
+- **Email enviado a:** accommodations-ext@meta.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: AI Engineer @ Trustify Technology
-- **Email enviado a:** thanh.vo@trustifytechnology.com
+### [EMAIL ENVIADO]: Machine Learning Engineer @ SAP
+- **Email enviado a:** Careers@sap.com
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer (m/f/d) @ TAKKT Group
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-m-f-d-at-takkt-group-4420420705/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TAKKTGroup_AIEngineermfd.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Spotify
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-spotify-4393512984/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Spotify_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Generative AI Engineer @ Accenture na Slovensku
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/generative-ai-engineer-at-accenture-na-slovensku-4422064144/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AccenturenaSlovensku_GenerativeAIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer Intern @ DHL
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-intern-at-dhl-4422684893/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DHL_AIEngineerIntern.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Molex
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-molex-4382009803/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Molex_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Intern @ Netspend
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-intern-at-netspend-4423059207/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Netspend_DataScientistIntern.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Generative AI Engineer @ Kantech
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/generative-ai-engineer-at-kantech-4422908198/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kantech_GenerativeAIEngineer.md
+### [EMAIL ENVIADO]: AI Engineer @ ClearRoute
+- **Email enviado a:** join@clearroute.io
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI / NLP Engineer @ Prep Edu
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-nlp-engineer-at-prep-edu-4424013722/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrepEdu_AINLPEngineer.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning QA Engineer @ Derq
+- **APLICA AQUI:** https://remoteOK.com/remote-jobs/remote-machine-learning-qa-engineer-derq-1132718
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Derq_MachineLearningQAEng.md
+- **Fuente:** RemoteOK
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Antenna Group
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-antenna-group-4422680615/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AntennaGroup_AIEngineer.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Analyst @ Diptyque Paris
+- **APLICA AQUI:** https://remoteOK.com/remote-jobs/remote-data-analyst-diptyque-paris-1132684
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DiptyqueParis_DataAnalyst.md
+- **Fuente:** RemoteOK
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer (f/m/x) @ Netconomy
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-f-m-x-at-netconomy-4405103228/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Netconomy_AIEngineerfmx.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Analyst @ Diptyque Paris
+- **APLICA AQUI:** https://remoteOK.com/remote-jobs/remote-data-analyst-diptyque-paris-1132688
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DiptyqueParis_DataAnalyst.md
+- **Fuente:** RemoteOK
 
-### [EMAIL ENVIADO]: AI Engineer @ Radancy
-- **Email enviado a:** recruiting@radancy.com
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Generative AI Engineer @ BMW TechWorks Romania
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/generative-ai-engineer-at-bmw-techworks-romania-4392413617/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BMWTechWorksRomania_GenerativeAIEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ Winaxis LLC
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-winaxis-llc-4422955129/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WinaxisLLC_AIMLEngineer.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Analyst @ Diptyque Paris
+- **APLICA AQUI:** https://remoteOK.com/remote-jobs/remote-data-analyst-diptyque-paris-1132687
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DiptyqueParis_DataAnalyst.md
+- **Fuente:** RemoteOK
 
 
 ---
