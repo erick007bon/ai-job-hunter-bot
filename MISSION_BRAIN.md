@@ -52,7 +52,15 @@ Los secretos estan inyectados via variables de entorno, evitando quemarlos en co
 
 ## 🛠️ CAMBIOS RECIENTES (LOG)
 
-- **[FIX]** Dependencias de Windows (`pywin32`) eliminadas del `requirements.txt`. El bot ahora compila y corre perfecto en Linux (Ubuntu/Actions).
+- **[FIX CRÍTICO - 03 Junio 2026]** Reparación total del pipeline de automatización que estaba crasheando (6 bugs):
+  1. **MemoryStore:** Se agregaron los métodos faltantes (`is_applied`, `get_stats`) y se corrigió la firma de `mark_applied` para aceptar argumentos con nombre, evitando los `AttributeError` y `TypeError` que detenían el bot en la fase de filtrado.
+  2. **Gmail API (OAuth2):** Se eliminó el obsoleto `gmail_sender.py` basado en contraseñas SMTP. Se reconstruyó para usar el mismo sistema de tokens OAuth2 (`token.json` y `credentials.json`) del Reply Bot. Ahora los correos se envían correctamente usando tu cuenta de Google autenticada.
+  3. **Notificaciones de Telegram:** Se activaron y configuraron correctamente los métodos `notify_job_found` y `notify_cycle_summary` en el flujo principal (`main_v3.py`). Las notificaciones llegan en tiempo real a tu celular.
+  4. **GitHub Workflow:** Se reparó `job_hunter.yml` que apuntaba a un archivo de memoria inexistente (`sent_log.json` en lugar del correcto `applied_jobs.json`) y fallaba al hacer el commit de los resultados.
+  5. **Seguridad Hunter.io:** La llave de la API de Hunter ya no está en texto plano; usa una variable de entorno con fallback, mejorando la seguridad.
+  6. **Git/Repositorio:** Se eliminaron archivos problemáticos de *Cover Letters* con errores de mayúsculas/minúsculas que bloqueaban los pulls y pushes de Git en Windows.
+
+- **[FIX ANTERIOR]** Dependencias de Windows (`pywin32`) eliminadas del `requirements.txt`. El bot ahora compila y corre perfecto en Linux (Ubuntu/Actions).
 - **[FEATURE]** Integrado `python-jobspy` para capturar Google Jobs, Indeed y Glassdoor (suma ~130 vacantes nuevas al pool diario).
 - **[FEATURE]** Construido `RecruiterConnector` (Fase 3) para automatizar networking con Headhunters.
 - **[MIGRACION]** Todo el proyecto se esta sincronizando con el repositorio `BOT-DE-ENCONTRAR-TRABAJO` para presentacion publica de portafolio (como experto en automatizacion/IA).
