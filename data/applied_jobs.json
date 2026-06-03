@@ -338,5 +338,165 @@
     "applied_at": "2026-06-01T17:55:17.025020",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Artificialy_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=6113854431f1d403": {
+    "title": "Data Scientist",
+    "company": "University of Pittsburgh",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-03T20:13:00.146190",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofPittsbur_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=1849a5b7a2f2af9b": {
+    "title": "Data Engineer",
+    "company": "Hollstadt Consulting",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-03T20:13:03.339592",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HollstadtConsulting_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9ca1b5a44cfb61f7": {
+    "title": "Data Scientist Manager - Eso",
+    "company": "Quest Diagnostics",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-03T20:13:14.764000",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuestDiagnostics_DataScientistManager.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-kotak-mahindra-bank-4422901676/": {
+    "title": "Data Scientist",
+    "company": "Kotak Mahindra Bank",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:13:27.824485",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KotakMahindraBank_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4419675562/": {
+    "title": "Junior Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:13:39.213132",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-jr-digital-analytics-at-american-express-4424222812/": {
+    "title": "Data Scientist JR - Digital Analytics",
+    "company": "American Express",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:13:48.589058",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AmericanExpress_DataScientistJRDigit.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-knowledge-graph-identity-at-samba-tv-4383810332/": {
+    "title": "Data Scientist - (Knowledge Graph & Identity)",
+    "company": "Samba TV",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:14:03.824969",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SambaTV_DataScientistKnowled.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-new-grad-at-sentilink-4405209557/": {
+    "title": "Data Scientist, New Grad",
+    "company": "SentiLink",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:14:05.427449",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SentiLink_DataScientistNewGrad.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-crossing-hurdles-4413884406/": {
+    "title": "Data Scientist | Remote",
+    "company": "Crossing Hurdles",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:14:08.501129",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrossingHurdles_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-trustify-technology-4424085641/": {
+    "title": "AI Engineer",
+    "company": "Trustify Technology",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:14:21.021728",
+    "email_sent_to": "thanh.vo@trustifytechnology.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TrustifyTechnology_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-m-f-d-at-takkt-group-4420420705/": {
+    "title": "AI Engineer (m/f/d)",
+    "company": "TAKKT Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:14:22.430225",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TAKKTGroup_AIEngineermfd.md"
+  },
+  "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-accenture-na-slovensku-4422064144/": {
+    "title": "Generative AI Engineer",
+    "company": "Accenture na Slovensku",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:14:33.681946",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AccenturenaSlovensku_GenerativeAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-molex-4382009803/": {
+    "title": "AI Engineer",
+    "company": "Molex",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:14:44.672614",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Molex_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-kantech-4422908198/": {
+    "title": "Generative AI Engineer",
+    "company": "Kantech",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:14:58.164085",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kantech_GenerativeAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-nlp-engineer-at-prep-edu-4424013722/": {
+    "title": "AI / NLP Engineer",
+    "company": "Prep Edu",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:15:53.349343",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrepEdu_AINLPEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-antenna-group-4422680615/": {
+    "title": "AI Engineer",
+    "company": "Antenna Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:15:54.872698",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AntennaGroup_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-f-m-x-at-netconomy-4405103228/": {
+    "title": "AI Engineer (f/m/x)",
+    "company": "Netconomy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:15:56.533890",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Netconomy_AIEngineerfmx.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-radancy-4404540584/": {
+    "title": "AI Engineer",
+    "company": "Radancy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:16:09.053191",
+    "email_sent_to": "recruiting@radancy.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Radancy_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-bmw-techworks-romania-4392413617/": {
+    "title": "Generative AI Engineer",
+    "company": "BMW TechWorks Romania",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:16:10.537156",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BMWTechWorksRomania_GenerativeAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-winaxis-llc-4422955129/": {
+    "title": "AI/ML Engineer",
+    "company": "Winaxis LLC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T20:16:11.973709",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WinaxisLLC_AIMLEngineer.md"
   }
 }
