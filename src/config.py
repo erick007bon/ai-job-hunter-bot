@@ -1,5 +1,9 @@
 import os
-
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 class Config:
     # Perfil del candidato
     ENGLISH_LEVEL = "B2"
@@ -10,6 +14,7 @@ class Config:
     GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
     OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY", "")
     EMAIL_SENDER = os.environ.get("EMAIL_SENDER", "eflores4006@utm.edu.ec")
+    HUNTER_API_KEY = os.environ.get("HUNTER_API_KEY", "")
     
     # LinkedIn Auth
     LINKEDIN_LI_AT = os.environ.get("LINKEDIN_LI_AT", "AQEDAS5itwwF3emOAAABng9cFRwAAAGeM2iZHFYARzSAOR0x-uGv9sVHcBBlbUmMLWWwXtcte5JvQLNLbOY13JKrj_XwuyJCpjPbOB6nloxHxoznCCkyMnHJb0vq7RpWGm0uWheLrApMTGyVag56Es_W")

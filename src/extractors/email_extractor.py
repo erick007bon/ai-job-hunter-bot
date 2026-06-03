@@ -1,4 +1,5 @@
 import re
+import os
 import time
 import socket
 import requests
@@ -8,7 +9,7 @@ from urllib.parse import urlparse
 
 # Hunter.io API - Encuentra emails corporativos REALES y verificados
 # Registrate gratis en hunter.io (25 busquedas/mes gratis)
-HUNTER_API_KEY = "6245e0dd42c3e67005f70a76a896e392b2260bd6"  # Key proporcionada por el usuario
+HUNTER_API_KEY = os.environ.get("HUNTER_API_KEY", "6245e0dd42c3e67005f70a76a896e392b2260bd6")
 
 HUNTER_DOMAIN_SEARCH = "https://api.hunter.io/v2/domain-search"
 HUNTER_FIND       = "https://api.hunter.io/v2/email-finder"
