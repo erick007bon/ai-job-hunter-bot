@@ -190,6 +190,9 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
             report_lines.append(f"- **Carta guardada en:** {cl_path}")
         report_lines.append(f"- **Fuente:** {job.get('source')}\n")
         
+        # Notificar por Telegram cada postulación
+        notify_job_found(job)
+        
         processed += 1
     
     # GENERAR REPORTE FINAL
@@ -214,6 +217,11 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
     print(f"\n[DONE] Reporte V4 guardado. {processed} nuevas postulaciones procesadas.")
     print(f"  Emails enviados (historico): {stats['emails_enviados']}")
     print(f"  Ver cartas en: cover_letters/")
+
+    # Notificar resumen del ciclo por Telegram
+    emails_this_cycle = sum(1 for line in report_lines if '[EMAIL ENVIADO]' in line)
+    drafts_this_cycle = processed - emails_this_cycle
+    notify_cycle_summary(len(all_jobs), len(filtered_jobs), emails_this_cycle, drafts_this_cycle)
 
     # ======================================================
     # FASE 2: InMail Ultra Avanzado — LinkedIn Directo
