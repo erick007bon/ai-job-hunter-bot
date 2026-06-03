@@ -2,13 +2,11 @@ name: 🤖 AI Job Hunter V5 — Jobs + Becas + Telegram
 
 on:
   schedule:
-    # 4 ciclos al dia: 7am, 12pm, 5pm, 10pm hora Ecuador (UTC-5)
     - cron: '0 12 * * *'   # 7am Ecuador
     - cron: '0 17 * * *'   # 12pm Ecuador
     - cron: '0 22 * * *'   # 5pm Ecuador
     - cron: '0 3 * * *'    # 10pm Ecuador
   workflow_dispatch:
-    # Correr manualmente desde github.com o la app móvil de GitHub
 
 jobs:
   job_hunt:
@@ -32,17 +30,36 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: 📁 Prepare directories
+      run: mkdir -p data reportes cover_letters
+
     - name: 🔑 Reconstruct Gmail Credentials
       run: |
-        mkdir -p data
-        echo "${{ secrets.GMAIL_CREDENTIALS_B64 }}" | base64 -d > data/credentials.json
-        echo "${{ secrets.GMAIL_TOKEN_B64 }}" | base64 -d > data/token.json
-        echo "Credenciales Gmail restauradas OK"
+        if [ -n "$GMAIL_CREDENTIALS_B64" ]; then
+          echo "$GMAIL_CREDENTIALS_B64" | base64 -d > data/credentials.json
+          echo "✓ credentials.json restaurado"
+        else
+          echo "⚠️  GMAIL_CREDENTIALS_B64 no configurado — email por SMTP"
+        fi
+        if [ -n "$GMAIL_TOKEN_B64" ]; then
+          echo "$GMAIL_TOKEN_B64" | base64 -d > data/token.json
+          echo "✓ token.json restaurado"
+        else
+          echo "⚠️  GMAIL_TOKEN_B64 no configurado"
+        fi
+      env:
+        GMAIL_CREDENTIALS_B64: ${{ secrets.GMAIL_CREDENTIALS_B64 }}
+        GMAIL_TOKEN_B64: ${{ secrets.GMAIL_TOKEN_B64 }}
 
     - name: 🚀 Run AI Job Hunter V5 (Empleos)
       env:
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        SMTP_HOST: smtp.office365.com
+        SMTP_PORT: "587"
+        SMTP_TLS: "true"
         HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
         LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
         LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
@@ -61,7 +78,7 @@ jobs:
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
         echo "Buscando becas internacionales..."
-        python scholarship_hunter.py
+        python scholarship_hunter.py || echo "⚠️ scholarship_hunter.py fallo — continuando"
         echo "Búsqueda de becas completada."
 
     - name: 📊 Commit y Push resultados
