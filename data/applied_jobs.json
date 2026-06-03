@@ -498,5 +498,125 @@
     "applied_at": "2026-06-03T20:16:11.973709",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WinaxisLLC_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-intern-at-ouro-4423029423/": {
+    "title": "Data Scientist, Intern",
+    "company": "Ouro",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:44:33.516036",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Ouro_DataScientistIntern.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-proprietary-research-at-point72-4191961576/": {
+    "title": "Data Scientist, Proprietary Research",
+    "company": "Point72",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:45:01.239770",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Point72_DataScientistProprie.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-velo3d-4423039068/": {
+    "title": "Machine Learning Engineer",
+    "company": "Velo3D",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:45:22.497146",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Velo3D_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-reinforcement-learning-at-skild-ai-4043212053/": {
+    "title": "Machine Learning Engineer, Reinforcement Learning",
+    "company": "Skild AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:45:39.013364",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SkildAI_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/deep-learning-engineer-ii-at-hayden-ai-4423021123/": {
+    "title": "Deep Learning Engineer II",
+    "company": "Hayden AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:45:56.206744",
+    "email_sent_to": "janet.le@hayden.ai",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HaydenAI_DeepLearningEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-meta-4255814153/": {
+    "title": "Software Engineer, Machine Learning",
+    "company": "Meta",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:46:18.669447",
+    "email_sent_to": "accommodations-ext@meta.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_SoftwareEngineerMach.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sap-4424260565/": {
+    "title": "Machine Learning Engineer",
+    "company": "SAP",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:46:28.965254",
+    "email_sent_to": "Careers@sap.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAP_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-spotify-4393512984/": {
+    "title": "Machine Learning Engineer",
+    "company": "Spotify",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:46:46.958376",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Spotify_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-intern-at-dhl-4422684893/": {
+    "title": "AI Engineer Intern",
+    "company": "DHL",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:47:04.471372",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DHL_AIEngineerIntern.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-intern-at-netspend-4423059207/": {
+    "title": "Data Scientist, Intern",
+    "company": "Netspend",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:47:13.248236",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Netspend_DataScientistIntern.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-clearroute-4424259035/": {
+    "title": "AI Engineer",
+    "company": "ClearRoute",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-03T23:47:32.243860",
+    "email_sent_to": "join@clearroute.io",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ClearRoute_AIEngineer.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-machine-learning-qa-engineer-derq-1132718": {
+    "title": "Machine Learning QA Engineer",
+    "company": "Derq",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-03T23:47:51.752843",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Derq_MachineLearningQAEng.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-diptyque-paris-1132684": {
+    "title": "Data Analyst",
+    "company": "Diptyque Paris",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-03T23:48:01.044162",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DiptyqueParis_DataAnalyst.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-diptyque-paris-1132688": {
+    "title": "Data Analyst",
+    "company": "Diptyque Paris",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-03T23:48:12.908678",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DiptyqueParis_DataAnalyst.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-diptyque-paris-1132687": {
+    "title": "Data Analyst",
+    "company": "Diptyque Paris",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-03T23:48:27.751442",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DiptyqueParis_DataAnalyst.md"
   }
 }
