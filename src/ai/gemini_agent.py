@@ -179,3 +179,41 @@ REDACTED_EMAIL@example.com | GitHub: erick007bon"""
             f.write(letter_text)
         
         return filepath
+
+    def generate_cv_summary(self, job: Dict) -> str:
+        """
+        Genera un 'Professional Summary' para el CV adaptado a la vacante.
+        """
+        job_title = job.get('title', 'la vacante')
+        company = job.get('company', 'la empresa')
+        description = job.get('description', '')[:1500]
+        
+        prompt = f"""You are an expert ATS Resume Writer. I am applying for the '{job_title}' position at '{company}'.
+
+MY BASE PROFILE:
+Economist and Data Scientist with dual academic formation (Economics + Data Science & AI), specialized in the intersection of financial analysis, machine learning, and intelligent automation. Demonstrated experience building end-to-end AI solutions: from predictive models in Python (scikit-learn, PyTorch, TensorFlow) to conversational agent architectures with LLMs, API integrations, and MCP (Model Context Protocol) for multi-agent systems. Currently pursuing two simultaneous university degrees.
+
+JOB DESCRIPTION:
+{description}
+
+INSTRUCTIONS:
+Write a powerful 3-4 sentence 'Professional Summary' for my resume in ENGLISH.
+- Tailor it to highlight the most relevant skills from my base profile that match the job description.
+- Keep it under 65 words.
+- Do NOT use pronouns like "I" or "My" (e.g., start with "Economist and Data Scientist...").
+- Do not invent skills I do not have (Stick to Python, PyTorch, TensorFlow, LLMs, SQL, Power BI, Economics, Finance, ML, AI).
+- Write ONLY the summary text, nothing else.
+"""
+        
+        for model in FREE_MODELS:
+            try:
+                result = self._call_openrouter(prompt, model)
+                if result and len(result) > 20:
+                    # Clean up quotes if AI added them
+                    return result.strip('"').strip("'").strip()
+            except Exception:
+                continue
+                
+        # Fallback summary
+        return "Economist and Data Scientist with dual academic formation (Economics + Data Science & AI), specialized in financial analysis, machine learning, and intelligent automation. Demonstrated experience building end-to-end AI solutions from predictive models in Python to LLM multi-agent systems. Seeking to leverage data-driven strategies and technical expertise to deliver impactful results."
+
