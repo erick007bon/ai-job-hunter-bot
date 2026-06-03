@@ -178,5 +178,165 @@
     "title": "Client Delivery Manager",
     "company": "Storyteller",
     "applied_at": "2026-05-27T23:13:55.087621"
+  },
+  "https://www.indeed.com/viewjob?jk=78ec4dde560a1cb2": {
+    "title": "Information Technology Specialist (Data Scientist) (Direct Hire)",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-01T17:52:23.659651",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_InformationTechnolog.md"
+  },
+  "https://www.indeed.com/viewjob?jk=55999a1bb5423281": {
+    "title": "AI Engineer - ICAM",
+    "company": "General Dynamics Information Technology",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-01T17:52:34.743632",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneralDynamicsInfor_AIEngineerICAM.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-tifin-4419874788/": {
+    "title": "Junior Data Scientist",
+    "company": "TIFIN",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:52:42.454588",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TIFIN_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-viva-4363219612/": {
+    "title": "Junior Data Scientist",
+    "company": "Viva",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:52:51.876555",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Viva_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4418734239/": {
+    "title": "Jr. Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:53:17.026133",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JrDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-zeta-global-4422835653/": {
+    "title": "Data Scientist",
+    "company": "Zeta Global",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:53:22.226326",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZetaGlobal_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4418734194/": {
+    "title": "Junior Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:53:28.778096",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4418734186/": {
+    "title": "Jr. Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:53:35.706037",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JrDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-zest-for-tech-4421867063/": {
+    "title": "Data Scientist",
+    "company": "Zest for Tech",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:53:46.959143",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZestforTech_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-junior-at-vantor-4336714326/": {
+    "title": "Data Scientist - Junior",
+    "company": "Vantor",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:53:52.939264",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vantor_DataScientistJunior.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-data-driven-global-investment-firm-at-andiamo-4381047972/": {
+    "title": "Data Scientist - Data-Driven Global Investment Firm",
+    "company": "Andiamo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:54:02.419994",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Andiamo_DataScientistDataDri.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-data-driven-global-investment-firm-at-andiamo-4381048939/": {
+    "title": "Data Scientist - Data-Driven Global Investment Firm",
+    "company": "Andiamo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:54:08.651668",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Andiamo_DataScientistDataDri.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-onto-innovation-4310893067/": {
+    "title": "Junior AI Engineer",
+    "company": "Onto Innovation",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:54:16.561285",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OntoInnovation_JuniorAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%E2%80%93-agentic-ai-at-datamatics-technologies-4418749077/": {
+    "title": "AI/ML Engineer – Agentic AI",
+    "company": "Datamatics Technologies",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:54:25.322021",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DatamaticsTechnologi_AIMLEngineerAgenticA.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-laser-labs-4421644003/": {
+    "title": "AI/ML Engineer",
+    "company": "Laser Labs",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:54:30.759943",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LaserLabs_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ml-engineer-india-at-scoutit-4422844514/": {
+    "title": "ML Engineer - India",
+    "company": "Scoutit",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:54:40.031624",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scoutit_MLEngineerIndia.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-rakuten-4422869450/": {
+    "title": "AI/ML Engineer",
+    "company": "Rakuten",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:54:44.740638",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Rakuten_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%E2%80%93-agentic-ai-at-datamatics-technologies-4418746094/": {
+    "title": "AI/ML Engineer – Agentic AI",
+    "company": "Datamatics Technologies",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:54:58.579741",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DatamaticsTechnologi_AIMLEngineerAgenticA.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sf-technology-partners-4418779311/": {
+    "title": "Machine Learning Engineer",
+    "company": "SF Technology Partners",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:55:07.440411",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SFTechnologyPartners_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-artificialy-4421819224/": {
+    "title": "Machine Learning Engineer",
+    "company": "Artificialy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-01T17:55:17.025020",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Artificialy_MachineLearningEngin.md"
   }
 }
