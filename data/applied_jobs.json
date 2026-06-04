@@ -1002,5 +1002,77 @@
     "applied_at": "2026-06-04T19:15:31.633246",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestlÃHealthScience_SupplyChainDataAnaly.md"
+  },
+  "https://www.indeed.com/viewjob?jk=87e9f5e55cd521e7": {
+    "title": "DATA SCIENTIST",
+    "company": "Peraton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T23:09:41.984802",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Peraton_DATASCIENTIST.md"
+  },
+  "https://www.indeed.com/viewjob?jk=8cd82a4c0fd51f69": {
+    "title": "Exploitation Specialist/Data Scientist- Middle",
+    "company": "Trevity LLC",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T23:09:48.050016",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TrevityLLC_ExploitationSpeciali.md"
+  },
+  "https://www.indeed.com/viewjob?jk=5ca09c19bec1c040": {
+    "title": "AI / Machine Learning Engineer Manager (Hybrid-TS Clearance required)",
+    "company": "Lockheed Martin",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T23:09:53.586546",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LockheedMartin_AIMachineLearningEng.md"
+  },
+  "https://www.linkedin.com/jobs/view/research-scientist-ai-ml-at-nielseniq-4424436933/": {
+    "title": "Research Scientist (AI/ML)",
+    "company": "NielsenIQ",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T23:10:08.227059",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NielsenIQ_ResearchScientistAIM.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-knowledge-graph-identity-at-samba-tv-4382972405/": {
+    "title": "Data Scientist  (Knowledge Graph & Identity)",
+    "company": "Samba TV",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T23:10:16.568712",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SambaTV_DataScientistKnowled.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-arrowcore-group-4423557776/": {
+    "title": "Machine Learning Engineer",
+    "company": "ArrowCore Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T23:10:28.392022",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ArrowCoreGroup_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-olik-global-4423329118/": {
+    "title": "AI ML Engineer",
+    "company": "Olik Global",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T23:10:38.497310",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OlikGlobal_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-776-and-neo-backed-software-creation-startup-at-jack-jill-4424399838/": {
+    "title": "AI Engineer ($150k-$300k + Equity) at 776 and Neo-backed software creation startup",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T23:10:56.588931",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer150k300kEq.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-mwdn-4424442279/": {
+    "title": "Data Scientist",
+    "company": "MWDN",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T23:11:31.110630",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MWDN_DataScientist.md"
   }
 }
