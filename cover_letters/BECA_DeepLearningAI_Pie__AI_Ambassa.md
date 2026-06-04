@@ -1,9 +1,9 @@
-# Motivation Letter — LatinX in AI (LXAI) — Research & Networking
+# Motivation Letter — DeepLearning.AI Pie & AI Ambassador
 
-**Organization:** LatinX in AI
-**URL:** https://www.latinxinai.org/
-**Amount:** Networking + Becas de viaje a conferencias
-**Deadline:** Membresía abierta todo el año
+**Organization:** DeepLearning.AI
+**URL:** https://www.deeplearning.ai/pie-and-ai/
+**Amount:** Soporte oficial de marca + Networking VIP
+**Deadline:** Aplicaciones abiertas continuamente
 
 ---
 

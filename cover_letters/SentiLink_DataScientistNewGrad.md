@@ -2,23 +2,24 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-new-grad-at-sentilink-4405209557/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-new-grad-at-sentilink-4404995783/
 
 ---
 
 Dear SentiLink team,
 
-I am writing to apply for the Data Scientist, New Grad position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am an economist‑data scientist with a dual background in finance and AI, and I am eager to contribute to SentiLink’s fraud‑detection models. My experience building end‑to‑end machine‑learning pipelines aligns directly with your need for robust, real‑time risk solutions.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+At my recent project “Trading Algorítmico con Deep Learning,” I designed a full pipeline—from data ingestion and feature engineering to LSTM forecasting and back‑testing—using PyTorch, MLflow, and Docker. The system achieved 68 % directional accuracy on S&P 500 data and was deployed via a FastAPI service, demonstrating my ability to deliver production‑ready models that can be integrated into real‑time APIs similar to SentiLink’s.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+Key competencies I bring include:
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+* **Advanced ML & Deep Learning** – expertise with scikit‑learn, PyTorch, TensorFlow, and generative LLM APIs for automated reporting.  
+* **MLOps & Deployment** – containerization (Docker), RESTful services (FastAPI), experiment tracking (MLflow), and CI/CD pipelines (GitHub Actions).  
+* **Financial Econometrics** – time‑series modeling (ARIMA, GARCH) and risk analytics (VaR, backtesting), essential for detecting anomalous behavior in identity verification.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I am attracted to SentiLink’s mission to replace outdated identity checks with faster, smarter solutions, and I am excited to apply my blend of econometric rigor and AI engineering to help safeguard financial transactions.
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
+Could we schedule a brief call to discuss how my technical background and project experience can accelerate SentiLink’s fraud‑detection capabilities?
+
+Thank you for your consideration.
