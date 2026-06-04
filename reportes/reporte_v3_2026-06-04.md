@@ -1,106 +1,91 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-04 07:24
+# AI JOB HUNTER V3 - Reporte 2026-06-04 15:31
 
-> **Extraidas:** 130 | **Filtradas:** 38 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 111 | **Emails enviados total:** 8
+> **Extraidas:** 125 | **Filtradas:** 38 | **Procesadas hoy:** 17
+> **Total historico postulaciones:** 128 | **Emails enviados total:** 10
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Quantum Computer Project/Program Engineer - 856 @ Quantinuum
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cb42060fad7cb05f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Quantinuum_QuantumComputerProje.md
+### [DRAFT - POSTULA MANUALMENTE]: Temporary Intern - Data Scientist @ Cotiviti
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e1994f75c63cddac
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cotiviti_TemporaryInternDataS.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer - Computer Vision @ Prime Solutions Group, Inc.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ac4377e77f524d62
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrimeSolutionsGroupI_AIMLEngineerComputer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: AI LLM Engineer @ Siemens Healthineers
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=77cc10c4736bb6e5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SiemensHealthineers_AILLMEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Information Technology - BI Developer @ TCC Verizon Authorized Retailer
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ad7533e66ad7d7d8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TCCVerizonAuthorized_InformationTechnolog.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Manager of Machine Learning @ AvaSure
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f5d41ee6fbd9b370
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AvaSure_ManagerofMachineLear.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist / Statistician @ Euromonitor International
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-statistician-at-euromonitor-international-4368092764/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EuromonitorInternati_DataScientistStatist.md
+### [DRAFT - POSTULA MANUALMENTE]: Business Data Scientist @ Google
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/business-data-scientist-at-google-4404405169/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_BusinessDataScientis.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Kantech
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-kantech-4422977311/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kantech_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ EXL
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-exl-4414539855/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EXL_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - Predictive Analytics @ dormakaba
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-predictive-analytics-at-dormakaba-4424096218/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/dormakaba_DataScientistPredict.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, New Grad @ SentiLink
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-new-grad-at-sentilink-4404995783/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SentiLink_DataScientistNewGrad.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (f/m/d) @ A1 Competence Delivery Center @ A1 Bulgaria
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-f-m-d-%40-a1-competence-delivery-center-at-a1-bulgaria-4421858352/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Bulgaria_DataScientistfmdA1Co.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist GenAI | Sector Banca | Madrid @ Kirey
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-genai-sector-banca-madrid-at-kirey-4420131384/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kirey_DataScientistGenAISe.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (f/m/d) @ A1 Competence Delivery Center @ A1 Srbija d.o.o.
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-f-m-d-%40-a1-competence-delivery-center-at-a1-srbija-d-o-o-4418764622/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Srbijadoo_DataScientistfmdA1Co.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ PwC India
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-pwc-india-4424349131/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PwCIndia_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (f/m/d) @ A1 Competence Delivery Center @ A1 Makedonija
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-f-m-d-%40-a1-competence-delivery-center-at-a1-makedonija-4422819812/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Makedonija_DataScientistfmdA1Co.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Elsevier
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-elsevier-4420738278/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Elsevier_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Mid Data Scientist – AI Solutions @ WITSIDE
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/mid-data-scientist-%E2%80%93-ai-solutions-at-witside-4419677396/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WITSIDE_MidDataScientistAISo.md
+### [EMAIL ENVIADO]: Machine Learning Engineer - Generative AI @ Qualcomm
+- **Email enviado a:** disability-accomodations@qualcomm.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: AI Data Scientist (m/f/d) @ BayWa r.e. Solar Trade Global
-- **Email enviado a:** recruiting.solartrade@baywa-re.com
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer, AI/ML Computer Vision @ Google
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/software-engineer-ai-ml-computer-vision-at-google-4424359699/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_SoftwareEngineerAIML.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ i4talent detachering
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-i4talent-detachering-4422922200/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/i4talentdetachering_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning/ML Engineer @ Jobgether
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-ml-engineer-at-jobgether-4424355330/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Jobgether_MachineLearningMLEng.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist till HiQ Syd @ HiQ
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-till-hiq-syd-at-hiq-4410381405/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HiQ_DataScientisttillHiQ.md
+### [DRAFT - POSTULA MANUALMENTE]: Software Engineer, AI/ML Computer Vision @ Google
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/software-engineer-ai-ml-computer-vision-at-google-4424346836/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_SoftwareEngineerAIML.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Machine Learning Engineer @ Adobe
-- **Email enviado a:** accommodations@adobe.com
+### [EMAIL ENVIADO]: Machine Learning Engineer @ Entain Australia & New Zealand
+- **Email enviado a:** careers@entaingroup.com.au
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Research Scientist/Engineer @ Sonar
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-research-scientist-engineer-at-sonar-4358578713/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sonar_AIResearchScientistE.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Graham Capital Management, L.P.
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-graham-capital-management-l-p-4414558092/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GrahamCapitalManagem_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Deep Learning Engineer @ Sonova Group
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/deep-learning-engineer-at-sonova-group-4422974909/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SonovaGroup_DeepLearningEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer - Intelligence Group @ Smartnumbers
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-intelligence-group-at-smartnumbers-4420711248/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Smartnumbers_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer Consultant @ Orange Business
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-consultant-at-orange-business-4419698891/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OrangeBusiness_AIEngineerConsultant.md
+### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer - Computer Vision @ CHEQUESPREAD PLC
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-computer-vision-at-chequespread-plc-4423352064/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CHEQUESPREADPLC_AIMLEngineerComputer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Sonar
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-sonar-4377045666/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sonar_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Junior AI Engineer @ Trengo
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-trengo-4423362600/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Trengo_JuniorAIEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - DF/CD XOPS @ Unilever
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-df-cd-xops-at-unilever-4424210964/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Unilever_DataScientistDFCDXOP.md
 - **Fuente:** LinkedIn
 
 

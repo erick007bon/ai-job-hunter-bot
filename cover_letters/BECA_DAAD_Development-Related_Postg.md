@@ -1,9 +1,9 @@
-# Motivation Letter — LatinX in AI (LXAI) — Research & Networking
+# Motivation Letter — DAAD Development-Related Postgraduate Courses
 
-**Organization:** LatinX in AI
-**URL:** https://www.latinxinai.org/
-**Amount:** Networking + Becas de viaje a conferencias
-**Deadline:** Membresía abierta todo el año
+**Organization:** DAAD (Alemania)
+**URL:** https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/
+**Amount:** ~€934/mes + seguro + vuelo
+**Deadline:** Ver sitio DAAD (usualmente Oct-Nov)
 
 ---
 

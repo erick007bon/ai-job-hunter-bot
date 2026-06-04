@@ -1,9 +1,9 @@
-# Motivation Letter — LatinX in AI (LXAI) — Research & Networking
+# Motivation Letter — OpenAI Residency / Scholar Program
 
-**Organization:** LatinX in AI
-**URL:** https://www.latinxinai.org/
-**Amount:** Networking + Becas de viaje a conferencias
-**Deadline:** Membresía abierta todo el año
+**Organization:** OpenAI
+**URL:** https://openai.com/careers/residency
+**Amount:** Salario completo de Silicon Valley
+**Deadline:** Revisar convocatorias anuales
 
 ---
 
