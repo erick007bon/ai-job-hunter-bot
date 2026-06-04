@@ -618,5 +618,165 @@
     "applied_at": "2026-06-03T23:48:27.751442",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DiptyqueParis_DataAnalyst.md"
+  },
+  "https://www.indeed.com/viewjob?jk=cb42060fad7cb05f": {
+    "title": "Quantum Computer Project/Program Engineer - 856",
+    "company": "Quantinuum",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T07:20:05.991437",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Quantinuum_QuantumComputerProje.md"
+  },
+  "https://www.indeed.com/viewjob?jk=ac4377e77f524d62": {
+    "title": "AI/ML Engineer - Computer Vision",
+    "company": "Prime Solutions Group, Inc.",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T07:20:17.925297",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrimeSolutionsGroupI_AIMLEngineerComputer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=77cc10c4736bb6e5": {
+    "title": "AI LLM Engineer",
+    "company": "Siemens Healthineers",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T07:20:29.889224",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SiemensHealthineers_AILLMEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=ad7533e66ad7d7d8": {
+    "title": "Information Technology - BI Developer",
+    "company": "TCC Verizon Authorized Retailer",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T07:20:41.080865",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TCCVerizonAuthorized_InformationTechnolog.md"
+  },
+  "https://www.indeed.com/viewjob?jk=f5d41ee6fbd9b370": {
+    "title": "Manager of Machine Learning",
+    "company": "AvaSure",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T07:20:55.839997",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AvaSure_ManagerofMachineLear.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-statistician-at-euromonitor-international-4368092764/": {
+    "title": "Data Scientist / Statistician",
+    "company": "Euromonitor International",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:21:06.245973",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EuromonitorInternati_DataScientistStatist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-kantech-4422977311/": {
+    "title": "Data Scientist",
+    "company": "Kantech",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:21:20.992478",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kantech_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-predictive-analytics-at-dormakaba-4424096218/": {
+    "title": "Data Scientist - Predictive Analytics",
+    "company": "dormakaba",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:21:32.069566",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/dormakaba_DataScientistPredict.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-f-m-d-%40-a1-competence-delivery-center-at-a1-bulgaria-4421858352/": {
+    "title": "Data Scientist (f/m/d) @ A1 Competence Delivery Center",
+    "company": "A1 Bulgaria",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:22:11.949257",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Bulgaria_DataScientistfmdA1Co.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-f-m-d-%40-a1-competence-delivery-center-at-a1-srbija-d-o-o-4418764622/": {
+    "title": "Data Scientist (f/m/d) @ A1 Competence Delivery Center",
+    "company": "A1 Srbija d.o.o.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:22:29.349344",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Srbijadoo_DataScientistfmdA1Co.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-f-m-d-%40-a1-competence-delivery-center-at-a1-makedonija-4422819812/": {
+    "title": "Data Scientist (f/m/d) @ A1 Competence Delivery Center",
+    "company": "A1 Makedonija",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:22:42.494162",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Makedonija_DataScientistfmdA1Co.md"
+  },
+  "https://www.linkedin.com/jobs/view/mid-data-scientist-%E2%80%93-ai-solutions-at-witside-4419677396/": {
+    "title": "Mid Data Scientist – AI Solutions",
+    "company": "WITSIDE",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:23:06.077376",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WITSIDE_MidDataScientistAISo.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-data-scientist-m-f-d-at-baywa-r-e-solar-trade-global-4424214978/": {
+    "title": "AI Data Scientist (m/f/d)",
+    "company": "BayWa r.e. Solar Trade Global",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:23:20.858945",
+    "email_sent_to": "recruiting.solartrade@baywa-re.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BayWareSolarTradeGlo_AIDataScientistmfd.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-i4talent-detachering-4422922200/": {
+    "title": "Data Scientist",
+    "company": "i4talent detachering",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:23:31.736826",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/i4talentdetachering_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-till-hiq-syd-at-hiq-4410381405/": {
+    "title": "Data Scientist till HiQ Syd",
+    "company": "HiQ",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:23:45.397353",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HiQ_DataScientisttillHiQ.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-adobe-4419665582/": {
+    "title": "Machine Learning Engineer",
+    "company": "Adobe",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:23:54.347983",
+    "email_sent_to": "accommodations@adobe.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Adobe_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-research-scientist-engineer-at-sonar-4358578713/": {
+    "title": "AI Research Scientist/Engineer",
+    "company": "Sonar",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:24:11.836539",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sonar_AIResearchScientistE.md"
+  },
+  "https://www.linkedin.com/jobs/view/deep-learning-engineer-at-sonova-group-4422974909/": {
+    "title": "Deep Learning Engineer",
+    "company": "Sonova Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:24:28.906555",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SonovaGroup_DeepLearningEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-consultant-at-orange-business-4419698891/": {
+    "title": "AI Engineer Consultant",
+    "company": "Orange Business",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:24:39.246482",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OrangeBusiness_AIEngineerConsultant.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-sonar-4377045666/": {
+    "title": "AI Engineer",
+    "company": "Sonar",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T07:24:48.073054",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sonar_AIEngineer.md"
   }
 }
