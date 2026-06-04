@@ -914,5 +914,93 @@
     "applied_at": "2026-06-04T15:31:33.236482",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Unilever_DataScientistDFCDXOP.md"
+  },
+  "https://www.indeed.com/viewjob?jk=c6560d0a3e44d4b7": {
+    "title": "AI/ML Engineer",
+    "company": "United States Consumer Product Safety Commission",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T19:12:16.184283",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnitedStatesConsumer_AIMLEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=c0a946d2db71d280": {
+    "title": "Data Engineer (Remote - United States)",
+    "company": "Nextech Systems",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-04T19:12:23.145928",
+    "email_sent_to": "talent@nextech.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NextechSystems_DataEngineerRemoteUn.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-samba-tv-4380668364/": {
+    "title": "Data Scientist",
+    "company": "Samba TV",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T19:12:54.685721",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SambaTV_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/business-data-scientist-marketing-at-google-4424433441/": {
+    "title": "Business Data Scientist, Marketing",
+    "company": "Google",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T19:13:14.895440",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_BusinessDataScientis.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-zest-ai-4396379575/": {
+    "title": "Data Scientist",
+    "company": "Zest AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T19:13:28.828845",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZestAI_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-intern-at-revance-4420727638/": {
+    "title": "Data Scientist Intern",
+    "company": "Revance",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T19:13:44.700651",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Revance_DataScientistIntern.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-celebal-technologies-4424440953/": {
+    "title": "Data Scientist",
+    "company": "Celebal Technologies",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-04T19:14:41.292707",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CelebalTechnologies_DataScientist.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-supply-chain-data-analyst-nestle-health-science-1132785": {
+    "title": "Supply Chain Data Analyst",
+    "company": "NestlÃ© Health Science",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-04T19:15:01.069959",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestlÃHealthScience_SupplyChainDataAnaly.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-supply-chain-data-analyst-nestle-health-science-1132786": {
+    "title": "Supply Chain Data Analyst",
+    "company": "NestlÃ© Health Science",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-04T19:15:11.070649",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestlÃHealthScience_SupplyChainDataAnaly.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-supply-chain-data-analyst-nestle-health-science-1132788": {
+    "title": "Supply Chain Data Analyst",
+    "company": "NestlÃ© Health Science",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-04T19:15:19.155084",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestlÃHealthScience_SupplyChainDataAnaly.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-supply-chain-data-analyst-nestle-health-science-1132789": {
+    "title": "Supply Chain Data Analyst",
+    "company": "NestlÃ© Health Science",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-04T19:15:31.633246",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestlÃHealthScience_SupplyChainDataAnaly.md"
   }
 }
