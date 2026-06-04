@@ -1,9 +1,9 @@
-# Motivation Letter — AI Grants — Independent AI Research Funding
+# Motivation Letter — DAAD Development-Related Postgraduate Courses
 
-**Organization:** AI Grants
-**URL:** https://aigrants.com/
-**Amount:** $1,000 - $10,000 USD
-**Deadline:** Rolling (sin deadline fijo)
+**Organization:** DAAD (Alemania)
+**URL:** https://www.daad.de/en/studying-in-germany/scholarships/daad-scholarships/
+**Amount:** ~€934/mes + seguro + vuelo
+**Deadline:** Ver sitio DAAD (usualmente Oct-Nov)
 
 ---
 

@@ -1,9 +1,9 @@
-# Motivation Letter — AI Grants — Independent AI Research Funding
+# Motivation Letter — OpenAI Residency / Scholar Program
 
-**Organization:** AI Grants
-**URL:** https://aigrants.com/
-**Amount:** $1,000 - $10,000 USD
-**Deadline:** Rolling (sin deadline fijo)
+**Organization:** OpenAI
+**URL:** https://openai.com/careers/residency
+**Amount:** Salario completo de Silicon Valley
+**Deadline:** Revisar convocatorias anuales
 
 ---
 

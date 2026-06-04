@@ -1,9 +1,9 @@
-# Motivation Letter — AI Grants — Independent AI Research Funding
+# Motivation Letter — DeepLearning.AI Pie & AI Ambassador
 
-**Organization:** AI Grants
-**URL:** https://aigrants.com/
-**Amount:** $1,000 - $10,000 USD
-**Deadline:** Rolling (sin deadline fijo)
+**Organization:** DeepLearning.AI
+**URL:** https://www.deeplearning.ai/pie-and-ai/
+**Amount:** Soporte oficial de marca + Networking VIP
+**Deadline:** Aplicaciones abiertas continuamente
 
 ---
 
