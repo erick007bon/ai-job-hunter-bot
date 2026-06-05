@@ -2,23 +2,20 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=ff583bcfa927220d
+**URL:** https://www.indeed.com/viewjob?jk=2aa843a975f5442a
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Data Scientist position. With a dual background in Economics and Data Science, I specialize in transforming complex structured and unstructured data into actionable intelligence—a core objective of your team's mission to solve global challenges.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+I bring over two years of experience utilizing Python and SQL for exploratory data analysis and predictive modeling. My expertise spans the entire ML lifecycle, from developing deep learning models in PyTorch to deploying scalable services via FastAPI and Docker. This technical versatility allows me to handle the disparate data sources mentioned in your posting, ensuring that raw data is converted into objective, decision-ready answers.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+A highlight of my work is the development of a Multi-Agent System using the Model Context Protocol (MCP). I engineered a distributed architecture where specialized agents handle financial scraping, econometric analysis (GARCH models), and automated reporting via LLMs. This project demonstrates my ability to integrate AI and automation to solve high-complexity analytical problems, similar to the fraud detection or intelligence tasks Booz Allen handles for its clients.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am drawn to your firm’s commitment to "data science for good" and am confident that my ability to communicate technical insights to non-technical stakeholders will add immediate value to your client engagements.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I am available for an interview to discuss how my technical skills in AI and econometrics can support your current projects.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
