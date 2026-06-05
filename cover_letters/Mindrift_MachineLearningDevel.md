@@ -2,23 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424710280/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424188769/
 
 ---
 
 Dear Mindrift team,
 
-I am writing to apply for the Machine Learning Developer (Freelance) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to offer my expertise as a Machine Learning Developer for your freelance projects. With a solid background in both economics and data science, I have built end‑to‑end AI solutions that combine predictive modeling, MLOps, and API deployment—exactly the blend you require.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My recent “Trading Algoritmico con Deep Learning” project demonstrates this synergy: I designed a PyTorch LSTM model for price direction forecasting, integrated it into a Docker‑containerized FastAPI service, and managed experiment tracking with MLflow. The pipeline handled data ingestion, feature engineering, back‑testing, and real‑time inference, reducing latency to under 200 ms and achieving 68 % directional accuracy on S&P 500 data.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+Key competencies that align with Mindrift’s needs include:
+- **Deep Learning & Classic ML** (PyTorch, scikit‑learn, ensemble methods) for building robust predictive models.
+- **MLOps engineering** (Docker, FastAPI, MLflow, CI/CD with GitHub Actions) to deliver production‑ready services.
+- **API integration & automation** using Python, enabling seamless data flow between external sources and model endpoints.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am especially attracted to Mindrift’s focus on innovative AI products that scale across industries. My experience in multi‑agent architectures with MCP and conversational AI equips me to contribute to complex, modular systems while maintaining high performance and reliability.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I would welcome the opportunity to discuss how my skill set can accelerate Mindrift’s current initiatives. Could we schedule a brief call next week to explore the fit?
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-REDACTED_EMAIL@example.com | GitHub: erick007bon
+Thank you for your consideration.

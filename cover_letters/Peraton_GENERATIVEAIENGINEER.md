@@ -1,14 +1,14 @@
-# Cover Letter - Data Scientist | Remote @ Crossing Hurdles
+# Cover Letter - GENERATIVE AI ENGINEERING INTERN (GRADUATE) @ Peraton
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-remote-at-crossing-hurdles-4413871777/
+**URL:** https://www.indeed.com/viewjob?jk=3d716a49f6f9d141
 
 ---
 
-Dear Crossing Hurdles team,
+Dear Peraton team,
 
-I am writing to apply for the Data Scientist | Remote position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the GENERATIVE AI ENGINEERING INTERN (GRADUATE) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
