@@ -1074,5 +1074,125 @@
     "applied_at": "2026-06-04T23:11:31.110630",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MWDN_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=db70ebbe560e0b6e": {
+    "title": "Research Scientist",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T07:02:03.655251",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_ResearchScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=cf6c8e6ad7cb7d53": {
+    "title": "Research Fellow or Research Scientist",
+    "company": "Spaulding Rehabilitation Hospital",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T07:02:12.541745",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SpauldingRehabilitat_ResearchFelloworRese.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-multitude-4420715292/": {
+    "title": "Data Scientist",
+    "company": "Multitude",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:02:21.905754",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Multitude_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-sogeti-4405219306/": {
+    "title": "Data Scientist",
+    "company": "Sogeti",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:02:33.049574",
+    "email_sent_to": "klodin.shahroudi@sogeti.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sogeti_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-data-scientist-at-swift-4414643120/": {
+    "title": "Applied Data Scientist",
+    "company": "Swift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:02:43.839565",
+    "email_sent_to": "accessibility-Sysgroup@swift.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Swift_AppliedDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-potentiam-ltd-4387257369/": {
+    "title": "Data Scientist",
+    "company": "Potentiam Ltd",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:02:57.024706",
+    "email_sent_to": "careers@potentiam.co.uk",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PotentiamLtd_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-vopak-4423394314/": {
+    "title": "Data Scientist",
+    "company": "Vopak",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:03:06.310454",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vopak_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-natek-4404986962/": {
+    "title": "Data Scientist",
+    "company": "NATEK",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:03:15.248600",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NATEK_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-similarweb-4370144330/": {
+    "title": "Data Scientist",
+    "company": "Similarweb",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:03:25.935714",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Similarweb_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-data-scientist-at-emapta-global-4423376864/": {
+    "title": "AI/ML Data Scientist",
+    "company": "Emapta Global",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:03:35.667446",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EmaptaGlobal_AIMLDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-scientist-at-experian-4423389559/": {
+    "title": "Machine Learning Scientist",
+    "company": "Experian",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:03:47.816893",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Experian_MachineLearningScien.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-egg-digital-at-egg-digital-4424169409/": {
+    "title": "Data Scientist (EGG Digital)",
+    "company": "EGG Digital",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:03:56.444874",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EGGDigital_DataScientistEGGDigi.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-infosys-4424515538/": {
+    "title": "Machine Learning Engineer",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:04:07.122764",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-prosum-4424151368/": {
+    "title": "Machine Learning Engineer",
+    "company": "Prosum",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:04:19.309373",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Prosum_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/software-engineer-ai-ml-computer-vision-at-google-4424348725/": {
+    "title": "Software Engineer, AI/ML Computer Vision",
+    "company": "Google",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T07:04:29.080136",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_SoftwareEngineerAIML.md"
   }
 }
