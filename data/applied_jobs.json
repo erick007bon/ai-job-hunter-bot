@@ -1354,5 +1354,85 @@
     "applied_at": "2026-06-05T15:19:41.424431",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scowtt_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-tesla-4424186238/": {
+    "title": "Data Scientist",
+    "company": "Tesla",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:54:09.124440",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Tesla_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424199744/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:54:24.835823",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424195752/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:54:42.215636",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424193758/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:54:58.653823",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424193759/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:55:15.075086",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424191723/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:55:31.582520",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424188829/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:55:38.300401",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424701798/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:56:00.244120",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424710280/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T18:56:05.189846",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://weworkremotely.com/remote-jobs/mitek-systems-product-owner-machine-learning": {
+    "title": "Mitek Systems: Product Owner - Machine Learning",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "applied_at": "2026-06-05T18:56:08.891025",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Verenenlace_MitekSystemsProductO.md"
   }
 }
