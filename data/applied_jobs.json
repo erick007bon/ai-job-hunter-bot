@@ -1434,5 +1434,69 @@
     "applied_at": "2026-06-05T18:56:08.891025",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Verenenlace_MitekSystemsProductO.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9ca1dbb6e7c9127a": {
+    "title": "Research Scientist 2",
+    "company": "Humana",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T23:09:31.883868",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Humana_ResearchScientist2.md"
+  },
+  "https://www.indeed.com/viewjob?jk=3d716a49f6f9d141": {
+    "title": "GENERATIVE AI ENGINEERING INTERN (GRADUATE)",
+    "company": "Peraton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T23:09:36.929309",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Peraton_GENERATIVEAIENGINEER.md"
+  },
+  "https://www.indeed.com/viewjob?jk=fee8905c4f635542": {
+    "title": "Business Analytics Engineer",
+    "company": "OTIS",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T23:09:54.338816",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OTIS_BusinessAnalyticsEng.md"
+  },
+  "https://www.indeed.com/viewjob?jk=61adaac04b3d3229": {
+    "title": "Data Engineer and Analyst",
+    "company": "DevTech Systems, Inc.",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T23:10:04.528388",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DevTechSystemsInc_DataEngineerandAnaly.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-crossing-hurdles-4413871777/": {
+    "title": "Data Scientist | Remote",
+    "company": "Crossing Hurdles",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T23:10:12.299685",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrossingHurdles_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-comscore-inc-4414751465/": {
+    "title": "Data Scientist",
+    "company": "Comscore, Inc.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T23:10:22.859394",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ComscoreInc_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424197724/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T23:10:37.223659",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424188769/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T23:10:57.563596",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
   }
 }
