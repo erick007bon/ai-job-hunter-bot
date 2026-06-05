@@ -1194,5 +1194,165 @@
     "applied_at": "2026-06-05T07:04:29.080136",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_SoftwareEngineerAIML.md"
+  },
+  "https://www.indeed.com/viewjob?jk=4417cd53ce455396": {
+    "title": "Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:15:14.067275",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=34f661912230f141": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:15:22.898865",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=1f081291757acd99": {
+    "title": "Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:15:30.691121",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=0e8f19c2cb1db1a3": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:15:42.707265",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=2aa843a975f5442a": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:15:51.862698",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=0697257c5405bbc7": {
+    "title": "Data Scientist, Mid",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:16:03.041273",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md"
+  },
+  "https://www.indeed.com/viewjob?jk=be7817d68b0c241e": {
+    "title": "VP II AI, Machine Learning|US Remote*",
+    "company": "Circana",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:16:20.149584",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Circana_VPIIAIMachineLearnin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=d9d0ea36b73e36a8": {
+    "title": "Data Engineer II",
+    "company": "Mediavine",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:16:33.384386",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mediavine_DataEngineerII.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9712cf36162ab966": {
+    "title": "AI Engineer (Mid)",
+    "company": "Northramp",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:16:45.878265",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Northramp_AIEngineerMid.md"
+  },
+  "https://www.indeed.com/viewjob?jk=5ae7dea06db74769": {
+    "title": "VP II AI, Machine Learning|US Remote*",
+    "company": "Circana",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:17:07.195632",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Circana_VPIIAIMachineLearnin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9dd029babff71c92": {
+    "title": "Agentic AI Machine Learning Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:17:24.678490",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AgenticAIMachineLear.md"
+  },
+  "https://www.indeed.com/viewjob?jk=515ecbda778db692": {
+    "title": "Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:17:36.751405",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=6ef9e5a40596fe0c": {
+    "title": "Junior AI Engineer",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:17:57.945869",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_JuniorAIEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=82825a4b70114e5d": {
+    "title": "AI Engineer — RapidCanvas",
+    "company": "David Joseph & Company",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-05T15:18:02.168515",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DavidJosephCompany_AIEngineerRapidCanva.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-commonwealth-bank-4424504856/": {
+    "title": "Data Scientist",
+    "company": "Commonwealth Bank",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T15:18:05.581656",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CommonwealthBank_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-sequoia-4410473470/": {
+    "title": "Data Scientist",
+    "company": "Sequoia",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T15:18:25.648185",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sequoia_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-morse-corp-4382501174/": {
+    "title": "Data Scientist",
+    "company": "MORSE Corp",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T15:19:00.389503",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MORSECorp_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-ocbc-indonesia-4424583114/": {
+    "title": "Data Scientist",
+    "company": "OCBC Indonesia",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T15:19:03.631629",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OCBCIndonesia_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-nyc-at-output-biosciences-4424552841/": {
+    "title": "Machine Learning Engineer (NYC)",
+    "company": "Output Biosciences",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T15:19:24.239099",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OutputBiosciences_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-scowtt-4355797539/": {
+    "title": "Machine Learning Engineer I",
+    "company": "Scowtt",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-05T15:19:41.424431",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scowtt_MachineLearningEngin.md"
   }
 }

@@ -1,80 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-05 07:04
+# AI JOB HUNTER V3 - Reporte 2026-06-05 15:19
 
-> **Extraidas:** 125 | **Filtradas:** 35 | **Procesadas hoy:** 15
-> **Total historico postulaciones:** 163 | **Emails enviados total:** 14
+> **Extraidas:** 123 | **Filtradas:** 40 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 183 | **Emails enviados total:** 14
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Scientist @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=db70ebbe560e0b6e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_ResearchScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4417cd53ce455396
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Fellow or Research Scientist @ Spaulding Rehabilitation Hospital
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cf6c8e6ad7cb7d53
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SpauldingRehabilitat_ResearchFelloworRese.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=34f661912230f141
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Multitude
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-multitude-4420715292/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Multitude_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1f081291757acd99
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0e8f19c2cb1db1a3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2aa843a975f5442a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0697257c5405bbc7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: VP II AI, Machine Learning|US Remote* @ Circana
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=be7817d68b0c241e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Circana_VPIIAIMachineLearnin.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer II @ Mediavine
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d9d0ea36b73e36a8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mediavine_DataEngineerII.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer (Mid) @ Northramp
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9712cf36162ab966
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Northramp_AIEngineerMid.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: VP II AI, Machine Learning|US Remote* @ Circana
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5ae7dea06db74769
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Circana_VPIIAIMachineLearnin.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Agentic AI Machine Learning Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9dd029babff71c92
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AgenticAIMachineLear.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=515ecbda778db692
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Junior AI Engineer @ nan
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6ef9e5a40596fe0c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_JuniorAIEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer — RapidCanvas @ David Joseph & Company
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=82825a4b70114e5d
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DavidJosephCompany_AIEngineerRapidCanva.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Commonwealth Bank
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-commonwealth-bank-4424504856/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CommonwealthBank_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Data Scientist @ Sogeti
-- **Email enviado a:** klodin.shahroudi@sogeti.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Sequoia
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-sequoia-4410473470/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sequoia_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Applied Data Scientist @ Swift
-- **Email enviado a:** accessibility-Sysgroup@swift.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ MORSE Corp
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-morse-corp-4382501174/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MORSECorp_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Data Scientist @ Potentiam Ltd
-- **Email enviado a:** careers@potentiam.co.uk
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ OCBC Indonesia
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-ocbc-indonesia-4424583114/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OCBCIndonesia_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Vopak
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-vopak-4423394314/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vopak_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer (NYC) @ Output Biosciences
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-nyc-at-output-biosciences-4424552841/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OutputBiosciences_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ NATEK
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-natek-4404986962/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NATEK_DataScientist.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Similarweb
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-similarweb-4370144330/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Similarweb_DataScientist.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Data Scientist @ Emapta Global
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-data-scientist-at-emapta-global-4423376864/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EmaptaGlobal_AIMLDataScientist.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Scientist @ Experian
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-scientist-at-experian-4423389559/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Experian_MachineLearningScien.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (EGG Digital) @ EGG Digital
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-egg-digital-at-egg-digital-4424169409/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EGGDigital_DataScientistEGGDigi.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Infosys
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-infosys-4424515538/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_MachineLearningEngin.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Prosum
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-prosum-4424151368/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Prosum_MachineLearningEngin.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer, AI/ML Computer Vision @ Google
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/software-engineer-ai-ml-computer-vision-at-google-4424348725/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_SoftwareEngineerAIML.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer I @ Scowtt
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-scowtt-4355797539/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scowtt_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
 
