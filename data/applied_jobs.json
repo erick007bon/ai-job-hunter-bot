@@ -1570,5 +1570,165 @@
     "applied_at": "2026-06-06T06:24:57.268634",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.indeed.com/viewjob?jk=cd4001ab0fe78637": {
+    "title": "Data Scientist II - Mathematician / Statistician",
+    "company": "Pacific Northwest National Laboratory",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-06T13:54:25.019814",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PacificNorthwestNati_DataScientistIIMathe.md"
+  },
+  "https://www.indeed.com/viewjob?jk=ed4149a42e3023e5": {
+    "title": "Data Scientist III - Mathematician / Statistician",
+    "company": "Pacific Northwest National Laboratory",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-06T13:54:37.856678",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PacificNorthwestNati_DataScientistIIIMath.md"
+  },
+  "https://www.indeed.com/viewjob?jk=db0171ff3f1e9258": {
+    "title": "Data Scientist",
+    "company": "Chenega Corporation",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-06T13:54:47.003035",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ChenegaCorporation_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=62815f1c885324e1": {
+    "title": "Data Engineer Assoc",
+    "company": "PNC Financial Services Group",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-06T13:54:56.643129",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PNCFinancialServices_DataEngineerAssoc.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-elder-research-4414665357/": {
+    "title": "Data Scientist (Remote)",
+    "company": "Elder Research",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:55:07.767799",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearch_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-genai-ai-engineering-at-experian-4366152392/": {
+    "title": "Data Scientist – GenAI & AI Engineering",
+    "company": "Experian",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:55:17.007112",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Experian_DataScientistGenAIAI.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-vcs-at-visa-4424923849/": {
+    "title": "Data Scientist - VCS",
+    "company": "Visa",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:55:27.420929",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Visa_DataScientistVCS.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-microsoft-4396586712/": {
+    "title": "Data Scientist",
+    "company": "Microsoft",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:55:50.397113",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Microsoft_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/jr-data-scientist-at-tech-consulting-4420741126/": {
+    "title": "Jr Data Scientist",
+    "company": "Tech Consulting",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:55:57.707020",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TechConsulting_JrDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-voda-ai%C2%AE-4410133731/": {
+    "title": "AI Engineer",
+    "company": "VODA.ai®",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:56:00.610404",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VODAai_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411875361/": {
+    "title": "AI Engineer",
+    "company": "Casumo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:56:03.830702",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-upto-900m-gross-year-hanoi-at-cnk-consulting-vietnam-4424987820/": {
+    "title": "AI Engineer upto 900M gross/ year (Hanoi)",
+    "company": "CNK Consulting Vietnam",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:56:20.556234",
+    "email_sent_to": "baohuyen@cnk-consulting.com.vn",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CNKConsultingVietnam_AIEngineerupto900Mgr.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-nestai-4424655376/": {
+    "title": "AI Engineer",
+    "company": "NestAI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:56:45.739258",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestAI_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-nestai-4424651366/": {
+    "title": "AI Engineer",
+    "company": "NestAI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:56:52.352947",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestAI_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-d-f-m-at-personio-4421185616/": {
+    "title": "AI Engineer (d/f/m)",
+    "company": "Personio",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:57:08.980621",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Personio_AIEngineerdfm.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-business-intelligence-at-shopee-4320394831/": {
+    "title": "Data Scientist, Business Intelligence",
+    "company": "Shopee",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:57:12.730787",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Shopee_DataScientistBusines.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-intern-at-otel-ai-4424985658/": {
+    "title": "AI Engineer Intern",
+    "company": "Otel AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:57:29.105243",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OtelAI_AIEngineerIntern.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-researcher-at-morgan-stanley-4181238312/": {
+    "title": "Machine Learning Researcher",
+    "company": "Morgan Stanley",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:57:45.214003",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MorganStanley_MachineLearningResea.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-bigspark-4424644789/": {
+    "title": "AI Engineer",
+    "company": "bigspark",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:58:00.034301",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/bigspark_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-%E2%80%93-data-ai-machine-learning-at-everone-4424638632/": {
+    "title": "Junior Data Scientist – Data, AI & Machine Learning",
+    "company": "Everone",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T13:58:09.031048",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Everone_JuniorDataScientistD.md"
   }
 }
