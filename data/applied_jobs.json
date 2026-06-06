@@ -1834,5 +1834,37 @@
     "applied_at": "2026-06-06T18:02:36.179677",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TELUSDigital_OnlineDataAnalystCan.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-tiger-analytics-4424683312/": {
+    "title": "Data Scientist",
+    "company": "Tiger Analytics",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T23:04:02.895883",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TigerAnalytics_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ciudad-de-m%C3%A9xico-cuauht%C3%A9moc-at-bbva-en-m%C3%A9xico-4414997168/": {
+    "title": "Data Scientist (Ciudad de México, Cuauhtémoc)",
+    "company": "BBVA en México",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T23:04:17.268737",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BBVAenMéxico_DataScientistCiudadd.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-lam-research-4396049799/": {
+    "title": "AI/ML Engineer",
+    "company": "Lam Research",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T23:04:28.659023",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LamResearch_AIMLEngineer.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-stior-1132903": {
+    "title": "Data Analyst",
+    "company": "StioÂ®",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-06T23:04:44.067252",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StioÂ_DataAnalyst.md"
   }
 }
