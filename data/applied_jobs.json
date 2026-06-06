@@ -1730,5 +1730,109 @@
     "applied_at": "2026-06-06T13:58:09.031048",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Everone_JuniorDataScientistD.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-i-at-purplle-com-4406662891/": {
+    "title": "Data Scientist - I",
+    "company": "Purplle.com",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T17:59:58.738442",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Purpllecom_DataScientistI.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-coefficient-%F0%9F%8C%80-4424688082/": {
+    "title": "Data Scientist",
+    "company": "Coefficient 🌀",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:00:15.751187",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Coefficient_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-stripe-4414526621/": {
+    "title": "Data Scientist",
+    "company": "Stripe",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:00:20.698780",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Stripe_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-people-analytics-at-the-home-depot-4424601199/": {
+    "title": "Data Scientist - People Analytics",
+    "company": "The Home Depot",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:00:39.726049",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheHomeDepot_DataScientistPeopleA.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-why-hiring-4421507998/": {
+    "title": "Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:00:44.971257",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4412086412/": {
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:00:54.527111",
+    "email_sent_to": "accommodations-ext@meta.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_DataScientistProduct.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-software-engineer-at-google-4415079084/": {
+    "title": "Machine Learning Software Engineer",
+    "company": "Google",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:01:11.220226",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_MachineLearningSoftw.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-ai-engineer-at-rivian-4404752343/": {
+    "title": "Machine Learning/AI Engineer",
+    "company": "Rivian",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:01:45.164141",
+    "email_sent_to": "candidateaccommodations@rivian.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Rivian_MachineLearningAIEng.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-kpmg-india-4424661969/": {
+    "title": "AI Engineer",
+    "company": "KPMG India",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:01:50.531281",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KPMGIndia_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-strava-4397596154/": {
+    "title": "Machine Learning Engineer",
+    "company": "Strava",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T18:02:11.769646",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Strava_MachineLearningEngin.md"
+  },
+  "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-2090945": {
+    "title": "Online Data Analyst Canada (French Language)",
+    "company": "TELUS Digital",
+    "source": "Remotive",
+    "applied_at": "2026-06-06T18:02:22.532587",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TELUSDigital_OnlineDataAnalystCan.md"
+  },
+  "https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-spanish-speakers-2090946": {
+    "title": "Online Data Analyst United States Spanish speakers",
+    "company": "TELUS Digital",
+    "source": "Remotive",
+    "applied_at": "2026-06-06T18:02:27.509003",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TELUSDigital_OnlineDataAnalystUni.md"
+  },
+  "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-2090944": {
+    "title": "Online Data Analyst Canada",
+    "company": "TELUS Digital",
+    "source": "Remotive",
+    "applied_at": "2026-06-06T18:02:36.179677",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TELUSDigital_OnlineDataAnalystCan.md"
   }
 }
