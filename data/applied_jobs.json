@@ -1498,5 +1498,77 @@
     "applied_at": "2026-06-05T23:10:57.563596",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.indeed.com/viewjob?jk=53be0dbca73eb5e9": {
+    "title": "Digital Product Engineer - Machine Learning & AI",
+    "company": "International",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-06T06:23:51.086425",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/International_DigitalProductEngine.md"
+  },
+  "https://www.indeed.com/viewjob?jk=8a33e79e01deb3f5": {
+    "title": "F-35 Data Engineer Mid (Remote)",
+    "company": "HII",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-06T06:23:59.601735",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HII_F35DataEngineerMidRe.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-finance-at-meta-4421111853/": {
+    "title": "Data Scientist, Finance",
+    "company": "Meta",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T06:24:08.818093",
+    "email_sent_to": "accommodations-ext@meta.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_DataScientistFinance.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-phmg-4421126948/": {
+    "title": "Data Scientist",
+    "company": "PHMG",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T06:24:17.691143",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PHMG_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-lyft-business-at-lyft-4405818358/": {
+    "title": "Machine Learning Engineer, Lyft Business",
+    "company": "Lyft",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T06:24:25.819234",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Lyft_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424706764/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T06:24:32.752884",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424703747/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T06:24:40.772833",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424188828/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T06:24:49.576009",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424709696/": {
+    "title": "Machine Learning Developer (Freelance)",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-06T06:24:57.268634",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_MachineLearningDevel.md"
   }
 }
