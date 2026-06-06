@@ -1,108 +1,72 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-06 13:58
+# AI JOB HUNTER V3 - Reporte 2026-06-06 18:02
 
-> **Extraidas:** 128 | **Filtradas:** 33 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 230 | **Emails enviados total:** 16
+> **Extraidas:** 134 | **Filtradas:** 33 | **Procesadas hoy:** 13
+> **Total historico postulaciones:** 243 | **Emails enviados total:** 18
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist II - Mathematician / Statistician @ Pacific Northwest National Laboratory
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cd4001ab0fe78637
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PacificNorthwestNati_DataScientistIIMathe.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist III - Mathematician / Statistician @ Pacific Northwest National Laboratory
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ed4149a42e3023e5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PacificNorthwestNati_DataScientistIIIMath.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Chenega Corporation
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=db0171ff3f1e9258
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ChenegaCorporation_DataScientist.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer Assoc @ PNC Financial Services Group
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=62815f1c885324e1
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PNCFinancialServices_DataEngineerAssoc.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (Remote) @ Elder Research
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-remote-at-elder-research-4414665357/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearch_DataScientistRemote.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - I @ Purplle.com
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-i-at-purplle-com-4406662891/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Purpllecom_DataScientistI.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist – GenAI & AI Engineering @ Experian
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-genai-ai-engineering-at-experian-4366152392/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Experian_DataScientistGenAIAI.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Coefficient 🌀
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-coefficient-%F0%9F%8C%80-4424688082/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Coefficient_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - VCS @ Visa
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-vcs-at-visa-4424923849/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Visa_DataScientistVCS.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Stripe
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-stripe-4414526621/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Stripe_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Microsoft
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-microsoft-4396586712/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Microsoft_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - People Analytics @ The Home Depot
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-people-analytics-at-the-home-depot-4424601199/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheHomeDepot_DataScientistPeopleA.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Jr Data Scientist @ Tech Consulting
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/jr-data-scientist-at-tech-consulting-4420741126/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TechConsulting_JrDataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Why Hiring
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-why-hiring-4421507998/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ VODA.ai®
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-voda-ai%C2%AE-4410133731/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VODAai_AIEngineer.md
+### [EMAIL ENVIADO]: Data Scientist, Product Analytics @ Meta
+- **Email enviado a:** accommodations-ext@meta.com
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Casumo
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411875361/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Software Engineer @ Google
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-software-engineer-at-google-4415079084/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_MachineLearningSoftw.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: AI Engineer upto 900M gross/ year (Hanoi) @ CNK Consulting Vietnam
-- **Email enviado a:** baohuyen@cnk-consulting.com.vn
+### [EMAIL ENVIADO]: Machine Learning/AI Engineer @ Rivian
+- **Email enviado a:** candidateaccommodations@rivian.com
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ NestAI
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-nestai-4424655376/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestAI_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ KPMG India
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-kpmg-india-4424661969/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KPMGIndia_AIEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ NestAI
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-nestai-4424651366/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NestAI_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Strava
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-strava-4397596154/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Strava_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer (d/f/m) @ Personio
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-d-f-m-at-personio-4421185616/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Personio_AIEngineerdfm.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Online Data Analyst Canada (French Language) @ TELUS Digital
+- **APLICA AQUI:** https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-2090945
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TELUSDigital_OnlineDataAnalystCan.md
+- **Fuente:** Remotive
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Business Intelligence @ Shopee
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-business-intelligence-at-shopee-4320394831/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Shopee_DataScientistBusines.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Online Data Analyst United States Spanish speakers @ TELUS Digital
+- **APLICA AQUI:** https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-spanish-speakers-2090946
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TELUSDigital_OnlineDataAnalystUni.md
+- **Fuente:** Remotive
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer Intern @ Otel AI
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-intern-at-otel-ai-4424985658/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OtelAI_AIEngineerIntern.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Researcher @ Morgan Stanley
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-researcher-at-morgan-stanley-4181238312/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MorganStanley_MachineLearningResea.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ bigspark
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-bigspark-4424644789/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/bigspark_AIEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Junior Data Scientist – Data, AI & Machine Learning @ Everone
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-data-scientist-%E2%80%93-data-ai-machine-learning-at-everone-4424638632/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Everone_JuniorDataScientistD.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Online Data Analyst Canada @ TELUS Digital
+- **APLICA AQUI:** https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-2090944
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TELUSDigital_OnlineDataAnalystCan.md
+- **Fuente:** Remotive
 
 
 ---
