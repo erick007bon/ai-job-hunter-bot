@@ -2,23 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424188769/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-developer-freelance-at-mindrift-4424709696/
 
 ---
 
 Dear Mindrift team,
 
-I am writing to offer my expertise as a Machine Learning Developer for your freelance projects. With a solid background in both economics and data science, I have built end‑to‑end AI solutions that combine predictive modeling, MLOps, and API deployment—exactly the blend you require.
+I am writing to express my interest in the Machine Learning Developer position. With a dual background in Economics and Data Science, I offer a unique combination of rigorous statistical analysis and advanced AI implementation.
 
-My recent “Trading Algoritmico con Deep Learning” project demonstrates this synergy: I designed a PyTorch LSTM model for price direction forecasting, integrated it into a Docker‑containerized FastAPI service, and managed experiment tracking with MLflow. The pipeline handled data ingestion, feature engineering, back‑testing, and real‑time inference, reducing latency to under 200 ms and achieving 68 % directional accuracy on S&P 500 data.
+My profile aligns with your requirements for creating complex computational problems. I possess expert-level proficiency in Python (NumPy, Pandas, scikit-learn) and a deep understanding of both classical ML and GenAI. Specifically, my experience with MLOps (Docker, FastAPI) and LLM orchestration allows me to design the non-trivial reasoning chains and computationally intensive workflows your projects require.
 
-Key competencies that align with Mindrift’s needs include:
-- **Deep Learning & Classic ML** (PyTorch, scikit‑learn, ensemble methods) for building robust predictive models.
-- **MLOps engineering** (Docker, FastAPI, MLflow, CI/CD with GitHub Actions) to deliver production‑ready services.
-- **API integration & automation** using Python, enabling seamless data flow between external sources and model endpoints.
+A relevant example of my technical capacity is my **Multi-Agent System with MCP**, where I built an architecture of specialized agents for automated financial analysis. This project integrates real-time API scraping, GARCH econometrics for volatility, and LLM-driven report generation—demonstrating my ability to solve multi-step, complex problems that require precise verification and logical structuring.
 
-I am especially attracted to Mindrift’s focus on innovative AI products that scale across industries. My experience in multi‑agent architectures with MCP and conversational AI equips me to contribute to complex, modular systems while maintaining high performance and reliability.
+I am highly motivated to contribute to the improvement of AI systems through the design of high-quality STEM problems. My background in causal inference and deep learning ensures that the challenges I develop will be both scientifically rigorous and computationally demanding.
 
-I would welcome the opportunity to discuss how my skill set can accelerate Mindrift’s current initiatives. Could we schedule a brief call next week to explore the fit?
+I have attached my CV and confirm my English proficiency level is B2. I am available for a technical evaluation to demonstrate how my expertise can add value to your current projects.
 
-Thank you for your consideration.
+Best regards,
