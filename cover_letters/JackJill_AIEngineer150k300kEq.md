@@ -2,20 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-776-and-neo-backed-software-creation-startup-at-jack-jill-4424399838/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-776-and-neo-backed-software-creation-startup-at-jack-jill-4424674552/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the AI Engineer position. With over three years of experience designing and deploying end‑to‑end AI systems, I have built agentic architectures that integrate large language models, API orchestration, and production‑grade MLOps—exactly the stack you describe for a consumer‑facing coding agent.
+I am writing to apply for the AI Engineer ($150k-$300k + Equity) at 776 and Neo-backed software creation startup position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-My recent work on a **Multi‑Agent System with MCP** created specialized agents for financial data scraping, econometric analysis (GARCH volatility models), and report generation via GPT‑4. The system leveraged FastAPI, Docker, and a custom Model Context Protocol to coordinate agents in real time, demonstrating the ability to turn high‑level intent into actionable code outputs. This experience directly aligns with your need for designing agentic architectures that translate user ideas into native mobile applications.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-In addition, I have deep expertise in **TypeScript** and have built production APIs using FastAPI and Docker that serve PyTorch and TensorFlow models, ensuring low latency and reliable scaling. My background in econometrics and BI (Power BI dashboards with real‑time SQL feeds) gives me a strong product‑focused mindset and the ability to devise robust evaluation frameworks for code quality and intent alignment.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am excited to contribute to a startup backed by leaders like Alexis Ohanian and to work alongside engineers from Google and OpenAI. I would welcome the opportunity to discuss how my skills can help accelerate the development of your coding AI agent.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Please let me know a convenient time for a conversation.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
-Thank you for your consideration.
+Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+adanrivas6655@gmail.com | GitHub: erick007bon

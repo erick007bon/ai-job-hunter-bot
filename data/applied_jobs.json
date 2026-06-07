@@ -1954,5 +1954,101 @@
     "applied_at": "2026-06-07T07:04:20.489609",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Gallup_AIResearchScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-research-scientist-datadog-ai-research-dair-at-datadog-4133917746/": {
+    "title": "AI Research Scientist - Datadog AI Research (DAIR)",
+    "company": "Datadog",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:05:04.780665",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Datadog_AIResearchScientistD.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4425158608/": {
+    "title": "Machine Learning Engineer (Remote)",
+    "company": "Hire Feed",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:05:15.270805",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HireFeed_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4425165510/": {
+    "title": "Machine Learning Engineer (Remote)",
+    "company": "Hire Feed",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:05:30.228061",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HireFeed_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-hire-feed-4425166582/": {
+    "title": "Data Scientist (Remote)",
+    "company": "Hire Feed",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:05:43.561736",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HireFeed_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4425167520/": {
+    "title": "Machine Learning Engineer (Remote)",
+    "company": "Hire Feed",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:05:52.088442",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HireFeed_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-jobgether-4425009427/": {
+    "title": "AI / ML Engineer",
+    "company": "Jobgether",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:05:59.990632",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Jobgether_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-776-and-neo-backed-software-creation-startup-at-jack-jill-4424674552/": {
+    "title": "AI Engineer ($150k-$300k + Equity) at 776 and Neo-backed software creation startup",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:06:08.834218",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer150k300kEq.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-python-pytorch-distributed-training-optimisation-gpu-hybrid-san-jose-ca-at-enigma-4425004201/": {
+    "title": "Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA",
+    "company": "Enigma",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:06:31.256461",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Enigma_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-james-search-group-4425127571/": {
+    "title": "Machine Learning Engineer",
+    "company": "James Search Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:06:48.588572",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JamesSearchGroup_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-machine-learning-consultant-at-infosys-4394266541/": {
+    "title": "Data Scientist/Machine Learning Consultant",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:07:11.075593",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_DataScientistMachine.md"
+  },
+  "https://www.linkedin.com/jobs/view/gen-ai-engineer-at-infosys-4394403266/": {
+    "title": "GEN AI Engineer",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:07:29.722509",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_GENAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/intern-data-scientist-barcelona-madrid-hybrid-at-aily-labs-4425185233/": {
+    "title": "Intern Data Scientist - Barcelona / Madrid (Hybrid)",
+    "company": "AILY LABS",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T14:07:48.454081",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AILYLABS_InternDataScientistB.md"
   }
 }
