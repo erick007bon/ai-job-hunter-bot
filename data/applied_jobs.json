@@ -2050,5 +2050,101 @@
     "applied_at": "2026-06-07T14:07:48.454081",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AILYLABS_InternDataScientistB.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-advanced-analytics-at-ibm-4397545354/": {
+    "title": "Data Scientist-Advanced Analytics",
+    "company": "IBM",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T17:58:37.753842",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientistAdvance.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-b3-consulting-group-4152330895/": {
+    "title": "Data Scientist",
+    "company": "B3 Consulting Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T17:58:50.363569",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/B3ConsultingGroup_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-machine-learning-at-ey-4320319185/": {
+    "title": "Data scientist - Machine Learning",
+    "company": "EY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T17:59:16.666759",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EY_DatascientistMachine.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-machine-learning-at-ey-4320129495/": {
+    "title": "Data scientist - Machine Learning",
+    "company": "EY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T17:59:32.846418",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EY_DatascientistMachine.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ii-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4384881619/": {
+    "title": "Data Scientist II - QuantumBlack, AI by McKinsey",
+    "company": "QuantumBlack, AI by McKinsey",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T17:59:57.012783",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuantumBlackAIbyMcKi_DataScientistIIQuant.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-evio-electrical-mobility-4425187498/": {
+    "title": "Data Scientist",
+    "company": "EVIO - Electrical Mobility",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T18:00:03.010977",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EVIOElectricalMobili_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-marketing-m-w-d-at-xxxldigital-%E2%80%93-part-of-xxxl-group-4397573214/": {
+    "title": "Data Scientist (Marketing) (m/w/d)",
+    "company": "XXXLdigital – Part of XXXL Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T18:00:25.474265",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/XXXLdigitalPartofXXX_DataScientistMarketi.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-hired-4425183276/": {
+    "title": "Data Scientist (Remote)",
+    "company": "Hired",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T18:00:42.577221",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Hired_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-softwareone-4425005767/": {
+    "title": "Data Scientist",
+    "company": "SoftwareOne",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T18:01:03.013014",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SoftwareOne_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/python-software-engineer-machine-learning-systems-m-f-d-at-cuju-4421589903/": {
+    "title": "Python Software Engineer - Machine Learning Systems (m/f/d)",
+    "company": "CUJU",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T18:01:21.975774",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CUJU_PythonSoftwareEngine.md"
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-at-fuse-energy-4231736433/": {
+    "title": "Quantitative Researcher",
+    "company": "Fuse Energy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T18:01:29.826940",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FuseEnergy_QuantitativeResearch.md"
+  },
+  "https://www.linkedin.com/jobs/view/deep-learning-manipulation-engineer-at-skild-ai-4120218576/": {
+    "title": "Deep Learning Manipulation Engineer",
+    "company": "Skild AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-07T18:01:48.690922",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SkildAI_DeepLearningManipula.md"
   }
 }
