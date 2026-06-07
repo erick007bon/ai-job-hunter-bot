@@ -1,63 +1,68 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-07 07:04
+# AI JOB HUNTER V3 - Reporte 2026-06-07 14:07
 
-> **Extraidas:** 127 | **Filtradas:** 36 | **Procesadas hoy:** 11
-> **Total historico postulaciones:** 258 | **Emails enviados total:** 18
+> **Extraidas:** 126 | **Filtradas:** 38 | **Procesadas hoy:** 12
+> **Total historico postulaciones:** 270 | **Emails enviados total:** 18
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist/ Product Analytics @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=033fb10a12fbe408
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_DataScientistProduct.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: AIML Engineer @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f89750f37029c48c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_AIMLEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Robert Walters
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-robert-walters-4425129010/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RobertWalters_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Research Scientist - Datadog AI Research (DAIR) @ Datadog
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-research-scientist-datadog-ai-research-dair-at-datadog-4133917746/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Datadog_AIResearchScientistD.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist at early-stage AI startup @ Jack & Jill
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-early-stage-ai-startup-at-jack-jill-4424695223/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_DataScientistatearly.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer (Remote) @ Hire Feed
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4425158608/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HireFeed_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist 5 - Availability @ Netflix
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-5-availability-at-netflix-4356048880/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Netflix_DataScientist5Availa.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer (Remote) @ Hire Feed
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4425165510/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HireFeed_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Jobright.ai
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-jobright-ai-4425006114/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Jobrightai_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (Remote) @ Hire Feed
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-remote-at-hire-feed-4425166582/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HireFeed_DataScientistRemote.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer ($175K – $250K + Equity) at Stanford-born AI governance startup @ Jack & Jill
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4424688851/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer (Remote) @ Hire Feed
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-remote-at-hire-feed-4425167520/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HireFeed_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
 ### [DRAFT - POSTULA MANUALMENTE]: AI / ML Engineer @ Jobgether
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-jobgether-4424593625/
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-jobgether-4425009427/
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Jobgether_AIMLEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI / ML Engineer @ Jobgether
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-jobgether-4425013332/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Jobgether_AIMLEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer ($150k-$300k + Equity) at 776 and Neo-backed software creation startup @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-776-and-neo-backed-software-creation-startup-at-jack-jill-4424674552/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer150k300kEq.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineering Intern @ SANOVIO
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineering-intern-at-sanovio-4421586354/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SANOVIO_AIEngineeringIntern.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA @ Enigma
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-python-pytorch-distributed-training-optimisation-gpu-hybrid-san-jose-ca-at-enigma-4425004201/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Enigma_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Research Scientist @ Gallup
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-research-scientist-at-gallup-4412017983/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Gallup_AIResearchScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ James Search Group
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-james-search-group-4425127571/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JamesSearchGroup_MachineLearningEngin.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist/Machine Learning Consultant @ Infosys
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-machine-learning-consultant-at-infosys-4394266541/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_DataScientistMachine.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: GEN AI Engineer @ Infosys
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/gen-ai-engineer-at-infosys-4394403266/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_GENAIEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Intern Data Scientist - Barcelona / Madrid (Hybrid) @ AILY LABS
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/intern-data-scientist-barcelona-madrid-hybrid-at-aily-labs-4425185233/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AILYLABS_InternDataScientistB.md
 - **Fuente:** LinkedIn
 
 
