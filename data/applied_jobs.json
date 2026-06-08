@@ -2258,5 +2258,117 @@
     "applied_at": "2026-06-07T23:08:04.595277",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AILYLABS_AppliedAIEngineerAIE.md"
+  },
+  "https://www.indeed.com/viewjob?jk=6ba121f12561f2dc": {
+    "title": "Machine Learning Engineer - Document Intelligence",
+    "company": "Workday",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T07:26:38.624399",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Workday_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=a41c284f623e6c7e": {
+    "title": "Full Stack AI Engineer (Azure)",
+    "company": "SidhSol",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T07:26:46.857950",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SidhSol_FullStackAIEngineerA.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-nielseniq-4425031092/": {
+    "title": "Data Scientist",
+    "company": "NielsenIQ",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:26:54.177762",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NielsenIQ_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-nielseniq-4425061761/": {
+    "title": "Data Scientist",
+    "company": "NielsenIQ",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:27:04.278005",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NielsenIQ_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-early-stage-ai-startup-at-jack-jill-4425055030/": {
+    "title": "Data Scientist at early-stage AI startup",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:27:16.098532",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_DataScientistatearly.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-adtech-at-the-trade-desk-4425071278/": {
+    "title": "Data Scientist, Adtech",
+    "company": "The Trade Desk",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:27:26.894292",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheTradeDesk_DataScientistAdtech.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-huspy-4407907885/": {
+    "title": "Data Scientist",
+    "company": "Huspy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:27:35.139390",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Huspy_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4425051269/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at Stanford-born AI governance startup",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:27:44.056843",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-mindfire-solutions-4421914831/": {
+    "title": "AI/ML Engineer",
+    "company": "Mindfire Solutions",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:27:54.747872",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MindfireSolutions_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-hitech-advisors-4425056918/": {
+    "title": "Machine Learning Engineer",
+    "company": "Hitech Advisors",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:28:02.558066",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HitechAdvisors_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%E2%80%93-%24220k-%2B-equity-at-%2460m-series-b-ai-native-insurance-platform-at-jack-jill-4425011578/": {
+    "title": "Founding Machine Learning Engineer ($180K – $220K + Equity) at $60M Series B AI-native insurance platform",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:28:14.134191",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_FoundingMachineLearn.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-spektr-4421599857/": {
+    "title": "AI Engineer",
+    "company": "spektr",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:28:22.334626",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/spektr_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-3%E2%80%935-years-experience-at-cydez-technologies-4425178740/": {
+    "title": "AI/ML Engineer (3–5 Years Experience)",
+    "company": "Cydez Technologies",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T07:28:32.831776",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CydezTechnologies_AIMLEngineer35YearsE.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-applied-ai-engineer-bjak-1132964": {
+    "title": "Applied AI Engineer",
+    "company": "Bjak ",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-08T07:28:43.775570",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Bjak_AppliedAIEngineer.md"
   }
 }

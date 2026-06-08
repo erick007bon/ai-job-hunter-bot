@@ -2,18 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-early-stage-ai-startup-at-jack-jill-4424695223/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-early-stage-ai-startup-at-jack-jill-4425055030/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to express my interest in the Data Scientist position. With a dual background in Economics and Data Science, I specialize in building production-ready AI solutions that bridge the gap between complex business problems and technical implementation.
+I am writing to express my interest in the Data Scientist position. As an Economist and Data Scientist, I specialize in building end-to-end ML solutions that bridge the gap between complex business logic and production-ready code.
 
-Your requirement for a "builder" who can own the entire model lifecycle aligns perfectly with my experience. I have a proven track record of deploying end-to-end systems, utilizing Python, scikit-learn, and PyTorch. Specifically, I developed a RESTful API for credit risk classification using FastAPI and Docker, ensuring the model moved from a notebook to a scalable production environment with CI/CD integration.
+Your requirement for a "builder" who can move from framing to deployment aligns perfectly with my experience. I have a proven track record of developing full-lifecycle systems, utilizing Python, PyTorch, and FastAPI. Specifically, I have implemented MLOps workflows using Docker and GitHub Actions to ensure models move efficiently from experimentation to real-world users.
 
-Furthermore, I am deeply invested in the current LLM landscape. I recently built a Multi-Agent System using the Model Context Protocol (MCP), which orchestrates specialized agents for financial scraping, econometric analysis (GARCH models), and automated reporting via GPT-4. This project demonstrates my ability to implement advanced NLP techniques to drive measurable business value.
+A key example of my approach is my Multi-Agent System using MCP (Model Context Protocol). I designed an architecture where specialized agents handle financial scraping, econometric volatility analysis (GARCH), and LLM-based reporting. This project demonstrates my ability to integrate Large Language Models into functional, automated pipelines to solve ambiguous business problems.
 
-I am drawn to Jack & Jill because of the opportunity to shape a data culture from the ground up in a fast-paced startup environment where shipping real-world impact is the priority.
+I am drawn to this role because of the opportunity to shape the data culture of an early-stage startup without legacy debt. I thrive in high-growth environments where shipping impactful code is the priority.
 
-I have attached my resume and would welcome the opportunity to discuss how my technical skills can contribute to your growth. I look forward to hearing from you.
+I have attached my resume and would welcome the opportunity to discuss how my background in financial AI and deployment can contribute to your team's growth.
+
+Best regards,
