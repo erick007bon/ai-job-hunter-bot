@@ -147,16 +147,33 @@ if __name__ == '__main__':
     browser = init_browser()
 
     # Inyección de Sesión de LinkedIn para Evadir Captchas en la Nube
+    print("Abriendo LinkedIn.com...")
     browser.get("https://www.linkedin.com")
     li_at = os.environ.get("LINKEDIN_LI_AT")
+    logged_in_by_cookie = False
+    
     if li_at:
         print("Inyectando Cookie de Sesion de LinkedIn (li_at) desde Secrets...")
         browser.add_cookie({"name": "li_at", "value": li_at, "domain": ".linkedin.com"})
-        browser.refresh()
+        print("Cargando feed para validar sesión...")
+        browser.get("https://www.linkedin.com/feed/")
+        import time
+        time.sleep(5)
+        print(f"URL actual despues de inyectar cookie: {browser.current_url}")
+        if "feed" in browser.current_url:
+            print("¡Inicio de sesión EXITOSO mediante cookie li_at! Saltando login manual.")
+            logged_in_by_cookie = True
+        else:
+            print("La cookie li_at no fue suficiente para iniciar sesión. Se intentará login por credenciales.")
     else:
-        print("ADVERTENCIA: No se encontro la cookie LINKEDIN_LI_AT en el entorno.")
+        print("ADVERTENCIA: No se encontró la cookie LINKEDIN_LI_AT en el entorno.")
 
     bot = LinkedinEasyApply(parameters, browser)
-    bot.login()
-    bot.security_check()
+    if not logged_in_by_cookie:
+        print("Ejecutando login manual por credenciales...")
+        bot.login()
+        bot.security_check()
+    else:
+        print("Procediendo directamente a postular...")
+    
     bot.start_applying()
