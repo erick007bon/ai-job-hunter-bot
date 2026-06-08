@@ -2370,5 +2370,165 @@
     "applied_at": "2026-06-08T07:28:43.775570",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Bjak_AppliedAIEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=4663358d336f2164": {
+    "title": "Data Scientist 3",
+    "company": "WebstaurantStore",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T16:03:02.509674",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DataScientist3.md"
+  },
+  "https://www.indeed.com/viewjob?jk=93c3052c00af7f19": {
+    "title": "Data Scientist - Marketing",
+    "company": "WebstaurantStore",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T16:03:15.450731",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DataScientistMarketi.md"
+  },
+  "https://www.indeed.com/viewjob?jk=b33529b1d212cc7f": {
+    "title": "Data Scientist - Pricing",
+    "company": "WebstaurantStore",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T16:03:35.017175",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WebstaurantStore_DataScientistPricing.md"
+  },
+  "https://www.indeed.com/viewjob?jk=67509bd262e9da6f": {
+    "title": "Data Scientist",
+    "company": "Public Storage",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T16:07:18.276688",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PublicStorage_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=e5c3f3187240224d": {
+    "title": "Computer Scientist / Data Scientist",
+    "company": "Cornerstone Signals & Cyber Technologies",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T16:07:28.242156",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CornerstoneSignalsCy_ComputerScientistDat.md"
+  },
+  "https://www.indeed.com/viewjob?jk=89b29650f0cb15e5": {
+    "title": "Expert Data Scientist",
+    "company": "DTE Energy",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T16:07:52.341833",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DTEEnergy_ExpertDataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9850839e63da208a": {
+    "title": "Mid-Level Cloud/Data Engineer (Azure)",
+    "company": "Dev Technology Group",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T16:07:57.441735",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DevTechnologyGroup_MidLevelCloudDataEng.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-just-good-people-4425471946/": {
+    "title": "Data Scientist",
+    "company": "Just Good People",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:08:11.538541",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JustGoodPeople_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-meat-more-4421928140/": {
+    "title": "Data Scientist",
+    "company": "Meat&More",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:08:16.308183",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MeatMore_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-ibm-4421950656/": {
+    "title": "Data Scientist (m/w/d)",
+    "company": "IBM",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:08:34.928319",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientistmwd.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-ibm-4421944671/": {
+    "title": "Data Scientist (m/w/d)",
+    "company": "IBM",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:08:39.429396",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientistmwd.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-f-x-m-at-spotixx-4421941951/": {
+    "title": "Data Scientist (f/x/m)",
+    "company": "spotixx",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:08:43.667321",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/spotixx_DataScientistfxm.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-larion-4413865085/": {
+    "title": "Data Scientist",
+    "company": "LARION",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:09:01.054139",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LARION_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-edreams-odigeo-4425090882/": {
+    "title": "Data Scientist",
+    "company": "eDreams ODIGEO",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:09:22.489677",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/eDreamsODIGEO_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-bta-baltic-insurance-company-aas-4425617730/": {
+    "title": "Data Scientist",
+    "company": "BTA Baltic Insurance Company AAS",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:09:37.311091",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BTABalticInsuranceCo_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-select-hr-luxembourg-4425494376/": {
+    "title": "Data Scientist",
+    "company": "Select HR Luxembourg",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:10:01.582714",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SelectHRLuxembourg_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4425231947/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at Stanford-born AI governance startup",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:10:28.113158",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-india-train-ai-models-part-time%21-at-hackajob-4332543984/": {
+    "title": "Machine Learning Engineer - India (Train AI Models Part Time!)",
+    "company": "hackajob",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:10:38.042226",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/hackajob_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-savant-bio-4281817025/": {
+    "title": "AI/ML Engineer",
+    "company": "Savant Bio",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:10:53.169406",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SavantBio_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-intellect-group-4425486654/": {
+    "title": "Machine Learning Engineer",
+    "company": "Intellect Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T16:11:16.346287",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IntellectGroup_MachineLearningEngin.md"
   }
 }
