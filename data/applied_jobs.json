@@ -2738,5 +2738,109 @@
     "applied_at": "2026-06-08T21:00:04.100795",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MenhirAI_JuniorAIEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=aaedc5d1808c1ed5": {
+    "title": "Junior Data Engineer (Faculty Specialist)",
+    "company": "University of Maryland University College",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T21:12:03.223361",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofMaryland_JuniorDataEngineerFa.md"
+  },
+  "https://www.indeed.com/viewjob?jk=c5d680ba0a7c9e14": {
+    "title": "Data Scientist",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T21:12:11.673260",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=477493df1538cceb": {
+    "title": "Experimental Quantum Scientist/Researcher",
+    "company": "Battelle",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T21:12:18.551336",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Battelle_ExperimentalQuantumS.md"
+  },
+  "https://www.indeed.com/viewjob?jk=af106e809357dc87": {
+    "title": "Analytics / Data Engineer",
+    "company": "Prop Firm Match Global – FZCO",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T21:12:28.590094",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PropFirmMatchGlobalF_AnalyticsDataEnginee.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-deploja-4425282826/": {
+    "title": "Machine Learning Engineer",
+    "company": "Deploja",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:12:44.283244",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deploja_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-ct-automotive-4421952952/": {
+    "title": "Machine Learning Engineer",
+    "company": "CT Automotive",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:12:52.039353",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CTAutomotive_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-yo-hr-consultancy-4418351519/": {
+    "title": "Data Scientist - Remote",
+    "company": "YO HR Consultancy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:13:11.946916",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/YOHRConsultancy_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-hr-data-at-milestone-technologies-inc-4425519066/": {
+    "title": "Data Scientist (HR Data)",
+    "company": "Milestone Technologies, Inc.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:13:34.373267",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MilestoneTechnologie_DataScientistHRData.md"
+  },
+  "https://www.linkedin.com/jobs/view/research-scientist-l5-content-understanding-at-netflix-4344509243/": {
+    "title": "Research Scientist (L5) - Content Understanding",
+    "company": "Netflix",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:13:52.158872",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Netflix_ResearchScientistL5C.md"
+  },
+  "https://www.linkedin.com/jobs/view/business-data-scientist-marketing-at-google-4425091811/": {
+    "title": "Business Data Scientist, Marketing",
+    "company": "Google",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:13:59.722554",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_BusinessDataScientis.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-betsson-group-4425479078/": {
+    "title": "Machine Learning Engineer",
+    "company": "Betsson Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:14:17.748720",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BetssonGroup_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-agentic-ai-at-zillow-4385528913/": {
+    "title": "Machine Learning Engineer, Agentic AI",
+    "company": "Zillow",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:14:35.017828",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Zillow_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-accion-labs-europe-4425494544/": {
+    "title": "Machine Learning Engineer",
+    "company": "Accion Labs Europe",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:14:44.695879",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AccionLabsEurope_MachineLearningEngin.md"
   }
 }
