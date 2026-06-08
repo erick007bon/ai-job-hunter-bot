@@ -55,7 +55,7 @@ posterBlacklist:
  - none
 
 uploads:
- resume: "C:\\Users\\Erick Zambrano\\Desktop\\linkedin\\TESIS CON GEM\\CV FLORES ERICK ZAMBRANO.pdf"
+ resume: data/CV_FLORES_ERICK_ZAMBRANO.pdf
 
 checkboxes:
  driversLicence: True
