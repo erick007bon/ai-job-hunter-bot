@@ -79,8 +79,10 @@ jobs:
         OPENAI_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
       run: |
         echo "Iniciando Postulación Automática de Easy Apply..."
-        python auto_apply_main.py || echo "⚠️ auto_apply_main.py falló — continuando"
+        python auto_apply_main.py > data/auto_apply.log 2>&1 || echo "⚠️ auto_apply_main.py falló — continuando"
         echo "Postulaciones automáticas completadas."
+        echo "=== CONTENIDO DEL LOG DE EASY APPLY ==="
+        cat data/auto_apply.log
 
     - name: 🎓 Run Scholarship Hunter (Becas — 1x al dia a las 7am)
       if: github.event.schedule == '0 12 * * *' || github.event_name == 'workflow_dispatch'
@@ -97,7 +99,7 @@ jobs:
       run: |
         git config --global user.name "AI Job Hunter Bot 🤖"
         git config --global user.email "bot@job-hunter.ai"
-        git add cover_letters/ reportes/ data/applied_jobs.json data/token.json OPORTUNIDADES_HOY.md || true
+        git add cover_letters/ reportes/ data/applied_jobs.json data/token.json data/auto_apply.log OPORTUNIDADES_HOY.md || true
         git commit -m "🎯 Ciclo Auto: $(date +'%Y-%m-%d %H:%M UTC')" || echo "Sin cambios nuevos"
         git push || echo "Push fallido, pero el bot corrio OK"
 
