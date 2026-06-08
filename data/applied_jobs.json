@@ -2530,5 +2530,141 @@
     "applied_at": "2026-06-08T16:11:16.346287",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IntellectGroup_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=27f893425f230116": {
+    "title": "Data Engineer, Go to Market (Remote)",
+    "company": "CrowdStrike",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T19:14:12.200738",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrowdStrike_DataEngineerGotoMark.md"
+  },
+  "https://www.indeed.com/viewjob?jk=58db784e5f763937": {
+    "title": "HR Data Engineer- Contract",
+    "company": "SEGULA Technologies",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T19:14:26.365624",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SEGULATechnologies_HRDataEngineerContra.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-fraud-at-kasada-4416062233/": {
+    "title": "Data Scientist (Fraud)",
+    "company": "Kasada",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:14:31.732020",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kasada_DataScientistFraud.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-public-storage-4421957456/": {
+    "title": "Data Scientist",
+    "company": "Public Storage",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:14:51.335171",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PublicStorage_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/graduate-data-scientist-at-intellect-group-4425491530/": {
+    "title": "Graduate Data Scientist",
+    "company": "Intellect Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:14:59.412152",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IntellectGroup_GraduateDataScientis.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-zimmerman-advertising-4415479503/": {
+    "title": "Data Scientist",
+    "company": "Zimmerman Advertising",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:15:10.656051",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZimmermanAdvertising_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-ktp-associate-at-university-of-bath-4415492222/": {
+    "title": "Machine Learning Engineer (KTP Associate)",
+    "company": "University of Bath",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:15:31.804788",
+    "email_sent_to": "partnerships@bath.ac.uk",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofBath_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-belcan-4413469615/": {
+    "title": "Data Scientist",
+    "company": "Belcan",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:15:57.163800",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Belcan_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-remote-at-why-hiring-4421929112/": {
+    "title": "Junior Data Scientist (Remote)",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:16:15.678068",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientistR.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-persistent-systems-4421965898/": {
+    "title": "Machine Learning Engineer",
+    "company": "Persistent Systems",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:16:22.781825",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PersistentSystems_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-paylocity-4425663334/": {
+    "title": "Machine Learning Engineer",
+    "company": "Paylocity",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:16:47.641874",
+    "email_sent_to": "LeaveBenefits@paylocity.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Paylocity_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-india-train-ai-models-part-time%21-at-hackajob-4351824075/": {
+    "title": "Data Scientist - India (Train AI Models Part Time!)",
+    "company": "hackajob",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:16:52.856250",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/hackajob_DataScientistIndiaTr.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-aej-consulting-ltd-4425627648/": {
+    "title": "Machine Learning Engineer",
+    "company": "AEJ Consulting Ltd",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:17:09.060141",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AEJConsultingLtd_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/quantitative-researcher-at-fuse-energy-4231733769/": {
+    "title": "Quantitative Researcher",
+    "company": "Fuse Energy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:17:20.090333",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FuseEnergy_QuantitativeResearch.md"
+  },
+  "https://www.linkedin.com/jobs/view/artificial-intelligence-machine-learning-2-at-avid-technology-professionals-4421960246/": {
+    "title": "Artificial Intelligence/Machine Learning 2",
+    "company": "Avid Technology Professionals",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:17:48.579354",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AvidTechnologyProfes_ArtificialIntelligen.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-loop-4389984113/": {
+    "title": "AI Engineer",
+    "company": "Loop",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T19:18:00.531607",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Loop_AIEngineer.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-hired-1132989": {
+    "title": "Data Analyst",
+    "company": "Hired",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-08T19:18:16.638588",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Hired_DataAnalyst.md"
   }
 }

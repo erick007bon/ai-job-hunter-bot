@@ -1,14 +1,14 @@
-# Cover Letter - Quantitative Researcher @ Fuse Energy
+# Cover Letter - Machine Learning Engineer @ Persistent Systems
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/quantitative-researcher-at-fuse-energy-4231733769/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-persistent-systems-4421965898/
 
 ---
 
-Dear Fuse Energy team,
+Dear Persistent Systems team,
 
-I am writing to apply for the Quantitative Researcher position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
