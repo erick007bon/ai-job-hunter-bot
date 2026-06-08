@@ -2,23 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4424688851/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4425051269/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the Machine Learning Engineer ($175K – $250K + Equity) at Stanford-born AI governance startup position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Machine Learning Engineer position. With a dual background in Economics and Data Science, I specialize in the intersection of mathematical rigor and production-grade AI systems, making me a strong fit for your deterministic governance layer.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+Your focus on mechanistic interpretability and model internals aligns with my experience working deep within the model stack. I possess a strong foundation in PyTorch and Transformer architectures, moving beyond simple prompting to build complex systems. Specifically, my experience implementing the Model Context Protocol (MCP) for multi-agent architectures demonstrates my ability to design structured, reliable systems that control LLM outputs—a skill directly applicable to building your "Policy Engine."
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+A key example of my technical depth is my development of the FCH-ARX cryptographic engine. This project required rigorous mathematical validation (NIST FIPS 180-4) and a focus on deterministic efficiency, mirroring the precision required to enforce policy and prevent drift in enterprise AI.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am motivated by the challenge of transforming frontier research into reliable production systems for Fortune 500 institutions, and I admire the pedigree of your Stanford-born team and backers. I am confident that my ability to translate complex mathematical frameworks into scalable code will contribute to the reliability of your governance layer.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I have attached my resume and portfolio for your review. I look forward to the possibility of discussing how my technical background can support your mission.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
