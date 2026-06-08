@@ -1,0 +1,117 @@
+email: erickflores6655@gmail.com
+password: "not_needed_for_local_profile"
+openaiApiKey: sk-proj-your-openai-api-key
+
+disableAntiLock: False
+remote: True
+lessthanTenApplicants: False
+newestPostingsFirst: True
+
+experienceLevel:
+ internship: False
+ entry: True
+ associate: True
+ mid-senior level: True
+ director: False
+ executive: False
+
+jobTypes:
+ full-time: True
+ contract: True
+ part-time: False
+ temporary: False
+ internship: False
+ other: False
+ volunteer: False
+
+date:
+ all time: False
+ month: False
+ week: True
+ 24 hours: False
+
+positions:
+ - Data Engineer
+ - Machine Learning Engineer
+ - AI Engineer
+ - Data Analyst
+
+locations:
+ - United States
+ - Remote
+ - Canada
+
+residentStatus: False
+distance: 100
+outputFileDirectory: ""
+
+companyBlacklist:
+ - scamcompany
+
+titleBlacklist:
+ - senior director
+
+posterBlacklist:
+ - none
+
+uploads:
+ resume: "C:\\Users\\Erick Zambrano\\Desktop\\linkedin\\TESIS CON GEM\\CV FLORES ERICK ZAMBRANO.pdf"
+
+checkboxes:
+ driversLicence: True
+ requireVisa: False
+ legallyAuthorized: True
+ certifiedProfessional: True
+ urgentFill: True
+ commute: True
+ remote: True
+ drugTest: True
+ assessment: True
+ securityClearance: False
+ degreeCompleted:
+   - Bachelor's Degree
+ backgroundCheck: True
+
+universityGpa: 8.5
+salaryMinimum: 30000
+
+languages:
+ english: Professional
+ spanish: Native or bilingual
+
+noticePeriod: 2
+
+experience:
+ Python: 4
+ SQL: 4
+ PowerBI: 3
+ AWS: 2
+ Machine Learning: 3
+ Data Engineering: 3
+ default: 3
+
+personalInfo:
+ Pronouns: Mr.
+ First Name: Erick
+ Last Name: Flores Zambrano
+ Phone Country Code: Ecuador (+593)
+ Mobile Phone Number: 0963951193
+ Street address: Centro
+ City: Machala
+ State: El Oro
+ Zip: 070101
+ Linkedin: https://www.linkedin.com/in/erick-flores-zambrano-69075b198/
+ Website: https://github.com/erick007bon
+ MessageToManager: "Hi, I am an experienced Data/AI Engineer ready to bring value. Check my portfolio in GitHub."
+
+eeo:
+ gender: Male
+ race: Hispanic
+ veteran: No
+ disability: No
+ citizenship: yes
+ clearance: no
+
+evaluateJobFit: False
+textResume: ""
+debug: False
