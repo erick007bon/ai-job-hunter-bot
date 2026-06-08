@@ -2,23 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-spektr-4421577838/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-spektr-4421599857/
 
 ---
 
 Dear spektr team,
 
-I am writing to apply for the AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the AI Engineer position. With a dual background in Economics and Data Science, I specialize in the intersection of financial analysis and intelligent automation, making me well-equipped to help spektr automate complex compliance workflows.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+Your focus on agentic features and scalable AI infrastructure aligns perfectly with my recent work. I have developed a Multi-Agent System using the Model Context Protocol (MCP), integrating specialized agents for automated financial scraping and econometric analysis via FastAPI and Docker. This experience in building end-to-end, production-ready agentic architectures allows me to move beyond notebooks and deliver direct product impact.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+Furthermore, my expertise in LLM orchestration and RAG pipelines, combined with my ability to handle complex financial data (from GARCH volatility models to SQL optimization), ensures I can translate the "compliance puzzles" you mentioned into scalable technical solutions. I am particularly drawn to spektr because you are redefining compliance for institutions like Santander, and I am eager to apply my skills in a high-growth environment where AI is the core product.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am confident that my ability to build autonomous systems and my understanding of financial risk will add immediate value to your roadmap. I have attached my CV and portfolio for your review.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I look forward to the possibility of discussing how my technical background can help spektr scale its AI agents.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-REDACTED_EMAIL@example.com | GitHub: erick007bon
