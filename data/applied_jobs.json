@@ -2666,5 +2666,77 @@
     "applied_at": "2026-06-08T19:18:16.638588",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Hired_DataAnalyst.md"
+  },
+  "https://www.indeed.com/viewjob?jk=7ba14487a99cc698": {
+    "title": "Research Scientist- Geometry & Machine Learning",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T20:58:28.293022",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_ResearchScientistGeo.md"
+  },
+  "https://www.indeed.com/viewjob?jk=30b883cf50bfffd5": {
+    "title": "Research Scientist- Geometry & Machine Learning",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T20:58:35.214814",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_ResearchScientistGeo.md"
+  },
+  "https://www.indeed.com/viewjob?jk=33d845a6e90fbede": {
+    "title": "Data Engineer",
+    "company": "DTN",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T20:58:38.475661",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DTN_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=6347e84b1468df71": {
+    "title": "Machine Learning Engineer",
+    "company": "Paylocity",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-08T20:58:52.127530",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Paylocity_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-google-4425297677/": {
+    "title": "Data Scientist",
+    "company": "Google",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T20:59:11.226695",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-scotiabank-4425506248/": {
+    "title": "Data Scientist",
+    "company": "Scotiabank",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T20:59:26.529421",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Scotiabank_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-scientist-at-ground-truth-labs-4425675410/": {
+    "title": "Machine Learning Scientist",
+    "company": "Ground Truth Labs",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T20:59:39.467074",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GroundTruthLabs_MachineLearningScien.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-chime-4421996257/": {
+    "title": "AI/ML Engineer",
+    "company": "Chime",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T20:59:44.690754",
+    "email_sent_to": "benefits@chime.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Chime_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-menhir-ai-4422205130/": {
+    "title": "Junior AI Engineer",
+    "company": "Menhir AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-08T21:00:04.100795",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MenhirAI_JuniorAIEngineer.md"
   }
 }
