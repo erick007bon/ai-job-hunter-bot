@@ -1,27 +1,22 @@
 # Cover Letter - Machine Learning Engineer @ Paylocity
 
-**Fuente:** LinkedIn | **Email contacto:** LeaveBenefits@paylocity.com
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-paylocity-4425663334/
+**URL:** https://www.indeed.com/viewjob?jk=6347e84b1468df71
 
 ---
 
 Dear Paylocity team,
 
-I am writing to apply for the Machine Learning Engineer position. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine predictive modeling, robust MLOps pipelines, and scalable APIs—exactly the capabilities you seek to power Paylocity’s data‑driven product suite.
+I am writing to apply for the Machine Learning Engineer position. My background in econometrics and AI, combined with hands‑on experience deploying production models, aligns closely with Paylocity’s goal of building scalable, data‑driven solutions for millions of users.
 
-My recent **Multi‑Agent System with MCP** demonstrates this fit: I designed a Docker‑based architecture where separate agents scrape financial data, run GARCH volatility models, and generate natural‑language reports via GPT‑4. The solution uses FastAPI for real‑time inference, MLflow for experiment tracking, and a custom Model Context Protocol to coordinate agents—a blueprint for the infrastructure you need to serve millions of users.
+In my recent role, I engineered a multi‑agent system using MCP to automate financial analysis. This project required real‑time data ingestion via FastAPI, Dockerized deployment, and continuous integration with MLflow—skills directly relevant to Paylocity’s need for robust ML infrastructure. Additionally, my experience with Power BI dashboards for executive reporting demonstrates my ability to translate complex models into actionable insights, a key component of Paylocity’s product suite.
 
-Key technical strengths that align with your requirements include:
+I am particularly drawn to Paylocity’s focus on empowering HR teams with intuitive, cloud‑based tools. The opportunity to contribute to a platform that simplifies payroll and talent management while leveraging cutting‑edge machine learning excites me. I am confident that my expertise in model deployment, MLOps practices, and data storytelling will help accelerate Paylocity’s product roadmap.
 
-* **Production‑grade ML engineering** – Docker, FastAPI, MLflow, and CI/CD (GitHub Actions) for reliable model deployment.  
-* **Advanced modeling** – deep‑learning time‑series (LSTM, PyTorch) and classic econometric methods (ARIMA, GARCH) for accurate forecasting.  
-* **Data‑centric tooling** – SQL‑optimized pipelines and Power BI dashboards for clear, actionable insights.
+I would welcome the chance to discuss how my skills can support your engineering team. Please let me know a convenient time for a brief call or interview.
 
-I am attracted to Paylocity’s commitment to modernizing HR and payroll through intelligent automation, and I am eager to contribute my expertise in building scalable, secure ML infrastructure that enhances user experience and business outcomes.
+Thank you for considering my application.
 
-Could we schedule a brief call to discuss how my experience can accelerate Paylocity’s machine‑learning initiatives? I look forward to the opportunity.
-
-Sincerely,
-
-Erick Flores Zambrano
+Sincerely,  
+Flores Zambrano Erick
