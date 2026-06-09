@@ -360,72 +360,103 @@ class LinkedinEasyApply:
             raise Exception("Nothing to do here, moving forward...")
 
         try:
-            # TODO: Can we simply use class name scaffold-layout__list for the scroll (necessary to show all li in the dom?)? Does it need to be the ul within the scaffold list?
-            #      Then we can simply get all the li scaffold-layout__list-item elements within it for the jobs
+            job_list = []
+            job_results_by_class = None
+            ul_element_class = None
 
-            # Define the XPaths for potentially different regions
+            # Attempt to locate the elements using standard XPaths first
             xpath_region1 = "/html/body/div[6]/div[3]/div[4]/div/div/main/div/div[2]/div[1]/div"
             xpath_region2 = "/html/body/div[5]/div[3]/div[4]/div/div/main/div/div[2]/div[1]/div"
-            job_list = []
-
-            # Attempt to locate the element using XPaths
+            
             try:
                 job_results = self.browser.find_element(By.XPATH, xpath_region1)
                 ul_xpath = "/html/body/div[6]/div[3]/div[4]/div/div/main/div/div[2]/div[1]/div/ul"
                 ul_element = self.browser.find_element(By.XPATH, ul_xpath)
                 ul_element_class = ul_element.get_attribute("class").split()[0]
-                print(f"Found using xpath_region1 and detected ul_element as {ul_element_class} based on {ul_xpath}")
-
+                random_class = job_results.get_attribute("class").split()[0]
+                job_results_by_class = self.browser.find_element(By.CSS_SELECTOR, f".{random_class}")
+                print(f"Found using xpath_region1")
             except NoSuchElementException:
-                job_results = self.browser.find_element(By.XPATH, xpath_region2)
-                ul_xpath = "/html/body/div[5]/div[3]/div[4]/div/div/main/div/div[2]/div[1]/div/ul"
-                ul_element = self.browser.find_element(By.XPATH, ul_xpath)
-                ul_element_class = ul_element.get_attribute("class").split()[0]
-                print(f"Found using xpath_region2 and detected ul_element as {ul_element_class} based on {ul_xpath}")
+                try:
+                    job_results = self.browser.find_element(By.XPATH, xpath_region2)
+                    ul_xpath = "/html/body/div[5]/div[3]/div[4]/div/div/main/div/div[2]/div[1]/div/ul"
+                    ul_element = self.browser.find_element(By.XPATH, ul_xpath)
+                    ul_element_class = ul_element.get_attribute("class").split()[0]
+                    random_class = job_results.get_attribute("class").split()[0]
+                    job_results_by_class = self.browser.find_element(By.CSS_SELECTOR, f".{random_class}")
+                    print(f"Found using xpath_region2")
+                except NoSuchElementException:
+                    print("Standard XPaths not found. Trying robust HTML class/tag selectors...")
 
-            # Extract the random class name dynamically
-            random_class = job_results.get_attribute("class").split()[0]
-            print(f"Random class detected: {random_class}")
+            # Fallbacks for scroll container
+            if not job_results_by_class:
+                for selector in [".jobs-search-results-list", ".scaffold-layout__list", "div[data-job-id]"]:
+                    try:
+                        job_results_by_class = self.browser.find_element(By.CSS_SELECTOR, selector)
+                        print(f"Found scroll container using selector: {selector}")
+                        break
+                    except NoSuchElementException:
+                        continue
 
-            # Use the detected class name to find the element
-            job_results_by_class = self.browser.find_element(By.CSS_SELECTOR, f".{random_class}")
-            print(f"job_results: {job_results_by_class}")
-            print("Successfully located the element using the random class name.")
+            # Scroll if container found
+            if job_results_by_class:
+                self.scroll_slow(job_results_by_class)  # Scroll down
+                self.scroll_slow(job_results_by_class, step=300, reverse=True)  # Scroll up
+            else:
+                print("No scroll container found. Continuing without scrolling...")
 
-            # Scroll logic (currently disabled for testing)
-            self.scroll_slow(job_results_by_class)  # Scroll down
-            self.scroll_slow(job_results_by_class, step=300, reverse=True)  # Scroll up
+            # Fallbacks for job list elements
+            if ul_element_class:
+                try:
+                    job_list = self.browser.find_elements(By.CLASS_NAME, ul_element_class)[0].find_elements(By.CLASS_NAME, 'scaffold-layout__list-item')
+                except Exception:
+                    pass
 
-            # Find job list elements
-            job_list = self.browser.find_elements(By.CLASS_NAME, ul_element_class)[0].find_elements(By.CLASS_NAME, 'scaffold-layout__list-item')
+            if not job_list:
+                # Fallback: find all standard list items directly
+                for selector in [".scaffold-layout__list-item", "li[data-occludable-job-id]", ".jobs-search-results-list__list-item"]:
+                    job_list = self.browser.find_elements(By.CSS_SELECTOR, selector)
+                    if job_list:
+                        print(f"Found {len(job_list)} jobs using selector: {selector}")
+                        break
+
             print(f"Found {len(job_list)} jobs on this page")
 
             if len(job_list) == 0:
-                raise Exception("No more jobs on this page.")  # TODO: Seemed to encounter an error where we ran out of jobs and didn't go to next page, perhaps because I didn't have scrolling on?
-
-        except NoSuchElementException:
-            print("No job results found using the specified XPaths or class.")
+                raise Exception("No more jobs on this page.")
 
         except Exception as e:
-            print(f"An unexpected error occurred: {e}")
+            print(f"An unexpected error occurred in apply_jobs list extraction: {e}")
 
         for job_tile in job_list:
             job_title, company, poster, job_location, apply_method, link = "", "", "", "", "", ""
 
-            try:
-                ## patch to incorporate new 'verification' crap by LinkedIn
-                # job_title = job_tile.find_element(By.CLASS_NAME, 'job-card-list__title').text # original code
-                job_title_element = job_tile.find_element(By.CLASS_NAME, 'job-card-list__title--link')
-                job_title = job_title_element.find_element(By.TAG_NAME, 'strong').text
+            # Robust Title and Link Parsing
+            for title_selector in ['.job-card-list__title--link', '.job-card-list__title', '.job-card-container__link', 'a[data-control-name="job_card_link"]']:
+                try:
+                    job_title_element = job_tile.find_element(By.CSS_SELECTOR, title_selector)
+                    try:
+                        job_title = job_title_element.find_element(By.TAG_NAME, 'strong').text
+                    except Exception:
+                        job_title = job_title_element.text
+                    
+                    link = job_title_element.get_attribute('href')
+                    if link:
+                        link = link.split('?')[0]
+                    if job_title and link:
+                        break
+                except NoSuchElementException:
+                    continue
 
-                link = job_tile.find_element(By.CLASS_NAME, 'job-card-list__title--link').get_attribute('href').split('?')[0]
-            except:
-                pass
-            try:
-                # company = job_tile.find_element(By.CLASS_NAME, 'job-card-container__primary-description').text # original code
-                company = job_tile.find_element(By.CLASS_NAME, 'artdeco-entity-lockup__subtitle').text
-            except:
-                pass
+            # Robust Company Parsing
+            for company_selector in ['.artdeco-entity-lockup__subtitle', '.job-card-container__primary-description', '.job-card-container__company-name']:
+                try:
+                    company = job_tile.find_element(By.CSS_SELECTOR, company_selector).text
+                    if company:
+                        break
+                except NoSuchElementException:
+                    continue
+
             try:
                 # get the name of the person who posted for the position, if any is listed
                 hiring_line = job_tile.find_element(By.XPATH, '//span[contains(.,\' is hiring for this\')]')
