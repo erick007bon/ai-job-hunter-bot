@@ -1,4 +1,8 @@
-import time, random, csv, pyautogui, traceback, os, re
+import time, random, csv, traceback, os, re
+try:
+    import pyautogui
+except Exception:
+    pyautogui = None
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
@@ -1237,14 +1241,17 @@ class LinkedinEasyApply:
             time.sleep(random.uniform(0.1, .6))
 
     def avoid_lock(self):
-        if self.disable_lock:
+        if self.disable_lock or pyautogui is None:
             return
 
-        pyautogui.keyDown('ctrl')
-        pyautogui.press('esc')
-        pyautogui.keyUp('ctrl')
-        time.sleep(1.0)
-        pyautogui.press('esc')
+        try:
+            pyautogui.keyDown('ctrl')
+            pyautogui.press('esc')
+            pyautogui.keyUp('ctrl')
+            time.sleep(1.0)
+            pyautogui.press('esc')
+        except Exception:
+            pass
 
     def get_base_search_url(self, parameters):
         remote_url = ""
