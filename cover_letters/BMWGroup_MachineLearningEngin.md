@@ -1,21 +1,21 @@
 # Cover Letter - Machine Learning Engineer @ BMW Group
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-bmw-group-4425837482/
+**URL:** https://www.indeed.com/viewjob?jk=c13941ba3f5a3b11
 
 ---
 
 Dear BMW Group team,
 
-I am writing to apply for the Machine Learning Engineer position in Mountain View. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine advanced machine learning, generative AI, and robust MLOps—exactly the blend you seek for innovative in‑vehicle experiences.
+I am a data scientist and economist with a strong background in machine learning and financial analytics. My experience developing end‑to‑end AI solutions aligns with BMW’s need for innovative, prototype‑ready models. I have built predictive systems using PyTorch and scikit‑learn, and deployed them with FastAPI and Docker—skills directly applicable to the “develop prototypes, Proof of Concepts” requirement.
 
-My recent “Trading Algorítmico con Deep Learning” project demonstrates this fit. I designed a PyTorch LSTM model to forecast S&P 500 price direction (68 % directional accuracy), integrated the pipeline with MLflow for experiment tracking, containerized the service with Docker, and exposed it through a FastAPI endpoint for real‑time inference. This experience aligns with your need to develop prototypes and PoCs, and to assess AI feasibility for BMW products.
+In a recent project, I created a multi‑agent architecture based on the Model Context Protocol. The system scrapes financial data, applies GARCH volatility models, and generates executive reports via GPT‑4. This demonstrates my ability to combine data ingestion, econometric analysis, and generative AI—exactly the blend BMW seeks for enhancing in‑vehicle and mobility experiences.
 
-In addition, I have extensive work with large language models and prompt engineering (GPT‑4 API) within a multi‑agent MCP architecture for automated financial reporting. This directly supports your goal of exploring Generative AI and LLM‑driven functionalities for mobility solutions.
+I also possess hands‑on MLOps knowledge, having implemented CI/CD pipelines with GitHub Actions and managed experiments with MLflow. These practices will support BMW’s goal of securing intellectual property while ensuring robust, reproducible models.
 
-My technical toolkit includes Python, PyTorch, TensorFlow, scikit‑learn, Docker, FastAPI, and CI/CD pipelines—matching the programming proficiency and deployment expertise highlighted in the job description. Moreover, my experience publishing findings and securing IPR in academic collaborations equips me to contribute to BMW’s global AI strategy.
+I am excited by BMW’s commitment to creativity and breakthrough ideas. The opportunity to shape future mobility solutions in an environment that values independent, innovative thinking is compelling. I am ready to bring my technical expertise and collaborative spirit to your Mountain View team.
 
-I would welcome the opportunity to discuss how my skills and projects can accelerate BMW’s AI initiatives. Please let me know a convenient time for a conversation.
+Could we schedule a brief call to discuss how my background can support BMW’s AI strategy? I look forward to the possibility of contributing to your next generation of automotive technology.
 
-Thank you for your consideration.
+Warm regards,

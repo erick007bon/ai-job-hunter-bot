@@ -3138,5 +3138,101 @@
     "applied_at": "2026-06-09T15:18:55.651010",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Collate_AIEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=7e3fd9811b01c0d4": {
+    "title": "Business Intelligence Analyst",
+    "company": "Hastings Insurance",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T19:07:12.351451",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HastingsInsurance_BusinessIntelligence.md"
+  },
+  "https://www.indeed.com/viewjob?jk=499cb9af8b0be834": {
+    "title": "Associate Business Intelligence Analyst",
+    "company": "Hastings Insurance",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T19:07:36.093432",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HastingsInsurance_AssociateBusinessInt.md"
+  },
+  "https://www.indeed.com/viewjob?jk=c13941ba3f5a3b11": {
+    "title": "Machine Learning Engineer",
+    "company": "BMW Group",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T19:07:58.062215",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BMWGroup_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-all-genders-at-austrian-lotteries-4406211536/": {
+    "title": "Data Scientist (all genders)",
+    "company": "Austrian Lotteries",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:08:06.770656",
+    "email_sent_to": "glueckimjob@cal-group.at",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AustrianLotteries_DataScientistallgend.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-knorex-4422246884/": {
+    "title": "Data Scientist",
+    "company": "KNOREX",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:08:37.413181",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOREX_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-ibm-4413327606/": {
+    "title": "Data Scientist",
+    "company": "IBM",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:08:52.177296",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-phoenix-group-integrated-healthcare-provider-4399740022/": {
+    "title": "Data Scientist",
+    "company": "PHOENIX group - Integrated Healthcare Provider",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:09:11.224745",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PHOENIXgroupIntegrat_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/onsite-mid-sen-data-scientist-kh%C3%B4ng-y%C3%AAu-c%E1%BA%A7u-ti%E1%BA%BFng-anh-at-vmo-4425962912/": {
+    "title": "Onsite_Mid/Sen Data Scientist (Không yêu cầu tiếng anh)",
+    "company": "VMO",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:09:38.523435",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VMO_Onsite_MidSenDataSci.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-priority-software-4425560483/": {
+    "title": "Data Scientist",
+    "company": "Priority Software",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:09:45.913541",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrioritySoftware_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-rwe-4426304271/": {
+    "title": "Data Scientist",
+    "company": "RWE",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:10:04.041225",
+    "email_sent_to": "aruna.richard@rwe.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RWE_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-managed-services-at-visa-4426365772/": {
+    "title": "Data Scientist - Managed Services",
+    "company": "Visa",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:10:10.216606",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Visa_DataScientistManaged.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-ml-engineer-at-talan-4426363576/": {
+    "title": "Junior AI/ML Engineer",
+    "company": "Talan",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T19:10:26.368731",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Talan_JuniorAIMLEngineer.md"
   }
 }
