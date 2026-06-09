@@ -1,66 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-09 19:10
+# AI JOB HUNTER V3 - Reporte 2026-06-09 23:22
 
-> **Extraidas:** 116 | **Filtradas:** 37 | **Procesadas hoy:** 12
-> **Total historico postulaciones:** 418 | **Emails enviados total:** 27
+> **Extraidas:** 131 | **Filtradas:** 39 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 438 | **Emails enviados total:** 27
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Business Intelligence Analyst @ Hastings Insurance
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7e3fd9811b01c0d4
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HastingsInsurance_BusinessIntelligence.md
+### [DRAFT - POSTULA MANUALMENTE]: Analyst - Data Engineering 5A @ Genpact
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0411ee5db09b739b
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_AnalystDataEngineeri.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Associate Business Intelligence Analyst @ Hastings Insurance
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=499cb9af8b0be834
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HastingsInsurance_AssociateBusinessInt.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=611bc199e807d404
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ BMW Group
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c13941ba3f5a3b11
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BMWGroup_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9987e2d5369709b7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [EMAIL ENVIADO]: Data Scientist (all genders) @ Austrian Lotteries
-- **Email enviado a:** glueckimjob@cal-group.at
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f374e6b3c1374e50
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Marketing Data Scientist @ Zicasso
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4157213e4eddc5b8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Zicasso_MarketingDataScienti.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI and ML Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4f67d84a953ac896
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AIandMLEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: AI and ML Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5d5431df09addbd1
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AIandMLEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Spotify
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-spotify-4426348989/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Spotify_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ KNOREX
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-knorex-4422246884/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOREX_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ KNOWFINITY
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425898173/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ IBM
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-ibm-4413327606/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ KNOWFINITY
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425897159/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ PHOENIX group - Integrated Healthcare Provider
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-phoenix-group-integrated-healthcare-provider-4399740022/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PHOENIXgroupIntegrat_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ KNOWFINITY
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425899130/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Onsite_Mid/Sen Data Scientist (Không yêu cầu tiếng anh) @ VMO
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/onsite-mid-sen-data-scientist-kh%C3%B4ng-y%C3%AAu-c%E1%BA%A7u-ti%E1%BA%BFng-anh-at-vmo-4425962912/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VMO_Onsite_MidSenDataSci.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ KNOWFINITY
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425894221/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Priority Software
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-priority-software-4425560483/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PrioritySoftware_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ KNOWFINITY
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425887238/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Data Scientist @ RWE
-- **Email enviado a:** aruna.richard@rwe.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ KNOWFINITY
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425883306/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - Managed Services @ Visa
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-managed-services-at-visa-4426365772/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Visa_DataScientistManaged.md
+### [DRAFT - POSTULA MANUALMENTE]: AI & Data Engineer @ SECO Luxembourg
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-data-engineer-at-seco-luxembourg-4422281684/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SECOLuxembourg_AIDataEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior AI/ML Engineer @ Talan
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ai-ml-engineer-at-talan-4426363576/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Talan_JuniorAIMLEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Junior AI ML Engineer @ Sword Group
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ai-ml-engineer-at-sword-group-4426332734/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SwordGroup_JuniorAIMLEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Toluna
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-toluna-4422257429/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Toluna_MachineLearningEngin.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Generative AI engineer @ Talan
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/generative-ai-engineer-at-talan-4426366305/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Talan_GenerativeAIengineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Just Eat Takeaway.com
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-just-eat-takeaway-com-4422236006/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JustEatTakeawaycom_MachineLearningEngin.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Medior ML Engineer @ Mozzart
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/medior-ml-engineer-at-mozzart-4422271575/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mozzart_MediorMLEngineer.md
 - **Fuente:** LinkedIn
 
 
