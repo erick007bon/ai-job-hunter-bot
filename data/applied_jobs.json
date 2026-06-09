@@ -3034,5 +3034,13 @@
     "applied_at": "2026-06-09T04:57:06.767722",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Abrial_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-index-ventures-backed-agentic-ai-startup-at-jack-jill-4425291815/": {
+    "title": "AI Engineer ($180K – $250K + Equity) at Index Ventures-backed agentic AI startup",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T06:43:51.059898",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md"
   }
 }
