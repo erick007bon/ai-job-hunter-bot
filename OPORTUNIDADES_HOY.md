@@ -1,86 +1,13 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-09 04:57
+# AI JOB HUNTER V3 - Reporte 2026-06-09 06:43
 
-> **Extraidas:** 122 | **Filtradas:** 39 | **Procesadas hoy:** 16
-> **Total historico postulaciones:** 393 | **Emails enviados total:** 24
+> **Extraidas:** 128 | **Filtradas:** 40 | **Procesadas hoy:** 1
+> **Total historico postulaciones:** 394 | **Emails enviados total:** 24
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ nan
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0fd649117f9bdc35
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_DataScientist.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Rapid Eagle Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=04eb778a23284ca5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RapidEagleInc_MachineLearningEngin.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Associate @ MITRE
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e08ae9839ca81826
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MITRE_DataScientistAssocia.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Shift5
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=112eed9f667d3e9c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Shift5_DataEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist I @ Uber
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-i-at-uber-4422229569/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Uber_DataScientistI.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, AI Solutions @ DataVisor
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-ai-solutions-at-datavisor-4425964283/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DataVisor_DataScientistAISolut.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Research Scientist @ NielsenIQ
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/research-scientist-at-nielseniq-4425268261/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NielsenIQ_ResearchScientist.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI/GenAI - ML Engineer @ Qualco Group
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-genai-ml-engineer-at-qualco-group-4425491956/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QualcoGroup_AIGenAIMLEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Generative AI Engineer @ Accenture
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/generative-ai-engineer-at-accenture-4421960383/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Accenture_GenerativeAIEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Aliz
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-aliz-4401961064/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Aliz_AIEngineer.md
-- **Fuente:** LinkedIn
-
-### [EMAIL ENVIADO]: Applied AI Engineer @ Synechron
-- **Email enviado a:** Recruitment-Serbia@synechron.com
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Casumo
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411881005/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer (m/f/x) @ Intact
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-m-f-x-at-intact-4384802442/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Intact_AIEngineermfx.md
-- **Fuente:** LinkedIn
-
-### [EMAIL ENVIADO]: AI Engineer @ SAP
-- **Email enviado a:** Careers@sap.com
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ SII Group Romania
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-sii-group-romania-4425464619/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SIIGroupRomania_AIEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: AI / ML Engineer @ Abrial
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-abrial-4425564009/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Abrial_AIMLEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer ($180K – $250K + Equity) at Index Ventures-backed agentic AI startup @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-index-ventures-backed-agentic-ai-startup-at-jack-jill-4425291815/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md
 - **Fuente:** LinkedIn
 
 
