@@ -2,7 +2,7 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4425292860/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4425829177/
 
 ---
 

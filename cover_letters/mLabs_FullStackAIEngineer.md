@@ -1,14 +1,14 @@
-# Cover Letter - Jr. Data Scientist @ Why Hiring
+# Cover Letter - Full Stack AI Engineer @ mLabs
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4422261301/
+**URL:** https://www.indeed.com/viewjob?jk=3ed859f9cfbd2209
 
 ---
 
-Dear Why Hiring team,
+Dear mLabs team,
 
-I am writing to apply for the Jr. Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Full Stack AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
