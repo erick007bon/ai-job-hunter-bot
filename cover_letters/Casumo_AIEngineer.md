@@ -2,23 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411875361/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411881005/
 
 ---
 
 Dear Casumo team,
 
-I am writing to apply for the AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the AI Engineer position. With a dual background in Economics and Data Science, I specialize in building end-to-end AI solutions that bridge the gap between complex technical architectures and tangible business outcomes.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My profile aligns with Casumo’s need for automation and personalization. I have extensive experience developing machine learning models—ranging from classical Random Forests for risk classification to Deep Learning (PyTorch) for predictive forecasting. Furthermore, my expertise in MLOps (Docker, FastAPI, and MLflow) ensures that the models I build are not just prototypes, but scalable production-ready services.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+A key example of my capability is my Multi-Agent System using MCP (Model Context Protocol). I designed a distributed architecture where specialized agents handle financial data scraping, econometric analysis, and automated reporting via LLMs. This experience in orchestrating GenAI tools and integrating APIs directly mirrors your goal of implementing GenAI to enhance business processes and operational efficiency.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am drawn to Casumo’s commitment to innovation and playful charm, and I am confident that my ability to combine rigorous econometric analysis with cutting-edge AI will drive significant value for your gaming experiences.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I have attached my resume for your review and would welcome the opportunity to discuss how my technical skills can support Casumo’s AI roadmap in an interview.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
