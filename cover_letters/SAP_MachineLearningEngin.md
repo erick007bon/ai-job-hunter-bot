@@ -2,23 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** Careers@sap.com
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sap-4424260565/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-sap-4425809271/
 
 ---
 
 Dear SAP team,
 
-I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Machine Learning Engineer position. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine financial analytics, deep learning, and MLOps—areas directly aligned with SAP’s focus on intelligent technologies and cloud‑based analytics.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My experience designing and deploying predictive models in Python (scikit‑learn, PyTorch, TensorFlow) matches the requirement for strong machine‑learning expertise. In the “Trading Algorítmico con Deep Learning” project, I created an LSTM forecasting pipeline, integrated it with Docker‑based FastAPI services, and used MLflow for experiment tracking—demonstrating the full MLOps lifecycle that SAP expects for scalable, production‑grade models.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+Additionally, I have implemented multi‑agent architectures using the Model Context Protocol (MCP) to automate financial data collection, econometric analysis (GARCH volatility modeling), and report generation with LLMs. This experience aligns with SAP’s need for innovative, modular AI solutions that can be integrated across enterprise applications.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+My strong SQL and Power BI skills enable me to translate complex data into actionable dashboards, supporting SAP’s commitment to delivering business insight effectively. I am motivated to contribute to SAP’s vision of simplifying global commerce through intelligent, data‑driven products.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I would welcome the opportunity to discuss how my technical background and project experience can add value to SAP’s machine‑learning initiatives. Please let me know a convenient time for a conversation.
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
+Thank you for your consideration.

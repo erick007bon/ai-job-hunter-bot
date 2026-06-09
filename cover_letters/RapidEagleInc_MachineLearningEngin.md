@@ -1,24 +1,21 @@
 # Cover Letter - Machine Learning Engineer @ Rapid Eagle Inc
 
-**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=04eb778a23284ca5
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-rapid-eagle-inc-4422285610/
 
 ---
 
 Dear Rapid Eagle Inc team,
 
-I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Machine Learning Engineer position. With five years of experience building end‑to‑end ML solutions, I have a proven ability to design, deploy, and monitor production models that generate measurable business value.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My recent **Multi‑Agent System with MCP** combined fast data ingestion (Alpha Vantage API), econometric modeling (GARCH) and LLM‑based report generation, all containerized with Docker and served through FastAPI micro‑services. This project demonstrates my expertise in **Python, TensorFlow/PyTorch, REST APIs, and MLOps tools (Docker, MLflow, CI/CD with GitHub Actions)**—exactly the stack outlined in your posting.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+In addition, I have built scalable pipelines using **SQL for feature engineering**, integrated them into **Airflow‑like orchestration**, and deployed models on **AWS EC2/EKS**, ensuring low‑latency inference for both structured and unstructured data. My work on the **Trading Algorithm with Deep Learning** further refined my skills in time‑series forecasting, model validation, and automated back‑testing, reinforcing my statistical foundation and ability to improve model accuracy in production.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+Rapid Eagle’s focus on remote‑first, high‑impact ML solutions aligns with my commitment to delivering reliable, scalable systems that directly support business decisions. I am eager to collaborate with your data scientists and engineers to turn complex requirements into robust, production‑ready models.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Could we schedule a brief call to discuss how my experience with MCP architectures and MLOps pipelines can accelerate Rapid Eagle’s AI initiatives?
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
+Thank you for your consideration.
