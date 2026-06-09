@@ -3234,5 +3234,165 @@
     "applied_at": "2026-06-09T19:10:26.368731",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Talan_JuniorAIMLEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=0411ee5db09b739b": {
+    "title": "Analyst - Data Engineering 5A",
+    "company": "Genpact",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T23:18:19.673463",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Genpact_AnalystDataEngineeri.md"
+  },
+  "https://www.indeed.com/viewjob?jk=611bc199e807d404": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T23:18:36.205316",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9987e2d5369709b7": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T23:18:40.537482",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=f374e6b3c1374e50": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T23:18:51.299961",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=4157213e4eddc5b8": {
+    "title": "Marketing Data Scientist",
+    "company": "Zicasso",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T23:19:13.777368",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Zicasso_MarketingDataScienti.md"
+  },
+  "https://www.indeed.com/viewjob?jk=4f67d84a953ac896": {
+    "title": "AI and ML Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T23:19:18.026866",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AIandMLEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=5d5431df09addbd1": {
+    "title": "AI and ML Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T23:19:22.553846",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AIandMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-spotify-4426348989/": {
+    "title": "Data Scientist",
+    "company": "Spotify",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:19:29.338997",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Spotify_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425898173/": {
+    "title": "Data Scientist",
+    "company": "KNOWFINITY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:19:32.934628",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425897159/": {
+    "title": "Data Scientist",
+    "company": "KNOWFINITY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:19:53.665592",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425899130/": {
+    "title": "Data Scientist",
+    "company": "KNOWFINITY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:20:01.345873",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425894221/": {
+    "title": "Data Scientist",
+    "company": "KNOWFINITY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:20:05.072130",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425887238/": {
+    "title": "Data Scientist",
+    "company": "KNOWFINITY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:20:18.858613",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-knowfinity-4425883306/": {
+    "title": "Data Scientist",
+    "company": "KNOWFINITY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:20:34.923279",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KNOWFINITY_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-data-engineer-at-seco-luxembourg-4422281684/": {
+    "title": "AI & Data Engineer",
+    "company": "SECO Luxembourg",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:20:55.017445",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SECOLuxembourg_AIDataEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-ml-engineer-at-sword-group-4426332734/": {
+    "title": "Junior AI ML Engineer",
+    "company": "Sword Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:21:04.230335",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SwordGroup_JuniorAIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-toluna-4422257429/": {
+    "title": "Machine Learning Engineer",
+    "company": "Toluna",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:21:27.288733",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Toluna_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-talan-4426366305/": {
+    "title": "Generative AI engineer",
+    "company": "Talan",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:21:48.840398",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Talan_GenerativeAIengineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-just-eat-takeaway-com-4422236006/": {
+    "title": "Machine Learning Engineer",
+    "company": "Just Eat Takeaway.com",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:22:01.866425",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JustEatTakeawaycom_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/medior-ml-engineer-at-mozzart-4422271575/": {
+    "title": "Medior ML Engineer",
+    "company": "Mozzart",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T23:22:10.116105",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mozzart_MediorMLEngineer.md"
   }
 }
