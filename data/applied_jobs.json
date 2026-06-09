@@ -2906,5 +2906,133 @@
     "applied_at": "2026-06-08T23:15:06.842794",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SOCOTEC_AppliedAIEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=0fd649117f9bdc35": {
+    "title": "Data Scientist",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T04:52:11.959010",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=04eb778a23284ca5": {
+    "title": "Machine Learning Engineer",
+    "company": "Rapid Eagle Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T04:52:33.240452",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RapidEagleInc_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=e08ae9839ca81826": {
+    "title": "Data Scientist, Associate",
+    "company": "MITRE",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T04:52:44.875630",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MITRE_DataScientistAssocia.md"
+  },
+  "https://www.indeed.com/viewjob?jk=112eed9f667d3e9c": {
+    "title": "Data Engineer",
+    "company": "Shift5",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-09T04:53:12.954821",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Shift5_DataEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-i-at-uber-4422229569/": {
+    "title": "Data Scientist I",
+    "company": "Uber",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:53:26.414116",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Uber_DataScientistI.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ai-solutions-at-datavisor-4425964283/": {
+    "title": "Data Scientist, AI Solutions",
+    "company": "DataVisor",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:53:38.053589",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DataVisor_DataScientistAISolut.md"
+  },
+  "https://www.linkedin.com/jobs/view/research-scientist-at-nielseniq-4425268261/": {
+    "title": "Research Scientist",
+    "company": "NielsenIQ",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:53:57.630777",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NielsenIQ_ResearchScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-genai-ml-engineer-at-qualco-group-4425491956/": {
+    "title": "AI/GenAI - ML Engineer",
+    "company": "Qualco Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:54:08.530833",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QualcoGroup_AIGenAIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-accenture-4421960383/": {
+    "title": "Generative AI Engineer",
+    "company": "Accenture",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:54:18.699494",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Accenture_GenerativeAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-aliz-4401961064/": {
+    "title": "AI Engineer",
+    "company": "Aliz",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:54:40.621085",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Aliz_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-synechron-4405972986/": {
+    "title": "Applied AI Engineer",
+    "company": "Synechron",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:54:51.810649",
+    "email_sent_to": "Recruitment-Serbia@synechron.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Synechron_AppliedAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411881005/": {
+    "title": "AI Engineer",
+    "company": "Casumo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:55:03.589434",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-m-f-x-at-intact-4384802442/": {
+    "title": "AI Engineer (m/f/x)",
+    "company": "Intact",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:55:17.198562",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Intact_AIEngineermfx.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-sap-4324526244/": {
+    "title": "AI Engineer",
+    "company": "SAP",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:56:37.808641",
+    "email_sent_to": "Careers@sap.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAP_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-sii-group-romania-4425464619/": {
+    "title": "AI Engineer",
+    "company": "SII Group Romania",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:56:51.721507",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SIIGroupRomania_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-abrial-4425564009/": {
+    "title": "AI / ML Engineer",
+    "company": "Abrial",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-09T04:57:06.767722",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Abrial_AIMLEngineer.md"
   }
 }
