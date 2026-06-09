@@ -1,12 +1,12 @@
-# Cover Letter - Data Scientist @ Booz Allen Hamilton
+# Cover Letter - Data Scientist @ Spotify
 
-**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=f374e6b3c1374e50
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-spotify-4426348989/
 
 ---
 
-Dear Booz Allen Hamilton team,
+Dear Spotify team,
 
 I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
