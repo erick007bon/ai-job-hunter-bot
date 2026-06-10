@@ -2,23 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-index-ventures-backed-agentic-ai-startup-at-jack-jill-4425291815/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-index-ventures-backed-agentic-ai-startup-at-jack-jill-4425876984/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the AI Engineer ($180K – $250K + Equity) at Index Ventures-backed agentic AI startup position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the AI Engineer position. With a dual background in Economics and Data Science, I specialize in building end-to-end agentic systems that bridge the gap between complex data analysis and production-grade automation.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+Your focus on automating high-stakes institutional workflows aligns perfectly with my expertise in designing autonomous systems. I have developed a **Multi-Agent System using MCP (Model Context Protocol)**, where I orchestrated specialized agents for financial scraping, econometric analysis (GARCH), and LLM-driven reporting. This experience in building long-running, reasoning agents mirrors the technical challenges of automating real estate acquisitions and development tasks.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+My technical stack combines Python, FastAPI, and Docker for deployment, ensuring that the AI systems I build are not just prototypes but reliable production tools. Furthermore, my experience in econometrics and risk analysis allows me to translate complex domain requirements into precise technical specifications—a skill critical when partnering with trillion-dollar asset managers.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am drawn to this role because of the "founder's track" autonomy and the opportunity to scale a platform already generating 7-figure revenue. I am eager to apply my experience in agentic architectures to help Jack & Jill redefine institutional real estate workflows.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I have attached my resume and portfolio for your review. I look forward to the possibility of discussing how my background in agentic AI can contribute to your team's growth.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
