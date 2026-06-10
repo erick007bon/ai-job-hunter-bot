@@ -3394,5 +3394,93 @@
     "applied_at": "2026-06-09T23:22:10.116105",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mozzart_MediorMLEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=cf0b358b99737132": {
+    "title": "Data Scientist, Growth & Measurement",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T07:02:32.765684",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_DataScientistGrowthM.md"
+  },
+  "https://www.indeed.com/viewjob?jk=6e6522db64eb09b1": {
+    "title": "AI Engineer-Freelance",
+    "company": "Expertshub",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T07:02:54.919219",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Expertshub_AIEngineerFreelance.md"
+  },
+  "https://www.indeed.com/viewjob?jk=37d92c5876961093": {
+    "title": "Data Engineer",
+    "company": "Nitka Technologies",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T07:03:05.018452",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NitkaTechnologies_DataEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-cint-4426567516/": {
+    "title": "Data Scientist",
+    "company": "Cint",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T07:03:19.740079",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cint_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4422267823/": {
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T07:03:33.930709",
+    "email_sent_to": "accommodations-ext@meta.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_DataScientistProduct.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-oil-and-gas-at-aiqu-4425856526/": {
+    "title": "Data Scientist(Oil and GAS )",
+    "company": "AIQU",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T07:03:47.363171",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AIQU_DataScientistOilandG.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-index-ventures-backed-agentic-ai-startup-at-jack-jill-4425876984/": {
+    "title": "AI Engineer ($180K – $250K + Equity) at Index Ventures-backed agentic AI startup",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T07:03:57.223026",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-ai-in-early-brain-imaging-at-miccai-society-4426727586/": {
+    "title": "Machine Learning/AI in Early Brain Imaging",
+    "company": "MICCAI Society",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T07:04:08.333143",
+    "email_sent_to": "davood.karimi@gmail.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MICCAISociety_MachineLearningAIinE.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-scientist-yo-hr-consultancy-1133043": {
+    "title": "Data Scientist",
+    "company": "YO HR Consultancy",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-10T07:04:18.501613",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/YOHRConsultancy_DataScientist.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-stio-1133036": {
+    "title": "Data Analyst",
+    "company": "Stio",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-10T07:04:29.796688",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Stio_DataAnalyst.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-fusemachines-1133041": {
+    "title": "Data Analyst",
+    "company": "Fusemachines",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-10T07:05:37.697577",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Fusemachines_DataAnalyst.md"
   }
 }
