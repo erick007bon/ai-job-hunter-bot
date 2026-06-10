@@ -2,20 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-computer-vision-at-innovationteam-4426320005/
+**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-computer-vision-at-innovationteam-4426089455/
 
 ---
 
 Dear InnovationTeam team,
 
-I am writing to express my interest in the Junior AI Engineer – Computer Vision position. My background in computer vision and deep‑learning aligns closely with your need to design and deploy scalable image and video analytics solutions. I have built and optimized convolutional models for object detection and segmentation, achieving real‑time inference on GPUs while maintaining high accuracy.
+I am writing to apply for the Junior AI Engineer - Computer Vision position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-In my recent “Trading Algorítmico con Deep Learning” project, I developed an end‑to‑end pipeline that trained LSTM and CNN models, performed data augmentation, and deployed the models via a FastAPI service containerized in Docker. This experience mirrors the requirements for dataset management, model optimization, and production deployment outlined in your posting.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-I also built a multi‑agent system using the MCP protocol, where I orchestrated a vision‑based agent that scraped financial news, processed images with YOLOv5 for logo detection, and generated automated reports through GPT‑4. This demonstrates my ability to integrate computer‑vision components with broader AI platforms and APIs.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-InnovationTeam’s commitment to advancing AI across industries excites me, especially the opportunity to contribute to production‑grade vision systems that solve real‑world problems. I am eager to bring my blend of technical expertise and practical deployment experience to your team.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Could we schedule a brief call next week to discuss how my skills can support InnovationTeam’s vision? I look forward to your response.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+adanrivas6655@gmail.com | GitHub: erick007bon

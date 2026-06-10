@@ -1,106 +1,108 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-10 15:56
+# AI JOB HUNTER V3 - Reporte 2026-06-10 19:34
 
-> **Extraidas:** 112 | **Filtradas:** 36 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 469 | **Emails enviados total:** 31
+> **Extraidas:** 123 | **Filtradas:** 38 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 489 | **Emails enviados total:** 31
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist / Machine Learning Engineer (Gen AI Focus) (contract) @ Wells Fargo
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d051ffe343c6b68f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WellsFargo_DataScientistMachine.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Pavago
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=424cfabc18b01038
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pavago_DataEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Analyst @ Volkswagen
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0b90e9da3509b845
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Volkswagen_DataAnalyst.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Architect - Market Insights (Manager) @ Huron Consulting Group
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=82063b461d52307a
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HuronConsultingGroup_DataArchitectMarketI.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ FTI Defense
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=2fa963d0e5c19a5f
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FTIDefense_AIMLEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ United States Consumer Product Safety Commission
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4195cc5f1f0caaf5
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnitedStatesConsumer_AIMLEngineer.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [EMAIL ENVIADO]: Data Scientist @ eBay
-- **Email enviado a:** talent@ebay.com
+### [DRAFT - POSTULA MANUALMENTE]: Full-Stack AI Engineer @ Pavago
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3c05e729bb4551b8
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pavago_FullStackAIEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ US Federal Acquisition Service
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9bc94da9bc114315
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USFederalAcquisition_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ SoTalent
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-sotalent-4426100189/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SoTalent_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Crocs, Inc.
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-crocs-inc-4423117485/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrocsInc_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data scientist từ 2Y+ @ VMO
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-t%E1%BB%AB-2y%2B-at-vmo-4426049405/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VMO_Datascientisttừ2Y.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Accenture Portugal
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-accenture-portugal-4423133745/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AccenturePortugal_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Qwello
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-qwello-4426080733/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Qwello_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ MarvelX AI
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-marvelx-ai-4426096148/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MarvelXAI_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ 友邦科技
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-%E5%8F%8B%E9%82%A6%E7%A7%91%E6%8A%80-4426599655/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/友邦科技_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer - Up to 90M @ FPT Software
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-up-to-90m-at-fpt-software-4426053560/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FPTSoftware_AIEngineerUpto90M.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist / GenAI Developer - IFM @ Morgan Stanley
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-genai-developer-ifm-at-morgan-stanley-4329756407/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MorganStanley_DataScientistGenAIDe.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Applied AI Engineer @ Synechron
-- **Email enviado a:** Recruitment-Serbia@synechron.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (m/f/x) @ Enpal
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-m-f-x-at-enpal-4408786098/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Enpal_DataScientistmfx.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ A1 Srbija d.o.o.
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-a1-srbija-d-o-o-4420741039/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Srbijadoo_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Action
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-action-4415348772/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Action_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Agentic AI Engineer @ Xccelerated | Part of Xebia
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/agentic-ai-engineer-at-xccelerated-part-of-xebia-4426083381/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/XcceleratedPartofXeb_AgenticAIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data scientist @ Unilever
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-unilever-4426097753/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Unilever_Datascientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Luxoft
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-luxoft-4427005584/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Luxoft_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist for (e-)Mobility Cloud Solutions @ Bosch Romania
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-for-e-mobility-cloud-solutions-at-bosch-romania-4423118088/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoschRomania_DataScientistforeMob.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer – Python, GenAI & Machine Learning (m/f) @ PwC Slovakia
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-python-genai-machine-learning-m-f-at-pwc-slovakia-4328270572/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PwCSlovakia_AIEngineerPythonGenA.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Revenue, Revenue @ Vinted
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-revenue-revenue-at-vinted-4426751817/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vinted_DataScientistRevenue.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: [Middle] AI Engineer (English Fluency) @ Sun* Vietnam
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/middle-ai-engineer-english-fluency-at-sun-vietnam-4426034490/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SunVietnam_MiddleAIEngineerEngl.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Duku AI
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-duku-ai-4426745176/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DukuAI_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Regular Lab
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-regular-lab-4426769419/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RegularLab_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer ($175K – $250K + Equity) at Stanford-born AI governance startup @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4426075978/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Research Scientist @ Giotto.ai
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-research-scientist-at-giotto-ai-4427019814/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Giottoai_AIResearchScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ Stott and May
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-stott-and-may-4423120095/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StottandMay_AIMLEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Data Engineer @ JUST ONE
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-data-engineer-at-just-one-4426755514/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JUSTONE_AIMLDataEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Junior AI Engineer - Computer Vision @ InnovationTeam
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ai-engineer-computer-vision-at-innovationteam-4426089455/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InnovationTeam_JuniorAIEngineerComp.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Sony Interactive Entertainment
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-sony-interactive-entertainment-4422727243/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SonyInteractiveEnter_AIEngineer.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Scientist @ Winnow
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-scientist-at-winnow-4426721893/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Winnow_MachineLearningScien.md
-- **Fuente:** LinkedIn
-
-### [DRAFT - POSTULA MANUALMENTE]: Software Engineer / Data Scientist AI (d/m/w/x) @ Mercedes-Benz Tech Innovation
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/software-engineer-data-scientist-ai-d-m-w-x-at-mercedes-benz-tech-innovation-4426045873/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MercedesBenzTechInno_SoftwareEngineerData.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer (Python, LLM/Agentic AI) @ TheCorporate
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-python-llm-agentic-ai-at-thecorporate-4426086775/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheCorporate_AIEngineerPythonLLMA.md
 - **Fuente:** LinkedIn
 
 

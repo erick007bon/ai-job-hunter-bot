@@ -2,23 +2,21 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4425829177/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4426075978/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the Machine Learning Engineer ($175K – $250K + Equity) at Stanford-born AI governance startup position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Machine Learning Engineer – LLM Interpretability & Systems role. My background combines econometrics, deep learning, and production‑grade MLOps, which aligns directly with your need to translate frontier research into reliable enterprise solutions.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+At the core of my experience is extensive work with transformer models in PyTorch. I have built and fine‑tuned LLM‑based agents, implemented activation‑level interventions, and integrated them into FastAPI services containerized with Docker—capabilities that match the “activation patching and control vectors” and “feature‑level intervention systems” described in the posting. In my recent **Multi‑Agent MCP architecture**, I coordinated specialized agents (data scraping, econometric GARCH analysis, and LLM‑generated reporting) using a Model Context Protocol that enforces deterministic policy decisions across distributed inference pipelines. This project demonstrates my ability to design the evaluation and deployment loops required for production‑ready interpretability mechanisms.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+Additionally, I have deployed end‑to‑end ML pipelines with MLflow tracking and CI/CD via GitHub Actions, ensuring repeatable, audited releases—critical for the governance layer you aim to build for Fortune 500 clients.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+Jack & Jill’s mission to embed rigorous governance into generative AI resonates with my commitment to trustworthy, transparent models. I am eager to contribute my technical expertise and research‑driven mindset to develop the core Policy Engine.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Could we schedule a brief call to discuss how my skill set can accelerate your platform’s launch? I look forward to the opportunity.
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
+Kind regards,
+Erick Flores Zambrano

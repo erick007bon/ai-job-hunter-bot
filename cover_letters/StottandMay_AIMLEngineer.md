@@ -1,12 +1,12 @@
-# Cover Letter - AI/ML Engineer @ United States Consumer Product Safety Commission
+# Cover Letter - AI/ML Engineer @ Stott and May
 
-**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=4195cc5f1f0caaf5
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-stott-and-may-4423120095/
 
 ---
 
-Dear United States Consumer Product Safety Commission team,
+Dear Stott and May team,
 
 I am writing to apply for the AI/ML Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
