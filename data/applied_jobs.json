@@ -3642,5 +3642,165 @@
     "applied_at": "2026-06-10T15:56:56.139385",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MercedesBenzTechInno_SoftwareEngineerData.md"
+  },
+  "https://www.indeed.com/viewjob?jk=424cfabc18b01038": {
+    "title": "Data Engineer",
+    "company": "Pavago",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T19:29:13.675701",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pavago_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=82063b461d52307a": {
+    "title": "Data Architect - Market Insights (Manager)",
+    "company": "Huron Consulting Group",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T19:29:28.049090",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HuronConsultingGroup_DataArchitectMarketI.md"
+  },
+  "https://www.indeed.com/viewjob?jk=4195cc5f1f0caaf5": {
+    "title": "AI/ML Engineer",
+    "company": "United States Consumer Product Safety Commission",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T19:29:36.071101",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnitedStatesConsumer_AIMLEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=3c05e729bb4551b8": {
+    "title": "Full-Stack AI Engineer",
+    "company": "Pavago",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T19:29:41.286247",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Pavago_FullStackAIEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9bc94da9bc114315": {
+    "title": "Data Scientist",
+    "company": "US Federal Acquisition Service",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T19:29:57.344355",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USFederalAcquisition_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-sotalent-4426100189/": {
+    "title": "Data Scientist",
+    "company": "SoTalent",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:30:13.386172",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SoTalent_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-t%E1%BB%AB-2y%2B-at-vmo-4426049405/": {
+    "title": "Data scientist từ 2Y+",
+    "company": "VMO",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:30:38.058453",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VMO_Datascientisttừ2Y.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-qwello-4426080733/": {
+    "title": "Data Scientist",
+    "company": "Qwello",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:30:46.201937",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Qwello_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-%E5%8F%8B%E9%82%A6%E7%A7%91%E6%8A%80-4426599655/": {
+    "title": "Data Scientist",
+    "company": "友邦科技",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:31:07.806526",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/友邦科技_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-genai-developer-ifm-at-morgan-stanley-4329756407/": {
+    "title": "Data Scientist / GenAI Developer - IFM",
+    "company": "Morgan Stanley",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:31:26.140056",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MorganStanley_DataScientistGenAIDe.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-f-x-at-enpal-4408786098/": {
+    "title": "Data Scientist (m/f/x)",
+    "company": "Enpal",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:31:42.653219",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Enpal_DataScientistmfx.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-action-4415348772/": {
+    "title": "Data Scientist",
+    "company": "Action",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:31:55.875252",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Action_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-unilever-4426097753/": {
+    "title": "Data scientist",
+    "company": "Unilever",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:32:14.693381",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Unilever_Datascientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-for-e-mobility-cloud-solutions-at-bosch-romania-4423118088/": {
+    "title": "Data Scientist for (e-)Mobility Cloud Solutions",
+    "company": "Bosch Romania",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:32:32.641021",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoschRomania_DataScientistforeMob.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-revenue-revenue-at-vinted-4426751817/": {
+    "title": "Data Scientist, Revenue, Revenue",
+    "company": "Vinted",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:32:56.428180",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vinted_DataScientistRevenue.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-duku-ai-4426745176/": {
+    "title": "Machine Learning Engineer",
+    "company": "Duku AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:33:09.780160",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DukuAI_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4426075978/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at Stanford-born AI governance startup",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:33:28.364473",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-stott-and-may-4423120095/": {
+    "title": "AI/ML Engineer",
+    "company": "Stott and May",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:33:41.986726",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StottandMay_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-computer-vision-at-innovationteam-4426089455/": {
+    "title": "Junior AI Engineer - Computer Vision",
+    "company": "InnovationTeam",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:33:49.161501",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InnovationTeam_JuniorAIEngineerComp.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-python-llm-agentic-ai-at-thecorporate-4426086775/": {
+    "title": "AI Engineer (Python, LLM/Agentic AI)",
+    "company": "TheCorporate",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T19:34:15.540201",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheCorporate_AIEngineerPythonLLMA.md"
   }
 }
