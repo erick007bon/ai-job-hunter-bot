@@ -3482,5 +3482,165 @@
     "applied_at": "2026-06-10T07:05:37.697577",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Fusemachines_DataAnalyst.md"
+  },
+  "https://www.indeed.com/viewjob?jk=d051ffe343c6b68f": {
+    "title": "Data Scientist / Machine Learning Engineer (Gen AI Focus) (contract)",
+    "company": "Wells Fargo",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T15:50:08.972689",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WellsFargo_DataScientistMachine.md"
+  },
+  "https://www.indeed.com/viewjob?jk=0b90e9da3509b845": {
+    "title": "Data Analyst",
+    "company": "Volkswagen",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T15:50:24.070774",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Volkswagen_DataAnalyst.md"
+  },
+  "https://www.indeed.com/viewjob?jk=2fa963d0e5c19a5f": {
+    "title": "AI/ML Engineer",
+    "company": "FTI Defense",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-10T15:50:54.394183",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FTIDefense_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-ebay-4406036811/": {
+    "title": "Data Scientist",
+    "company": "eBay",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:51:08.922972",
+    "email_sent_to": "talent@ebay.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/eBay_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-crocs-inc-4423117485/": {
+    "title": "Data Scientist",
+    "company": "Crocs, Inc.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:51:25.743783",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrocsInc_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-accenture-portugal-4423133745/": {
+    "title": "Data Scientist",
+    "company": "Accenture Portugal",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:51:47.653200",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AccenturePortugal_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-marvelx-ai-4426096148/": {
+    "title": "AI Engineer",
+    "company": "MarvelX AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:52:11.775642",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MarvelXAI_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-up-to-90m-at-fpt-software-4426053560/": {
+    "title": "AI Engineer - Up to 90M",
+    "company": "FPT Software",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:52:24.206900",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FPTSoftware_AIEngineerUpto90M.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-synechron-4405980936/": {
+    "title": "Applied AI Engineer",
+    "company": "Synechron",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:53:00.806910",
+    "email_sent_to": "Recruitment-Serbia@synechron.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Synechron_AppliedAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-a1-srbija-d-o-o-4420741039/": {
+    "title": "AI Engineer",
+    "company": "A1 Srbija d.o.o.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:53:18.972126",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Srbijadoo_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/agentic-ai-engineer-at-xccelerated-part-of-xebia-4426083381/": {
+    "title": "Agentic AI Engineer",
+    "company": "Xccelerated | Part of Xebia",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:53:32.412181",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/XcceleratedPartofXeb_AgenticAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-luxoft-4427005584/": {
+    "title": "AI Engineer",
+    "company": "Luxoft",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:54:17.989610",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Luxoft_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-python-genai-machine-learning-m-f-at-pwc-slovakia-4328270572/": {
+    "title": "AI Engineer – Python, GenAI & Machine Learning (m/f)",
+    "company": "PwC Slovakia",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:54:32.848968",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PwCSlovakia_AIEngineerPythonGenA.md"
+  },
+  "https://www.linkedin.com/jobs/view/middle-ai-engineer-english-fluency-at-sun-vietnam-4426034490/": {
+    "title": "[Middle] AI Engineer (English Fluency)",
+    "company": "Sun* Vietnam",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:54:55.912362",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SunVietnam_MiddleAIEngineerEngl.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-regular-lab-4426769419/": {
+    "title": "Machine Learning Engineer",
+    "company": "Regular Lab",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:55:11.788895",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RegularLab_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-research-scientist-at-giotto-ai-4427019814/": {
+    "title": "AI Research Scientist",
+    "company": "Giotto.ai",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:55:22.945579",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Giottoai_AIResearchScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-data-engineer-at-just-one-4426755514/": {
+    "title": "AI/ML Data Engineer",
+    "company": "JUST ONE",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:56:00.365885",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JUSTONE_AIMLDataEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-sony-interactive-entertainment-4422727243/": {
+    "title": "AI Engineer",
+    "company": "Sony Interactive Entertainment",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:56:14.432456",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SonyInteractiveEnter_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-scientist-at-winnow-4426721893/": {
+    "title": "Machine Learning Scientist",
+    "company": "Winnow",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:56:46.213467",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Winnow_MachineLearningScien.md"
+  },
+  "https://www.linkedin.com/jobs/view/software-engineer-data-scientist-ai-d-m-w-x-at-mercedes-benz-tech-innovation-4426045873/": {
+    "title": "Software Engineer / Data Scientist AI (d/m/w/x)",
+    "company": "Mercedes-Benz Tech Innovation",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-10T15:56:56.139385",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MercedesBenzTechInno_SoftwareEngineerData.md"
   }
 }
