@@ -1,14 +1,14 @@
-# Cover Letter - Jr Data Scientist @ Tech Consulting
+# Cover Letter - Data Scientist – Strategy & Analytics (Healthcare/Supply Chain) @ McKesson
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/jr-data-scientist-at-tech-consulting-4422717793/
+**URL:** https://www.indeed.com/viewjob?jk=58e73a0dc9bab786
 
 ---
 
-Dear Tech Consulting team,
+Dear McKesson team,
 
-I am writing to apply for the Jr Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Data Scientist – Strategy & Analytics (Healthcare/Supply Chain) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
