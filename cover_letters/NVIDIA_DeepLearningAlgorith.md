@@ -2,7 +2,7 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/deep-learning-algorithms-engineer-acot-at-nvidia-4395487228/
+**URL:** https://www.linkedin.com/jobs/view/deep-learning-algorithms-engineer-acot-at-nvidia-4395471700/
 
 ---
 
