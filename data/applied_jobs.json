@@ -3962,5 +3962,109 @@
     "applied_at": "2026-06-10T23:32:23.704998",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DHL_AIEngineerIntern.md"
+  },
+  "https://www.indeed.com/viewjob?jk=256feec2dcc74687": {
+    "title": "Generative AI Engineering Intern (Graduate)",
+    "company": "Peraton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-11T07:27:32.948889",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Peraton_GenerativeAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ii%0Abucharest-romania-at-yes-energy-demand-forecasts-4426214543/": {
+    "title": "Data Scientist II\nBucharest, Romania",
+    "company": "Yes Energy Demand Forecasts",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:27:57.565413",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/YesEnergyDemandForec_DataScientistIIBucha.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-smart-communications-inc-4426202022/": {
+    "title": "Data Scientist",
+    "company": "Smart Communications, Inc.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:28:13.722534",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SmartCommunicationsI_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ml-ops-scientist-at-luxoft-4427183419/": {
+    "title": "Data Scientist / ML Ops Scientist",
+    "company": "Luxoft",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:28:27.885968",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Luxoft_DataScientistMLOpsSc.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-renesas-electronics-4426185733/": {
+    "title": "AI/ML Engineer",
+    "company": "Renesas Electronics",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:28:37.203648",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RenesasElectronics_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-generative-ai-llms-rag-at-accenture-romania-4394487720/": {
+    "title": "AI Engineer – Generative AI / LLMs / RAG",
+    "company": "Accenture Romania",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:28:57.392512",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AccentureRomania_AIEngineerGenerative.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-engineer-at-sertis-4423604547/": {
+    "title": "Machine Learning Engineer/AI Engineer",
+    "company": "Sertis",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:29:17.824864",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sertis_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/deep-learning-algorithms-engineer-acot-at-nvidia-4395487228/": {
+    "title": "Deep Learning Algorithms Engineer - ACOT",
+    "company": "NVIDIA",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:29:29.333039",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NVIDIA_DeepLearningAlgorith.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-giotto-ai-4427032749/": {
+    "title": "Machine Learning Engineer",
+    "company": "Giotto.ai",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:29:45.016540",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Giottoai_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-data-engineer-at-seco-luxembourg-4426214563/": {
+    "title": "AI & Data Engineer",
+    "company": "SECO Luxembourg",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:29:59.750213",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SECOLuxembourg_AIDataEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-emagine-4426132890/": {
+    "title": "AI Engineer",
+    "company": "emagine",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:30:15.256163",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/emagine_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-amp-at-aspire-software-4407826914/": {
+    "title": "Data Scientist - AMP",
+    "company": "Aspire Software",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T07:30:29.232308",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AspireSoftware_DataScientistAMP.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-private-lessons-amp-tutoring-findtutors-1133199": {
+    "title": "Data Analyst Private Lessons &amp; Tutoring",
+    "company": "FindTutors",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-11T07:30:48.106176",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FindTutors_DataAnalystPrivateLe.md"
   }
 }
