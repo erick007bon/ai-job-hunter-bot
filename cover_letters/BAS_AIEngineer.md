@@ -1,12 +1,12 @@
-# Cover Letter - AI Engineer @ spektr
+# Cover Letter - AI Engineer @ BAS
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-spektr-4425490471/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-bas-4427537892/
 
 ---
 
-Dear spektr team,
+Dear BAS team,
 
 I am writing to apply for the AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
