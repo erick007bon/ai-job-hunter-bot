@@ -4218,5 +4218,157 @@
     "applied_at": "2026-06-11T16:16:34.893216",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WorkForceNexus_DataAnalyst.md"
+  },
+  "https://www.indeed.com/viewjob?jk=62b05b3b64677f8b": {
+    "title": "Marketing Data Scientist",
+    "company": "CircleCI",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-11T19:31:23.251107",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CircleCI_MarketingDataScienti.md"
+  },
+  "https://www.indeed.com/viewjob?jk=0b2b88fab1653c07": {
+    "title": "Assistant Research Scientist - Remote Sensing/Geospatial Data Analytics",
+    "company": "Texas A&M AgriLife Extension",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-11T19:31:43.809820",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TexasAMAgriLifeExten_AssistantResearchSci.md"
+  },
+  "https://www.indeed.com/viewjob?jk=e12b33835990dcc6": {
+    "title": "Assistant Research Scientist - Remote Sensing/Geospatial Data Analytics",
+    "company": "Texas A&M AgriLife Extension",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-11T19:32:04.526882",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TexasAMAgriLifeExten_AssistantResearchSci.md"
+  },
+  "https://www.indeed.com/viewjob?jk=83d7beea926ef7a8": {
+    "title": "Prin AI & Analytics Data Architect",
+    "company": "Entrust Corporation",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-11T19:32:11.760741",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EntrustCorporation_PrinAIAnalyticsDataA.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-forto-4427507902/": {
+    "title": "Data Scientist",
+    "company": "Forto",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:32:42.878593",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Forto_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-ibm-4414002542/": {
+    "title": "Data Scientist (m/w/d)",
+    "company": "IBM",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:33:14.650740",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientistmwd.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-ibm-4414000650/": {
+    "title": "Data Scientist (m/w/d)",
+    "company": "IBM",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:33:30.870932",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientistmwd.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ai-specialist-at-retrasib-member-of-sgb-smit-group-4417701302/": {
+    "title": "Data Scientist/ AI Specialist",
+    "company": "RETRASIB member of SGB-SMIT Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:33:53.436954",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RETRASIBmemberofSGBS_DataScientistAISpeci.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-agileengine-4426610360/": {
+    "title": "Data Scientist",
+    "company": "AgileEngine",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:34:03.148506",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AgileEngine_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-data-scientist-payments-m-w-d-at-cgi-4339227264/": {
+    "title": "AI Data Scientist Payments (m/w/d)",
+    "company": "CGI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:34:19.752531",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CGI_AIDataScientistPayme.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-data-scientist-at-astreya-4424685276/": {
+    "title": "Applied Data Scientist",
+    "company": "Astreya",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:34:38.552681",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Astreya_AppliedDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-applied-ai-data-validation-at-sap-4376089365/": {
+    "title": "AI Engineer - Applied AI & Data Validation",
+    "company": "SAP",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:34:45.641040",
+    "email_sent_to": "Careers@sap.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SAP_AIEngineerAppliedAID.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-spektr-4425490471/": {
+    "title": "AI Engineer",
+    "company": "spektr",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:34:51.683790",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/spektr_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-rebelsai-4426237021/": {
+    "title": "Machine Learning Engineer",
+    "company": "RebelsAI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:35:02.127508",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RebelsAI_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/deep-learning-algorithms-engineer-acot-at-nvidia-4395471700/": {
+    "title": "Deep Learning Algorithms Engineer - ACOT",
+    "company": "NVIDIA",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:35:13.060538",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NVIDIA_DeepLearningAlgorith.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-bas-4427537892/": {
+    "title": "AI Engineer",
+    "company": "BAS",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:35:28.091567",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BAS_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-agent-development-at-makro-pro-4414001081/": {
+    "title": "AI Engineer - Agent Development",
+    "company": "Makro PRO",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:35:33.059636",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MakroPRO_AIEngineerAgentDevel.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-cnn-4417399632/": {
+    "title": "Machine Learning Engineer I",
+    "company": "CNN",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:35:37.503789",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CNN_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-citi-4314037805/": {
+    "title": "Data Scientist",
+    "company": "Citi",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T19:36:02.397201",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Citi_DataScientist.md"
   }
 }

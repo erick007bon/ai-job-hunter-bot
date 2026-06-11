@@ -1,14 +1,14 @@
-# Cover Letter - Deep Learning Algorithms Engineer - ACOT @ NVIDIA
+# Cover Letter - AI Engineer - Applied AI & Data Validation @ SAP
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** Careers@sap.com
 
-**URL:** https://www.linkedin.com/jobs/view/deep-learning-algorithms-engineer-acot-at-nvidia-4395471700/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-applied-ai-data-validation-at-sap-4376089365/
 
 ---
 
-Dear NVIDIA team,
+Dear SAP team,
 
-I am writing to apply for the Deep Learning Algorithms Engineer - ACOT position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the AI Engineer - Applied AI & Data Validation position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
