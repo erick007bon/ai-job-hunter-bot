@@ -1,12 +1,12 @@
-# Cover Letter - Data Scientist @ Public Storage
+# Cover Letter - Data Scientist @ Deloitte
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-public-storage-4423642868/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-deloitte-4411141061/
 
 ---
 
-Dear Public Storage team,
+Dear Deloitte team,
 
 I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 

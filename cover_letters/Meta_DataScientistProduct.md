@@ -2,20 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** accommodations-ext@meta.com
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4422267823/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4423630633/
 
 ---
 
 Dear Meta team,
 
-I am writing to express my interest in the Data Scientist, Product Analytics position. With a dual background in Economics and Data Science, I specialize in transforming complex datasets into strategic product insights, combining rigorous econometric analysis with scalable AI.
+I am writing to apply for the Data Scientist, Product Analytics position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-My profile aligns with Meta's need for data-driven product leadership. I offer advanced proficiency in SQL and Python for handling large-scale data, and a strong foundation in causal inference and panel data—essential for testing hypotheses and quantifying the impact of product features. My experience in Business Intelligence (Power BI) allows me to translate technical findings into clear, actionable stories for cross-functional partners in Finance and Engineering.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-A key example of my technical approach is my Multi-Agent System using the Model Context Protocol (MCP). I designed an architecture where specialized agents automate financial scraping and econometric analysis (GARCH models) to generate automated reports. This project demonstrates my ability to build end-to-end intelligent systems that optimize decision-making, a mindset I aim to apply to enhance Meta’s product ecosystems.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am drawn to Meta because of the scale of its data and the opportunity to influence products used by billions. I am confident that my ability to blend predictive modeling with product intuition will contribute directly to your growth and user experience goals.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-I have attached my resume and would welcome the opportunity to discuss how my technical skills can drive impact at Meta.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+REDACTED_EMAIL@example.com | GitHub: erick007bon
