@@ -2,20 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4426133753/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4426617127/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to express my interest in the Machine Learning Engineer – LLM Interpretability & Systems position. My background as an Economist‑Data Scientist with dual training in economics and AI aligns directly with the role’s focus on deterministic governance and mechanistic interpretability.  
+I am writing to apply for the Machine Learning Engineer – LLM Interpretability & Systems role. My background combines a Master’s in Economics with a strong focus on Data Science and AI, giving me both the theoretical rigor and the engineering experience required to bridge frontier research and production.
 
-I have extensive experience in PyTorch internals and transformer training, having fine‑tuned large language models for production use. This expertise matches the requirement to work “deep within the model stack” and to implement activation‑patching and control vectors. My MLOps skills—Docker, FastAPI, MLflow—enable me to build robust evaluation and deployment pipelines, ensuring interpretability changes are reliably shipped to enterprise environments.  
+I have deep expertise in Transformer internals and PyTorch, having built and fine‑tuned LSTM and GPT‑4 based models for financial forecasting and autonomous agents. In my **Multi‑Agent System with MCP** project, I designed a distributed architecture where a dedicated LLM agent generates policy‑compliant reports, while other agents handle data ingestion and econometric analysis. The system uses FastAPI, Docker, and custom activation‑level interventions to enforce deterministic behavior at inference time—directly aligning with your need for activation patching and control‑vector techniques.
 
-A project that illustrates my capability is the “Sistema Multi‑Agente con MCP.” In this architecture, I orchestrated multiple specialized agents: a data‑scraping agent, an econometric analysis agent using GARCH models, and a report‑generation agent powered by GPT‑4. The system demonstrates my ability to combine statistical rigor with LLM output control, producing deterministic, policy‑compliant reports for financial stakeholders.  
+Additionally, I implemented end‑to‑end MLOps pipelines (MLflow, Docker, CI/CD) that guarantee reproducible experiments and safe deployment in enterprise environments, mirroring the evaluation and deployment loops you describe.
 
-Jack & Jill’s mission to provide governance layers for Fortune 500 institutions resonates with my professional goal of translating frontier research into secure, enterprise‑grade solutions. I am eager to contribute to your “Policy Engine” and help scale reliable generative AI across industries.
+Jack & Jill’s mission to create a deterministic governance layer for enterprise AI resonates with my experience turning research‑grade interpretability methods into reliable services for Fortune‑500 clients. I am eager to contribute to the “Policy Engine” and help scale trustworthy generative AI.
 
-I would welcome the opportunity to discuss how my technical background and project experience can support your team. Please let me know a convenient time for a conversation.
+Could we schedule a brief conversation to discuss how my skills and projects can accelerate your roadmap?
 
 Thank you for your consideration.
