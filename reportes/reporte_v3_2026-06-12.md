@@ -1,62 +1,67 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-12 07:19
+# AI JOB HUNTER V3 - Reporte 2026-06-12 15:30
 
-> **Extraidas:** 129 | **Filtradas:** 30 | **Procesadas hoy:** 11
-> **Total historico postulaciones:** 575 | **Emails enviados total:** 35
+> **Extraidas:** 127 | **Filtradas:** 30 | **Procesadas hoy:** 12
+> **Total historico postulaciones:** 587 | **Emails enviados total:** 37
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer – Snowflake and AWS @ Cognizant
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=0328c01720b1c8cd
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cognizant_DataEngineerSnowflak.md
+### [EMAIL ENVIADO]: Associate Director, Global Markets Quantitative Analyst @ UBS
+- **Email enviado a:** -ProfRecruitingcc@ubs.com
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Scientist I - Physical Therapy and Rehab Science @ University of Texas Medical Branch
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=83b880833ed74be8
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofTexasMed_ResearchScientistIPh.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Government Quantitative Professional @ Handshake
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9735757701d8c01b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Handshake_GovernmentQuantitati.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Mid-Level Full Stack Data Engineer @ Agile Defense
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=ba2b1b3d95f89d04
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AgileDefense_MidLevelFullStackDat.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [EMAIL ENVIADO]: Data Scientist, Product Analytics @ Meta
+### [EMAIL ENVIADO]: Data Scientist, Product @ Meta
 - **Email enviado a:** accommodations-ext@meta.com
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist Internship @ Lottomatica
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-internship-at-lottomatica-4427502018/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Lottomatica_DataScientistInterns.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - R&D @ Biocon Biologics
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-r-d-at-biocon-biologics-4424852738/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BioconBiologics_DataScientistRD.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Data Scientist @ ICICI Lombard
-- **Email enviado a:** saba.naik@icicilombard.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist Specialist @ Banco Bradesco
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-specialist-at-banco-bradesco-4418031756/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BancoBradesco_DataScientistSpecial.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Poesis AI
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-poesis-ai-4427696474/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PoesisAI_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ tiket.com
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-tiket-com-4398114060/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/tiketcom_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Apple
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-apple-4426293982/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Apple_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Junior ML Engineer @ Work Force Nexus
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ml-engineer-at-work-force-nexus-4426956707/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WorkForceNexus_JuniorMLEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: ML Engineer, Agentic Systems @ A16Z GAMES
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ml-engineer-agentic-systems-at-a16z-games-4427901621/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A16ZGAMES_MLEngineerAgenticSys.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer ($180K – $250K + Equity) at BUILD, @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4426969021/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Phoenix- Data Scientist @ Myntra
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/phoenix-data-scientist-at-myntra-4426628699/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Myntra_PhoenixDataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4426945978/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md
 - **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Python Developer @ Infosys
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/python-developer-at-infosys-4397658289/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_PythonDeveloper.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: AI,ML GEN AI Engineer @ Infosys
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-gen-ai-engineer-at-infosys-4396348597/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_AIMLGENAIEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Associate Data Scientist - Enterprise & Reporting @ Circle K
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/associate-data-scientist-enterprise-reporting-at-circle-k-4395998184/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CircleK_AssociateDataScienti.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Why Hiring
+- **APLICA AQUI:** https://remoteOK.com/remote-jobs/remote-data-scientist-why-hiring-1133248
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_DataScientist.md
+- **Fuente:** RemoteOK
 
 
 ---

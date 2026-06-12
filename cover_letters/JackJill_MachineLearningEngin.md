@@ -1,21 +1,21 @@
-# Cover Letter - Machine Learning Engineer ($175K – $250K + Equity) at Stanford-born AI governance startup @ Jack & Jill
+# Cover Letter - Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. @ Jack & Jill
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-stanford-born-ai-governance-startup-at-jack-jill-4426617127/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4426945978/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the Machine Learning Engineer – LLM Interpretability & Systems role. My background combines a Master’s in Economics with a strong focus on Data Science and AI, giving me both the theoretical rigor and the engineering experience required to bridge frontier research and production.
+I am writing to apply for the Machine Learning Engineer – LLM Interpretability & Systems role. My dual background in Economics and Data Science gives me a rigorous quantitative foundation, while my hands‑on experience with large language models aligns directly with the position’s focus on mechanistic interpretability.
 
-I have deep expertise in Transformer internals and PyTorch, having built and fine‑tuned LSTM and GPT‑4 based models for financial forecasting and autonomous agents. In my **Multi‑Agent System with MCP** project, I designed a distributed architecture where a dedicated LLM agent generates policy‑compliant reports, while other agents handle data ingestion and econometric analysis. The system uses FastAPI, Docker, and custom activation‑level interventions to enforce deterministic behavior at inference time—directly aligning with your need for activation patching and control‑vector techniques.
+At the core of my work is deep expertise in PyTorch and transformer internals, demonstrated in the “Trading Algoritmic with Deep Learning” project where I built and fine‑tuned an LSTM‑based price‑forecasting model, integrated activation‑level diagnostics, and deployed the pipeline with Docker, FastAPI and MLflow. This experience taught me how to extract, analyze, and modify hidden‑state activations to improve model behavior—skills directly applicable to activation patching and control‑vector techniques described in the job posting.
 
-Additionally, I implemented end‑to‑end MLOps pipelines (MLflow, Docker, CI/CD) that guarantee reproducible experiments and safe deployment in enterprise environments, mirroring the evaluation and deployment loops you describe.
+In addition, I designed a Multi‑Agent system using the Model Context Protocol (MCP) that orchestrates specialized agents for data ingestion, econometric analysis, and LLM‑driven report generation. The architecture required deterministic policy enforcement across agents, mirroring the deterministic governance layer you aim to build for enterprise LLMs.
 
-Jack & Jill’s mission to create a deterministic governance layer for enterprise AI resonates with my experience turning research‑grade interpretability methods into reliable services for Fortune‑500 clients. I am eager to contribute to the “Policy Engine” and help scale trustworthy generative AI.
+I am attracted to CTGT’s mission to bring rigorous governance to frontier AI, especially within a startup backed by Stanford alumni and top investors. I am eager to translate cutting‑edge research into reliable production systems for Fortune 500 clients.
 
-Could we schedule a brief conversation to discuss how my skills and projects can accelerate your roadmap?
+Could we schedule a brief call to discuss how my technical background and project experience can contribute to the Policy Engine development?
 
 Thank you for your consideration.
