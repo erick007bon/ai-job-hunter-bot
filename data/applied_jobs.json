@@ -4738,5 +4738,141 @@
     "applied_at": "2026-06-12T19:03:44.238837",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPI_DataScientist100.md"
+  },
+  "https://www.indeed.com/viewjob?jk=028944187245796b": {
+    "title": "Data Scientists / Digital Marketers",
+    "company": "THE PLANET GROUP",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T23:17:52.075501",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/THEPLANETGROUP_DataScientistsDigita.md"
+  },
+  "https://www.indeed.com/viewjob?jk=37aff8f440d6ba6d": {
+    "title": "Data Engineer",
+    "company": "K&L GATES",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T23:18:18.577811",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KLGATES_DataEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-ntt-data-europe-latam-4398697595/": {
+    "title": "Data Scientist",
+    "company": "NTT DATA Europe & Latam",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:18:37.675103",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATAEuropeLatam_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-ibm-4414006486/": {
+    "title": "Data Scientist (m/w/d)",
+    "company": "IBM",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:18:44.549337",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientistmwd.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-cgi-4399464145/": {
+    "title": "Data Scientist (m/w/d)",
+    "company": "CGI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:18:47.315420",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CGI_DataScientistmwd.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-tmc-4424867957/": {
+    "title": "Data Scientist",
+    "company": "TMC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:18:50.868372",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TMC_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-ntt-data-europe-latam-4398690894/": {
+    "title": "Data Scientist",
+    "company": "NTT DATA Europe & Latam",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:18:54.900651",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATAEuropeLatam_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-multitude-4398501208/": {
+    "title": "Data Scientist",
+    "company": "Multitude",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:18:58.539148",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Multitude_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-haystack-4424885816/": {
+    "title": "Data Scientist",
+    "company": "Haystack",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:19:25.452031",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-riverbed-technology-4303085698/": {
+    "title": "Data Scientist",
+    "company": "Riverbed Technology",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:19:39.561249",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RiverbedTechnology_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-schaeffler-4400274330/": {
+    "title": "Data Scientist",
+    "company": "Schaeffler",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:19:57.418247",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Schaeffler_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-appsflyer-4320811230/": {
+    "title": "Data Scientist",
+    "company": "AppsFlyer",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:20:12.185574",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AppsFlyer_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4426996957/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc.",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:20:15.080299",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-testunity-4426932344/": {
+    "title": "Machine Learning Engineer",
+    "company": "TestUnity",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:20:22.276725",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TestUnity_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-lenovo-4407042438/": {
+    "title": "Machine Learning Engineer",
+    "company": "Lenovo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:20:39.759815",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Lenovo_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-collate-4427998255/": {
+    "title": "AI Engineer",
+    "company": "Collate",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:21:02.065146",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Collate_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-machine-learning-engineer-at-mci-4427227223/": {
+    "title": "AI / Machine Learning Engineer",
+    "company": "MCI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T23:21:24.431340",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MCI_AIMachineLearningEng.md"
   }
 }
