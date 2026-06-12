@@ -1,14 +1,14 @@
-# Cover Letter - AI Engineer @ Casumo
+# Cover Letter - Computer Vision & Machine Learning Developer (Hybrid) @ Tommy Car Wash
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411226361/
+**URL:** https://www.indeed.com/viewjob?jk=40d4789b0202ddfd
 
 ---
 
-Dear Casumo team,
+Dear Tommy Car Wash team,
 
-I am writing to apply for the AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Computer Vision & Machine Learning Developer (Hybrid) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 

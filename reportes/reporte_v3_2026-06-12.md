@@ -1,67 +1,103 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-12 15:30
+# AI JOB HUNTER V3 - Reporte 2026-06-12 19:03
 
-> **Extraidas:** 127 | **Filtradas:** 30 | **Procesadas hoy:** 12
-> **Total historico postulaciones:** 587 | **Emails enviados total:** 37
+> **Extraidas:** 127 | **Filtradas:** 35 | **Procesadas hoy:** 19
+> **Total historico postulaciones:** 606 | **Emails enviados total:** 38
 
 ---
 
-### [EMAIL ENVIADO]: Associate Director, Global Markets Quantitative Analyst @ UBS
-- **Email enviado a:** -ProfRecruitingcc@ubs.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Elder Research Inc
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6bfbd9910e92d369
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [EMAIL ENVIADO]: Data Scientist, Product @ Meta
-- **Email enviado a:** accommodations-ext@meta.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Elder Research Inc
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c21518886f0147e1
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Elder Research Inc
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3274a58719d29893
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Elder Research Inc
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=531cc635e722933f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Elder Research Inc
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b46a82e45dbb7c33
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Elder Research Inc
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=9243f62de4902a1e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Computer Vision & Machine Learning Developer (Hybrid) @ Tommy Car Wash
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=40d4789b0202ddfd
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TommyCarWash_ComputerVisionMachin.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Local Infusion
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=e0485665283ed362
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LocalInfusion_MachineLearningEngin.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Associate Data Scientist @ Yext
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/associate-data-scientist-at-yext-4416705341/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Yext_AssociateDataScienti.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - R&D @ Biocon Biologics
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-r-d-at-biocon-biologics-4424852738/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BioconBiologics_DataScientistRD.md
+### [DRAFT - POSTULA MANUALMENTE]: AI ENGINEER – GEN AI @ Viettel Cyber Security
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-gen-ai-at-viettel-cyber-security-4426924288/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ViettelCyberSecurity_AIENGINEERGENAI.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist Specialist @ Banco Bradesco
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-specialist-at-banco-bradesco-4418031756/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BancoBradesco_DataScientistSpecial.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Aliz
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-aliz-4424893074/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Aliz_AIEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ tiket.com
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-tiket-com-4398114060/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/tiketcom_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Casumo
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411221442/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior ML Engineer @ Work Force Nexus
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ml-engineer-at-work-force-nexus-4426956707/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WorkForceNexus_JuniorMLEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Casumo
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411226361/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer ($180K – $250K + Equity) at BUILD, @ Jack & Jill
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4426969021/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer (80%-100%) - Zurich @ Code Compass 🧭
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-80%25-100%25-zurich-at-code-compass-%F0%9F%A7%AD-4424890254/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CodeCompass_AIEngineer80100Zuric.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. @ Jack & Jill
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4426945978/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ IKI
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-iki-4356821317/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IKI_AIEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Python Developer @ Infosys
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/python-developer-at-infosys-4397658289/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_PythonDeveloper.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Scientist III, Personalization @ Expedia Group
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-scientist-iii-personalization-at-expedia-group-4416799850/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ExpediaGroup_MachineLearningScien.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI,ML GEN AI Engineer @ Infosys
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-gen-ai-engineer-at-infosys-4396348597/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_AIMLGENAIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (100%) @ MDPI Romania
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-100%25-at-mdpi-romania-4426963915/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPIRomania_DataScientist100.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Associate Data Scientist - Enterprise & Reporting @ Circle K
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/associate-data-scientist-enterprise-reporting-at-circle-k-4395998184/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CircleK_AssociateDataScienti.md
+### [EMAIL ENVIADO]: Applied Data Scientist @ Spacebackend
+- **Email enviado a:** careers@spacebackend.com
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Why Hiring
-- **APLICA AQUI:** https://remoteOK.com/remote-jobs/remote-data-scientist-why-hiring-1133248
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_DataScientist.md
-- **Fuente:** RemoteOK
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (100%) @ MDPI
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-100%25-at-mdpi-4428110943/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPI_DataScientist100.md
+- **Fuente:** LinkedIn
 
 
 ---
