@@ -4586,5 +4586,157 @@
     "applied_at": "2026-06-12T15:30:22.910705",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=6bfbd9910e92d369": {
+    "title": "Data Scientist",
+    "company": "Elder Research Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T18:57:22.265114",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=c21518886f0147e1": {
+    "title": "Data Scientist",
+    "company": "Elder Research Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T18:57:33.890316",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=3274a58719d29893": {
+    "title": "Data Scientist",
+    "company": "Elder Research Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T18:58:07.816353",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=531cc635e722933f": {
+    "title": "Data Scientist",
+    "company": "Elder Research Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T18:58:16.658707",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=b46a82e45dbb7c33": {
+    "title": "Data Scientist",
+    "company": "Elder Research Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T18:58:40.426069",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9243f62de4902a1e": {
+    "title": "Data Engineer",
+    "company": "Elder Research Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T18:59:07.161101",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ElderResearchInc_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=40d4789b0202ddfd": {
+    "title": "Computer Vision & Machine Learning Developer (Hybrid)",
+    "company": "Tommy Car Wash",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T18:59:18.948788",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TommyCarWash_ComputerVisionMachin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=e0485665283ed362": {
+    "title": "Machine Learning Engineer",
+    "company": "Local Infusion",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T18:59:25.873983",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LocalInfusion_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/associate-data-scientist-at-yext-4416705341/": {
+    "title": "Associate Data Scientist",
+    "company": "Yext",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T18:59:51.979211",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Yext_AssociateDataScienti.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-gen-ai-at-viettel-cyber-security-4426924288/": {
+    "title": "AI ENGINEER – GEN AI",
+    "company": "Viettel Cyber Security",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T18:59:58.236802",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ViettelCyberSecurity_AIENGINEERGENAI.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-aliz-4424893074/": {
+    "title": "AI Engineer",
+    "company": "Aliz",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:00:29.085314",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Aliz_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411221442/": {
+    "title": "AI Engineer",
+    "company": "Casumo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:00:58.230222",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411226361/": {
+    "title": "AI Engineer",
+    "company": "Casumo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:01:13.736814",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-80%25-100%25-zurich-at-code-compass-%F0%9F%A7%AD-4424890254/": {
+    "title": "AI Engineer (80%-100%) - Zurich",
+    "company": "Code Compass 🧭",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:01:20.289771",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CodeCompass_AIEngineer80100Zuric.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-iki-4356821317/": {
+    "title": "AI Engineer",
+    "company": "IKI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:01:44.068084",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IKI_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-scientist-iii-personalization-at-expedia-group-4416799850/": {
+    "title": "Machine Learning Scientist III, Personalization",
+    "company": "Expedia Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:02:22.406097",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ExpediaGroup_MachineLearningScien.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-100%25-at-mdpi-romania-4426963915/": {
+    "title": "Data Scientist (100%)",
+    "company": "MDPI Romania",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:02:52.132174",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPIRomania_DataScientist100.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-data-scientist-at-spacebackend-4424878135/": {
+    "title": "Applied Data Scientist",
+    "company": "Spacebackend",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:03:30.381513",
+    "email_sent_to": "careers@spacebackend.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Spacebackend_AppliedDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-100%25-at-mdpi-4428110943/": {
+    "title": "Data Scientist (100%)",
+    "company": "MDPI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T19:03:44.238837",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPI_DataScientist100.md"
   }
 }

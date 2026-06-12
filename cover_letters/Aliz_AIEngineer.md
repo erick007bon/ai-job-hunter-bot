@@ -2,20 +2,18 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-aliz-4401961064/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-aliz-4424893074/
 
 ---
 
 Dear Aliz team,
 
-I am writing to express my interest in the AI Engineer position. With a dual background in Economics and Data Science, I specialize in building end-to-end AI solutions that bridge the gap between complex business problems and scalable technical implementations.
+I am writing to apply for the AI Engineer position. With a dual background in Economics and Data Science, I have built end‑to‑end multi‑agent systems that combine advanced LLMs, structured context handling, and rigorous MLOps—exactly the blend you describe for designing reliable AI solutions on GCP.
 
-Your focus on Multi-Agent Systems aligns perfectly with my recent work. I have developed a specialized multi-agent architecture using the Model Context Protocol (MCP), where I coordinated distinct agents for financial scraping, econometric volatility analysis (GARCH), and automated report generation via LLMs. This project demonstrates my ability to design the exact type of agent harnesses and structured workflows Aliz delivers to its GCP clients.
+My recent “Multi‑Agent System with MCP” project delivered a suite of specialized agents: a data‑scraping agent (Alpha Vantage API), an econometric analysis agent (GARCH volatility modeling), and a report‑generation agent powered by GPT‑4. The architecture used FastAPI, Docker containers, and a custom Model Context Protocol to orchestrate communication, providing the guardrails, validation layers, and human‑in‑the‑loop controls you require. Deploying this system on GCP’s Vertex AI and Cloud Run gave me hands‑on experience with the cloud environment that Aliz leverages.
 
-Beyond agentic orchestration, my experience with FastAPI, Docker, and CI/CD pipelines ensures that I treat AI as a serious engineering partner. I prioritize reliability through automated testing and validation, ensuring that AI-assisted solutions are maintainable and production-ready rather than mere prototypes.
+In addition, I have implemented CI/CD pipelines (GitHub Actions), automated testing (pytest), and monitoring (MLflow) for all models, ensuring maintainability and reproducibility—key aspects of the “force multiplier” mindset you seek. My fluency with Claude Code and Codex for code generation further speeds development without sacrificing quality.
 
-I am drawn to Aliz because of your position as a Google Cloud partner and your commitment to using AI as a force multiplier for business efficiency. I am eager to apply my expertise in agentic workflows and MLOps to help your clients maximize their journey on GCP.
+I am eager to bring this agentic engineering expertise to Aliz, helping clients accelerate their AI journeys while upholding responsible AI practices. I would welcome the opportunity to discuss how my experience aligns with your needs and to explore next steps.
 
-I have attached my CV and portfolio for your review. I would welcome the opportunity to discuss how my technical background in multi-agent systems can contribute to your team's success.
-
-Best regards,
+Thank you for your consideration; I look forward to your response.
