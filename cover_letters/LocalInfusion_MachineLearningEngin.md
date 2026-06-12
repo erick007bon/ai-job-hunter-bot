@@ -1,14 +1,14 @@
-# Cover Letter - AI Engineer @ Casumo
+# Cover Letter - Machine Learning Engineer @ Local Infusion
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411226361/
+**URL:** https://www.indeed.com/viewjob?jk=e0485665283ed362
 
 ---
 
-Dear Casumo team,
+Dear Local Infusion team,
 
-I am writing to apply for the AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
