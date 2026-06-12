@@ -4370,5 +4370,37 @@
     "applied_at": "2026-06-11T19:36:02.397201",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Citi_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=2e0c4b502a6bd1e5": {
+    "title": "Machine Learning Engineer- Remote",
+    "company": "Harbor Freight Tools",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-11T23:22:18.830486",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HarborFreightTools_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-etsy-4427606964/": {
+    "title": "Data Scientist, Product Analytics",
+    "company": "Etsy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T23:22:48.875726",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Etsy_DataScientistProduct.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-cnn-4417399631/": {
+    "title": "Machine Learning Engineer I",
+    "company": "CNN",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T23:22:58.447864",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CNN_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-product-pulse-4426638648/": {
+    "title": "Machine Learning Engineer",
+    "company": "Product Pulse",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-11T23:23:10.252315",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ProductPulse_MachineLearningEngin.md"
   }
 }
