@@ -4402,5 +4402,93 @@
     "applied_at": "2026-06-11T23:23:10.252315",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ProductPulse_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=0328c01720b1c8cd": {
+    "title": "Data Engineer – Snowflake and AWS",
+    "company": "Cognizant",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T07:17:17.191879",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cognizant_DataEngineerSnowflak.md"
+  },
+  "https://www.indeed.com/viewjob?jk=83b880833ed74be8": {
+    "title": "Research Scientist I - Physical Therapy and Rehab Science",
+    "company": "University of Texas Medical Branch",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T07:17:28.140200",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofTexasMed_ResearchScientistIPh.md"
+  },
+  "https://www.indeed.com/viewjob?jk=9735757701d8c01b": {
+    "title": "Government Quantitative Professional",
+    "company": "Handshake",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T07:17:40.952401",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Handshake_GovernmentQuantitati.md"
+  },
+  "https://www.indeed.com/viewjob?jk=ba2b1b3d95f89d04": {
+    "title": "Mid-Level Full Stack Data Engineer",
+    "company": "Agile Defense",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-12T07:17:50.250064",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AgileDefense_MidLevelFullStackDat.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4423636367/": {
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T07:18:04.811610",
+    "email_sent_to": "accommodations-ext@meta.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_DataScientistProduct.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-internship-at-lottomatica-4427502018/": {
+    "title": "Data Scientist Internship",
+    "company": "Lottomatica",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T07:18:15.653314",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Lottomatica_DataScientistInterns.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-icici-lombard-4427545287/": {
+    "title": "Data Scientist",
+    "company": "ICICI Lombard",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T07:18:26.960189",
+    "email_sent_to": "saba.naik@icicilombard.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ICICILombard_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-poesis-ai-4427696474/": {
+    "title": "Machine Learning Engineer",
+    "company": "Poesis AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T07:18:40.307625",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PoesisAI_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-apple-4426293982/": {
+    "title": "Machine Learning Engineer",
+    "company": "Apple",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T07:18:52.166270",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Apple_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ml-engineer-agentic-systems-at-a16z-games-4427901621/": {
+    "title": "ML Engineer, Agentic Systems",
+    "company": "A16Z GAMES",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T07:19:01.361093",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A16ZGAMES_MLEngineerAgenticSys.md"
+  },
+  "https://www.linkedin.com/jobs/view/phoenix-data-scientist-at-myntra-4426628699/": {
+    "title": "Phoenix- Data Scientist",
+    "company": "Myntra",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-12T07:19:21.052751",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Myntra_PhoenixDataScientist.md"
   }
 }
