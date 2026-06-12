@@ -1,12 +1,12 @@
-# Cover Letter - Data Scientist @ Multitude
+# Cover Letter - Data Scientist @ NTT DATA Europe & Latam
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-multitude-4398501208/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-ntt-data-europe-latam-4398690894/
 
 ---
 
-Dear Multitude team,
+Dear NTT DATA Europe & Latam team,
 
 I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 

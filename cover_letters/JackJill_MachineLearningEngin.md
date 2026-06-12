@@ -2,20 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4426945978/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4426996957/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the Machine Learning Engineer – LLM Interpretability & Systems role. My dual background in Economics and Data Science gives me a rigorous quantitative foundation, while my hands‑on experience with large language models aligns directly with the position’s focus on mechanistic interpretability.
+I am writing to apply for the Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-At the core of my work is deep expertise in PyTorch and transformer internals, demonstrated in the “Trading Algoritmic with Deep Learning” project where I built and fine‑tuned an LSTM‑based price‑forecasting model, integrated activation‑level diagnostics, and deployed the pipeline with Docker, FastAPI and MLflow. This experience taught me how to extract, analyze, and modify hidden‑state activations to improve model behavior—skills directly applicable to activation patching and control‑vector techniques described in the job posting.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-In addition, I designed a Multi‑Agent system using the Model Context Protocol (MCP) that orchestrates specialized agents for data ingestion, econometric analysis, and LLM‑driven report generation. The architecture required deterministic policy enforcement across agents, mirroring the deterministic governance layer you aim to build for enterprise LLMs.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am attracted to CTGT’s mission to bring rigorous governance to frontier AI, especially within a startup backed by Stanford alumni and top investors. I am eager to translate cutting‑edge research into reliable production systems for Fortune 500 clients.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Could we schedule a brief call to discuss how my technical background and project experience can contribute to the Policy Engine development?
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
-Thank you for your consideration.
+Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+REDACTED_EMAIL@example.com | GitHub: erick007bon

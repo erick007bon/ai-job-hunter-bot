@@ -2,21 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-ibm-4414000650/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-ibm-4414006486/
 
 ---
 
 Dear IBM team,
 
-I am writing to apply for the Data Scientist position at IBM Consulting. My background in econometrics and advanced machine learning aligns with your need for professionals who can solve business problems using Python, TensorFlow, and IBM’s AI suites. I have built end‑to‑end predictive systems in Python, employing scikit‑learn, PyTorch, and TensorFlow, and deployed them with FastAPI and Docker—skills that match the role’s emphasis on modern, open‑source technologies and MLOps practices.
+I am writing to apply for the Data Scientist (m/w/d) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-In my recent project, “Trading Algorítmico con Deep Learning,” I developed an LSTM model in PyTorch to forecast S&P 500 price movements, integrating backtesting pipelines and MLflow for experiment tracking. The system achieved 68 % directional accuracy, demonstrating my ability to translate complex financial data into actionable insights—exactly the analytical depth IBM seeks for its clients.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-I am particularly attracted to IBM’s focus on hybrid‑cloud and AI transformation, and the opportunity to collaborate with thought leaders across industries. The prospect of contributing to client innovation centers, where I can leverage my experience in Power BI dashboards and multi‑agent MCP architectures, excites me as it aligns with IBM’s culture of continuous learning and impactful solutions.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I would welcome the chance to discuss how my technical expertise and project experience can support IBM’s consulting engagements. Please let me know a convenient time for an interview.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Thank you for considering my application. I look forward to the possibility of contributing to IBM’s data‑science initiatives.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
-Erick Flores Zambano
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+REDACTED_EMAIL@example.com | GitHub: erick007bon
