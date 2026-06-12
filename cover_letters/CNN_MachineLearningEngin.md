@@ -2,7 +2,7 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-cnn-4417399632/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-cnn-4417399631/
 
 ---
 
