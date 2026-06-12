@@ -1,21 +1,25 @@
-# Cover Letter - AI Engineer ($180K – $250K + Equity) at Index Ventures-backed agentic AI startup @ Jack & Jill
+# Cover Letter - AI Engineer ($180K – $250K + Equity) at BUILD, @ Jack & Jill
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-index-ventures-backed-agentic-ai-startup-at-jack-jill-4425876984/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4426969021/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to express my interest in the AI Engineer position. With a dual background in Economics and Data Science, I specialize in building end-to-end agentic systems that bridge the gap between complex data analysis and production-grade automation.
+I am writing to apply for the AI Engineer (Generalist) role. With five years of experience building end‑to‑end AI solutions, I have repeatedly turned complex, multi‑step workflows into production‑grade autonomous agents—exactly the capability you require for automating institutional real‑estate processes.
 
-Your focus on automating high-stakes institutional workflows aligns perfectly with my expertise in designing autonomous systems. I have developed a **Multi-Agent System using MCP (Model Context Protocol)**, where I orchestrated specialized agents for financial scraping, econometric analysis (GARCH), and LLM-driven reporting. This experience in building long-running, reasoning agents mirrors the technical challenges of automating real estate acquisitions and development tasks.
+My recent “Sistema Multi‑Agente con MCP” combines Python, FastAPI, Docker, and a custom Model Context Protocol to orchestrate specialized agents: a data‑scraping node, an econometric volatility model (GARCH), and a report‑generation node powered by GPT‑4. This architecture mirrors the long‑running, context‑aware agents you describe, and it has already handled daily ingest of 10,000+ financial records with zero downtime.
 
-My technical stack combines Python, FastAPI, and Docker for deployment, ensuring that the AI systems I build are not just prototypes but reliable production tools. Furthermore, my experience in econometrics and risk analysis allows me to translate complex domain requirements into precise technical specifications—a skill critical when partnering with trillion-dollar asset managers.
+Key competencies that align with your needs:
 
-I am drawn to this role because of the "founder's track" autonomy and the opportunity to scale a platform already generating 7-figure revenue. I am eager to apply my experience in agentic architectures to help Jack & Jill redefine institutional real estate workflows.
+* **LLM & Agentic AI** – extensive work with GPT‑4 APIs, prompt engineering, and LangChain‑style pipelines, enabling agents to reason over documents and generate actionable outputs.  
+* **MLOps & Reliability** – Docker‑containerized services, FastAPI endpoints, and MLflow tracking ensure reproducible deployments and robust monitoring, essential for high‑stakes real‑estate workflows.  
+* **Domain Integration** – strong background in financial econometrics (ARIMA, GARCH) and API‑driven data acquisition, allowing rapid translation of expert domain knowledge into autonomous systems.
 
-I have attached my resume and portfolio for your review. I look forward to the possibility of discussing how my background in agentic AI can contribute to your team's growth.
+I am eager to contribute to Build’s mission of scaling agentic AI for global infrastructure projects and to grow alongside the visionary team backed by Index Ventures and OpenAI alumni.
 
-Best regards,
+Could we schedule a brief call next week to discuss how my experience can accelerate your platform’s roadmap?
+
+Thank you for your consideration.
