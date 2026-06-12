@@ -1,14 +1,14 @@
-# Cover Letter - Data Scientist @ Multitude
+# Cover Letter - Machine Learning Engineer @ TestUnity
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-multitude-4398501208/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-testunity-4426932344/
 
 ---
 
-Dear Multitude team,
+Dear TestUnity team,
 
-I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
