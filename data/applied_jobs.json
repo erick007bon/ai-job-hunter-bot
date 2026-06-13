@@ -5226,5 +5226,101 @@
     "applied_at": "2026-06-13T18:07:31.339549",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ActivTrak_DataAnalyst.md"
+  },
+  "https://www.indeed.com/viewjob?jk=54e222a13990a586": {
+    "title": "Machine Learning Engineer, Simulation Evaluation",
+    "company": "Waymo",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T23:05:02.131473",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Waymo_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-ntt-data-europe-latam-4398810310/": {
+    "title": "Data Scientist",
+    "company": "NTT DATA Europe & Latam",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:05:12.368273",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATAEuropeLatam_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-ntt-data-europe-latam-4398801557/": {
+    "title": "Data Scientist",
+    "company": "NTT DATA Europe & Latam",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:05:33.456402",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATAEuropeLatam_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-de-bijenkorf-4418176263/": {
+    "title": "Data Scientist",
+    "company": "de Bijenkorf",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:06:11.595768",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/deBijenkorf_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-%E6%96%B0%E5%AE%89%E4%BC%A0%E5%AA%92%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4425338430/": {
+    "title": "Data Scientist",
+    "company": "新安传媒有限公司",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:06:20.809159",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/新安传媒有限公司_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-emagine-4387964331/": {
+    "title": "Data Scientist",
+    "company": "emagine",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:06:54.177717",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/emagine_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-data-scientist-at-ul-solutions-4398620345/": {
+    "title": "AI Data Scientist",
+    "company": "UL Solutions",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:07:12.168003",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ULSolutions_AIDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-chefs-culinar-4427272826/": {
+    "title": "Data Scientist (m/w/d)",
+    "company": "CHEFS CULINAR",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:07:22.101997",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CHEFSCULINAR_DataScientistmwd.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-data-ai-lab-data-scientist-agentic-predictive-intelligence-manager-at-ey-4385052059/": {
+    "title": "AI & Data - AI Lab: Data Scientist - Agentic & Predictive Intelligence - Manager",
+    "company": "EY",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:07:27.344722",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EY_AIDataAILabDataScien.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ml-engineer-predictive-analytics-agentic-ai-at-intersnack-it-kg-4406753081/": {
+    "title": "Data Scientist & ML Engineer - Predictive Analytics & Agentic AI",
+    "company": "Intersnack IT KG",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:07:43.175942",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IntersnackITKG_DataScientistMLEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-abn-amro-hypotheken-groep-at-abn-amro-bank-n-v-4418130802/": {
+    "title": "Data Scientist ABN AMRO Hypotheken Groep",
+    "company": "ABN AMRO Bank N.V.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:07:58.729722",
+    "email_sent_to": "paul.van.den.tempel@nl.abnamro.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ABNAMROBankNV_DataScientistABNAMRO.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427400384/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc.",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T23:08:14.308806",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
   }
 }
