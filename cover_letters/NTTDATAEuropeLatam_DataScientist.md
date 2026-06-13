@@ -2,23 +2,22 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-ntt-data-europe-latam-4398690894/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-ntt-data-europe-latam-4398801557/
 
 ---
 
 Dear NTT DATA Europe & Latam team,
 
-I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am an economist‑data scientist with five years of client‑facing experience delivering measurable business value through end‑to‑end AI solutions. My recent work on a **Multi‑Agent MCP system for automated financial analysis** combined Python, FastAPI, Docker, and advanced econometric models (GARCH, panel regressions) to ingest market data, generate forecasts, and produce LLM‑driven reports. The platform reduced analyst time by 40% and was deployed in production with continuous monitoring via MLflow—directly aligning with your need to partner with stakeholders, develop predictive models, and ensure reliable, scalable deployment.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+Key strengths that match the role:
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+* **Data preparation & modeling** – expert in pandas, scikit‑learn, PyTorch, and TensorFlow; have built LSTM price‑forecasting models and Random Forest credit‑risk classifiers, regularly performing EDA, hypothesis testing, and sensitivity analysis.  
+* **SQL & data warehousing** – advanced SQL (window functions, query optimisation) used to feed Power BI dashboards that translate complex insights into actionable business recommendations.  
+* **Productionisation** – extensive MLOps experience (Docker, FastAPI, CI/CD with GitHub Actions, MLflow) enabling seamless hand‑off to engineering teams and ongoing performance tuning.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am particularly attracted to NTT DATA’s focus on the energy sector, where data‑driven optimisation can have tangible environmental and economic impact. I would welcome the opportunity to discuss how my blend of econometric expertise and AI engineering can accelerate your client’s data‑science initiatives.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Could we schedule a brief call next week to explore this further?
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-REDACTED_EMAIL@example.com | GitHub: erick007bon
+Best regards.
