@@ -5122,5 +5122,109 @@
     "applied_at": "2026-06-13T14:16:50.081079",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Astreya_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-docusign-4377628100/": {
+    "title": "Machine Learning Engineer",
+    "company": "Docusign",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:03:34.551705",
+    "email_sent_to": "accommodations@docusign.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Docusign_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-docusign-4377630028/": {
+    "title": "Machine Learning Engineer",
+    "company": "Docusign",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:03:49.408174",
+    "email_sent_to": "accommodations@docusign.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Docusign_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-preparedness-at-openai-4417160963/": {
+    "title": "Data Scientist, Preparedness",
+    "company": "OpenAI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:03:55.095180",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OpenAI_DataScientistPrepare.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineering-at-cint-4418429021/": {
+    "title": "AI/ML Engineering",
+    "company": "Cint",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:04:17.857661",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Cint_AIMLEngineering.md"
+  },
+  "https://www.linkedin.com/jobs/view/python-ml-engineer-at-infosys-4417504005/": {
+    "title": "Python ML Engineer",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:04:27.210174",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_PythonMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/early-career-ai-ml-engineer-at-brain-co-4362406858/": {
+    "title": "Early Career AI/ML Engineer",
+    "company": "Brain Co.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:04:47.766871",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BrainCo_EarlyCareerAIMLEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427280897/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc.",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:05:06.453092",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-xai-4246546678/": {
+    "title": "Applied AI Engineer",
+    "company": "xAI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:05:57.182770",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/xAI_AppliedAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-lenovo-4407034557/": {
+    "title": "Machine Learning Engineer",
+    "company": "Lenovo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:06:18.225054",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Lenovo_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-ai-ml-engineer-at-google-4417139457/": {
+    "title": "Applied AI/ML Engineer",
+    "company": "Google",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:06:38.510276",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Google_AppliedAIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-capital-33-4425386120/": {
+    "title": "AI/ML Engineer",
+    "company": "Capital 33",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:06:49.473769",
+    "email_sent_to": "careers@capital33.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Capital33_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-vibecode-at-jack-jill-4427284544/": {
+    "title": "AI Engineer ($150k-$300k + Equity) at Vibecode",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T18:07:01.490673",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer150k300kEq.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-activtrak-1133346": {
+    "title": "Data Analyst",
+    "company": "ActivTrak",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-13T18:07:31.339549",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ActivTrak_DataAnalyst.md"
   }
 }
