@@ -4962,5 +4962,165 @@
     "applied_at": "2026-06-13T06:56:37.380853",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MercedesBenzGroupSer_MachineLearning.md"
+  },
+  "https://www.indeed.com/viewjob?jk=02ad1b63f26681a3": {
+    "title": "Data Scientist, Mid",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:11:03.841043",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md"
+  },
+  "https://www.indeed.com/viewjob?jk=a3741745dac7e6a7": {
+    "title": "Data Scientist, Mid",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:11:24.088564",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md"
+  },
+  "https://www.indeed.com/viewjob?jk=53c1e5ea0f305a5e": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:11:33.722160",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=73d80799577630eb": {
+    "title": "Machine Learning Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:11:47.582118",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=3b50ffc3e6a7eb61": {
+    "title": "Data Scientist, Mid",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:12:02.695868",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md"
+  },
+  "https://www.indeed.com/viewjob?jk=b87bbe9a139bddcd": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:12:16.495813",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=bc7ff95f4be9f232": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:12:38.913108",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=fbbbbd4eebf03260": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:12:53.844862",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=4abeb4c18570f841": {
+    "title": "Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:12:57.913066",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=d7b322727bbc610e": {
+    "title": "Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:13:25.380994",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=caaae986590a9b9c": {
+    "title": "Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:13:45.657475",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=b7675ba3b9559cca": {
+    "title": "AI Engineer",
+    "company": "Rebel Hotel Company",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-13T14:13:52.612879",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RebelHotelCompany_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientists-sc3-data-cleansing-quality-dq-at-dicetek-llc-4428171828/": {
+    "title": "Data Scientists (SC3)- Data Cleansing & Quality (DQ)",
+    "company": "Dicetek LLC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T14:14:12.122170",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DicetekLLC_DataScientistsSC3Dat.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4425370205/": {
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T14:14:36.616460",
+    "email_sent_to": "accommodations-ext@meta.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_DataScientistProduct.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-microsoft-4358193119/": {
+    "title": "Data Scientist",
+    "company": "Microsoft",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T14:14:54.312588",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Microsoft_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-lobbyai-4427267798/": {
+    "title": "AI Engineer",
+    "company": "LobbyAI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T14:15:12.194013",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LobbyAI_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411210833/": {
+    "title": "AI Engineer",
+    "company": "Casumo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T14:15:29.369342",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/genai-engineer-hungary-at-deloitte-4385023987/": {
+    "title": "GenAI Engineer | Hungary",
+    "company": "Deloitte",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T14:15:47.993846",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_GenAIEngineerHungary.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-thermo-fisher-scientific-4425368257/": {
+    "title": "AI Engineer",
+    "company": "Thermo Fisher Scientific",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T14:16:12.702740",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThermoFisherScientif_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-astreya-4424007814/": {
+    "title": "AI / ML Engineer",
+    "company": "Astreya",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-13T14:16:50.081079",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Astreya_AIMLEngineer.md"
   }
 }

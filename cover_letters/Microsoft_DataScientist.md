@@ -2,23 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-microsoft-4396586712/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-microsoft-4358193119/
 
 ---
 
 Dear Microsoft team,
 
-I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am a dual‑trained economist and data scientist with extensive experience building end‑to‑end AI solutions. My background in econometric modeling and deep learning aligns with Microsoft’s focus on evaluation design and scalable pipelines for frontier models.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+In my recent project “System Multi‑Agent with MCP,” I created a distributed architecture that pulls financial data via APIs, applies GARCH and LSTM models for volatility forecasting, and generates report summaries using GPT‑4. This involved Docker, FastAPI, and MCP protocols—skills directly applicable to building robust, scalable post‑training pipelines. I also engineered a Power BI dashboard that automates daily KPI refreshes and applies DAX forecasting, demonstrating my ability to turn raw data into actionable insights.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+I bring proven expertise in:
+- **Model evaluation & diagnostics**: Developed rigorous backtesting frameworks for LSTM trading models, ensuring reliable performance metrics.
+- **Data pipeline automation**: Deployed FastAPI services and Docker containers for real‑time inference, mirroring the scalable data pipelines Microsoft requires.
+- **Advanced ML techniques**: Applied LSTM, GARCH, and ensemble methods, matching the team’s need for high‑quality training data and reward modeling.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+Microsoft’s mission to create safe, human‑aligned AI resonates with my commitment to responsible model development. I am eager to contribute to the Post‑Training team’s high‑impact projects and help shape the next generation of reliable, aligned foundation models.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Please let me know a convenient time for a brief call to discuss how my experience can support your objectives.
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
+Thank you for considering my application.

@@ -2,23 +2,20 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=fbc03a4bfd155f81
+**URL:** https://www.indeed.com/viewjob?jk=73d80799577630eb
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Machine Learning Engineer position. With a dual background in Economics and Data Science, I specialize in building end-to-end AI solutions that bridge the gap between complex statistical analysis and production-ready software.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My technical profile aligns directly with your requirements. I have extensive experience using Python, PyTorch, and scikit-learn to develop predictive models, and I am proficient in managing the full ML lifecycle—from data preprocessing and feature engineering to deployment using Docker and FastAPI. Additionally, I have a strong command of LLMs and prompt engineering, which allows me to implement grounded AI systems.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+A highlight of my work is the development of a Multi-Agent System using the Model Context Protocol (MCP). I designed an architecture where specialized agents handle data scraping, econometric volatility analysis via GARCH models, and automated reporting. This project demonstrates my ability to build AI systems that utilize external tools and APIs to generate precise, data-driven responses, a skill set I am eager to apply to optimize warfighter performance challenges.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am drawn to Booz Allen Hamilton’s commitment to solving mission-critical problems and would welcome the opportunity to contribute my expertise in predictive modeling and agentic workflows to your team.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I have attached my resume for your review and am available for an interview at your earliest convenience.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
