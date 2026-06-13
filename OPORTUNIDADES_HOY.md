@@ -1,63 +1,107 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-13 06:56
+# AI JOB HUNTER V3 - Reporte 2026-06-13 14:16
 
-> **Extraidas:** 129 | **Filtradas:** 31 | **Procesadas hoy:** 11
-> **Total historico postulaciones:** 634 | **Emails enviados total:** 38
+> **Extraidas:** 124 | **Filtradas:** 41 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 654 | **Emails enviados total:** 39
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Mid Research Scientist @ Voicd
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c258a4e5382596fc
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Voicd_MidResearchScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=02ad1b63f26681a3
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Initiate Government Solutions
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1749b76778d18a4c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InitiateGovernmentSo_DataEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a3741745dac7e6a7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ GeoLogics Corporation
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=64e4062d9bffd3f5
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeoLogicsCorporation_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=53c1e5ea0f305a5e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior Data Analyst @ Radiance Technologies Inc.
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5340a34846068119
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RadianceTechnologies_JuniorDataAnalyst.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=73d80799577630eb
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_MachineLearningEngin.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: ML Ops Engineer @ Meril
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ml-ops-engineer-at-meril-4425312781/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meril_MLOpsEngineer.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3b50ffc3e6a7eb61
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Banco Credibom SA
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-banco-credibom-sa-4424895660/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BancoCredibomSA_DataScientist.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b87bbe9a139bddcd
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer ($180K – $250K + Equity) at BUILD, @ Jack & Jill
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4426997957/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=bc7ff95f4be9f232
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. @ Jack & Jill
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427258114/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fbbbbd4eebf03260
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
+- **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ Capgemini
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-capgemini-4426936310/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Capgemini_AIMLEngineer.md
-- **Fuente:** LinkedIn
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=4abeb4c18570f841
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d7b322727bbc610e
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=caaae986590a9b9c
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
+- **Fuente:** Google Jobs (Indeed)
 
 ### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Rebel Hotel Company
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-rebel-hotel-company-4428197345/
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b7675ba3b9559cca
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RebelHotelCompany_AIEngineer.md
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientists (SC3)- Data Cleansing & Quality (DQ) @ Dicetek LLC
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientists-sc3-data-cleansing-quality-dq-at-dicetek-llc-4428171828/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DicetekLLC_DataScientistsSC3Dat.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning @ Mercedes-Benz Group Services Madrid
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-at-mercedes-benz-group-services-madrid-4427969156/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MercedesBenzGroupSer_MachineLearning.md
+### [EMAIL ENVIADO]: Data Scientist, Product Analytics @ Meta
+- **Email enviado a:** accommodations-ext@meta.com
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Microsoft
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-microsoft-4358193119/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Microsoft_DataScientist.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ LobbyAI
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-lobbyai-4427267798/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LobbyAI_AIEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Casumo
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-casumo-4411210833/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Casumo_AIEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: GenAI Engineer | Hungary @ Deloitte
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/genai-engineer-hungary-at-deloitte-4385023987/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_GenAIEngineerHungary.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Thermo Fisher Scientific
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-thermo-fisher-scientific-4425368257/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThermoFisherScientif_AIEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: AI / ML Engineer @ Astreya
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-astreya-4424007814/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Astreya_AIMLEngineer.md
 - **Fuente:** LinkedIn
 
 
