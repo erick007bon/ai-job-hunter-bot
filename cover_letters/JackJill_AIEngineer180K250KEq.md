@@ -2,24 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4426969021/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4426997957/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the AI Engineer (Generalist) role. With five years of experience building end‑to‑end AI solutions, I have repeatedly turned complex, multi‑step workflows into production‑grade autonomous agents—exactly the capability you require for automating institutional real‑estate processes.
+I am writing to apply for the AI Engineer position. My background as an Economist and Data Scientist allows me to bridge the gap between complex financial reasoning and production-grade AI, which aligns with your mission of automating institutional real estate workflows.
 
-My recent “Sistema Multi‑Agente con MCP” combines Python, FastAPI, Docker, and a custom Model Context Protocol to orchestrate specialized agents: a data‑scraping node, an econometric volatility model (GARCH), and a report‑generation node powered by GPT‑4. This architecture mirrors the long‑running, context‑aware agents you describe, and it has already handled daily ingest of 10,000+ financial records with zero downtime.
+I specialize in building autonomous agentic systems. Specifically, I recently developed a Multi-Agent System using the Model Context Protocol (MCP) and FastAPI, where specialized agents handled data scraping, econometric analysis via GARCH models, and automated report generation. This experience in orchestrating multi-step reasoning and integrating diverse APIs directly mirrors the "long-running agents" and "production-grade AI" requirements of this role.
 
-Key competencies that align with your needs:
+Beyond agentic architectures, my technical stack includes PyTorch for deep learning and a strong MLOps foundation (Docker, FastAPI, GitHub Actions), ensuring that the systems I build are scalable and reliable in production. My dual expertise in econometrics and AI means I can translate the high-stakes requirements of asset managers into precise technical specifications.
 
-* **LLM & Agentic AI** – extensive work with GPT‑4 APIs, prompt engineering, and LangChain‑style pipelines, enabling agents to reason over documents and generate actionable outputs.  
-* **MLOps & Reliability** – Docker‑containerized services, FastAPI endpoints, and MLflow tracking ensure reproducible deployments and robust monitoring, essential for high‑stakes real‑estate workflows.  
-* **Domain Integration** – strong background in financial econometrics (ARIMA, GARCH) and API‑driven data acquisition, allowing rapid translation of expert domain knowledge into autonomous systems.
+I am drawn to this role because of the opportunity to build a generational company at the frontier of agentic AI alongside elite engineers. I am eager to apply my experience in financial automation to help scale your platform’s impact on global infrastructure projects.
 
-I am eager to contribute to Build’s mission of scaling agentic AI for global infrastructure projects and to grow alongside the visionary team backed by Index Ventures and OpenAI alumni.
+I have attached my resume and GitHub profile for your review. I look forward to the possibility of discussing how my expertise in agentic workflows can contribute to your team.
 
-Could we schedule a brief call next week to discuss how my experience can accelerate your platform’s roadmap?
-
-Thank you for your consideration.
+Best regards,
