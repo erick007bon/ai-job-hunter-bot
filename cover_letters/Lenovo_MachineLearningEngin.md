@@ -2,24 +2,21 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-lenovo-4407042438/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-lenovo-4407034557/
 
 ---
 
 Dear Lenovo team,
 
-I am an economist and data scientist with a strong background in end‑to‑end AI solutions and MLOps, and I am excited to apply for the Machine Learning Engineer position. Your emphasis on scalable ML pipelines and production‑ready models aligns with my experience deploying Python models with FastAPI, Docker, and MLflow, as demonstrated in my RESTful API for credit‑risk classification.
+I am writing to apply for the Machine Learning Engineer position focused on Lenovo’s Quantum AI platform. With a dual background in Economics and Data Science, I have built end‑to‑end agentic systems that combine LLM orchestration, tool integration, and long‑horizon planning—exactly the stack described for Qira.
 
-In the role you describe, I would bring:
+My recent **Multi‑Agent System with MCP** project implemented a distributed architecture where a financial‑scraping agent, a GARCH‑based econometric agent, and a report‑generation agent (using GPT‑4 via the OpenAI API) communicated through a custom Model Context Protocol. I designed the pipeline for multi‑step reasoning, integrated external APIs, and stored intermediate results in a vector database (FAISS) to enable retrieval‑augmented generation. The whole system was containerized with Docker, exposed through FastAPI, and deployed on a Kubernetes cluster, achieving sub‑second latency on inference requests.
 
-* **MLOps expertise** – I have built CI/CD workflows with GitHub Actions and automated model versioning in MLflow, ensuring reproducible and deployable models.  
-* **Advanced predictive modeling** – My trading system uses LSTM networks in PyTorch to forecast S&P 500 movements, achieving 68 % directional accuracy, and I can adapt similar techniques to optimize Lenovo’s product recommendation or demand‑forecasting models.  
-* **Business‑intelligence integration** – I designed a Power BI dashboard that connects directly to SQL Server, automating daily refreshes and providing real‑time KPI insights; this skill will help translate model outputs into actionable business metrics for Lenovo’s stakeholders.
+Key competencies that match the role include:
+* **LLM orchestration & tool use** – prompt engineering, API chaining, and reflection loops built into the MCP framework.  
+* **RAG and vector stores** – FAISS integration for context‑aware responses.  
+* **Production deployment** – Docker, FastAPI, CI/CD with GitHub Actions, and monitoring with MLflow.
 
-I am particularly drawn to Lenovo’s commitment to innovation and sustainability, and I see a clear opportunity to contribute to your AI initiatives by building robust, scalable ML solutions that drive tangible business outcomes.
+Lenovo’s vision of delivering smarter, trustworthy technology aligns with my goal of creating reliable, safe AI agents that add real business value. I would welcome the opportunity to discuss how my experience can accelerate Qira’s development.
 
-Could we schedule a brief call next week to discuss how my skill set can support Lenovo’s growth? I am available at your convenience and look forward to the possibility of contributing to your team.
-
-Best regards,
-
-Flores Zambrano Erick
+Thank you for considering my application; I look forward to your reply.
