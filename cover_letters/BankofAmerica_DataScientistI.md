@@ -1,14 +1,14 @@
-# Cover Letter - AI Engineer ($180K – $250K + Equity) at BUILD, @ Jack & Jill
+# Cover Letter - Data Scientist I @ Bank of America
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4427445410/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-i-at-bank-of-america-4377855740/
 
 ---
 
-Dear Jack & Jill team,
+Dear Bank of America team,
 
-I am writing to apply for the AI Engineer ($180K – $250K + Equity) at BUILD, position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Data Scientist I position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 

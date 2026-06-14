@@ -1,52 +1,67 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-14 18:10
+# AI JOB HUNTER V3 - Reporte 2026-06-14 23:14
 
-> **Extraidas:** 126 | **Filtradas:** 38 | **Procesadas hoy:** 9
-> **Total historico postulaciones:** 711 | **Emails enviados total:** 45
+> **Extraidas:** 137 | **Filtradas:** 43 | **Procesadas hoy:** 12
+> **Total historico postulaciones:** 723 | **Emails enviados total:** 46
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineering Manager - Ads Engagement Modeling @ reddit
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b6b4d40ed3ed89fb
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/reddit_MachineLearningEngin.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ GRiT Solutions
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-grit-solutions-4388532848/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GRiTSolutions_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist I @ Bank of America
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-i-at-bank-of-america-4377855740/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BankofAmerica_DataScientistI.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - Quality Engineering & AI/ML Implementation - Data Scientist – Ingénierie Qualité & Mise en œuvre de l’IA/ML (F/H) @ GE Vernova
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-quality-engineering-ai-ml-implementation-data-scientist-%E2%80%93-ing%C3%A9nierie-qualit%C3%A9-mise-en-%C5%93uvre-de-l%E2%80%99ia-ml-f-h-at-ge-vernova-4428654211/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GEVernova_DataScientistQuality.md
+### [DRAFT - POSTULA MANUALMENTE]: Graduate data scientist @ Bending Spoons
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4427444356/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BendingSpoons_Graduatedatascientis.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer (Azure) I Vietnam @ Temus
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-azure-i-vietnam-at-temus-4425733829/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Temus_AIEngineerAzureIViet.md
+### [DRAFT - POSTULA MANUALMENTE]: Junior Data Scientist - AI Practice Team @ ABS Group
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-data-scientist-ai-practice-team-at-abs-group-4357651919/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ABSGroup_JuniorDataScientistA.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ MarqVision
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-marqvision-4417574981/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MarqVision_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist Trainee @ Haystack
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-trainee-at-haystack-4425747184/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_DataScientistTrainee.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI ENGINEER @ Dinova
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-dinova-4398130120/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Dinova_AIENGINEER.md
+### [DRAFT - POSTULA MANUALMENTE]: Graduate data scientist @ Bending Spoons
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4427438466/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BendingSpoons_Graduatedatascientis.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Forbes Advisor
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-forbes-advisor-4325461135/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ForbesAdvisor_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427438544/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Machine Learning Engineer @ Docusign
-- **Email enviado a:** accommodations@docusign.com
+### [DRAFT - POSTULA MANUALMENTE]: AI/Generative AI Engineer @ Andiamo
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-generative-ai-engineer-at-andiamo-4380633523/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Andiamo_AIGenerativeAIEngine.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Twilio
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-twilio-4387963075/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Twilio_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer ($180K – $250K + Equity) at BUILD, @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4427445410/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Junior AI Engineer @ Haystack
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425757069/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer ($250k–$400k + Equity) at Known @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k%E2%80%93%24400k-%2B-equity-at-known-at-jack-jill-4427451341/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Junior AI Engineer @ Haystack
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425747180/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: Machine Learning Engineer, Simulation Evaluation @ A16Z GAMES
+- **Email enviado a:** waymo-candidatesupport@google.com
 - **Fuente:** LinkedIn
 
 
