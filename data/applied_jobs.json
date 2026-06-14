@@ -5578,5 +5578,101 @@
     "applied_at": "2026-06-14T18:10:04.595646",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Twilio_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-i-at-bank-of-america-4377855740/": {
+    "title": "Data Scientist I",
+    "company": "Bank of America",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:10:29.463760",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BankofAmerica_DataScientistI.md"
+  },
+  "https://www.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4427444356/": {
+    "title": "Graduate data scientist",
+    "company": "Bending Spoons",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:10:38.849637",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BendingSpoons_Graduatedatascientis.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-ai-practice-team-at-abs-group-4357651919/": {
+    "title": "Junior Data Scientist - AI Practice Team",
+    "company": "ABS Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:10:56.553784",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ABSGroup_JuniorDataScientistA.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-trainee-at-haystack-4425747184/": {
+    "title": "Data Scientist Trainee",
+    "company": "Haystack",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:11:10.024840",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_DataScientistTrainee.md"
+  },
+  "https://www.linkedin.com/jobs/view/graduate-data-scientist-at-bending-spoons-4427438466/": {
+    "title": "Graduate data scientist",
+    "company": "Bending Spoons",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:11:29.084700",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BendingSpoons_Graduatedatascientis.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427438544/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc.",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:11:53.154863",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-generative-ai-engineer-at-andiamo-4380633523/": {
+    "title": "AI/Generative AI Engineer",
+    "company": "Andiamo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:12:19.495121",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Andiamo_AIGenerativeAIEngine.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4427445410/": {
+    "title": "AI Engineer ($180K – $250K + Equity) at BUILD,",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:12:28.541290",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425757069/": {
+    "title": "Junior AI Engineer",
+    "company": "Haystack",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:13:08.603289",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k%E2%80%93%24400k-%2B-equity-at-known-at-jack-jill-4427451341/": {
+    "title": "AI/ML Engineer ($250k–$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:13:26.968451",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425747180/": {
+    "title": "Junior AI Engineer",
+    "company": "Haystack",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:13:48.330795",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-simulation-evaluation-at-a16z-games-4428602708/": {
+    "title": "Machine Learning Engineer, Simulation Evaluation",
+    "company": "A16Z GAMES",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T23:14:07.786437",
+    "email_sent_to": "waymo-candidatesupport@google.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A16ZGAMES_MachineLearningEngin.md"
   }
 }
