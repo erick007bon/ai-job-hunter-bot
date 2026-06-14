@@ -5322,5 +5322,45 @@
     "applied_at": "2026-06-13T23:08:14.308806",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-networth-corp-4426969541/": {
+    "title": "Data Scientist",
+    "company": "Networth Corp",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T07:19:18.619368",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NetworthCorp_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-business-at-openai-4417173126/": {
+    "title": "Data Scientist, Business",
+    "company": "OpenAI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T07:19:30.972315",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/OpenAI_DataScientistBusines.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24180k-%E2%80%93-%24250k-%2B-equity-at-build-at-jack-jill-4427408094/": {
+    "title": "AI Engineer ($180K – $250K + Equity) at BUILD,",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T07:20:26.858609",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer180K250KEq.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427403870/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc.",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T07:20:35.878830",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k%E2%80%93%24400k-%2B-equity-at-known-at-jack-jill-4427297471/": {
+    "title": "AI/ML Engineer ($250k–$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T07:20:47.708516",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
   }
 }
