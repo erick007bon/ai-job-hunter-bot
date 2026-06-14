@@ -2,18 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427400384/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427403870/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the Machine Learning Engineer – LLM Interpretability & Systems position. My background in deep learning with PyTorch and hands‑on experience with transformer internals aligns closely with your need for a candidate who can manipulate model weights and activations for policy enforcement. In my “Trading Algorítmico con Deep Learning” project, I trained an LSTM model in PyTorch to forecast S&P 500 price movements, implementing custom training loops and monitoring internal activations to refine model behavior—skills directly transferable to activation patching and control vector techniques described in your posting.
+I am writing to apply for the Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-Additionally, my work on a multi‑agent system using the Model Context Protocol (MCP) demonstrates my ability to design and deploy deterministic intervention layers across distributed agents. This experience will support building the evaluation and deployment loops required to ship interpretability‑based changes into enterprise environments, as outlined in the role.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-Jack & Jill’s mission to create a reliable governance layer for enterprise AI resonates with my commitment to ensuring AI systems operate safely and predictably. I am eager to contribute to your “Policy Engine” and help Fortune 500 clients deploy generative AI with confidence.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I look forward to discussing how my expertise in PyTorch, transformer internals, and MLOps can support your team. Please let me know a convenient time for a conversation.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Thank you for considering my application.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+
+Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+REDACTED_EMAIL@example.com | GitHub: erick007bon
