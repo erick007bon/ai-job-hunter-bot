@@ -5506,5 +5506,77 @@
     "applied_at": "2026-06-14T14:18:02.439308",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Biohub_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=b6b4d40ed3ed89fb": {
+    "title": "Machine Learning Engineering Manager - Ads Engagement Modeling",
+    "company": "reddit",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-14T18:07:37.558436",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/reddit_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-grit-solutions-4388532848/": {
+    "title": "Data Scientist",
+    "company": "GRiT Solutions",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T18:07:57.964457",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GRiTSolutions_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-quality-engineering-ai-ml-implementation-data-scientist-%E2%80%93-ing%C3%A9nierie-qualit%C3%A9-mise-en-%C5%93uvre-de-l%E2%80%99ia-ml-f-h-at-ge-vernova-4428654211/": {
+    "title": "Data Scientist - Quality Engineering & AI/ML Implementation - Data Scientist – Ingénierie Qualité & Mise en œuvre de l’IA/ML (F/H)",
+    "company": "GE Vernova",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T18:08:08.901287",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GEVernova_DataScientistQuality.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-azure-i-vietnam-at-temus-4425733829/": {
+    "title": "AI Engineer (Azure) I Vietnam",
+    "company": "Temus",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T18:08:33.635821",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Temus_AIEngineerAzureIViet.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-marqvision-4417574981/": {
+    "title": "AI Engineer",
+    "company": "MarqVision",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T18:08:53.000110",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MarqVision_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-dinova-4398130120/": {
+    "title": "AI ENGINEER",
+    "company": "Dinova",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T18:09:00.517805",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Dinova_AIENGINEER.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-forbes-advisor-4325461135/": {
+    "title": "Data Scientist",
+    "company": "Forbes Advisor",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T18:09:24.159622",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ForbesAdvisor_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-docusign-4377613583/": {
+    "title": "Machine Learning Engineer",
+    "company": "Docusign",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T18:09:56.020573",
+    "email_sent_to": "accommodations@docusign.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Docusign_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-twilio-4387963075/": {
+    "title": "Machine Learning Engineer",
+    "company": "Twilio",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T18:10:04.595646",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Twilio_MachineLearningEngin.md"
   }
 }
