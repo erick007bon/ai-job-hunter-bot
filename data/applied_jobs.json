@@ -5362,5 +5362,149 @@
     "applied_at": "2026-06-14T07:20:47.708516",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-financial-services-semantic-ai-at-cgi-4388122216/": {
+    "title": "Data Scientist (Financial Services & Semantic AI)",
+    "company": "CGI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:13:52.826076",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CGI_DataScientistFinanci.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-llm-data-scientist-at-ing-nederland-4425389582/": {
+    "title": "Applied LLM Data Scientist",
+    "company": "ING Nederland",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:14:12.234641",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/INGNederland_AppliedLLMDataScient.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-werken-in-gelderland-4427203577/": {
+    "title": "Data Scientist",
+    "company": "Werken in Gelderland",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:14:20.163176",
+    "email_sent_to": "g.denbesten@apeldoorn.nl",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WerkeninGelderland_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-advanced-analytics-madrid-at-deloitte-4399021950/": {
+    "title": "Data Scientist - Advanced Analytics Madrid",
+    "company": "Deloitte",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:14:31.575075",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_DataScientistAdvance.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-capslock-4424178961/": {
+    "title": "Data Scientist",
+    "company": "CapsLock",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:14:42.320666",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CapsLock_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-kinosec-ai-4427420291/": {
+    "title": "AI Engineer",
+    "company": "KinoSec.ai",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:15:03.823459",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KinoSecai_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-payhawk-4386974994/": {
+    "title": "Applied AI Engineer",
+    "company": "Payhawk",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:15:20.472344",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Payhawk_AppliedAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-a1-4403896162/": {
+    "title": "Applied AI Engineer",
+    "company": "A1",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:15:39.942541",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1_AppliedAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-abound-4407916916/": {
+    "title": "AI Engineer",
+    "company": "Abound",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:15:46.962921",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Abound_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-gotfriends-4421935197/": {
+    "title": "AI Engineer",
+    "company": "Gotfriends",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:16:04.546131",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Gotfriends_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-mentaily-4425739374/": {
+    "title": "AI Engineer",
+    "company": "Mentaily",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:16:27.977670",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mentaily_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-analyst-at-infosys-4398766299/": {
+    "title": "Data Analyst",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:16:49.399518",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_DataAnalyst.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427435577/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc.",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:17:04.432086",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-at-biohub-4398451971/": {
+    "title": "Machine Learning Engineer, AI",
+    "company": "Biohub",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:17:13.967393",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Biohub_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-avua-4428614746/": {
+    "title": "Junior Data Scientist",
+    "company": "avua",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:17:31.422601",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/avua_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-ai-safety-at-microsoft-4428614808/": {
+    "title": "Machine Learning - AI Safety",
+    "company": "Microsoft",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:17:36.049272",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Microsoft_MachineLearningAISaf.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k%E2%80%93%24400k-%2B-equity-at-known-at-jack-jill-4427430755/": {
+    "title": "AI/ML Engineer ($250k–$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:17:47.137394",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-ai-at-biohub-4398630444/": {
+    "title": "Machine Learning Engineer, AI",
+    "company": "Biohub",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-14T14:18:02.439308",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Biohub_MachineLearningEngin.md"
   }
 }

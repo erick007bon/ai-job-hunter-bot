@@ -2,17 +2,18 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k%E2%80%93%24400k-%2B-equity-at-known-at-jack-jill-4427297471/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k%E2%80%93%24400k-%2B-equity-at-known-at-jack-jill-4427430755/
 
 ---
 
-
 Dear Jack & Jill team,
 
-I’m excited to apply for the AI/ML Engineer position. With a background in economics and data science, I’ve built end-to-end AI systems that directly impact user experiences, including a multi-agent architecture using MCP for automated financial analysis and a deep learning trading system with 68% directional accuracy.
+I bring proven experience in building recommendation systems that drive user engagement, which aligns with your need to own the matchmaking and ranking algorithms for a voice‑first dating app. In my recent role I designed an end‑to‑end recommendation pipeline using FastAPI, Docker, and MLflow that supported real‑time user matching at scale, a skill directly applicable to the 1‑to‑1 introduction experience you described.
 
-My experience scaling the AI Job Hunter Bot—a 24/7 autonomous system deployed via GitHub Actions—demonstrates my ability to transition experimental systems to production. This bot handles data extraction, profile matching with LLMs, and personalized outreach, mirroring your need for robust matchmaking algorithms.
+My background in econometrics and time‑series modeling equips me to handle the rich conversational signals you collect. For example, I developed a multi‑agent architecture (MCP) that scrapes financial data, applies GARCH volatility models, and generates LLM‑powered reports. The same modular, API‑driven approach can be adapted to ingest voice interaction data and output personalized match scores.
 
-Additionally, my Power BI dashboard for Vamoret S.A. automated real-time KPIs and forecasting, showing my skill in transforming data into actionable insights—critical for your voice-first dating app’s user engagement metrics.
+I am especially drawn to Jack & Jill’s mission to reduce friction in dating through AI, and to the opportunity to shape the product from 0 to 1 with a founding team from Uber and Cash App. The chance to lead a small ML team and establish an engineering culture resonates with my experience mentoring junior engineers and orchestrating cross‑functional collaborations.
 
-I’m particularly drawn to Jack & Jill’s mission to create meaningful connections through AI, especially the focus on voice-first interactions and high-conversion matchmaking. My track record in building user
+I am ready to discuss how my expertise in scalable recommendation systems, MLOps, and conversational AI can help achieve the 80 % real‑world date rate you target. Please let me know a convenient time for a brief call.
+
+Thank you for considering my application.
