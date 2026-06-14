@@ -2,23 +2,22 @@
 
 **Fuente:** LinkedIn | **Email contacto:** accommodations@docusign.com
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-docusign-4377630028/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-docusign-4377613583/
 
 ---
 
 Dear Docusign team,
 
-I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am a data scientist with a dual background in Economics and AI, and I have built end‑to‑end machine‑learning solutions that blend natural‑language processing, deep learning, and production engineering. My recent work on a **Multi‑Agent system with MCP** integrated a GPT‑4 powered report generator that extracts financial data via APIs, performs econometric modelling, and delivers structured summaries through a FastAPI service. This experience directly aligns with your need for advanced NLP pipelines, including entity extraction and text generation, within contractual data.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+Key competencies that match the role:
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+* **NLP & DL expertise** – Developed custom transformers for named‑entity recognition and sentiment analysis on legal‑style documents, using PyTorch and Hugging Face libraries.  
+* **MLOps & deployment** – Containerized models with Docker, exposed them via FastAPI, and managed experiment tracking with MLflow, ensuring reproducible and scalable inference.  
+* **Data engineering & analytics** – Built robust data pipelines (SQL, pandas) and visual dashboards in Power BI to monitor model performance and business impact.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am particularly attracted to Docusign’s Intelligent Agreement Management platform because it transforms hidden contract data into actionable insights—a challenge that sits at the intersection of my econometric forecasting skills and AI research. I am eager to contribute to the team’s research, prototype cutting‑edge models, and help accelerate the delivery of smarter agreement experiences.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Could we schedule a brief conversation to discuss how my technical background and project experience can support Docusign’s ML initiatives?
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
+Thank you for your consideration.
