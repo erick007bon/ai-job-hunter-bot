@@ -1,82 +1,87 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-15 08:57
+# AI JOB HUNTER V3 - Reporte 2026-06-15 17:26
 
-> **Extraidas:** 113 | **Filtradas:** 37 | **Procesadas hoy:** 15
-> **Total historico postulaciones:** 738 | **Emails enviados total:** 47
+> **Extraidas:** 120 | **Filtradas:** 36 | **Procesadas hoy:** 16
+> **Total historico postulaciones:** 754 | **Emails enviados total:** 48
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Engineering Manager, Machine Learning (Caper) @ Instacart
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c1e8aca1b6260e85
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Instacart_EngineeringManagerMa.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ US Veterans Benefits Administration
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d15587123706724f
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USVeteransBenefitsAd_DataScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist (Active Secret Clearance) @ Striveworks
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=80e5ed0f9eda0378
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Striveworks_DataScientistActiveS.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Engineer - Remote @ UnitedHealthcare
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=f023a5570dfcdab7
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnitedHealthcare_DataEngineerRemote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer (Active Secret Clearance) @ Striveworks
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=b2a89c63a51a47bd
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Striveworks_MachineLearningEngin.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist - remote @ JSR Tech Consulting
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=c99b014c7af759c2
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JSRTechConsulting_DataScientistremote.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ VMO
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-vmo-4418925908/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VMO_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Experian
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-experian-4342133347/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Experian_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Haystack
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-haystack-4425753106/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ MDPI Serbia
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-mdpi-serbia-4428811969/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPISerbia_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Data Scientist @ Vivid Resourcing
-- **Email enviado a:** Daniel.zelnis@vividresourcing.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ MDPI Romania
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-mdpi-romania-4427482637/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPIRomania_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Data Scientist (Malaysia) @ Thakral One
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-data-scientist-malaysia-at-thakral-one-4417865884/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThakralOne_AIDataScientistMalay.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Sigmar Recruitment
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-sigmar-recruitment-4428859227/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SigmarRecruitment_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Trans.eu Group
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-trans-eu-group-4425766784/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TranseuGroup_DataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist / AI Consultant (m/w/d) @ IBM
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-ai-consultant-m-w-d-at-ibm-4426408262/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientistAIConsu.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ AVIV Group
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-aviv-group-4425787001/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AVIVGroup_DataScientist.md
+### [EMAIL ENVIADO]: Data Scientist @ CMC Global Company Limited.
+- **Email enviado a:** recruitment@cmcglobal.vn
 - **Fuente:** LinkedIn
 
 ### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. @ Jack & Jill
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427467582/
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427497789/
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: ML Engineer @ Selby Jennings
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ml-engineer-at-selby-jennings-4428697810/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SelbyJennings_MLEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Founding Machine Learning Engineer ($180k-$220k + Equity) at Withshepherd @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%24220k-%2B-equity-at-withshepherd-at-jack-jill-4427460074/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_FoundingMachineLearn.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ HALA
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-hala-4428806639/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HALA_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: ML Engineer @ Docker, Inc
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ml-engineer-at-docker-inc-4428859476/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DockerInc_MLEngineer.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Jr. Data Scientist @ Why Hiring
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4425751972/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JrDataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer ($250k-$400k + Equity) at Known @ Jack & Jill
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4427706635/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior Data Scientist @ Why Hiring
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4425757858/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Vodafone
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-vodafone-4425789741/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vodafone_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Junior AI Engineer @ Haystack
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425746192/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Python Developer - AI @ Accellor
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/python-developer-ai-at-accellor-4428837039/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Accellor_PythonDeveloperAI.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Verdant Robotics
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-verdant-robotics-4427222603/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VerdantRobotics_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
 
