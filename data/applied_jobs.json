@@ -5922,5 +5922,117 @@
     "applied_at": "2026-06-15T17:26:03.775539",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VerdantRobotics_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=45ee414f7356208d": {
+    "title": "Data Scientist 1",
+    "company": "Adswerve, Inc.",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T20:20:55.931326",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AdswerveInc_DataScientist1.md"
+  },
+  "https://www.indeed.com/viewjob?jk=04970758294b211b": {
+    "title": "AI Engineer (Mid)",
+    "company": "Northramp",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T20:21:15.998526",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Northramp_AIEngineerMid.md"
+  },
+  "https://www.indeed.com/viewjob?jk=f04f7fc32a2e0b06": {
+    "title": "AI Engineer (Mid)",
+    "company": "Northramp",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T20:21:28.719591",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Northramp_AIEngineerMid.md"
+  },
+  "https://www.indeed.com/viewjob?jk=f43943a4ba4da8e9": {
+    "title": "Machine Learning / Full Stack Engineer – US Defense AI Program",
+    "company": "KT2i Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T20:21:36.331864",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KT2iInc_MachineLearningFullS.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-crossing-hurdles-4427707671/": {
+    "title": "Data Scientist | Remote",
+    "company": "Crossing Hurdles",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:21:50.642074",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrossingHurdles_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-crossing-hurdles-4427491992/": {
+    "title": "Data Scientist | Remote",
+    "company": "Crossing Hurdles",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:22:10.959239",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrossingHurdles_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-quantumblack-ai-by-mckinsey-at-quantumblack-ai-by-mckinsey-4219666091/": {
+    "title": "Data Scientist - QuantumBlack, AI by McKinsey",
+    "company": "QuantumBlack, AI by McKinsey",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:22:23.990334",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QuantumBlackAIbyMcKi_DataScientistQuantum.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-graduate-at-targetjobs-uk-4427711735/": {
+    "title": "Data Scientist Graduate",
+    "company": "targetjobs UK",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:22:36.154056",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/targetjobsUK_DataScientistGraduat.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4425747975/": {
+    "title": "Junior Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:22:57.897405",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-nielseniq-4427482921/": {
+    "title": "Data Scientist",
+    "company": "NielsenIQ",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:23:23.718087",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NielsenIQ_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-winaxis-llc-4429123217/": {
+    "title": "AI/ML Engineer",
+    "company": "Winaxis LLC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:23:33.120364",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WinaxisLLC_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ml-engineer-at-great-value-hiring-4427750250/": {
+    "title": "ML Engineer",
+    "company": "Great Value Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:23:55.750220",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GreatValueHiring_MLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-vibecode-at-jack-jill-4427757259/": {
+    "title": "AI Engineer ($150k-$300k + Equity) at Vibecode",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:24:01.460180",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer150k300kEq.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-revelation-pharma-4427722878/": {
+    "title": "Machine Learning Engineer",
+    "company": "Revelation Pharma",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T20:24:05.273589",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RevelationPharma_MachineLearningEngin.md"
   }
 }

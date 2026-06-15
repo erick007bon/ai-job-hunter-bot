@@ -2,7 +2,7 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-vibecode-at-jack-jill-4427284544/
+**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-vibecode-at-jack-jill-4427757259/
 
 ---
 
