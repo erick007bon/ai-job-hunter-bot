@@ -1,21 +1,22 @@
-# Cover Letter - Founding Machine Learning Engineer ($180K – $220K + Equity) at $60M Series B AI-native insurance platform @ Jack & Jill
+# Cover Letter - Founding Machine Learning Engineer ($180k-$220k + Equity) at Withshepherd @ Jack & Jill
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%E2%80%93-%24220k-%2B-equity-at-%2460m-series-b-ai-native-insurance-platform-at-jack-jill-4425011578/
+**URL:** https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%24220k-%2B-equity-at-withshepherd-at-jack-jill-4427460074/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to express my interest in the Founding Machine Learning Engineer position. With a dual background in Economics and Data Science, I specialize in the intersection of financial risk analysis and agentic AI systems, making me a strong fit for building an autonomous underwriting platform.
+I am excited to apply for the Founding Machine Learning Engineer position at Withshepherd. My background in econometrics and end‑to‑end AI development aligns closely with your need to build an autonomous underwriting pipeline from scratch.
 
-I have extensive experience developing end-to-end ML pipelines using Python and PyTorch, and I am proficient in deploying production-grade services via FastAPI and Docker. My expertise in econometrics—specifically causal inference and time-series modeling—allows me to translate complex risk variables into rigorous predictive signals, which is essential for high-hazard industry assessments.
+At my current role, I designed a multi‑agent system using MCP that integrates financial scraping, GARCH volatility modeling, and LLM‑driven report generation. This architecture mirrors Withshepherd’s goal of combining real‑time data with agentic AI to automate complex decisions. I have deployed similar pipelines on AWS SageMaker, managed Docker containers, and tracked experiments with MLflow—skills directly transferable to your production stack.
 
-A key example of my work is my Multi-Agent System using the Model Context Protocol (MCP). I designed an architecture where specialized agents handle financial data scraping, econometric volatility analysis (GARCH), and automated report generation. This experience in building coordinated, autonomous workflows directly aligns with your goal of creating a "Waymo for underwriting" through agentic LLM workflows.
+I also led a trading‑algorithms project that employed LSTM models in PyTorch for price forecasting, achieving 68 % directional accuracy. The end‑to‑end workflow—data ingestion, feature engineering, model training, and backtesting—provides a solid foundation for designing the data pipelines you envision.
 
-The opportunity to define the ML lifecycle from the ground up at a Series B startup backed by Spark Capital is exactly the challenge I am looking for. I am confident that my ability to bridge the gap between financial theory and production AI will accelerate your path toward fully autonomous submissions.
+Withshepherd’s mission to replace manual underwriting with autonomous ML systems resonates with my passion for applying rigorous econometric methods to high‑stakes financial problems. I am eager to contribute to a culture that values ownership, rapid iteration, and data‑driven decision making.
 
-I look forward to discussing how my technical background can contribute to your team.
+Could we schedule a brief call next week to discuss how my experience can accelerate Withshepherd’s ML function? I look forward to the opportunity.
 
-Best regards,
+Sincerely,  
+Flores Zamban Erick
