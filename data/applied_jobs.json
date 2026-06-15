@@ -5794,5 +5794,133 @@
     "applied_at": "2026-06-15T08:57:20.129943",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=d15587123706724f": {
+    "title": "Data Scientist",
+    "company": "US Veterans Benefits Administration",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T17:22:02.088042",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USVeteransBenefitsAd_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=f023a5570dfcdab7": {
+    "title": "Data Engineer - Remote",
+    "company": "UnitedHealthcare",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T17:22:31.914411",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UnitedHealthcare_DataEngineerRemote.md"
+  },
+  "https://www.indeed.com/viewjob?jk=c99b014c7af759c2": {
+    "title": "Data Scientist - remote",
+    "company": "JSR Tech Consulting",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T17:22:45.946373",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JSRTechConsulting_DataScientistremote.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-experian-4342133347/": {
+    "title": "Data Scientist",
+    "company": "Experian",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:23:02.101754",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Experian_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-mdpi-serbia-4428811969/": {
+    "title": "Data Scientist",
+    "company": "MDPI Serbia",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:23:15.593951",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPISerbia_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-mdpi-romania-4427482637/": {
+    "title": "Data Scientist",
+    "company": "MDPI Romania",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:23:34.973237",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MDPIRomania_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-sigmar-recruitment-4428859227/": {
+    "title": "Data Scientist",
+    "company": "Sigmar Recruitment",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:23:40.507647",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SigmarRecruitment_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ai-consultant-m-w-d-at-ibm-4426408262/": {
+    "title": "Data Scientist / AI Consultant (m/w/d)",
+    "company": "IBM",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:23:53.180150",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IBM_DataScientistAIConsu.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-cmc-global-company-limited-4427481863/": {
+    "title": "Data Scientist",
+    "company": "CMC Global Company Limited.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:24:12.796371",
+    "email_sent_to": "recruitment@cmcglobal.vn",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CMCGlobalCompanyLimi_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427497789/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc.",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:24:18.353565",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%24220k-%2B-equity-at-withshepherd-at-jack-jill-4427460074/": {
+    "title": "Founding Machine Learning Engineer ($180k-$220k + Equity) at Withshepherd",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:24:32.661182",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_FoundingMachineLearn.md"
+  },
+  "https://www.linkedin.com/jobs/view/ml-engineer-at-docker-inc-4428859476/": {
+    "title": "ML Engineer",
+    "company": "Docker, Inc",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:24:41.511635",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DockerInc_MLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4427706635/": {
+    "title": "AI/ML Engineer ($250k-$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:25:02.968392",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-vodafone-4425789741/": {
+    "title": "Data Scientist",
+    "company": "Vodafone",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:25:29.199124",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Vodafone_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/python-developer-ai-at-accellor-4428837039/": {
+    "title": "Python Developer - AI",
+    "company": "Accellor",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:25:44.766417",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Accellor_PythonDeveloperAI.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-verdant-robotics-4427222603/": {
+    "title": "Machine Learning Engineer",
+    "company": "Verdant Robotics",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T17:26:03.775539",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VerdantRobotics_MachineLearningEngin.md"
   }
 }

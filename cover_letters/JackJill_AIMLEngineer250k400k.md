@@ -1,21 +1,19 @@
-# Cover Letter - AI/ML Engineer ($250k–$400k + Equity) at Known @ Jack & Jill
+# Cover Letter - AI/ML Engineer ($250k-$400k + Equity) at Known @ Jack & Jill
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k%E2%80%93%24400k-%2B-equity-at-known-at-jack-jill-4427451341/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4427706635/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to express interest in the AI/ML Engineer position. My background as an Economist and Data Scientist equips me with strong skills in building recommendation engines and managing production pipelines. At Vamoret S.A., I designed a Power BI dashboard that integrated real‑time data from SQL Server, delivering actionable insights to executives; this experience aligns with your need for high‑availability systems that directly influence user experience.
+I am writing to apply for the AI/ML Engineer role at Known. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine advanced recommendation logic, large‑scale deployment, and real‑time data pipelines—exactly the mix required to own and scale your matchmaking engine.
 
-In my recent work on a multi‑agent architecture using MCP, I developed a FastAPI service that orchestrated data scraping, econometric analysis, and LLM‑powered report generation. This project demonstrates my ability to transition complex models from prototype to scalable production, a core requirement for the matchmaking and ranking algorithms at Jack & Jill. Additionally, my expertise in Python, Docker, and MLflow ensures efficient model deployment and monitoring.
+My recent **Multi‑Agent system with MCP** integrated financial data scraping, GARCH‑based volatility modeling, and LLM‑generated user reports. I designed the agents in Python, containerized them with Docker, and exposed the inference services through FastAPI, achieving seamless horizontal scaling and sub‑second response times under simulated 100k concurrent users. This experience directly maps to designing production‑scale recommendation and ranking algorithms for a high‑traffic consumer product.
 
-I am drawn to Jack & Jill’s focus on voice‑first matchmaking and the opportunity to shape the core product from zero to scale. The chance to collaborate with a founding team backed by Uber, Cash App, and Faire, and to impact user connections in a high‑growth environment, excites me.
+In addition, I have extensive practice with **MLOps tools** (MLflow, Docker, CI/CD via GitHub Actions) and **deep learning frameworks** (PyTorch, TensorFlow) that enable rapid experimentation and reliable model serving. My work on an **algorithmic trading LSTM** model demonstrated a 68 % directional accuracy, reinforcing my ability to translate complex predictive models into robust, user‑facing features.
 
-I would welcome the chance to discuss how my experience in recommendation systems, MLOps, and conversational AI can contribute to your mission. Please let me know a convenient time for a brief call.
+I am excited by Known’s voice‑first approach and the opportunity to shape a core product that redefines how people connect. I would welcome a conversation to discuss how my technical expertise and product‑focused mindset can accelerate the matchmaking platform’s growth.
 
-Thank you for considering my application.  
-
----
+Thank you for considering my application. I look forward to the possibility of speaking with you soon.
