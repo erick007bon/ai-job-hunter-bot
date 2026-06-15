@@ -1,14 +1,14 @@
-# Cover Letter - AI Engineer ($150k-$300k + Equity) at Vibecode @ Jack & Jill
+# Cover Letter - Machine Learning / Full Stack Engineer – US Defense AI Program @ KT2i Inc
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-vibecode-at-jack-jill-4427757259/
+**URL:** https://www.indeed.com/viewjob?jk=f43943a4ba4da8e9
 
 ---
 
-Dear Jack & Jill team,
+Dear KT2i Inc team,
 
-I am writing to apply for the AI Engineer ($150k-$300k + Equity) at Vibecode position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Machine Learning / Full Stack Engineer – US Defense AI Program position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 

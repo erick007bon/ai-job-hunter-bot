@@ -2,20 +2,21 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-nielseniq-4425061761/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-nielseniq-4427482921/
 
 ---
 
 Dear NielsenIQ team,
 
-I am writing to express my interest in the Data Scientist position. With a dual background in Economics and Data Science, I specialize in the intersection of statistical modeling and large-scale data automation, making me a strong fit for your retail panel and market measurement frameworks.
+I am writing to apply for the Data Scientist position. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine econometric analysis, machine learning, and production‑grade deployment – a combination that aligns directly with NielsenIQ’s focus on data‑driven consumer insights.
 
-Your requirement for extrapolation methodologies and universe studies aligns with my expertise in applied econometrics. I have extensive experience in time series (ARIMA/GARCH) and causal inference, which are essential for transforming sample-based data into accurate market-level insights. Additionally, my proficiency in SQL and MLOps (Docker, FastAPI) ensures I can efficiently integrate models into production systems while maintaining strict quality control.
+My recent “Trading Algorítmico con Deep Learning” project demonstrates the core competencies you seek: I designed a full pipeline (data ingestion, feature engineering, LSTM forecasting in PyTorch, back‑testing with Backtrader, and model tracking with MLflow). The system achieved 68 % directional accuracy on S&P 500 data and was containerized with Docker and served through a FastAPI endpoint, illustrating my ability to move models from research to scalable production.
 
-A relevant example of my work is my "Multi-Agent System with MCP," where I built an automated pipeline for financial analysis. This project involved integrating diverse data sources via APIs and applying econometric models to generate actionable reports—a workflow similar to the end-to-end remediation and quality monitoring processes required for your PoS datasets.
+In addition, I have extensive experience with time‑series econometrics (ARIMA, GARCH) and risk analytics (VaR, backtesting), which I applied to financial data streams in a multi‑agent architecture using the Model Context Protocol (MCP). This work reinforced my skill in integrating domain‑specific statistical models with modern AI tools—a key requirement for delivering actionable market intelligence at NielsenIQ.
 
-I am motivated by NielsenIQ's leadership in consumer intelligence and the opportunity to apply my skills in statistical rigor and automation to optimize your retail panel health. I am confident that my ability to bridge the gap between complex mathematical modeling and business intelligence will add immediate value to your team.
+I am particularly attracted to NielsenIQ’s commitment to turning complex consumer data into strategic recommendations. I am eager to contribute my expertise in predictive modeling, MLOps, and BI (Power BI dashboards with DAX) to help your clients make faster, more informed decisions.
 
-I look forward to the possibility of discussing how my technical profile aligns with your current objectives.
+Could we schedule a brief call to discuss how my background can support NielsenIQ’s data science initiatives? I look forward to the opportunity.
 
-Best regards,
+Kind regards,
+Erick Flores Zambrano

@@ -2,20 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4425757858/
+**URL:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4425747975/
 
 ---
 
 Dear Why Hiring team,
 
-I am writing to express my interest in the Junior Data Scientist position. With a dual background in Economics and Data Science, I offer a unique combination of quantitative rigor and technical expertise in AI/ML that aligns directly with your mission of driving intelligence insights.
+I am writing to apply for the Junior Data Scientist position. My background in economics and data science equips me to deliver data‑driven solutions that align with Why Hiring’s mission to simplify job searches through analytics.
 
-I possess strong proficiency in Python and SQL, specifically for extracting meaningful insights from complex datasets. My experience with Power BI—including the implementation of 360° sales dashboards with RFM segmentation—allows me to bridge the gap between raw data and operational decision-making, a key requirement for this role.
+During my role at Vamoret S.A., I built an executive Power BI dashboard that connected directly to SQL Server, automated daily refreshes, and visualised KPIs in real time. This experience matches your requirement for creating dashboards and reports and demonstrates my proficiency with SQL and BI tools.  
 
-Furthermore, I have a proven track record of building end-to-end AI solutions. A notable example is my Multi-Agent System using the Model Context Protocol (MCP), where I integrated financial APIs with GARCH volatility models and LLMs to automate complex reporting. This project demonstrates my ability to build the data pipelines and predictive models mentioned in your job description, while automating repetitive tasks to improve efficiency.
+In my “Trading Algorítmico con Deep Learning” project, I designed a full pipeline in Python that ingested market data, engineered features, trained an LSTM model, and backtested trading strategies. The end‑to‑end automation of data ingestion, model training, and deployment showcases my ability to develop and maintain automated workflows—exactly what you need for scalable reporting and data processing solutions.
 
-I am motivated to join Why Hiring because your focus on remote empowerment and operational advantage resonates with my experience in developing autonomous, scalable AI tools. I am confident that my ability to combine econometrics with MLOps will add immediate value to your cross-functional team.
+I also have strong Python scripting skills, having created RESTful APIs with FastAPI and Docker for model inference, and I am familiar with cloud analytics concepts through continuous integration pipelines in GitHub Actions.  
 
-I have attached my resume and portfolio for your review. I look forward to the possibility of discussing how my technical skills can support your data initiatives.
+I am excited by Why Hiring’s focus on remote, AI‑enabled workflows and would welcome the chance to contribute to your analytics team. Please let me know a convenient time for a brief call to discuss how my skills can support your objectives.
 
-Best regards,
+Thank you for considering my application. I look forward to your response.

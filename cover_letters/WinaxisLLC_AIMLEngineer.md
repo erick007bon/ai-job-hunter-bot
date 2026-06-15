@@ -2,7 +2,7 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-winaxis-llc-4422955129/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-winaxis-llc-4429123217/
 
 ---
 
