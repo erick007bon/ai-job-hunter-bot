@@ -2,18 +2,21 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=9712cf36162ab966
+**URL:** https://www.indeed.com/viewjob?jk=f04f7fc32a2e0b06
 
 ---
 
 Dear Northramp team,
 
-I am an economist and data scientist with extensive experience designing AI‑enabled systems that align closely with your needs. My work on a multi‑agent architecture using MCP and FastAPI—where agents perform financial scraping, GARCH‑based volatility analysis, and GPT‑4‑powered report generation—demonstrates my ability to build agentic workflows, a core requirement for your role. I also built a production‑grade REST API in FastAPI and Docker for a credit‑risk model, ensuring robust deployment and CI/CD, which matches your emphasis on microservices and cloud‑native design.
+I am writing to apply for the AI Engineer (Mid) position. With a dual background in Economics and Data Science, I have built end‑to‑end agentic systems that align closely with the responsibilities outlined for this role.
 
-At Vamoret S.A., I delivered a Power BI executive dashboard that integrated real‑time SQL Server data with DAX forecasting. This project required tight data governance, a skill I will translate to collaborating with your BigQuery and Dataform teams. My background in econometrics (ARIMA/GARCH, panel data) and machine learning (PyTorch, scikit‑learn) equips me to evaluate AI use cases for feasibility and risk, as outlined in your responsibilities.
+My experience designing the **Multi‑Agent System with MCP** involved creating specialized Python agents for data ingestion, econometric analysis (GARCH volatility modeling), and report generation via LLM (GPT‑4 API). I implemented the architecture using FastAPI, Docker containers, and a custom Model Context Protocol to manage state and session flow—exactly the kind of agentic workflow, context management, and guardrails you require on Google Cloud.
 
-I am drawn to Northramp’s focus on responsible, mission‑aligned AI for federal stakeholders. The opportunity to architect agentic systems on GCP, leveraging Gemini and Vertex AI, aligns perfectly with my technical strengths and professional goals.
+Key competencies that match your needs include:
+* **Agentic design & orchestration** – defined agent roles, tool usage, and context handling in the MCP project, ensuring auditable interactions.
+* **Production‑grade AI integration** – deployed LLM services and predictive models through RESTful APIs, employing MLOps practices (Docker, MLflow, CI/CD) that translate directly to Vertex AI and Gemini deployments.
+* **Collaboration with data platforms** – extensive work with SQL, Power BI, and data pipelines that complements BigQuery and Dataform environments.
 
-I would welcome the chance to discuss how my skills can contribute to Northramp’s innovative projects. Please let me know a convenient time for an interview.
+I am motivated to bring this expertise to Northramp’s federal initiatives, helping to deliver responsible, high‑impact AI solutions on GCP. I would welcome the opportunity to discuss how my technical background and proven project results can contribute to your team’s success.
 
-Thank you for your consideration.
+Thank you for your consideration; I look forward to arranging a conversation at your earliest convenience.
