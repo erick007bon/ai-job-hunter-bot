@@ -1,14 +1,14 @@
-# Cover Letter - Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. @ Jack & Jill
+# Cover Letter - Data Scientist @ Sigmar Recruitment
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427497789/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-sigmar-recruitment-4428859227/
 
 ---
 
-Dear Jack & Jill team,
+Dear Sigmar Recruitment team,
 
-I am writing to apply for the Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc. position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
