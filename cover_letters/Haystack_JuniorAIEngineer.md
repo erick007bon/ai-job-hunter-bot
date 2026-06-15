@@ -2,20 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425747180/
+**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425746192/
 
 ---
 
 Dear Haystack team,
 
-I am excited to apply for the Junior AI Engineer position. My background in Economics and Data Science equips me with strong analytical skills and a solid foundation in Python, which aligns with your emphasis on AI fundamentals and model operations.
+I am writing to express my interest in the Junior AI Engineer position. With a dual background in Economics and Data Science, I have developed a strong technical foundation that aligns with your goal of building innovative AI applications.
 
-I have built end‑to‑end ML pipelines using Docker, FastAPI, and MLflow, ensuring smooth deployment and reproducibility. In my “Trading Algorítmico con Deep Learning” project, I designed an LSTM model in PyTorch that forecasted S&P 500 price movements with 68% directional accuracy, and deployed the model as a FastAPI service. This experience demonstrates my ability to translate complex models into production‑ready applications, a key requirement for the role.
+While this role is open to all backgrounds, I bring practical experience in Python and the deployment of AI models. I have built end-to-end solutions using PyTorch and TensorFlow, and I am proficient in MLOps tools like Docker and FastAPI, which allows me to move beyond theory into real-world implementation.
 
-Additionally, my work on a multi‑agent system (MCP) involved orchestrating specialized agents that scrape financial data, perform GARCH volatility analysis, and generate automated reports with GPT‑4. This showcases my capability to integrate diverse AI components—exactly the skill set you seek for developing practical AI applications through real‑world projects.
+A key example of my technical curiosity is my "Multi-Agent System with MCP." I designed an architecture where specialized agents handle financial scraping, econometric analysis via GARCH models, and report generation using LLMs. This project demonstrates my ability to integrate complex APIs and manage autonomous workflows—skills that will allow me to excel during your training and contribute meaningfully to your projects.
 
-I am eager to join Haystack because of its commitment to transforming professionals into AI experts and the opportunity to earn industry‑recognised certifications such as Azure AI and CompTIA Data+. I am ready to dedicate the 130‑hour training program and contribute to your educational initiatives.
+I am particularly drawn to Haystack’s structured pathway and the opportunity to achieve certifications like Azure AI Fundamentals. I am eager to dedicate the required 130 hours of training to refine my skills and launch a high-impact career in the AI sector.
 
-Could we schedule a brief call to discuss how my technical background and project experience can add value to Haystack’s mission? I look forward to your response.
+I have attached my CV and portfolio for your review. I look forward to the possibility of discussing how my technical background and ambition can contribute to your team.
 
 Best regards,

@@ -5674,5 +5674,125 @@
     "applied_at": "2026-06-14T23:14:07.786437",
     "email_sent_to": "waymo-candidatesupport@google.com",
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A16ZGAMES_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=c1e8aca1b6260e85": {
+    "title": "Engineering Manager, Machine Learning (Caper)",
+    "company": "Instacart",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T08:53:58.971948",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Instacart_EngineeringManagerMa.md"
+  },
+  "https://www.indeed.com/viewjob?jk=80e5ed0f9eda0378": {
+    "title": "Data Scientist (Active Secret Clearance)",
+    "company": "Striveworks",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T08:54:14.849572",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Striveworks_DataScientistActiveS.md"
+  },
+  "https://www.indeed.com/viewjob?jk=b2a89c63a51a47bd": {
+    "title": "Machine Learning Engineer (Active Secret Clearance)",
+    "company": "Striveworks",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T08:54:25.621857",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Striveworks_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-vmo-4418925908/": {
+    "title": "Data Scientist",
+    "company": "VMO",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:54:35.901673",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VMO_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-haystack-4425753106/": {
+    "title": "Data Scientist",
+    "company": "Haystack",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:54:45.462632",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-vivid-resourcing-4428818058/": {
+    "title": "Data Scientist",
+    "company": "Vivid Resourcing",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:54:59.614534",
+    "email_sent_to": "Daniel.zelnis@vividresourcing.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VividResourcing_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-data-scientist-malaysia-at-thakral-one-4417865884/": {
+    "title": "AI Data Scientist (Malaysia)",
+    "company": "Thakral One",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:55:09.288591",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ThakralOne_AIDataScientistMalay.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-trans-eu-group-4425766784/": {
+    "title": "Data Scientist",
+    "company": "Trans.eu Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:55:27.215230",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TranseuGroup_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-aviv-group-4425787001/": {
+    "title": "Data Scientist",
+    "company": "AVIV Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:55:41.888999",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AVIVGroup_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-%24175k-%E2%80%93-%24250k-%2B-equity-at-ctgt-inc-at-jack-jill-4427467582/": {
+    "title": "Machine Learning Engineer ($175K – $250K + Equity) at CTGT, Inc.",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:55:51.376729",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ml-engineer-at-selby-jennings-4428697810/": {
+    "title": "ML Engineer",
+    "company": "Selby Jennings",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:56:04.080480",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SelbyJennings_MLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-hala-4428806639/": {
+    "title": "AI Engineer",
+    "company": "HALA",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:56:16.464320",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HALA_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4425751972/": {
+    "title": "Jr. Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:56:25.720142",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JrDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4425757858/": {
+    "title": "Junior Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:57:08.306791",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425746192/": {
+    "title": "Junior AI Engineer",
+    "company": "Haystack",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T08:57:20.129943",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md"
   }
 }
