@@ -2,20 +2,23 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=caaae986590a9b9c
+**URL:** https://www.indeed.com/viewjob?jk=470aba0348b38f68
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to apply for the Data Engineer position. With over six years of experience designing and maintaining scalable data pipelines, I have repeatedly turned heterogeneous data into reliable inputs for AI/ML workloads—exactly the capability you seek.
+I am writing to apply for the Data Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-My recent work on a **Multi‑Agent System with MCP** involved building a Docker‑based pipeline that ingested financial APIs, performed econometric preprocessing (GARCH volatility modeling), and generated LLM‑driven reports. The solution combined FastAPI services, Airflow‑style orchestration, and strict data‑governance (access control, lineage logging, and automated documentation), demonstrating my ability to deliver validated, secure datasets for model development.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-In addition, I have implemented end‑to‑end MLOps workflows using MLflow, Docker, and CI/CD pipelines, ensuring reproducible training and inference environments. My expertise in SQL optimization and Power BI dashboard creation has enabled real‑time monitoring of pipeline health and key performance metrics—directly aligning with your requirement for dashboard and metric development.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-Booz Allen’s mission‑driven focus, especially on leveraging data for national security and public‑good initiatives, resonates with my own drive to apply analytical rigor to critical challenges. I am eager to contribute my blend of econometric insight, engineering discipline, and AI integration to your teams.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Could we schedule a brief conversation to discuss how my background can support Booz Allen’s data engineering objectives? I look forward to the opportunity.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
-Thank you for your consideration.
+Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+REDACTED_EMAIL@example.com | GitHub: erick007bon

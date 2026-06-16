@@ -2,18 +2,18 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=e15446a2b89991a9
+**URL:** https://www.indeed.com/viewjob?jk=34c15521bea4de5d
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to apply for the Cybersecurity Data Scientist position. My background in econometrics and AI, combined with hands‑on experience deploying production‑grade models, aligns closely with your need for a technical contributor who can translate threat intelligence into actionable detection systems.
+I am writing to apply for the Cybersecurity Data Scientist position. My background in econometrics and AI equips me to translate analyst needs into production‑grade models, a core requirement of the role. I have extensive experience with MLOps tools—Docker, FastAPI, and MLflow—to build secure, scalable pipelines that ingest and process large telemetry streams, directly matching the need for cloud‑native security analytics and SOC automation.
 
-In my recent “Sistema Multi‑Agent con MCP” project, I designed a distributed architecture that ingests security telemetry, applies GARCH‑based volatility models, and generates LLM‑powered incident reports via FastAPI. This experience directly supports your requirement for building reproducible pipelines and deploying models across cloud and endpoint domains. Additionally, my MLOps workflow—Docker, FastAPI, MLflow, and CI/CD with GitHub Actions—ensures secure, audit‑ready model delivery, a critical component for SIEM and SOAR integrations.
+In my project “Sistema Multi‑Agent con MCP,” I designed a distributed architecture that pulls financial and threat data via APIs, applies GARCH‑based volatility models, and generates real‑time alerts through GPT‑4 powered report generation. This end‑to‑end solution demonstrates my ability to develop feature sets, train explainable models, and deploy them in a secure, containerized environment—skills that align with Booz Allen’s focus on threat‑informed model development and responsible AI practices.
 
-I am particularly drawn to Booz Allen Hamilton’s focus on responsible AI and threat‑informed model development. Your mission to improve prevention, detection, and response resonates with my commitment to building data‑driven security solutions that deliver measurable business impact.
+I am drawn to Booz Allen Hamilton because of its reputation for pioneering AI solutions in cybersecurity and its commitment to transforming complex security data into actionable insights. I am eager to contribute to your Cyber Operations teams, leveraging my expertise to enhance detection engineering, alert triage, and threat hunting workflows.
 
-I would welcome the opportunity to discuss how my skill set can support your Cyber Operations teams. Please let me know a convenient time for a brief conversation.
+Please let me know a convenient time for a brief conversation. I look forward to discussing how my technical skills and project experience can add value to your team.
 
-Thank you for considering my application. I look forward to contributing to Booz Allen Hamilton’s cybersecurity excellence.
+Thank you for considering my application.
