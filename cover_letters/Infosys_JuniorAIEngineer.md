@@ -1,14 +1,14 @@
-# Cover Letter - Python Developer @ Infosys
+# Cover Letter - Junior AI Engineer @ Infosys
 
 **Fuente:** LinkedIn | **Email contacto:** gunjan_sha@infosys.com
 
-**URL:** https://www.linkedin.com/jobs/view/python-developer-at-infosys-4408664333/
+**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-infosys-4418200862/
 
 ---
 
 Dear Infosys team,
 
-I am writing to apply for the Python Developer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Junior AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 

@@ -6130,5 +6130,165 @@
     "applied_at": "2026-06-16T08:43:54.952322",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RenesasElectronics_AIMLEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=d10b19a06a7cde6d": {
+    "title": "Data Scientist",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-16T17:04:54.479663",
+    "email_sent_to": "csmith@nan.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=7097cdd972e1bc5a": {
+    "title": "AI Data Engineer",
+    "company": "U.S. Office of Personnel Management",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-16T17:05:06.197300",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/USOfficeofPersonnelM_AIDataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=58202b65be5a1bb5": {
+    "title": "ML Engineer",
+    "company": "Ideas2IT",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-16T17:05:18.131464",
+    "email_sent_to": "rajkumar@ideas2it.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Ideas2IT_MLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-h-f-at-daveo-4429511467/": {
+    "title": "Machine Learning Engineer (H/F)",
+    "company": "Daveo",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:05:30.492365",
+    "email_sent_to": "wantonness@daveo.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Daveo_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-tata-cliq-fashion-4429256356/": {
+    "title": "Data Scientist",
+    "company": "Tata CLiQ Fashion",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:05:44.089134",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TataCLiQFashion_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-data-scientist-i-at-nielsen-4426847032/": {
+    "title": "AI / ML Data Scientist I",
+    "company": "Nielsen",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:05:54.083639",
+    "email_sent_to": "tom.kucinski@nielsen.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nielsen_AIMLDataScientistI.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-yo-hr-consultancy-4418338607/": {
+    "title": "Data Scientist - Remote",
+    "company": "YO HR Consultancy",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:06:12.183779",
+    "email_sent_to": "harshala@yohrconsultancy.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/YOHRConsultancy_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-fractal-4415939970/": {
+    "title": "Data Scientist",
+    "company": "Fractal",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:06:24.582272",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Fractal_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-insite-at-fai-4426818475/": {
+    "title": "Junior Data Scientist - Insite",
+    "company": "FAI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:06:43.641703",
+    "email_sent_to": "yves@fai.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FAI_JuniorDataScientistI.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-interex-group-4426474776/": {
+    "title": "Data Scientist",
+    "company": "InterEx Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:06:54.274963",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InterExGroup_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-gmo-z-com-runsystem-jsc-4426483962/": {
+    "title": "AI ENGINEER",
+    "company": "GMO-Z.com RUNSYSTEM JSC.",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:07:12.317496",
+    "email_sent_to": "thuyntp@runsystem.net",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GMOZcomRUNSYSTEMJSC_AIENGINEER.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-renesas-electronics-4429224136/": {
+    "title": "AI/ML Engineer",
+    "company": "Renesas Electronics",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:07:30.032814",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RenesasElectronics_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-showpad-4429551775/": {
+    "title": "AI Engineer",
+    "company": "Showpad",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:07:49.424462",
+    "email_sent_to": "claire.carley@showpad.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Showpad_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-jr-mid-at-quaveo-4429231454/": {
+    "title": "AI Engineer (Jr,Mid)",
+    "company": "QUAVEO",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:08:06.882153",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QUAVEO_AIEngineerJrMid.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-ai-engineer-travel-ai-agent-systems-at-rovi-holdings-4429244559/": {
+    "title": "Applied AI Engineer (Travel AI & Agent Systems)",
+    "company": "ROVI HOLDINGS",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:08:22.606743",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ROVIHOLDINGS_AppliedAIEngineerTra.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-productive-4429562023/": {
+    "title": "AI Engineer",
+    "company": "Productive",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:08:43.216657",
+    "email_sent_to": "careers@productive.io",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Productive_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/medior-ai-engineer-at-fyrm-ai-4429546443/": {
+    "title": "medior AI Engineer",
+    "company": "Fyrm.ai",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:09:01.868631",
+    "email_sent_to": "jobs@fyrm.ai",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Fyrmai_mediorAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-infosys-4418200862/": {
+    "title": "Junior AI Engineer",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:09:06.534452",
+    "email_sent_to": "gunjan_sha@infosys.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_JuniorAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4426487507/": {
+    "title": "Junior AI Engineer",
+    "company": "Haystack",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:09:10.975287",
+    "email_sent_to": "smaha@haystack.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/python-developer-at-infosys-4408664333/": {
+    "title": "Python Developer",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T17:09:15.868672",
+    "email_sent_to": "gunjan_sha@infosys.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_PythonDeveloper.md"
   }
 }

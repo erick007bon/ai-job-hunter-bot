@@ -1,19 +1,21 @@
 # Cover Letter - Data Scientist - Remote @ YO HR Consultancy
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** harshala@yohrconsultancy.com
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-remote-at-yo-hr-consultancy-4418351519/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-remote-at-yo-hr-consultancy-4418338607/
 
 ---
 
 Dear YO HR Consultancy team,
 
-I am an economist‑turned data scientist with solid experience in end‑to‑end AI solutions and a strong background in statistical modeling, data engineering, and business intelligence. My recent work on a **Multi‑Agent System with MCP** combined automated data ingestion from financial APIs, GARCH‑based volatility modeling, and LLM‑driven report generation. This project required collecting, cleaning, and preprocessing large, heterogeneous data sets—directly matching your need for high‑quality data preparation.
+I am writing to express my interest in the Data Scientist position. With a dual background in Economics and Data Science, I offer a unique combination of statistical rigor and technical expertise in AI and machine learning.
 
-I have built and validated predictive models using Python (scikit‑learn, PyTorch) and deployed them via FastAPI and Docker, ensuring reproducibility with MLflow. These MLOps practices align with your preference for candidates experienced in production‑ready machine learning pipelines. Additionally, I created an executive **Power BI dashboard** for sales KPI monitoring, employing advanced DAX calculations and automated data refreshes, demonstrating my ability to translate complex analyses into clear visual stories for both technical and non‑technical audiences.
+My profile aligns directly with your requirements for data preprocessing and predictive modeling. I have extensive experience cleaning complex datasets and implementing statistical models using Python and SQL to extract actionable insights. Specifically, my expertise in econometrics (time series and causal inference) allows me to ensure the high-quality, reasoned input necessary for training next-generation AI systems.
 
-I am motivated to apply my expertise to help train next‑generation AI systems at YO HR Consultancy, where rigorous data quality and actionable insights are core to the mission. I would welcome the opportunity to discuss how my skill set can contribute to your projects and support your remote, cross‑functional team.
+A key example of my technical capability is my "Multi-Agent System with MCP," where I architected a pipeline of specialized agents for financial analysis. This project integrated automated data scraping, GARCH volatility modeling, and LLM-driven reporting, demonstrating my ability to manage the entire data lifecycle from raw collection to final delivery. Additionally, my experience deploying models via FastAPI and Docker ensures that my analytical workflows are scalable and production-ready.
 
-Could we schedule a brief call next week to explore this further?
+I am motivated by the opportunity to apply my domain knowledge to shape how AI models reason and perform. I am confident that my meticulous attention to detail and ability to communicate complex findings to stakeholders will add immediate value to your remote team.
 
-Thank you for your consideration.
+I have attached my CV for your review and would welcome the opportunity to discuss how my skills in statistical modeling and AI can support your goals.
+
+Best regards,
