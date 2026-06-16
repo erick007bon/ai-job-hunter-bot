@@ -6074,5 +6074,61 @@
     "applied_at": "2026-06-15T23:46:59.232336",
     "email_sent_to": "carla@jackjill.com",
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://www.indeed.com/viewjob?jk=703d7ea0c7a67d1d": {
+    "title": "Data Scientist I",
+    "company": "Banner Health",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-16T08:42:44.331572",
+    "email_sent_to": "hap@bannerhealth.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BannerHealth_DataScientistI.md"
+  },
+  "https://www.indeed.com/viewjob?jk=ef61c0463d2a707d": {
+    "title": "Data Engineer-Secret Clearance Required",
+    "company": "World Wide Technology",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-16T08:42:59.193340",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WorldWideTechnology_DataEngineerSecretCl.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-e-solutions-4425985939/": {
+    "title": "Machine Learning Engineer",
+    "company": "E-Solutions",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T08:43:11.510422",
+    "email_sent_to": "scott.chandler@esolutions.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ESolutions_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-remote-at-crossing-hurdles-4427492939/": {
+    "title": "Data Scientist | Remote",
+    "company": "Crossing Hurdles",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T08:43:22.847574",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CrossingHurdles_DataScientistRemote.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-nowfluence-%F0%9F%8C%90-4427784311/": {
+    "title": "Machine Learning Engineer",
+    "company": "nowfluence 🌐",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T08:43:33.297087",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nowfluence_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-fully-remote-upto-%2485-hr-at-mercor-4428014795/": {
+    "title": "AI/ML Engineer - Fully Remote | Upto $85/hr",
+    "company": "Mercor",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T08:43:45.764309",
+    "email_sent_to": "support@mercor.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mercor_AIMLEngineerFullyRem.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-renesas-electronics-4429195884/": {
+    "title": "AI/ML Engineer",
+    "company": "Renesas Electronics",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T08:43:54.952322",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RenesasElectronics_AIMLEngineer.md"
   }
 }
