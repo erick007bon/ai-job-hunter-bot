@@ -1,14 +1,14 @@
-# Cover Letter - AI/ML Engineer ($250k-$400k + Equity) at Known @ Jack & Jill
+# Cover Letter - Junior AI/ML Engineer @ Node.Digital LLC
 
-**Fuente:** LinkedIn | **Email contacto:** carla@jackjill.com
+**Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4427742571/
+**URL:** https://www.linkedin.com/jobs/view/junior-ai-ml-engineer-at-node-digital-llc-4429133056/
 
 ---
 
-Dear Jack & Jill team,
+Dear Node.Digital LLC team,
 
-I am writing to apply for the AI/ML Engineer ($250k-$400k + Equity) at Known position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Junior AI/ML Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 

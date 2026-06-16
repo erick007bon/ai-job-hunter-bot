@@ -1,14 +1,14 @@
-# Cover Letter - AI / Machine Learning Engineer Manager (Hybrid-TS Clearance required) @ Lockheed Martin
+# Cover Letter - AI Machine Learning Engineer @ Lockheed Martin
 
-**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** pjohnson@lockheedmartin.com
 
-**URL:** https://www.indeed.com/viewjob?jk=5ca09c19bec1c040
+**URL:** https://www.indeed.com/viewjob?jk=407650b6fa832e4b
 
 ---
 
 Dear Lockheed Martin team,
 
-I am writing to apply for the AI / Machine Learning Engineer Manager (Hybrid-TS Clearance required) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the AI Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
