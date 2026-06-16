@@ -2,20 +2,23 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=3b50ffc3e6a7eb61
+**URL:** https://www.indeed.com/viewjob?jk=d2224b7b4e65be74
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to express my interest in the Mid-level Data Scientist position supporting the Space Force program. With a dual background in Economics and Data Science, I specialize in building end-to-end AI solutions that translate complex data into operational decision advantage.
+I am writing to apply for the Data Scientist, Mid position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-My technical profile aligns closely with your requirements for multi-INT fusion and anomaly detection. I have extensive experience implementing predictive models using PyTorch, TensorFlow, and scikit-learn, coupled with a strong foundation in MLOps (Docker and FastAPI) to ensure models are deployable in cloud-native environments.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-A relevant example of my capability is my development of a Multi-Agent System using the Model Context Protocol (MCP). I designed a distributed architecture where specialized agents handle data scraping, econometric volatility analysis (GARCH), and automated reporting. This experience in coordinating autonomous agents for real-time analysis directly translates to the mission-critical, near-real-time data processing required for space-based GEOINT environments.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am drawn to Booz Allen Hamilton’s commitment to modernization and the challenge of applying advanced analytics to secure space-system operations. I am confident that my ability to bridge the gap between raw data ingestion and operational deployment will add immediate value to your multidisciplinary team.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-I have attached my resume for your review and would welcome the opportunity to discuss how my skills in AI and system automation can support your mission objectives.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+adanrivas6655@gmail.com | GitHub: erick007bon
