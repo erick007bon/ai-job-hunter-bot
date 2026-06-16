@@ -2,23 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-renesas-electronics-4426185733/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-renesas-electronics-4429195884/
 
 ---
 
 Dear Renesas Electronics team,
 
-I am writing to apply for the AI/ML Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the AI/ML Engineer position. With a dual background in Economics and Data Science, I specialize in building end-to-end AI solutions that bridge the gap between complex data analysis and production-ready deployment.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My technical profile aligns closely with your requirements. I have extensive experience developing models using PyTorch, TensorFlow, and scikit-learn, and I am proficient in deploying them via FastAPI and Docker. I am particularly interested in your focus on RAG architectures and LLM deployment; I have already implemented similar logic through my "Multi-Agent System with MCP," where I integrated specialized agents for financial analysis using LLM APIs and automated data scraping to deliver actionable insights.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+Furthermore, my experience with MLflow for experiment tracking and GitHub Actions for CI/CD ensures that I can contribute immediately to your team's engineering standards within the Databricks ecosystem. My ability to handle the full AI lifecycle—from data augmentation to production—allows me to translate business requirements into scalable technical solutions.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am eager to bring my expertise in generative AI and predictive modeling to Renesas Electronics to help drive business impact through enterprise-grade AI.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I have attached my resume for your review and would welcome the opportunity to discuss how my skills in LLM orchestration and MLOps can support your current initiatives.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-REDACTED_EMAIL@example.com | GitHub: erick007bon
