@@ -2,24 +2,18 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=fbbbbd4eebf03260
+**URL:** https://www.indeed.com/viewjob?jk=1c555eb35dca60f7
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to apply for the Data Scientist position. With over three years of experience in data exploration, statistical programming, and machine‑learning model delivery, I have a proven record of turning complex, multi‑source data into actionable insights.
+With over two years of experience in data exploration, cleaning, and predictive modeling, I have built end‑to‑end solutions that transform complex datasets into actionable insights. My work in developing a deep‑learning trading system—using LSTM models in PyTorch for S&P 500 price forecasting—demonstrates my ability to create predictive models from structured financial data, directly aligning with your requirement for predictive data modeling and quantitative analysis.
 
-My work on a **Multi‑Agent System with MCP** directly aligns with your need for handling structured and unstructured data. I built a pipeline where one agent scraped financial APIs, another applied GARCH econometric models for volatility, and a third generated narrative reports using GPT‑4 via FastAPI. The solution was containerized with Docker and orchestrated through Airflow, delivering real‑time risk dashboards to stakeholders.
+I also led the design of a multi‑agent architecture based on the Model Context Protocol (MCP), integrating scraping, econometric analysis, and LLM‑driven report generation. This project showcases my proficiency in handling both structured and unstructured data, and my experience with Python, FastAPI, Docker, and MLflow—skills that match your need for expertise in Python, data pipelines, and MLOps.
 
-Key competencies that match your requirements include:
+Booz Allen Hamilton’s mission to use data science for public good resonates with my own commitment to applying advanced analytics to solve real‑world challenges. I am eager to collaborate with your clients across sectors, turning diverse data into clear, actionable intelligence.
 
-* **Python & statistical analysis** – daily use of pandas, scikit‑learn, and PyTorch for predictive modeling and time‑series forecasting.  
-* **Machine‑learning deployment** – productionized a credit‑risk classifier with FastAPI, Docker, and MLflow, ensuring reproducibility and monitoring.  
-* **Data visualization** – created executive Power BI dashboards integrating SQL Server data, enabling rapid decision‑making for sales and risk teams.
+I would welcome the opportunity to discuss how my background in econometrics, AI, and MLOps can contribute to your team. Please let me know a convenient time for a brief conversation.
 
-I am attracted to Booz Allen’s mission of applying data science to global challenges, from fraud detection to national intelligence. I am eager to contribute my expertise in AI‑driven analytics and MLOps to deliver measurable impact for your clients.
-
-Could we schedule a brief conversation to discuss how my background can support your projects? I look forward to the opportunity.
-
-Thank you for your consideration.
+Thank you for considering my application.
