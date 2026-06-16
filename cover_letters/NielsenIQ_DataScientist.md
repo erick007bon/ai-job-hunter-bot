@@ -1,22 +1,20 @@
 # Cover Letter - Data Scientist @ NielsenIQ
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** sara.mulryan@nielseniq.com
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-nielseniq-4427482921/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-nielseniq-4426810049/
 
 ---
 
 Dear NielsenIQ team,
 
-I am writing to apply for the Data Scientist position. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine econometric analysis, machine learning, and production‑grade deployment – a combination that aligns directly with NielsenIQ’s focus on data‑driven consumer insights.
+I bring a strong background in financial data analysis and machine learning, with hands‑on experience developing end‑to‑end AI solutions that align with NielsenIQ’s data‑driven insights mission. My expertise in econometrics and predictive modeling—particularly ARIMA/GARCH for volatility forecasting—directly supports the analytical rigor required for consumer behavior studies. I have deployed these models using Docker, FastAPI, and MLflow, ensuring reproducible, scalable pipelines that could power your real‑time analytics platform.
 
-My recent “Trading Algorítmico con Deep Learning” project demonstrates the core competencies you seek: I designed a full pipeline (data ingestion, feature engineering, LSTM forecasting in PyTorch, back‑testing with Backtrader, and model tracking with MLflow). The system achieved 68 % directional accuracy on S&P 500 data and was containerized with Docker and served through a FastAPI endpoint, illustrating my ability to move models from research to scalable production.
+A recent project, “Trading Algorítmico con Deep Learning,” demonstrates my ability to blend deep learning with financial time series. The LSTM model achieved 68 % directional accuracy on the S&P 500, showcasing my skill in feature engineering, backtesting, and model validation. This experience translates well to NielsenIQ’s need for sophisticated predictive analytics on large consumer datasets.
 
-In addition, I have extensive experience with time‑series econometrics (ARIMA, GARCH) and risk analytics (VaR, backtesting), which I applied to financial data streams in a multi‑agent architecture using the Model Context Protocol (MCP). This work reinforced my skill in integrating domain‑specific statistical models with modern AI tools—a key requirement for delivering actionable market intelligence at NielsenIQ.
+I am excited by NielsenIQ’s commitment to AI ethics and its use of advanced analytics to unlock consumer insights globally. Joining your team would allow me to contribute to innovative, fair, and impactful data solutions while advancing my career in a leading market research environment.
 
-I am particularly attracted to NielsenIQ’s commitment to turning complex consumer data into strategic recommendations. I am eager to contribute my expertise in predictive modeling, MLOps, and BI (Power BI dashboards with DAX) to help your clients make faster, more informed decisions.
+Could we schedule a brief call next week to discuss how my experience in econometric modeling, MLOps, and BI can support NielsenIQ’s data science initiatives? I look forward to the opportunity.
 
-Could we schedule a brief call to discuss how my background can support NielsenIQ’s data science initiatives? I look forward to the opportunity.
-
-Kind regards,
-Erick Flores Zambrano
+Best regards,  
+Flores Zambrano Erick
