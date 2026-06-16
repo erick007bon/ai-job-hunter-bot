@@ -2,23 +2,22 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ml-engineer-at-docker-inc-4428859476/
+**URL:** https://www.linkedin.com/jobs/view/ml-engineer-at-docker-inc-4426401774/
 
 ---
 
 Dear Docker, Inc team,
 
-I am writing to apply for the ML Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the ML Engineer position on the Intelligence org. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine model development, containerized deployment, and robust monitoring—capabilities directly aligned with Docker’s vision of trusted autonomy.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My recent **Multi‑Agent System with MCP** project showcases this fit: I designed a set of specialized agents (data ingestion, econometric analysis using GARCH models, and report generation via GPT‑4) orchestrated through FastAPI and Docker containers, with experiment tracking in MLflow. This architecture delivers real‑time risk assessments while ensuring reproducibility and auditability—key aspects of the governance and security features Docker aims to provide.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+In addition, I have extensive experience in **MLOps** (Docker, FastAPI, CI/CD with GitHub Actions) and **machine‑learning engineering** (PyTorch, scikit‑learn, model evaluation pipelines). My work on an **algorithmic trading system** further demonstrates my ability to design, train, and backtest predictive models, then ship them as scalable services.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am eager to contribute to Docker’s Intelligence team by shaping the data and infrastructure foundations that will power next‑generation autonomous workflows. I would welcome the opportunity to discuss how my technical expertise and hands‑on experience can accelerate Docker’s AI‑driven product roadmap.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Thank you for considering my application; I look forward to your response.
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-REDACTED_EMAIL@example.com | GitHub: erick007bon
+Sincerely,
+
+Erick Flores Zambrano

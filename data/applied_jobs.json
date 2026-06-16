@@ -6034,5 +6034,45 @@
     "applied_at": "2026-06-15T20:24:05.273589",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/RevelationPharma_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=407650b6fa832e4b": {
+    "title": "AI Machine Learning Engineer",
+    "company": "Lockheed Martin",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T23:46:00.986705",
+    "email_sent_to": "pjohnson@lockheedmartin.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LockheedMartin_AIMachineLearningEng.md"
+  },
+  "https://www.indeed.com/viewjob?jk=eec6411fb70c7757": {
+    "title": "Forward Deployed AI Engineer, West",
+    "company": "Arize AI",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-15T23:46:19.040430",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ArizeAI_ForwardDeployedAIEng.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-ml-engineer-at-node-digital-llc-4429133056/": {
+    "title": "Junior AI/ML Engineer",
+    "company": "Node.Digital LLC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T23:46:29.867069",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NodeDigitalLLC_JuniorAIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ml-engineer-at-docker-inc-4426401774/": {
+    "title": "ML Engineer",
+    "company": "Docker, Inc",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T23:46:47.768051",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DockerInc_MLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4427742571/": {
+    "title": "AI/ML Engineer ($250k-$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-15T23:46:59.232336",
+    "email_sent_to": "carla@jackjill.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
   }
 }
