@@ -1,20 +1,24 @@
 # Cover Letter - Python Developer @ Infosys
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** gunjan_sha@infosys.com
 
-**URL:** https://www.linkedin.com/jobs/view/python-developer-at-infosys-4397658289/
+**URL:** https://www.linkedin.com/jobs/view/python-developer-at-infosys-4408664333/
 
 ---
 
 Dear Infosys team,
 
-I am writing to apply for the Python Developer position. My academic background in economics combined with hands‑on experience in Python, FastAPI, and MLflow aligns directly with Infosys’ need for “developing innovative solutions” and “configuring products as per design.” In my recent project, a multi‑agent system utilizing the Model Context Protocol (MCP), I built an end‑to‑end pipeline that scrapes financial data, applies GARCH econometric models, and generates automated reports via GPT‑4. This demonstrates my ability to “plan activities of configuration” and “conduct solution/product demonstrations” as outlined in the role.
+I am writing to apply for the Python Developer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-I also led the development of a trading algorithm using LSTM networks in PyTorch, achieving 68 % directional accuracy. This showcases my capacity to “create value‑adding models” that drive growth and profitability, a key requirement for Infosys’ consulting engagements. My proficiency with Docker and FastAPI ensures seamless deployment, while my experience with Power BI dashboards reflects my skill in translating complex data into actionable insights for clients.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-Infosys’ reputation for guiding clients through digital transformation resonates with my professional goals. I am eager to contribute to your consulting team by delivering high‑quality, client‑centric solutions that enhance operational efficiency and financial performance.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I would welcome the opportunity to discuss how my technical expertise and project experience can support Infosys’ objectives. Thank you for considering my application; I look forward to your response.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Sincerely,  
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+
+Best regards,
 FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+adanrivas6655@gmail.com | GitHub: erick007bon

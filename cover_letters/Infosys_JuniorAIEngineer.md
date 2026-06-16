@@ -1,12 +1,12 @@
-# Cover Letter - Junior AI Engineer @ Haystack
+# Cover Letter - Junior AI Engineer @ Infosys
 
-**Fuente:** LinkedIn | **Email contacto:** smaha@haystack.com
+**Fuente:** LinkedIn | **Email contacto:** gunjan_sha@infosys.com
 
-**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4426487507/
+**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-infosys-4418200862/
 
 ---
 
-Dear Haystack team,
+Dear Infosys team,
 
 I am writing to apply for the Junior AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
