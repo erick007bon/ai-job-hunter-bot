@@ -1,19 +1,24 @@
 # Cover Letter - AI/ML Engineer ($250k-$400k + Equity) at Known @ Jack & Jill
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** carla@jackjill.com
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4427706635/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4427742571/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the AI/ML Engineer role at Known. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine advanced recommendation logic, large‑scale deployment, and real‑time data pipelines—exactly the mix required to own and scale your matchmaking engine.
+I am writing to apply for the AI/ML Engineer ($250k-$400k + Equity) at Known position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-My recent **Multi‑Agent system with MCP** integrated financial data scraping, GARCH‑based volatility modeling, and LLM‑generated user reports. I designed the agents in Python, containerized them with Docker, and exposed the inference services through FastAPI, achieving seamless horizontal scaling and sub‑second response times under simulated 100k concurrent users. This experience directly maps to designing production‑scale recommendation and ranking algorithms for a high‑traffic consumer product.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-In addition, I have extensive practice with **MLOps tools** (MLflow, Docker, CI/CD via GitHub Actions) and **deep learning frameworks** (PyTorch, TensorFlow) that enable rapid experimentation and reliable model serving. My work on an **algorithmic trading LSTM** model demonstrated a 68 % directional accuracy, reinforcing my ability to translate complex predictive models into robust, user‑facing features.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am excited by Known’s voice‑first approach and the opportunity to shape a core product that redefines how people connect. I would welcome a conversation to discuss how my technical expertise and product‑focused mindset can accelerate the matchmaking platform’s growth.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-Thank you for considering my application. I look forward to the possibility of speaking with you soon.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+
+Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+tu_email@gmail.com | GitHub: erick007bon
