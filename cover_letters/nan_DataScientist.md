@@ -1,19 +1,21 @@
 # Cover Letter - Data Scientist @ nan
 
-**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** csmith@nan.com
 
-**URL:** https://www.indeed.com/viewjob?jk=0fd649117f9bdc35
+**URL:** https://www.indeed.com/viewjob?jk=d10b19a06a7cde6d
 
 ---
 
-Dear nan team,
+Dear HUD team,
 
-I am writing to express my interest in the Data Scientist position. With a dual background in Economics and Data Science, I offer a unique combination of statistical rigor and advanced AI implementation skills that align with your goals of training next-generation AI systems.
+I am writing to express my interest in the Data Scientist position within the Office of the Chief Financial Officer (OCFO). With a dual background in Economics and Data Science, I offer a unique combination of financial expertise and advanced technical skills to support HUD’s mission of sound financial management and stewardship of public resources.
 
-I bring expert proficiency in Python and a strong command of machine learning algorithms and statistical analysis. My experience spans the entire ML lifecycle, from handling large-scale datasets to deploying models via FastAPI and Docker. Specifically, my expertise in deep learning and NLP allows me to contribute effectively to the reasoning and performance capabilities of AI models.
+My profile aligns with your requirements for the entire data life cycle. I have extensive experience in data collection and ingestion using Python and SQL, and I specialize in turning complex datasets into decision support tools. Specifically, my expertise in econometrics (time series and causal inference) allows me to provide the rigorous analytical depth necessary for financial reporting and analysis.
 
-A key example of my technical capability is my **Multi-Agent System with MCP**, where I architected specialized agents for automated financial analysis. This project integrated data scraping, econometric volatility modeling (GARCH), and LLM-driven report generation, demonstrating my ability to build complex, data-driven solutions that translate raw data into actionable insights.
+A relevant example of my work is the Executive Power BI Dashboard I developed for 360° sales analysis. This project involved creating a full pipeline—from SQL Server integration and DAX modeling to automated reporting—which directly improved strategic decision-making. This experience mirrors the data modeling and visualization needs of the Financial Data Reporting and Analysis Division.
 
-I am particularly drawn to this role because of the opportunity to shape how AI models learn and reason through high-quality input. My background in causal inference and econometrics ensures that the data I provide and the models I develop are grounded in mathematical precision and rigorous validation.
+I am motivated to apply my skills in predictive modeling and MLOps to help the OCFO optimize its financial systems and enhance the transparency of housing and urban development resources.
 
-I am available for an interview to discuss how my technical background can support your AI training initiatives. I look forward to hearing from you.
+I have attached my resume for your review and would welcome the opportunity to discuss how my technical background can contribute to your team's goals.
+
+Best regards,

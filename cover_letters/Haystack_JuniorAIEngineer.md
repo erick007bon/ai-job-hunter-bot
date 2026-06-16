@@ -1,21 +1,24 @@
 # Cover Letter - Junior AI Engineer @ Haystack
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** smaha@haystack.com
 
-**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4425746192/
+**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4426487507/
 
 ---
 
 Dear Haystack team,
 
-I am writing to express my interest in the Junior AI Engineer position. With a dual background in Economics and Data Science, I have developed a strong technical foundation that aligns with your goal of building innovative AI applications.
+I am writing to apply for the Junior AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-While this role is open to all backgrounds, I bring practical experience in Python and the deployment of AI models. I have built end-to-end solutions using PyTorch and TensorFlow, and I am proficient in MLOps tools like Docker and FastAPI, which allows me to move beyond theory into real-world implementation.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-A key example of my technical curiosity is my "Multi-Agent System with MCP." I designed an architecture where specialized agents handle financial scraping, econometric analysis via GARCH models, and report generation using LLMs. This project demonstrates my ability to integrate complex APIs and manage autonomous workflows—skills that will allow me to excel during your training and contribute meaningfully to your projects.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am particularly drawn to Haystack’s structured pathway and the opportunity to achieve certifications like Azure AI Fundamentals. I am eager to dedicate the required 130 hours of training to refine my skills and launch a high-impact career in the AI sector.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-I have attached my CV and portfolio for your review. I look forward to the possibility of discussing how my technical background and ambition can contribute to your team.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+REDACTED_EMAIL@example.com | GitHub: erick007bon
