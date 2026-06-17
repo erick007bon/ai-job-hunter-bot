@@ -2,23 +2,20 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=d2224b7b4e65be74
+**URL:** https://www.indeed.com/viewjob?jk=5afaba88e632cca4
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to apply for the Data Scientist, Mid position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Mid-level Data Scientist position supporting the Space Force program. My dual background in Economics and Data Science, combined with my experience in end-to-end AI deployment, aligns well with your mission-focused modernization goals.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+I offer strong proficiency in Python, PyTorch, and TensorFlow, which allows me to design and validate the complex AI/ML models required for anomaly detection and system-behavior characterization. My expertise in MLOps—specifically using Docker and FastAPI—ensures that I can effectively transition analytic prototypes into the cloud-native environments mentioned in your requirements.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+A relevant example of my technical capability is my Multi-Agent System using the Model Context Protocol (MCP). In this project, I developed a distributed architecture where specialized agents handle data ingestion, econometric analysis, and report generation. This experience in orchestrating autonomous workflows for real-time data processing directly translates to the multi-INT fusion and mission-critical workflows necessary for GEOINT environments.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am motivated by the opportunity to apply my skills in high-stakes, operational environments where precision and scalability are paramount. I am confident that my ability to translate complex objectives into technical requirements will provide immediate value to your multi-disciplinary team.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I have attached my resume for your review and would welcome the opportunity to discuss how my technical background can support the Space Force program.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-REDACTED_EMAIL@example.com | GitHub: erick007bon

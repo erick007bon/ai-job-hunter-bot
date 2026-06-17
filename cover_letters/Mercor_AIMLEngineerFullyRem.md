@@ -2,20 +2,18 @@
 
 **Fuente:** LinkedIn | **Email contacto:** support@mercor.com
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-fully-remote-upto-%2485-hr-at-mercor-4428014795/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-fully-remote-upto-%2485-hr-at-mercor-4429775146/
 
 ---
 
 Dear Mercor team,
 
-I am writing to express my interest in the ML Engineer position. With a dual background in Economics and Data Science, I specialize in building end-to-end AI systems, ranging from production-ready MLOps pipelines to advanced LLM architectures.
+I am a data scientist with over two years of professional experience building production ML systems and deploying LLM applications. My background in creating end‑to‑end AI solutions aligns directly with your requirement for a ML Engineer who can evaluate model‑generated implementations and identify performance issues. In particular, I have led the deployment of FastAPI‑based inference services, containerized with Docker and tracked with MLflow—skills that match Mercor’s focus on model deployment infrastructure and MLOps.
 
-My profile aligns with your requirements for evaluating complex ML tasks and model-generated implementations. I have extensive experience with the full ML lifecycle, including model training, inference systems, and deployment using FastAPI and Docker. Furthermore, I am a regular user of AI coding agents to accelerate development and optimize technical tradeoffs.
+During my recent project “Sistema Multi‑Agente con MCP,” I designed a distributed architecture that integrates financial data scraping, GARCH econometric analysis, and GPT‑4 driven report generation. This system required rigorous testing, API integration, and continuous monitoring, mirroring the realistic ML engineering scenarios described in your posting. My experience with AI coding agents (e.g., Claude Code and Gemini CLI) has honed my ability to analyze and improve model‑generated code, ensuring reliability and scalability.
 
-A key example of my expertise is my Multi-Agent System implemented with the Model Context Protocol (MCP). This project integrates specialized agents for financial scraping and econometric analysis (GARCH models) with LLM-driven reporting, demonstrating my ability to design and evaluate sophisticated AI-powered products. Additionally, my experience developing a cryptographic engine (FCH-ARX) that passed NIST validation proves my capacity for identifying edge cases and ensuring rigorous technical performance.
+I am drawn to Mercor’s mission of connecting elite talent with cutting‑edge AI research labs. The opportunity to work remotely while collaborating on frontier AI coding agents fits my career goals and my proven track record of delivering high‑quality, production‑ready solutions.
 
-I am eager to apply my engineering judgment to help Mercor evaluate and refine frontier AI models. My combined experience in Deep Learning (PyTorch/TensorFlow) and production deployment allows me to identify failure modes and optimize model outputs effectively.
+I look forward to discussing how my technical expertise and hands‑on experience can contribute to Mercor’s success. Please let me know a convenient time for a brief call.
 
-I have already completed my resume upload and am ready to proceed with the AI interview to demonstrate my technical capabilities.
-
-Best regards,
+Thank you for considering my application.
