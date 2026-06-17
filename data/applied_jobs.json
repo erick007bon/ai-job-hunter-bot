@@ -6546,5 +6546,85 @@
     "applied_at": "2026-06-16T23:27:41.688299",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UpgradeInc_JuniorBusinessampDat.md"
+  },
+  "https://www.indeed.com/viewjob?jk=5ca3c1b2e17f5103": {
+    "title": "RESEARCH SCIENTIST",
+    "company": "DEPARTMENT OF FISH AND WILDLIFE",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T08:25:30.194889",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DEPARTMENTOFFISHANDW_RESEARCHSCIENTIST.md"
+  },
+  "https://www.indeed.com/viewjob?jk=85e33a89b55aaaea": {
+    "title": "Data Scientist (Onsite Hybrid)",
+    "company": "NTT DATA",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T08:25:47.439241",
+    "email_sent_to": "tyler.bishop@nttdata.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATA_DataScientistOnsiteH.md"
+  },
+  "https://www.indeed.com/viewjob?jk=817299e3a8c5a4cc": {
+    "title": "Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T08:25:58.780995",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=38676e24f3c41ecb": {
+    "title": "Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T08:26:13.945513",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=5afaba88e632cca4": {
+    "title": "Data Scientist, Mid",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T08:26:26.154957",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4427321105/": {
+    "title": "Junior Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T08:26:34.300373",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4427328113/": {
+    "title": "Jr. Data Scientist",
+    "company": "Why Hiring",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T08:26:53.271650",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JrDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-datamatics-technologies-4427328162/": {
+    "title": "Junior Data Scientist",
+    "company": "Datamatics Technologies",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T08:27:05.923545",
+    "email_sent_to": "yasir.abbasi@datamaticstechnologies.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DatamaticsTechnologi_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-datamatics-technologies-4427319605/": {
+    "title": "Junior Data Scientist",
+    "company": "Datamatics Technologies",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T08:27:18.425868",
+    "email_sent_to": "yasir.abbasi@datamaticstechnologies.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DatamaticsTechnologi_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-fully-remote-upto-%2485-hr-at-mercor-4429775146/": {
+    "title": "AI/ML Engineer - Fully Remote | Upto $85/hr",
+    "company": "Mercor",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T08:27:35.999401",
+    "email_sent_to": "support@mercor.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mercor_AIMLEngineerFullyRem.md"
   }
 }

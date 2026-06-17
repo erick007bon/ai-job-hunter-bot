@@ -2,20 +2,17 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4425747975/
+**URL:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4427321105/
 
 ---
 
-Dear Why Hiring team,
+Estimado equipo de Why Hiring,
 
-I am writing to apply for the Junior Data Scientist position. My background in economics and data science equips me to deliver data‑driven solutions that align with Why Hiring’s mission to simplify job searches through analytics.
+I am writing to express my interest in the Junior Data Scientist position. With a background in combining econometrics and AI, I have developed robust analytical models and contributed to projects such as the FCH-ARX v2 cryptographic engine, where I applied advanced machine learning techniques. My expertise includes predictive modeling using Python libraries like scikit-learn and PyTorch, and I am proficient in deploying models via FastAPI for real-time inference.
 
-During my role at Vamoret S.A., I built an executive Power BI dashboard that connected directly to SQL Server, automated daily refreshes, and visualised KPIs in real time. This experience matches your requirement for creating dashboards and reports and demonstrates my proficiency with SQL and BI tools.  
+I am particularly drawn to this role because of your commitment to innovation and data-driven decision making. My experience in working with Power BI and SQL, along with my strong analytical skills, aligns well with the responsibilities outlined. I am eager to apply my knowledge in the context of your client projects, especially those integrating AI and automation.
 
-In my “Trading Algorítmico con Deep Learning” project, I designed a full pipeline in Python that ingested market data, engineered features, trained an LSTM model, and backtested trading strategies. The end‑to‑end automation of data ingestion, model training, and deployment showcases my ability to develop and maintain automated workflows—exactly what you need for scalable reporting and data processing solutions.
+I would appreciate the opportunity to discuss how my skills can contribute to your team. Thank you for considering my application.
 
-I also have strong Python scripting skills, having created RESTful APIs with FastAPI and Docker for model inference, and I am familiar with cloud analytics concepts through continuous integration pipelines in GitHub Actions.  
-
-I am excited by Why Hiring’s focus on remote, AI‑enabled workflows and would welcome the chance to contribute to your analytics team. Please let me know a convenient time for a brief call to discuss how my skills can support your objectives.
-
-Thank you for considering my application. I look forward to your response.
+Sincerely,  
+Flores Zambrano Errick
