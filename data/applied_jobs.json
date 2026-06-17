@@ -6722,5 +6722,53 @@
     "applied_at": "2026-06-17T15:50:16.144160",
     "email_sent_to": "gunjan_sha@infosys.com",
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_PythonDeveloper.md"
+  },
+  "https://www.indeed.com/viewjob?jk=0b9a80d48aff5c64": {
+    "title": "Data Scientist, AI",
+    "company": "Münchener Rückversicherungs-Gesellschaft",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T19:17:56.913409",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MünchenerRückversich_DataScientistAI.md"
+  },
+  "https://www.indeed.com/viewjob?jk=bbb328f43bfc3a03": {
+    "title": "AI/ML Engineer/AWS Cloud Architect",
+    "company": "j. anukem & associates",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T19:18:13.776141",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/janukemassociates_AIMLEngineerAWSCloud.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-samba-tv-4401794091/": {
+    "title": "Data Scientist",
+    "company": "Samba TV",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T19:18:35.176878",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SambaTV_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-data-scientist-at-datamatics-technologies-4427326144/": {
+    "title": "Junior Data Scientist",
+    "company": "Datamatics Technologies",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T19:18:49.190285",
+    "email_sent_to": "yasir.abbasi@datamaticstechnologies.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DatamaticsTechnologi_JuniorDataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-alexander-technology-group-4427369842/": {
+    "title": "Machine Learning Engineer",
+    "company": "Alexander Technology Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T19:19:02.376130",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AlexanderTechnologyG_MachineLearningEngin.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-data-scientist-awisee-1133504": {
+    "title": "Junior Data Analyst Data Scientist",
+    "company": "AWISEE",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-17T19:19:20.223441",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AWISEE_JuniorDataAnalystDat.md"
   }
 }
