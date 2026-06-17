@@ -1,105 +1,61 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-16 20:06
+# AI JOB HUNTER V3 - Reporte 2026-06-16 23:27
 
-> **Extraidas:** 126 | **Filtradas:** 51 | **Procesadas hoy:** 20
-> **Total historico postulaciones:** 820 | **Emails enviados total:** 70
+> **Extraidas:** 123 | **Filtradas:** 37 | **Procesadas hoy:** 12
+> **Total historico postulaciones:** 832 | **Emails enviados total:** 78
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Applied Data Scientist @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d971fd31f5a08bf4
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AppliedDataScientist.md
+### [EMAIL ENVIADO]: Data Scientist - Cleared @ The DarkStar Group
+- **Email enviado a:** jesse.chichester-constable@thedarkstargroup.com
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=7bae1813112acc1b
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
+### [EMAIL ENVIADO]: AI/ML Engineer @ The DarkStar Group
+- **Email enviado a:** jesse.chichester-constable@thedarkstargroup.com
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=a83f6529fd12a4ad
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
+### [EMAIL ENVIADO]: F35 Production Engineering - Data Scientist Analyst Stf @ Lockheed Martin
+- **Email enviado a:** pjohnson@lockheedmartin.com
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=fd08f858c6a2e3a2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=279fdec8b90aad11
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=3aff5c7b3f7c68c2
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d6edd26682ae9361
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=1c555eb35dca60f7
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d2224b7b4e65be74
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Analyst @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=6452e92b41c5f41e
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataAnalyst.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=cf60d85c03c1cdbf
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=517a0a9bc7b4885a
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=396ad1f48d7bb764
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=64ccb35366aa4530
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AIMLEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=470aba0348b38f68
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Cybersecurity Data Scientist @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=34c15521bea4de5d
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_CybersecurityDataSci.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [EMAIL ENVIADO]: Data Scientist @ Cegeka
-- **Email enviado a:** anik.stalmans@cegeka.com
+### [EMAIL ENVIADO]: Data Scientist (Analytics) @ Grab
+- **Email enviado a:** harshita.shah@grab.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Data Scientist @ Haystack
-- **Email enviado a:** smaha@haystack.com
+### [EMAIL ENVIADO]: Machine Learning Engineer I @ Handshake
+- **Email enviado a:** michael.elmgreen@handshake.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Data Scientist @ NielsenIQ
-- **Email enviado a:** sara.mulryan@nielseniq.com
+### [EMAIL ENVIADO]: Machine Learning Engineer @ Absurd Ventures
+- **Email enviado a:** lazlow.jones@absurdventures.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: ML/ Data Scientist @ VOKI Games
-- **Email enviado a:** yevhen.chuvychin@vokigames.com
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Predictiva
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-predictiva-4428062143/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Predictiva_MachineLearningEngin.md
 - **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Applied ML Engineer @ Taste Labs
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/applied-ml-engineer-at-taste-labs-4428046814/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TasteLabs_AppliedMLEngineer.md
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: AI/ML Engineer ($250k-$400k + Equity) at Known @ Jack & Jill
+- **Email enviado a:** carla@jackjill.com
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: AI/ML Engineer @ C-Serv
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-c-serv-4426813878/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CServ_AIMLEngineer.md
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: ML Engineer @ Sensio
+- **Email enviado a:** natalja.schneider@sensio.com
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Junior Business &amp; Data Analyst @ Upgrade, Inc.
+- **APLICA AQUI:** https://remoteOK.com/remote-jobs/remote-junior-business-amp-data-analyst-upgrade-inc-1133488
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UpgradeInc_JuniorBusinessampDat.md
+- **Fuente:** RemoteOK
 
 
 ---
