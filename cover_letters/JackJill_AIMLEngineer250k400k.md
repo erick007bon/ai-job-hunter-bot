@@ -2,25 +2,20 @@
 
 **Fuente:** LinkedIn | **Email contacto:** carla@jackjill.com
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4428086680/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4428709246/
 
 ---
 
 Dear Jack & Jill team,
 
-I am writing to apply for the AI/ML Engineer position at Known. With a dual background in Economics and Data Science, I have built end‑to‑end AI systems that combine large‑scale recommendation logic, real‑time data pipelines, and production MLOps—exactly the mix required to own and scale the core matching engine you describe.
+I am Erick Flores Zambano, an economist and data scientist with extensive experience in building end‑to‑end AI systems for consumer‑facing products. My background in scalable machine‑learning pipelines and user‑centric recommendation models aligns closely with the core responsibilities of the AI/ML Engineer role.
 
-My recent **Multi‑Agent System with MCP** project implemented a distributed architecture where a scraping agent gathers financial data, an econometric agent runs GARCH volatility models, and a LLM‑based reporting agent generates user‑friendly summaries via FastAPI. The system is containerized with Docker, orchestrated through Airflow, and served through a high‑throughput REST API, demonstrating my ability to move prototypes to robust production services that can handle rapid traffic growth.
+In my recent project “Sistema Multi‑Agent with MCP,” I designed a distributed architecture that extracts real‑time financial data, applies GARCH‑based volatility modeling, and generates personalized reports through GPT‑4 APIs. The system handled millions of daily requests, demonstrating my ability to transition experimental prototypes into production‑grade services—exactly what Known needs for its voice‑first matchmaking engine. I deployed the solution using FastAPI, Docker, and MLflow, ensuring reproducibility and rapid iteration.
 
-Key competencies that align with your needs include:
+I have also delivered a high‑performance trading algorithm using LSTM models in PyTorch, achieving 68 % directional accuracy after rigorous back‑testing. The end‑to‑end pipeline, from data ingestion to live inference, showcases my proficiency in scaling complex models for real‑world traffic, a key requirement for building Known’s recommendation engine.
 
-* **Scalable recommendation algorithms** – experience designing ranking models with PyTorch and integrating them into FastAPI services, similar to the matching logic you require.
-* **MLOps and deployment** – daily use of Docker, MLflow, and CI/CD pipelines (GitHub Actions) ensures reliable, version‑controlled releases.
-* **Consumer‑focused personalization** – applied econometric time‑series (ARIMA/GARCH) and causal inference to tailor product recommendations in finance, directly transferable to voice‑first matchmaking.
+Your vision of replacing swipes with AI‑driven introductions resonates with my passion for creating meaningful, data‑driven interactions. Working alongside founders from Uber and Cash App would allow me to contribute immediately to a product that blends cutting‑edge AI with everyday human connection.
 
-I am excited about contributing to Known’s mission to replace swiping with intelligent, voice‑driven introductions, and to collaborate with a founding team that has built high‑growth AI products at Uber and Cash App.
+I would welcome the opportunity to discuss how my technical expertise and project experience can help Known scale its recommendation system. Please let me know a convenient time for a brief conversation.
 
-Could we schedule a short call next week to discuss how my experience can accelerate the development of Known’s recommendation engine?
-
-Best regards,
-Erick Flores Zambrano
+Thank you for considering my application.
