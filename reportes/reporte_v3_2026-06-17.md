@@ -1,54 +1,61 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-17 08:27
+# AI JOB HUNTER V3 - Reporte 2026-06-17 15:50
 
-> **Extraidas:** 127 | **Filtradas:** 38 | **Procesadas hoy:** 10
-> **Total historico postulaciones:** 842 | **Emails enviados total:** 82
+> **Extraidas:** 124 | **Filtradas:** 30 | **Procesadas hoy:** 12
+> **Total historico postulaciones:** 854 | **Emails enviados total:** 89
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: RESEARCH SCIENTIST @ DEPARTMENT OF FISH AND WILDLIFE
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5ca3c1b2e17f5103
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DEPARTMENTOFFISHANDW_RESEARCHSCIENTIST.md
+### [EMAIL ENVIADO]: Field Deployment AI Engineer @ Atera
+- **Email enviado a:** ela@atera.com
 - **Fuente:** Google Jobs (Indeed)
 
-### [EMAIL ENVIADO]: Data Scientist (Onsite Hybrid) @ NTT DATA
-- **Email enviado a:** tyler.bishop@nttdata.com
+### [EMAIL ENVIADO]: Cleared Chief Data Architect @ Noblis
+- **Email enviado a:** ckain@noblis.com
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=817299e3a8c5a4cc
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Engineer @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=38676e24f3c41ecb
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataEngineer.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Mid @ Booz Allen Hamilton
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=5afaba88e632cca4
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md
-- **Fuente:** Google Jobs (Indeed)
-
-### [DRAFT - POSTULA MANUALMENTE]: Junior Data Scientist @ Why Hiring
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4427321105/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Lavazza Group
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-lavazza-group-4362841016/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LavazzaGroup_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Jr. Data Scientist @ Why Hiring
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/jr-data-scientist-at-why-hiring-4427328113/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JrDataScientist.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Infosys Finacle
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-infosys-finacle-4428708487/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InfosysFinacle_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Junior Data Scientist @ Datamatics Technologies
-- **Email enviado a:** yasir.abbasi@datamaticstechnologies.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Fathom 4, LLC
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-fathom-4-llc-4429951873/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Fathom4LLC_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Junior Data Scientist @ Datamatics Technologies
-- **Email enviado a:** yasir.abbasi@datamaticstechnologies.com
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist, Applied Science @ Future Secure AI
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-applied-science-at-future-secure-ai-4429774736/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FutureSecureAI_DataScientistApplied.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: AI/ML Engineer - Fully Remote | Upto $85/hr @ Mercor
-- **Email enviado a:** support@mercor.com
+### [EMAIL ENVIADO]: Machine Learning Engineer - Generative AI @ Qualcomm
+- **Email enviado a:** disability-accomodations@qualcomm.com
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: Founding Machine Learning Engineer ($180k-$220k + Equity) at Withshepherd @ Jack & Jill
+- **Email enviado a:** carla@jackjill.com
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: AI/ML Engineer ($250k-$400k + Equity) at Known @ Jack & Jill
+- **Email enviado a:** carla@jackjill.com
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: Machine Learning Engineer @ Adobe
+- **Email enviado a:** accommodations@adobe.com
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Skild AI
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-skild-ai-4299098257/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SkildAI_MachineLearningEngin.md
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: Python Developer @ Infosys
+- **Email enviado a:** gunjan_sha@infosys.com
 - **Fuente:** LinkedIn
 
 

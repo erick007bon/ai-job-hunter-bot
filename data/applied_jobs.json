@@ -6626,5 +6626,101 @@
     "applied_at": "2026-06-17T08:27:35.999401",
     "email_sent_to": "support@mercor.com",
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mercor_AIMLEngineerFullyRem.md"
+  },
+  "https://www.indeed.com/viewjob?jk=2f5056d431591033": {
+    "title": "Field Deployment AI Engineer",
+    "company": "Atera",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T15:46:46.938135",
+    "email_sent_to": "ela@atera.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Atera_FieldDeploymentAIEng.md"
+  },
+  "https://www.indeed.com/viewjob?jk=91a6eb765d878d4f": {
+    "title": "Cleared Chief Data Architect",
+    "company": "Noblis",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T15:47:01.675752",
+    "email_sent_to": "ckain@noblis.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Noblis_ClearedChiefDataArch.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-lavazza-group-4362841016/": {
+    "title": "Data Scientist",
+    "company": "Lavazza Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:47:14.651524",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LavazzaGroup_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-infosys-finacle-4428708487/": {
+    "title": "Data Scientist",
+    "company": "Infosys Finacle",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:47:27.979231",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/InfosysFinacle_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-fathom-4-llc-4429951873/": {
+    "title": "Data Scientist",
+    "company": "Fathom 4, LLC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:47:35.516723",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Fathom4LLC_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-applied-science-at-future-secure-ai-4429774736/": {
+    "title": "Data Scientist, Applied Science",
+    "company": "Future Secure AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:48:05.547912",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/FutureSecureAI_DataScientistApplied.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-generative-ai-at-qualcomm-4428499564/": {
+    "title": "Machine Learning Engineer - Generative AI",
+    "company": "Qualcomm",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:48:34.789193",
+    "email_sent_to": "disability-accomodations@qualcomm.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Qualcomm_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%24220k-%2B-equity-at-withshepherd-at-jack-jill-4428478043/": {
+    "title": "Founding Machine Learning Engineer ($180k-$220k + Equity) at Withshepherd",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:49:01.289781",
+    "email_sent_to": "carla@jackjill.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_FoundingMachineLearn.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4428709246/": {
+    "title": "AI/ML Engineer ($250k-$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:49:25.796053",
+    "email_sent_to": "carla@jackjill.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-adobe-4418271903/": {
+    "title": "Machine Learning Engineer",
+    "company": "Adobe",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:49:49.541130",
+    "email_sent_to": "accommodations@adobe.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Adobe_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-skild-ai-4299098257/": {
+    "title": "Machine Learning Engineer",
+    "company": "Skild AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:50:09.270260",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SkildAI_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/python-developer-at-infosys-4418292936/": {
+    "title": "Python Developer",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T15:50:16.144160",
+    "email_sent_to": "gunjan_sha@infosys.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_PythonDeveloper.md"
   }
 }
