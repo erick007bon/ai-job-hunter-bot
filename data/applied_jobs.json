@@ -6450,5 +6450,101 @@
     "applied_at": "2026-06-16T20:06:00.382649",
     "email_sent_to": "yevhen.chuvychin@vokigames.com",
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VOKIGames_MLDataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=adc70728cd232d09": {
+    "title": "Data Scientist - Cleared",
+    "company": "The DarkStar Group",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-16T23:25:16.627138",
+    "email_sent_to": "jesse.chichester-constable@thedarkstargroup.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheDarkStarGroup_DataScientistCleared.md"
+  },
+  "https://www.indeed.com/viewjob?jk=e9732ca65e83701e": {
+    "title": "AI/ML Engineer",
+    "company": "The DarkStar Group",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-16T23:25:37.252505",
+    "email_sent_to": "jesse.chichester-constable@thedarkstargroup.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TheDarkStarGroup_AIMLEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=35c51e42134527d6": {
+    "title": "F35 Production Engineering - Data Scientist Analyst Stf",
+    "company": "Lockheed Martin",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-16T23:25:50.314373",
+    "email_sent_to": "pjohnson@lockheedmartin.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LockheedMartin_F35ProductionEnginee.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-analytics-at-grab-4399170265/": {
+    "title": "Data Scientist (Analytics)",
+    "company": "Grab",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T23:26:06.188171",
+    "email_sent_to": "harshita.shah@grab.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Grab_DataScientistAnalyti.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-i-at-handshake-4398057615/": {
+    "title": "Machine Learning Engineer I",
+    "company": "Handshake",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T23:26:20.376909",
+    "email_sent_to": "michael.elmgreen@handshake.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Handshake_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-absurd-ventures-4429599527/": {
+    "title": "Machine Learning Engineer",
+    "company": "Absurd Ventures",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T23:26:28.717582",
+    "email_sent_to": "lazlow.jones@absurdventures.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AbsurdVentures_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-predictiva-4428062143/": {
+    "title": "Machine Learning Engineer",
+    "company": "Predictiva",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T23:26:38.175132",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Predictiva_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/applied-ml-engineer-at-taste-labs-4428046814/": {
+    "title": "Applied ML Engineer",
+    "company": "Taste Labs",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T23:26:44.056522",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TasteLabs_AppliedMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4428086680/": {
+    "title": "AI/ML Engineer ($250k-$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T23:27:12.561790",
+    "email_sent_to": "carla@jackjill.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-c-serv-4426813878/": {
+    "title": "AI/ML Engineer",
+    "company": "C-Serv",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T23:27:27.508726",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/CServ_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ml-engineer-at-sensio-4429218947/": {
+    "title": "ML Engineer",
+    "company": "Sensio",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-16T23:27:35.169681",
+    "email_sent_to": "natalja.schneider@sensio.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Sensio_MLEngineer.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-junior-business-amp-data-analyst-upgrade-inc-1133488": {
+    "title": "Junior Business &amp; Data Analyst",
+    "company": "Upgrade, Inc.",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-16T23:27:41.688299",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UpgradeInc_JuniorBusinessampDat.md"
   }
 }
