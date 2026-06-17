@@ -2,18 +2,18 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-samba-tv-4380668364/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-samba-tv-4401794091/
 
 ---
 
 Dear Samba TV team,
 
-I am a data scientist with a double background in Economics and AI, specializing in financial analytics, machine learning, and intelligent automation. My experience with end‑to‑end AI pipelines aligns closely with Samba’s requirement for autonomous project ownership. I have built production‑ready models in Python, managed MLOps workflows with Docker, FastAPI, and MLflow, and deployed them on cloud platforms—skills that match your need for production‑quality code on Databricks and robust model monitoring.
+I am writing to apply for the Data Scientist position. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine rigorous econometrics with modern machine‑learning pipelines, matching the blend of measurement science and production coding you require.
 
-In my recent “Trading Algorítmico con Deep Learning” project, I designed a full pipeline that ingested market data, engineered features, trained an LSTM model in PyTorch, and performed rigorous backtesting. The system produced directional accuracy above 68 % and was deployed via FastAPI and Docker for real‑time inference. This demonstrates my ability to translate complex modeling into scalable, production‑ready solutions, a core responsibility of the role.
+My recent “Trading Algorítmico con Deep Learning” project showcases the full lifecycle you describe: I engineered a PySpark data pipeline to ingest billions of historic market ticks, performed feature engineering, and trained an LSTM model in PyTorch that achieved 68 % directional accuracy. The model was wrapped in a FastAPI service, containerized with Docker, and deployed through CI/CD, demonstrating my ability to write production‑grade Python code that scales.
 
-I am particularly drawn to Samba’s mission of turning large‑scale consumer attention data into actionable insights for leading brands. The chance to work on measurement and audience modeling projects, while mentoring junior scientists, aligns perfectly with my professional goals and my experience leading cross‑functional teams.
+In addition, I have applied hierarchical Bayesian models and causal inference techniques to panel data for risk‑adjusted forecasting, directly aligning with your need for Bayesian inference and causal ML in audience measurement. My experience with MLflow, Docker, and FastAPI ensures that models are reproducible, monitored, and easy to hand off to engineering teams.
 
-I would welcome the opportunity to discuss how my background in advanced ML, MLOps, and finance analytics can contribute to your team. Please let me know a convenient time for us to connect.
+Samba TV’s mission to turn real‑time attention data into actionable insights excites me because it merges large‑scale data engineering with sophisticated measurement—exactly the environment where my skill set thrives. I would welcome the opportunity to discuss how my background can contribute to your measurement and attribution products.
 
-Thank you for considering my application.
+Could we schedule a brief call next week to explore this further?
