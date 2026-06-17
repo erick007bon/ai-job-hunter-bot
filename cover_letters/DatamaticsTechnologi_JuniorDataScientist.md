@@ -2,23 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** yasir.abbasi@datamaticstechnologies.com
 
-**URL:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-datamatics-technologies-4427319605/
+**URL:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-datamatics-technologies-4427326144/
 
 ---
 
 Dear Datamatics Technologies team,
 
-I am writing to express my interest in the Junior Data Scientist / Forecasting Analyst position. With a dual background in Economics and Data Science, I offer a specialized blend of econometric rigor and machine learning expertise that aligns directly with your demand forecasting needs.
+I am writing to apply for the Junior Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-My profile fits your requirements through three key areas:
-1. **Forecasting Expertise:** I am proficient in time series analysis (ARIMA, GARCH) and deep learning, which allows me to handle complex demand patterns and business variables effectively.
-2. **Data Engineering:** I have extensive experience in data cleaning, feature engineering, and SQL optimization, ensuring high data quality for predictive modeling.
-3. **MLOps:** My ability to use Docker and FastAPI ensures that the models I develop are scalable and ready for production environments.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-A relevant example of my work is my **Algorithmic Trading system**, where I implemented an LSTM model (PyTorch) for price forecasting and directional prediction. This project involved the full pipeline—from data ingestion and feature engineering to backtesting—similar to the forecasting operations and model retraining cycles required for this role.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am motivated to join Datamatics Technologies because of your focus on large-scale predictive analytics in an international environment, where I can apply my analytical skills to drive actionable business insights.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-I have attached my CV for your review and would welcome the opportunity to discuss how my technical background can support your forecasting team.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+REDACTED_EMAIL@example.com | GitHub: erick007bon
