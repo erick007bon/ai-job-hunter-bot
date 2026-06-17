@@ -2,7 +2,7 @@
 
 **Fuente:** LinkedIn | **Email contacto:** disability-accomodations@qualcomm.com
 
-**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-generative-ai-at-qualcomm-4424423036/
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-generative-ai-at-qualcomm-4428499564/
 
 ---
 
@@ -10,16 +10,14 @@ Dear Qualcomm team,
 
 I am writing to apply for the Machine Learning Engineer – Generative AI position. With a dual background in Economics and Data Science, I have spent the past three years building end‑to‑end AI solutions that combine large language models, retrieval‑augmented generation, and autonomous agent workflows.
 
-My recent “Multi‑Agent System with MCP” project implements a pipeline where a FastAPI‑based orchestrator coordinates specialized agents: a data‑scraping agent, an econometric analysis agent using GARCH models, and a report‑generation agent powered by GPT‑4. The architecture relies on Docker containers, vector embeddings stored in a Pinecone‑like vector store, and fine‑tuned LLMs for domain‑specific financial insight—directly aligning with your need for RAG‑enhanced LLMs and robust agentic workflows.
+My recent “Multi‑Agent System with MCP” project directly aligns with your requirements: I designed a suite of FastAPI micro‑services (Docker‑containerized) where one agent scrapes financial data, a second runs GARCH volatility models, and a third generates analytical reports using the GPT‑4 API. The architecture leverages vector embeddings for fast similarity search and demonstrates the RAG pattern you seek. This experience gave me hands‑on expertise in LLM fine‑tuning, prompt engineering, and deploying scalable agentic pipelines on cloud resources.
 
-Key competencies I bring include:
+In addition, I have routinely used PyTorch and TensorFlow for deep‑learning models, implemented vector databases (FAISS) for embedding retrieval, and managed CI/CD pipelines with GitHub Actions and MLflow for experiment tracking—capabilities that match the “modern AI/ML infrastructure” and MLOps expectations outlined in the posting.
 
-* **LLM deployment & fine‑tuning** – extensive experience with PyTorch and Hugging Face transformers, having optimized GPT‑2 for sentiment analysis on financial news streams.  
-* **Vector databases & embeddings** – designed and maintained a FAISS index for fast similarity search, improving retrieval latency by 40 %.  
-* **MLOps & cloud infrastructure** – automated CI/CD pipelines with Docker, GitHub Actions, and AWS SageMaker, ensuring reproducible experiments tracked in MLflow.
+Qualcomm’s leadership in modem technologies and its commitment to advancing generative AI for real‑time communication inspire me. I am eager to contribute my technical skill set to create robust, production‑grade LLM solutions that enhance Qualcomm’s AI ecosystem.
 
-I am particularly drawn to Qualcomm’s reputation for pioneering modem‑level AI integration, and I am eager to contribute my expertise in building scalable, high‑performance generative models that can run on edge devices.
+I would welcome the opportunity to discuss how my background can add value to your team. Thank you for considering my application.
 
-I would welcome the opportunity to discuss how my experience can support Qualcomm’s AI initiatives. Please let me know a convenient time for a conversation.
+Sincerely,
 
-Thank you for your consideration.
+Erick Flores Zambrano
