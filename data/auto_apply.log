@@ -12,26 +12,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -47,26 +47,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -82,26 +82,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -117,26 +117,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -152,26 +152,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -187,26 +187,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -222,26 +222,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -257,26 +257,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -292,26 +292,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -327,26 +327,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -362,26 +362,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 Traceback (most recent call last):
   File "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/linkedineasyapply.py", line 312, in start_applying
@@ -397,26 +397,26 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.15/x64/lib/python3.11/site-packages/selenium/webdriver/remote/errorhandler.py", line 232, in check_response
     raise exception_class(message, screen, stacktrace)
 selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":".jobs-search-results-list__text"}
-  (Session info: chrome=149.0.7827.114); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+  (Session info: chrome=149.0.7827.53); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
 Stacktrace:
-#0 0x558190bcf3da <unknown>
-#1 0x5581905b1139 <unknown>
-#2 0x558190605884 <unknown>
-#3 0x558190605ad1 <unknown>
-#4 0x558190650974 <unknown>
-#5 0x55819064db5c <unknown>
-#6 0x5581905f8e4f <unknown>
-#7 0x5581905f9c31 <unknown>
-#8 0x558190b959f7 <unknown>
-#9 0x558190b94203 <unknown>
-#10 0x558190b7ef16 <unknown>
-#11 0x558190b94d9a <unknown>
-#12 0x558190b66eb0 <unknown>
-#13 0x558190bbbd58 <unknown>
-#14 0x558190bbbef5 <unknown>
-#15 0x558190bcdf5e <unknown>
-#16 0x7f2c6a69caa4 <unknown>
-#17 0x7f2c6a729c6c <unknown>
+#0 0x55ee9dd143da <unknown>
+#1 0x55ee9d6f6139 <unknown>
+#2 0x55ee9d74a884 <unknown>
+#3 0x55ee9d74aad1 <unknown>
+#4 0x55ee9d795974 <unknown>
+#5 0x55ee9d792b5c <unknown>
+#6 0x55ee9d73de4f <unknown>
+#7 0x55ee9d73ec31 <unknown>
+#8 0x55ee9dcda9f7 <unknown>
+#9 0x55ee9dcd9203 <unknown>
+#10 0x55ee9dcc3f16 <unknown>
+#11 0x55ee9dcd9d9a <unknown>
+#12 0x55ee9dcabeb0 <unknown>
+#13 0x55ee9dd00d58 <unknown>
+#14 0x55ee9dd00ef5 <unknown>
+#15 0x55ee9dd12f5e <unknown>
+#16 0x7f2c6bc9caa4 <unknown>
+#17 0x7f2c6bd29c6c <unknown>
 
 OpenAI API key not configured. Defaulting to empty responses for text fields.
 Abriendo LinkedIn.com...
@@ -425,46 +425,46 @@ Cargando feed para validar sesión...
 URL actual despues de inyectar cookie: https://www.linkedin.com/feed/
 ¡Inicio de sesión EXITOSO mediante cookie li_at! Saltando login manual.
 Procediendo directamente a postular...
+Starting the search for Machine Learning Engineer in United States.
+Going to job page 0
+Starting the application process for this page...
+Sleeping for 114.51375722885132 seconds.
+Starting the search for AI Engineer in United States.
+Going to job page 0
+Starting the application process for this page...
+Sleeping for 114.18387603759766 seconds.
+Starting the search for Data Engineer in Canada.
+Going to job page 0
+Starting the application process for this page...
+Sleeping for 114.6024272441864 seconds.
 Starting the search for Data Engineer in United States.
 Going to job page 0
 Starting the application process for this page...
-Sleeping for 114.91973829269409 seconds.
+Sleeping for 113.29371190071106 seconds.
 Starting the search for Machine Learning Engineer in Remote.
 Going to job page 0
 Starting the application process for this page...
-Sleeping for 113.40150022506714 seconds.
-Starting the search for Machine Learning Engineer in Canada.
-Going to job page 0
-Starting the application process for this page...
-Sleeping for 113.84478092193604 seconds.
-Starting the search for Data Analyst in Canada.
-Going to job page 0
-Starting the application process for this page...
-Sleeping for 114.53149104118347 seconds.
+Sleeping for 113.07269334793091 seconds.
+Sleeping for 14.85 minutes.
 Starting the search for AI Engineer in Canada.
 Going to job page 0
 Starting the application process for this page...
-Sleeping for 115.09342765808105 seconds.
-Sleeping for 8.433333333333334 minutes.
 Starting the search for AI Engineer in Remote.
 Going to job page 0
 Starting the application process for this page...
-Starting the search for Data Analyst in Remote.
-Going to job page 0
-Starting the application process for this page...
-Starting the search for AI Engineer in United States.
+Starting the search for Data Engineer in Remote.
 Going to job page 0
 Starting the application process for this page...
 Starting the search for Data Analyst in United States.
 Going to job page 0
 Starting the application process for this page...
-Sleeping for 12.166666666666666 minutes.
-Starting the search for Data Engineer in Remote.
+Sleeping for 10.65 minutes.
+Starting the search for Machine Learning Engineer in Canada.
 Going to job page 0
 Starting the application process for this page...
-Starting the search for Machine Learning Engineer in United States.
+Starting the search for Data Analyst in Canada.
 Going to job page 0
 Starting the application process for this page...
-Starting the search for Data Engineer in Canada.
+Starting the search for Data Analyst in Remote.
 Going to job page 0
 Starting the application process for this page...

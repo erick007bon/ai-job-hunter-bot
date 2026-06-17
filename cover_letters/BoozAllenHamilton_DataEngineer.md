@@ -2,23 +2,20 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=470aba0348b38f68
+**URL:** https://www.indeed.com/viewjob?jk=38676e24f3c41ecb
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to apply for the Data Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to express my interest in the Data Engineer position. With a dual background in Economics and Data Science, I specialize in building scalable pipelines that transform disparate, unstructured data into actionable intelligence—a core objective for your mission-driven projects.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+I bring extensive experience in Python and SQL for retrieving and processing complex datasets. My technical expertise aligns with your need for scalable ETL/ELT workflows; I have developed end-to-end production environments using FastAPI and Docker to ensure model stability and scalability. Furthermore, my ability to bridge the gap between technical development and stakeholder needs is evidenced by my experience delivering executive BI dashboards that translate complex metrics into clear business insights.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+A highlight of my technical capabilities is my "Multi-Agent System with MCP," where I engineered an automated architecture that integrates financial APIs and LLMs to process real-time data. This project demonstrates my ability to design distributed systems that handle diverse data sources and automate analytical reporting, similar to the scalable platforms required for your clinical and public health initiatives.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am drawn to Booz Allen Hamilton’s commitment to using data for good and would welcome the opportunity to apply my skills in automation and data engineering to support your critical missions.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+I am available for an interview at your earliest convenience to discuss how my technical profile can contribute to your team's success.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
