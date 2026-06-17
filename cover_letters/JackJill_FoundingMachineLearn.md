@@ -1,22 +1,21 @@
 # Cover Letter - Founding Machine Learning Engineer ($180k-$220k + Equity) at Withshepherd @ Jack & Jill
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** carla@jackjill.com
 
-**URL:** https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%24220k-%2B-equity-at-withshepherd-at-jack-jill-4427460074/
+**URL:** https://www.linkedin.com/jobs/view/founding-machine-learning-engineer-%24180k-%24220k-%2B-equity-at-withshepherd-at-jack-jill-4428478043/
 
 ---
 
 Dear Jack & Jill team,
 
-I am excited to apply for the Founding Machine Learning Engineer position at Withshepherd. My background in econometrics and end‑to‑end AI development aligns closely with your need to build an autonomous underwriting pipeline from scratch.
+I am writing to apply for the Founding Machine Learning Engineer role at Withshepherd. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine LLM‑driven agents with rigorous financial modeling—exactly the blend required to automate high‑stakes underwriting.
 
-At my current role, I designed a multi‑agent system using MCP that integrates financial scraping, GARCH volatility modeling, and LLM‑driven report generation. This architecture mirrors Withshepherd’s goal of combining real‑time data with agentic AI to automate complex decisions. I have deployed similar pipelines on AWS SageMaker, managed Docker containers, and tracked experiments with MLflow—skills directly transferable to your production stack.
+My experience designing a **multi‑agent architecture with MCP** (scraping market data, econometric GARCH analysis, and report generation via GPT‑4) directly aligns with your need for agentic systems that translate underwriter expertise into training signals. I also led the **deployment of production‑grade models on Docker/FastAPI** and integrated continuous monitoring with MLflow, giving me the MLOps foundation to own the full lifecycle on AWS SageMaker as described.
 
-I also led a trading‑algorithms project that employed LSTM models in PyTorch for price forecasting, achieving 68 % directional accuracy. The end‑to‑end workflow—data ingestion, feature engineering, model training, and backtesting—provides a solid foundation for designing the data pipelines you envision.
+In addition, I have implemented **deep‑learning time‑series models (LSTM) for price forecasting**, achieving 68 % directional accuracy, demonstrating my capability to create predictive engines for volatile risk domains such as construction insurance.
 
-Withshepherd’s mission to replace manual underwriting with autonomous ML systems resonates with my passion for applying rigorous econometric methods to high‑stakes financial problems. I am eager to contribute to a culture that values ownership, rapid iteration, and data‑driven decision making.
+I am motivated to help Withshepherd build the ML function from scratch, establishing the data pipelines, evaluation frameworks, and autonomous decision loops that will redefine commercial insurance underwriting.
 
-Could we schedule a brief call next week to discuss how my experience can accelerate Withshepherd’s ML function? I look forward to the opportunity.
+Could we schedule a short call to discuss how my technical track record and domain expertise can accelerate Withshepherd’s AI‑native risk platform?
 
-Sincerely,  
-Flores Zamban Erick
+Thank you for your consideration.
