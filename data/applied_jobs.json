@@ -6978,5 +6978,165 @@
     "applied_at": "2026-06-18T07:34:41.283209",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kindgeek_PythonDeveloper.md"
+  },
+  "https://www.indeed.com/viewjob?jk=47cd719919eded38": {
+    "title": "AI Data Scientist",
+    "company": "General Dynamics Information Technology",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T15:38:11.663483",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneralDynamicsInfor_AIDataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=bced08d779b7fc39": {
+    "title": "AI Engineer, Industrial",
+    "company": "IFF",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T15:38:21.406540",
+    "email_sent_to": "atiqah.adawiah@iff.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/IFF_AIEngineerIndustrial.md"
+  },
+  "https://www.indeed.com/viewjob?jk=26f585fd82f96ad5": {
+    "title": "Machine Learning Engineer",
+    "company": "Zoom Communications",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T15:38:30.438930",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZoomCommunications_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=baa487fca1021493": {
+    "title": "Cyber Data Scientist IV",
+    "company": "Arcfield",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T15:38:50.037965",
+    "email_sent_to": "donald.yeo@arcfield.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Arcfield_CyberDataScientistIV.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-recommend-4427393111/": {
+    "title": "Data Scientist",
+    "company": "Recommend",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:39:28.512469",
+    "email_sent_to": "paloma@recommend.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Recommend_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-quadron-analytica-cybersecurity-4429035591/": {
+    "title": "Data Scientist",
+    "company": "QUADRON Analytica & Cybersecurity",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:39:43.002453",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QUADRONAnalyticaCybe_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-all-genders-at-holidu-4419893691/": {
+    "title": "Data Scientist (all genders)",
+    "company": "Holidu",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:40:01.384634",
+    "email_sent_to": "johannes.siebers@holidu.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Holidu_DataScientistallgend.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-all-genders-at-lam-research-4428714675/": {
+    "title": "Data Scientist (all genders)",
+    "company": "Lam Research",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:40:09.964480",
+    "email_sent_to": "victor.wang@lamresearch.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LamResearch_DataScientistallgend.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-empa-t-4430447027/": {
+    "title": "Data Scientist",
+    "company": "Empa-T",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:40:33.188143",
+    "email_sent_to": "bowesd9@empat.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/EmpaT_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/full-stack-data-scientist-at-nitor-4430453176/": {
+    "title": "Full Stack Data Scientist",
+    "company": "Nitor",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:40:42.084598",
+    "email_sent_to": "ella.raskila@nitor.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Nitor_FullStackDataScienti.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-generali-tranquilidade-4427377228/": {
+    "title": "Data Scientist",
+    "company": "Generali Tranquilidade",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:40:59.939599",
+    "email_sent_to": "candidaturas@tranquilidade.pt",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneraliTranquilidad_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-ml-ops-scientist-at-luxoft-4430438130/": {
+    "title": "Data Scientist/ML Ops Scientist",
+    "company": "Luxoft",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:41:08.527841",
+    "email_sent_to": "amorate@luxoft.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Luxoft_DataScientistMLOpsSc.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-biocatch-4387859082/": {
+    "title": "Data Scientist",
+    "company": "BioCatch",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:41:16.883685",
+    "email_sent_to": "david.greenwald@biocatch.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BioCatch_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-asos-com-4427843036/": {
+    "title": "Machine Learning Engineer",
+    "company": "ASOS.com",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:41:23.892097",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ASOScom_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-i-at-mastercard-4416840119/": {
+    "title": "Data Scientist I",
+    "company": "Mastercard",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:41:52.578745",
+    "email_sent_to": "mohamed.khalil@mastercard.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mastercard_DataScientistI.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-stefanini-north-america-and-apac-4430152351/": {
+    "title": "Machine Learning Engineer",
+    "company": "Stefanini North America and APAC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:42:13.529613",
+    "email_sent_to": "navneet.pathak@stefanini.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/StefaniniNorthAmeric_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4430418307/": {
+    "title": "Junior AI Engineer",
+    "company": "Haystack",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:42:25.832221",
+    "email_sent_to": "smaha@haystack.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Haystack_JuniorAIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-icw-group-4419951452/": {
+    "title": "Machine Learning Engineer",
+    "company": "ICW Group",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:42:33.178428",
+    "email_sent_to": "jmello@icwgroup.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ICWGroup_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-h2o-ai-4430106298/": {
+    "title": "AI Engineer",
+    "company": "H2O.ai",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:42:55.084177",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/H2Oai_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-infosys-4401848888/": {
+    "title": "Data Scientist",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T15:43:17.571609",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_DataScientist.md"
   }
 }

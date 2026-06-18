@@ -1,21 +1,24 @@
-# Cover Letter - Machine Learning Engineer - Agentic Retrieval @ Zoom Communications
+# Cover Letter - Machine Learning Engineer @ Zoom Communications
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=d92afffe49385aa1
+**URL:** https://www.indeed.com/viewjob?jk=26f585fd82f96ad5
 
 ---
 
 Dear Zoom Communications team,
 
-I am writing to express my interest in the Machine Learning Engineer position for the Agentic Retrieval team. With a dual background in Economics and Data Science, I specialize in building end-to-end AI systems that bridge the gap between complex data retrieval and actionable reasoning.
+I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-Your focus on multi-tenant, permission-aware retrieval platforms aligns perfectly with my experience in developing distributed AI architectures. I have a strong command of the technologies required for this role, specifically in building RAG pipelines and deploying scalable models via FastAPI and Docker.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-A key highlight of my portfolio is the development of a **Multi-Agent System using the Model Context Protocol (MCP)**. In this project, I designed a specialized architecture where agents autonomously handle data scraping, econometric analysis (GARCH models), and LLM-driven report generation. This experience in orchestrating tool-using agents and managing structured query planning directly maps to the "agentic reasoning" and "tool-using AI agents" requirements of your team.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-Furthermore, my expertise in SQL and vector-based logic allows me to efficiently transform heterogeneous data into retrieval-ready representations, ensuring high-quality answer grounding. I am eager to apply my skills in hybrid search and ranking to enhance the Zoom AI Companion’s capabilities.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-I have attached my resume for your review and would welcome the opportunity to discuss how my experience with agentic frameworks can contribute to Zoom's GenAI goals.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+adanrivas6655@gmail.com | GitHub: erick007bon
