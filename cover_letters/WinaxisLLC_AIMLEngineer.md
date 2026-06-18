@@ -2,23 +2,23 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-winaxis-llc-4429123217/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-at-winaxis-llc-4430712192/
 
 ---
 
 Dear Winaxis LLC team,
 
-I am writing to apply for the AI/ML Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the AI/ML Engineer position. With a dual degree in Economics and Data Science, I have built end‑to‑end AI solutions that combine financial analysis, machine learning, and robust MLOps—exactly the blend highlighted in your posting.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My recent **Multi‑Agent System with MCP** project delivered an automated financial analytics pipeline: a FastAPI‑based scraper gathers market data, a GARCH‑based econometric model estimates volatility, and a GPT‑4 powered agent generates daily reports. The architecture uses Docker containers, MLflow for experiment tracking, and the Model Context Protocol to coordinate agents, demonstrating my ability to design scalable, multi‑model services as required by Winaxis.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+Key competencies that match your needs include:
+- **Deep Learning & LLM integration** (PyTorch, TensorFlow, Hugging Face) – used to build the LSTM price‑forecasting model and the GPT‑4 report generator.
+- **MLOps engineering** (Docker, FastAPI, CI/CD with GitHub Actions) – deployed the predictive risk model API that serves sub‑second inference.
+- **Econometric time‑series analysis** (ARIMA, GARCH, panel data) – applied to volatility forecasting in the MCP system, aligning with your focus on quantitative finance.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am particularly attracted to Winaxis’s commitment to creating AI‑driven decision tools for the financial sector, and I am eager to contribute my expertise in multi‑agent architectures and production‑grade ML pipelines to accelerate your product roadmap.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Could we schedule a brief call next week to discuss how my background can support Winaxis’s objectives?
 
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-REDACTED_EMAIL@example.com | GitHub: erick007bon
+Thank you for your consideration.
