@@ -1,14 +1,14 @@
-# Cover Letter - Data Scientist/ML Ops Scientist @ Luxoft
+# Cover Letter - Data Scientist @ BioCatch
 
-**Fuente:** LinkedIn | **Email contacto:** amorate@luxoft.com
+**Fuente:** LinkedIn | **Email contacto:** david.greenwald@biocatch.com
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-ml-ops-scientist-at-luxoft-4430438130/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-at-biocatch-4387859082/
 
 ---
 
-Dear Luxoft team,
+Dear BioCatch team,
 
-I am writing to apply for the Data Scientist/ML Ops Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 

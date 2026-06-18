@@ -2,23 +2,22 @@
 
 **Fuente:** LinkedIn | **Email contacto:** smaha@haystack.com
 
-**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4426487507/
+**URL:** https://www.linkedin.com/jobs/view/junior-ai-engineer-at-haystack-4430418307/
 
 ---
 
 Dear Haystack team,
 
-I am writing to apply for the Junior AI Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am a data scientist with a dual background in economics and AI, and I am eager to join Haystack as a Junior AI Engineer. My experience with end‑to‑end AI pipelines aligns with your goal of providing hands‑on training and real‑world projects.  
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+I have built predictive models in Python using scikit‑learn and PyTorch, and I am proficient in deploying them with FastAPI, Docker, and MLflow—skills that match the role’s emphasis on learning industry tools. In my recent “Trading Algorítmico con Deep Learning” project, I implemented an LSTM model to forecast S&P 500 price direction, achieving 68 % directional accuracy. This demonstrates my ability to translate complex data into actionable insights, a key capability for the training modules you offer.  
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+Haystack’s focus on accessible AI education and the opportunity to earn industry certifications resonates with my commitment to continuous learning. I am excited about contributing to your projects while deepening my knowledge in Azure AI and other emerging technologies.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I would welcome the chance to discuss how my background in predictive modeling, MLOps, and data storytelling can support Haystack’s mission. Please let me know a convenient time for a brief conversation.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
+Thank you for considering my application.
 
 Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-REDACTED_EMAIL@example.com | GitHub: erick007bon
+
+Erick Flores Zambano
