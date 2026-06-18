@@ -2,23 +2,18 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** pjohnson@lockheedmartin.com
 
-**URL:** https://www.indeed.com/viewjob?jk=407650b6fa832e4b
+**URL:** https://www.indeed.com/viewjob?jk=c418e4d5e8676060
 
 ---
 
 Dear Lockheed Martin team,
 
-I am writing to apply for the AI Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the AI Machine Learning Engineer position (Job ID 732477BR). With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine rigorous quantitative analysis with production‑grade MLOps—exactly the blend required for the Integrated Common Processor program.
 
-Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
+My recent “Multi‑Agent System with MCP” project delivered a fully containerized pipeline (Docker + FastAPI) that scraped financial data, applied GARCH volatility models, and generated automated reports using GPT‑4. The architecture uses the Model Context Protocol to coordinate agents, mirroring the distributed, tactical environment described for the ICP system. This experience equips me to develop and debug MLOps workflows both in‑lab and on‑site.
 
-In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
+In addition, I have extensive hands‑on work curating and labeling large time‑series datasets for predictive modeling, as demonstrated in my “Trading Algoritmic with Deep Learning” project where I built an LSTM forecaster (PyTorch) that achieved 68 % directional accuracy after iterative validation and backtesting. My proficiency with MLflow, Docker, and CI/CD pipelines ensures reproducible training, testing, and deployment of models in constrained operational settings.
 
-My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
+I am eager to contribute my expertise in MLOps, dataset engineering, and AI model validation to the RMS AI team, supporting the Navy’s undersea surveillance capabilities. I would welcome the opportunity to discuss how my skills align with your objectives and to arrange an interview at your convenience.
 
-I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
-
-Best regards,
-FLORES ZAMBRANO ERICK
-Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
-adanrivas6655@gmail.com | GitHub: erick007bon
+Thank you for your consideration.
