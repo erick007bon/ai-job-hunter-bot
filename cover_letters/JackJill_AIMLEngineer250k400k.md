@@ -2,20 +2,21 @@
 
 **Fuente:** LinkedIn | **Email contacto:** carla@jackjill.com
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4428709246/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4428756057/
 
 ---
 
 Dear Jack & Jill team,
 
-I am Erick Flores Zambano, an economist and data scientist with extensive experience in building end‑to‑end AI systems for consumer‑facing products. My background in scalable machine‑learning pipelines and user‑centric recommendation models aligns closely with the core responsibilities of the AI/ML Engineer role.
+I am an economista and data scientist with a strong background in building scalable recommendation engines and MLOps pipelines. My experience designing production‑ready matching systems aligns directly with your need to transition experimental prototypes into robust, high‑traffic environments.  
 
-In my recent project “Sistema Multi‑Agent with MCP,” I designed a distributed architecture that extracts real‑time financial data, applies GARCH‑based volatility modeling, and generates personalized reports through GPT‑4 APIs. The system handled millions of daily requests, demonstrating my ability to transition experimental prototypes into production‑grade services—exactly what Known needs for its voice‑first matchmaking engine. I deployed the solution using FastAPI, Docker, and MLflow, ensuring reproducibility and rapid iteration.
+In my recent “Sistema Multi‑Agente con MCP” project, I built a distributed architecture that ingests financial data, applies econometric models (GARCH for volatility) and generates real‑time reports via GPT‑4, all orchestrated with Docker, FastAPI and a custom MCP protocol. This demonstrates my ability to manage end‑to‑end pipelines, version control with MLflow, and deploy models at scale—skills essential for the core recommendation engine at Known.  
 
-I have also delivered a high‑performance trading algorithm using LSTM models in PyTorch, achieving 68 % directional accuracy after rigorous back‑testing. The end‑to‑end pipeline, from data ingestion to live inference, showcases my proficiency in scaling complex models for real‑world traffic, a key requirement for building Known’s recommendation engine.
+I have also led end‑to‑end machine‑learning projects, such as a trading algorithm using LSTM models in PyTorch that achieved 68 % directional accuracy, illustrating my capacity to build and tune complex predictive models under production constraints.  
 
-Your vision of replacing swipes with AI‑driven introductions resonates with my passion for creating meaningful, data‑driven interactions. Working alongside founders from Uber and Cash App would allow me to contribute immediately to a product that blends cutting‑edge AI with everyday human connection.
+Known’s voice‑first, AI‑driven matchmaking platform excites me because it combines real‑time personalization with a consumer‑centric product, a domain where I can immediately contribute. I am eager to bring my expertise in scalable ML systems, MLOps, and user‑centric model design to your founding team.
 
-I would welcome the opportunity to discuss how my technical expertise and project experience can help Known scale its recommendation system. Please let me know a convenient time for a brief conversation.
+Could we schedule a brief call next week to discuss how my background and projects can support Known’s growth? I look forward to your reply.
 
-Thank you for considering my application.
+Best regards,  
+Erick Flores Zambano

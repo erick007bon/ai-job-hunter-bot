@@ -2,20 +2,18 @@
 
 **Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=5afaba88e632cca4
+**URL:** https://www.indeed.com/viewjob?jk=49fc286b483e5941
 
 ---
 
 Dear Booz Allen Hamilton team,
 
-I am writing to express my interest in the Mid-level Data Scientist position supporting the Space Force program. My dual background in Economics and Data Science, combined with my experience in end-to-end AI deployment, aligns well with your mission-focused modernization goals.
+I am a data scientist with a dual background in economics and AI, and over two years of hands‑on experience building end‑to‑end solutions in Python. In my recent “Trading Algoritmic with Deep Learning” project, I designed an automated pipeline that scraped market data via REST APIs, cleaned and transformed time‑series, and deployed an LSTM model in Docker using FastAPI for real‑time inference. This work required robust ETL processes, version control with GitHub, and continuous integration through GitHub Actions—directly aligning with your need for reliable data pipelines and software automation.
 
-I offer strong proficiency in Python, PyTorch, and TensorFlow, which allows me to design and validate the complex AI/ML models required for anomaly detection and system-behavior characterization. My expertise in MLOps—specifically using Docker and FastAPI—ensures that I can effectively transition analytic prototypes into the cloud-native environments mentioned in your requirements.
+My expertise in statistical modeling (ARIMA, GARCH) and predictive analytics complements the predictive modeling and machine learning methods you seek. Additionally, I have produced interactive visual dashboards in Power BI that translate complex model outputs into actionable insights for senior stakeholders, satisfying the requirement for clear data visualizations.
 
-A relevant example of my technical capability is my Multi-Agent System using the Model Context Protocol (MCP). In this project, I developed a distributed architecture where specialized agents handle data ingestion, econometric analysis, and report generation. This experience in orchestrating autonomous workflows for real-time data processing directly translates to the multi-INT fusion and mission-critical workflows necessary for GEOINT environments.
+Booz Allen’s commitment to applying data science to high‑impact challenges, from fraud detection to national intelligence, resonates with my goal of leveraging analytical rigor for societal benefit. I am eager to contribute my technical skills and collaborative approach to your multidisciplinary teams.
 
-I am motivated by the opportunity to apply my skills in high-stakes, operational environments where precision and scalability are paramount. I am confident that my ability to translate complex objectives into technical requirements will provide immediate value to your multi-disciplinary team.
+I would welcome the opportunity to discuss how my experience can support Booz Allen’s projects. Please let me know a convenient time for a conversation.
 
-I have attached my resume for your review and would welcome the opportunity to discuss how my technical background can support the Space Force program.
-
-Best regards,
+Thank you for your consideration.

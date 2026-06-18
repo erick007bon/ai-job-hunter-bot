@@ -6770,5 +6770,101 @@
     "applied_at": "2026-06-17T19:19:20.223441",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AWISEE_JuniorDataAnalystDat.md"
+  },
+  "https://www.indeed.com/viewjob?jk=8d94eaa0b111276c": {
+    "title": "Analytics Engineer (Remote)",
+    "company": "Experian",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T23:25:11.851949",
+    "email_sent_to": "jeff.sadler@experian.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Experian_AnalyticsEngineerRem.md"
+  },
+  "https://www.indeed.com/viewjob?jk=49fc286b483e5941": {
+    "title": "Data Scientist, Mid",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T23:25:26.355753",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientistMid.md"
+  },
+  "https://www.indeed.com/viewjob?jk=53876e40e9a30971": {
+    "title": "Data Scientist",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T23:25:42.041696",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=57df4addf9750d37": {
+    "title": "Agentic AI and Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T23:26:02.542746",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_AgenticAIandDataEngi.md"
+  },
+  "https://www.indeed.com/viewjob?jk=511ad307b7511b25": {
+    "title": "Machine Learning Engineer III",
+    "company": "Workday",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T23:26:11.838076",
+    "email_sent_to": "kurt.haasch@workday.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Workday_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=84bdc98f373444cf": {
+    "title": "Software Engineer, Machine Learning Infrastructure - Gen AI",
+    "company": "DoorDash",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T23:26:39.885641",
+    "email_sent_to": "tammy.schade@doordash.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/DoorDash_SoftwareEngineerMach.md"
+  },
+  "https://www.indeed.com/viewjob?jk=c418e4d5e8676060": {
+    "title": "AI Machine Learning Engineer",
+    "company": "Lockheed Martin",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-17T23:26:59.645331",
+    "email_sent_to": "pjohnson@lockheedmartin.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/LockheedMartin_AIMachineLearningEng.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-mastercard-4427800396/": {
+    "title": "Data Scientist",
+    "company": "Mastercard",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T23:27:06.434680",
+    "email_sent_to": "reasonable_accommodation@mastercard.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mastercard_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-ode-4428738832/": {
+    "title": "Machine Learning Engineer",
+    "company": "Ode",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T23:27:11.866163",
+    "email_sent_to": "info@ode.partne",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Ode_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/artificial-intelligence-machine-learning-engineer-at-airswift-4429976642/": {
+    "title": "Artificial Intelligence / Machine Learning Engineer",
+    "company": "Airswift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T23:27:41.253190",
+    "email_sent_to": "toby.brown@airswift.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Airswift_ArtificialIntelligen.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4428756057/": {
+    "title": "AI/ML Engineer ($250k-$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-17T23:27:53.156605",
+    "email_sent_to": "carla@jackjill.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer": {
+    "title": "Reveleer: Full Stack AI Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "applied_at": "2026-06-17T23:28:13.992322",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Verenenlace_ReveleerFullStackAIE.md"
   }
 }
