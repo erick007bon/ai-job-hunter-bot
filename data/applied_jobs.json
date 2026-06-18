@@ -6866,5 +6866,117 @@
     "applied_at": "2026-06-17T23:28:13.992322",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Verenenlace_ReveleerFullStackAIE.md"
+  },
+  "https://www.indeed.com/viewjob?jk=026c559be3ab013c": {
+    "title": "Research Engineer (Machine Learning & EdTech)",
+    "company": "Pyxeda Inc",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T07:30:59.024097",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PyxedaInc_ResearchEngineerMach.md"
+  },
+  "https://www.indeed.com/viewjob?jk=d92afffe49385aa1": {
+    "title": "Machine Learning Engineer - Agentic Retrieval",
+    "company": "Zoom Communications",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T07:31:12.236261",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZoomCommunications_MachineLearningEngin.md"
+  },
+  "https://www.indeed.com/viewjob?jk=016211f789fc02e4": {
+    "title": "Data Scientist — Machine Learning Practitioner",
+    "company": "BlueConduit",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T07:31:29.260604",
+    "email_sent_to": "lorne@blueconduit.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BlueConduit_DataScientistMachine.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-f-m-d-%40-a1-competence-delivery-center-at-a1-bulgaria-4429966219/": {
+    "title": "Machine Learning Engineer (f/m/d) @ A1 Competence Delivery Center",
+    "company": "A1 Bulgaria",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:31:43.882154",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Bulgaria_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-playtech-managed-services-4419196712/": {
+    "title": "AI Engineer",
+    "company": "Playtech Managed Services",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:32:06.413246",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PlaytechManagedServi_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-nlp-chatbot-at-sapo-technology-jsc-4429795869/": {
+    "title": "AI Engineer (NLP/ Chatbot)",
+    "company": "Sapo Technology JSC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:32:18.895291",
+    "email_sent_to": "tuyendung@sapo.vn",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/SapoTechnologyJSC_AIEngineerNLPChatbot.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-solita-4427343343/": {
+    "title": "AI Engineer",
+    "company": "Solita",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:32:32.711161",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Solita_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-ntt-data-europe-latam-4408198148/": {
+    "title": "AI Engineer",
+    "company": "NTT DATA Europe & Latam",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:32:45.665516",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATAEuropeLatam_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-at-kpn-4419832509/": {
+    "title": "AI Engineer",
+    "company": "KPN",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:33:02.529585",
+    "email_sent_to": "martijn.schaap@kpn.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KPN_AIEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineer-%24150k-%24300k-%2B-equity-at-vibecode-at-jack-jill-4428774602/": {
+    "title": "AI Engineer ($150k-$300k + Equity) at Vibecode",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:33:15.252276",
+    "email_sent_to": "carla@jackjill.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIEngineer150k300kEq.md"
+  },
+  "https://www.linkedin.com/jobs/view/python-developer-at-deloitte-4427346679/": {
+    "title": "Python Developer",
+    "company": "Deloitte",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:34:01.326606",
+    "email_sent_to": "mtrozell@deloitte.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Deloitte_PythonDeveloper.md"
+  },
+  "https://www.linkedin.com/jobs/view/associate-data-analyst-at-myntra-4429911839/": {
+    "title": "Associate -Data Analyst",
+    "company": "Myntra",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:34:24.950608",
+    "email_sent_to": "anish.thomas@myntra.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Myntra_AssociateDataAnalyst.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-air-apps-4430168654/": {
+    "title": "AI/ML Engineer",
+    "company": "Air Apps",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T07:34:33.744615",
+    "email_sent_to": "janina.ferreira@airapps.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/AirApps_AIMLEngineer.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-python-developer-kindgeek-1133592": {
+    "title": "Python Developer",
+    "company": "Kindgeek",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-18T07:34:41.283209",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kindgeek_PythonDeveloper.md"
   }
 }
