@@ -7138,5 +7138,125 @@
     "applied_at": "2026-06-18T15:43:17.571609",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_DataScientist.md"
+  },
+  "https://www.indeed.com/viewjob?jk=bfe2d3bbc9b7de51": {
+    "title": "RESEARCH SCIENTIST",
+    "company": "Public Employees' Retirement System",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T19:16:18.765254",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PublicEmployeesRetir_RESEARCHSCIENTIST.md"
+  },
+  "https://www.indeed.com/viewjob?jk=a8cf899820be0091": {
+    "title": "Databricks Data Architect",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T19:16:42.992884",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_DatabricksDataArchit.md"
+  },
+  "https://www.indeed.com/viewjob?jk=7cfa91ca9c37675e": {
+    "title": "AI Engineering Associate Director",
+    "company": "NTT DATA",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T19:16:54.178833",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATA_AIEngineeringAssocia.md"
+  },
+  "https://www.indeed.com/viewjob?jk=7337a2f76d4f7492": {
+    "title": "AI Engineering Associate Director",
+    "company": "NTT DATA",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T19:16:58.453785",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATA_AIEngineeringAssocia.md"
+  },
+  "https://www.indeed.com/viewjob?jk=5bbf73d5f0d07a6d": {
+    "title": "Part-time Data Engineer",
+    "company": "TNTP",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T19:17:03.182094",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/TNTP_ParttimeDataEngineer.md"
+  },
+  "https://www.indeed.com/viewjob?jk=b0e9a06d58d584fb": {
+    "title": "Fleet Operations & Analytics Engineer",
+    "company": "Mainspring Energy",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T19:17:22.730555",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/MainspringEnergy_FleetOperationsAnaly.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-m-w-d-at-verti-versicherung-ag-4427858610/": {
+    "title": "Data Scientist (m/w/d)",
+    "company": "Verti Versicherung AG",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:17:42.676275",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/VertiVersicherungAG_DataScientistmwd.md"
+  },
+  "https://www.linkedin.com/jobs/view/%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6-data-scientist-at-%E5%8F%8B%E9%82%A6%E7%A7%91%E6%8A%80-4427818213/": {
+    "title": "数据科学家/Data Scientist",
+    "company": "友邦科技",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:18:24.760040",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/友邦科技_数据科学家DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-kaufland-e-commerce-4428726329/": {
+    "title": "Data Scientist",
+    "company": "Kaufland e-commerce",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:18:52.785514",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kauflandecommerce_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-at-winaxis-llc-4430712192/": {
+    "title": "AI/ML Engineer",
+    "company": "Winaxis LLC",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:19:14.764785",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WinaxisLLC_AIMLEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-qualcomm-4429327025/": {
+    "title": "Machine Learning Engineer",
+    "company": "Qualcomm",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:19:38.479286",
+    "email_sent_to": "disability-accomodations@qualcomm.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Qualcomm_MachineLearningEngin.md"
+  },
+  "https://www.linkedin.com/jobs/view/founding-ml-engineer-%24180k-%2B-1%25-equity-at-behaviorai-at-jack-jill-4429315408/": {
+    "title": "Founding ML Engineer ($180K + 1% Equity) at BehaviorAI",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:19:55.745105",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_FoundingMLEngineer18.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-at-persistent-systems-4430430376/": {
+    "title": "Data Scientist",
+    "company": "Persistent Systems",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:20:15.141919",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PersistentSystems_DataScientist.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-engineers-associate-at-infosys-4401148039/": {
+    "title": "AI Engineers Associate",
+    "company": "Infosys",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:20:26.201089",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_AIEngineersAssociate.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-python-sql-freelance-ai-trainer-at-mindrift-4430461582/": {
+    "title": "Data Scientist (Python & SQL) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T19:21:02.139585",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_DataScientistPythonS.md"
   }
 }
