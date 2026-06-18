@@ -1,72 +1,95 @@
-# AI JOB HUNTER V3 - Reporte 2026-06-18 07:34
+# AI JOB HUNTER V3 - Reporte 2026-06-18 15:43
 
-> **Extraidas:** 126 | **Filtradas:** 31 | **Procesadas hoy:** 14
-> **Total historico postulaciones:** 886 | **Emails enviados total:** 105
+> **Extraidas:** 126 | **Filtradas:** 39 | **Procesadas hoy:** 20
+> **Total historico postulaciones:** 906 | **Emails enviados total:** 119
 
 ---
 
-### [DRAFT - POSTULA MANUALMENTE]: Research Engineer (Machine Learning & EdTech) @ Pyxeda Inc
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=026c559be3ab013c
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PyxedaInc_ResearchEngineerMach.md
+### [DRAFT - POSTULA MANUALMENTE]: AI Data Scientist @ General Dynamics Information Technology
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=47cd719919eded38
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/GeneralDynamicsInfor_AIDataScientist.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer - Agentic Retrieval @ Zoom Communications
-- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=d92afffe49385aa1
+### [EMAIL ENVIADO]: AI Engineer, Industrial @ IFF
+- **Email enviado a:** atiqah.adawiah@iff.com
+- **Fuente:** Google Jobs (Indeed)
+
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ Zoom Communications
+- **APLICA AQUI:** https://www.indeed.com/viewjob?jk=26f585fd82f96ad5
 - **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ZoomCommunications_MachineLearningEngin.md
 - **Fuente:** Google Jobs (Indeed)
 
-### [EMAIL ENVIADO]: Data Scientist — Machine Learning Practitioner @ BlueConduit
-- **Email enviado a:** lorne@blueconduit.com
+### [EMAIL ENVIADO]: Cyber Data Scientist IV @ Arcfield
+- **Email enviado a:** donald.yeo@arcfield.com
 - **Fuente:** Google Jobs (Indeed)
 
-### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer (f/m/d) @ A1 Competence Delivery Center @ A1 Bulgaria
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-f-m-d-%40-a1-competence-delivery-center-at-a1-bulgaria-4429966219/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/A1Bulgaria_MachineLearningEngin.md
+### [EMAIL ENVIADO]: Data Scientist @ Recommend
+- **Email enviado a:** paloma@recommend.com
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Playtech Managed Services
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-playtech-managed-services-4419196712/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/PlaytechManagedServi_AIEngineer.md
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ QUADRON Analytica & Cybersecurity
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-quadron-analytica-cybersecurity-4429035591/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/QUADRONAnalyticaCybe_DataScientist.md
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: AI Engineer (NLP/ Chatbot) @ Sapo Technology JSC
-- **Email enviado a:** tuyendung@sapo.vn
+### [EMAIL ENVIADO]: Data Scientist (all genders) @ Holidu
+- **Email enviado a:** johannes.siebers@holidu.com
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ Solita
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-solita-4427343343/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Solita_AIEngineer.md
+### [EMAIL ENVIADO]: Data Scientist (all genders) @ Lam Research
+- **Email enviado a:** victor.wang@lamresearch.com
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ NTT DATA Europe & Latam
-- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-ntt-data-europe-latam-4408198148/
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/NTTDATAEuropeLatam_AIEngineer.md
+### [EMAIL ENVIADO]: Data Scientist @ Empa-T
+- **Email enviado a:** bowesd9@empat.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: AI Engineer @ KPN
-- **Email enviado a:** martijn.schaap@kpn.com
+### [EMAIL ENVIADO]: Full Stack Data Scientist @ Nitor
+- **Email enviado a:** ella.raskila@nitor.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: AI Engineer ($150k-$300k + Equity) at Vibecode @ Jack & Jill
-- **Email enviado a:** carla@jackjill.com
+### [EMAIL ENVIADO]: Data Scientist @ Generali Tranquilidade
+- **Email enviado a:** candidaturas@tranquilidade.pt
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Python Developer @ Deloitte
-- **Email enviado a:** mtrozell@deloitte.com
+### [EMAIL ENVIADO]: Data Scientist/ML Ops Scientist @ Luxoft
+- **Email enviado a:** amorate@luxoft.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: Associate -Data Analyst @ Myntra
-- **Email enviado a:** anish.thomas@myntra.com
+### [EMAIL ENVIADO]: Data Scientist @ BioCatch
+- **Email enviado a:** david.greenwald@biocatch.com
 - **Fuente:** LinkedIn
 
-### [EMAIL ENVIADO]: AI/ML Engineer @ Air Apps
-- **Email enviado a:** janina.ferreira@airapps.com
+### [DRAFT - POSTULA MANUALMENTE]: Machine Learning Engineer @ ASOS.com
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-asos-com-4427843036/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/ASOScom_MachineLearningEngin.md
 - **Fuente:** LinkedIn
 
-### [DRAFT - POSTULA MANUALMENTE]: Python Developer @ Kindgeek
-- **APLICA AQUI:** https://remoteOK.com/remote-jobs/remote-python-developer-kindgeek-1133592
-- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Kindgeek_PythonDeveloper.md
-- **Fuente:** RemoteOK
+### [EMAIL ENVIADO]: Data Scientist I @ Mastercard
+- **Email enviado a:** mohamed.khalil@mastercard.com
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: Machine Learning Engineer @ Stefanini North America and APAC
+- **Email enviado a:** navneet.pathak@stefanini.com
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: Junior AI Engineer @ Haystack
+- **Email enviado a:** smaha@haystack.com
+- **Fuente:** LinkedIn
+
+### [EMAIL ENVIADO]: Machine Learning Engineer @ ICW Group
+- **Email enviado a:** jmello@icwgroup.com
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: AI Engineer @ H2O.ai
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/ai-engineer-at-h2o-ai-4430106298/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/H2Oai_AIEngineer.md
+- **Fuente:** LinkedIn
+
+### [DRAFT - POSTULA MANUALMENTE]: Data Scientist @ Infosys
+- **APLICA AQUI:** https://www.linkedin.com/jobs/view/data-scientist-at-infosys-4401848888/
+- **Carta guardada en:** /home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Infosys_DataScientist.md
+- **Fuente:** LinkedIn
 
 
 ---
