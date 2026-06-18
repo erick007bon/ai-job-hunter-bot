@@ -1,21 +1,24 @@
-# Cover Letter - Data Scientist / ML Ops Scientist @ Luxoft
+# Cover Letter - Data Scientist/ML Ops Scientist @ Luxoft
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** amorate@luxoft.com
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-ml-ops-scientist-at-luxoft-4427183419/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-ml-ops-scientist-at-luxoft-4430438130/
 
 ---
 
 Dear Luxoft team,
 
-I am writing to express my interest in the Data Scientist / ML Ops Scientist position. With a dual background in Economics and Data Science, I specialize in building end-to-end AI systems that bridge the gap between complex data modeling and scalable production.
+I am writing to apply for the Data Scientist/ML Ops Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
-Your requirement for LLM and MCP server development aligns perfectly with my recent work. I have developed a Multi-Agent System using the Model Context Protocol (MCP), where I engineered specialized agents for automated data scraping and financial analysis. This experience in building distributed agent architectures allows me to effectively implement the intelligent drift analysis and risk-based prioritization required for your Cyber Hygiene platforms.
+Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
-Additionally, my proficiency in MLOps—specifically using Docker, FastAPI, and GitHub Actions—ensures that I can design the scalable automation services and data enrichment layers your CISO organization needs to maintain regulatory compliance and proactive remediation. My experience with high-performance computing and cryptographic validation (FCH-ARX project) further strengthens my ability to handle the security-centric nature of this role.
+In my current role at Vamoret S.A., I lead sales data analysis and strategic decision-making using Power BI and advanced SQL, achieving measurable improvements in operational efficiency.
 
-I am eager to apply my expertise in predictive modeling and automation to enhance Luxoft's security infrastructure and contribute to the continuous risk reduction of your world-famous client.
+My English proficiency is B2 level, enabling effective collaboration in international remote teams. I am actively improving and can handle written and verbal communication in professional contexts.
 
-I have attached my CV for your review and would welcome the opportunity to discuss how my technical skills in MCP and MLOps can add value to your team.
+I would welcome the opportunity to discuss how my background aligns with your team's needs. My CV is attached.
 
 Best regards,
+FLORES ZAMBRANO ERICK
+Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning
+tu_email@gmail.com | GitHub: erick007bon

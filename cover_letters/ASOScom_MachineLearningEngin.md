@@ -1,12 +1,12 @@
-# Cover Letter - Machine Learning Engineer @ Zoom Communications
+# Cover Letter - Machine Learning Engineer @ ASOS.com
 
-**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.indeed.com/viewjob?jk=26f585fd82f96ad5
+**URL:** https://www.linkedin.com/jobs/view/machine-learning-engineer-at-asos-com-4427843036/
 
 ---
 
-Dear Zoom Communications team,
+Dear ASOS.com team,
 
 I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 

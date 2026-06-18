@@ -1,14 +1,14 @@
-# Cover Letter - Machine Learning Engineer @ Zoom Communications
+# Cover Letter - Full Stack Data Scientist @ Nitor
 
-**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
+**Fuente:** LinkedIn | **Email contacto:** ella.raskila@nitor.com
 
-**URL:** https://www.indeed.com/viewjob?jk=26f585fd82f96ad5
+**URL:** https://www.linkedin.com/jobs/view/full-stack-data-scientist-at-nitor-4430453176/
 
 ---
 
-Dear Zoom Communications team,
+Dear Nitor team,
 
-I am writing to apply for the Machine Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the Full Stack Data Scientist position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
