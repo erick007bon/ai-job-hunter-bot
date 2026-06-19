@@ -1,18 +1,21 @@
 # Cover Letter - Junior Data Scientist @ Why Hiring
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** RemoteOK | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/junior-data-scientist-at-why-hiring-4427321105/
+**URL:** https://remoteOK.com/remote-jobs/remote-junior-data-scientist-why-hiring-1133570
 
 ---
 
-Estimado equipo de Why Hiring,
+Dear Why Hiring team,
 
-I am writing to express my interest in the Junior Data Scientist position. With a background in combining econometrics and AI, I have developed robust analytical models and contributed to projects such as the FCH-ARX v2 cryptographic engine, where I applied advanced machine learning techniques. My expertise includes predictive modeling using Python libraries like scikit-learn and PyTorch, and I am proficient in deploying models via FastAPI for real-time inference.
+I am writing to apply for the Junior Data Scientist position. My background combines economics with data science, giving me a strong foundation in both quantitative analysis and machine learning—exactly the blend you seek for remote‑first teams.
 
-I am particularly drawn to this role because of your commitment to innovation and data-driven decision making. My experience in working with Power BI and SQL, along with my strong analytical skills, aligns well with the responsibilities outlined. I am eager to apply my knowledge in the context of your client projects, especially those integrating AI and automation.
+I have built end‑to‑end predictive pipelines using Python, scikit‑learn, and PyTorch, and I am comfortable deploying them with Docker and FastAPI. In my “Trading Algorítmico con Deep Learning” project, I created an LSTM model that forecasted S&P 500 price direction with 68 % directional accuracy, then wrapped the model in a FastAPI service, containerized it, and tracked experiments with MLflow. This experience aligns with your need for hands‑on model development, validation, and productionization.
 
-I would appreciate the opportunity to discuss how my skills can contribute to your team. Thank you for considering my application.
+Additionally, I have applied econometric techniques such as ARIMA and GARCH to volatility modeling, and I routinely translate results into actionable dashboards using Power BI and advanced SQL. My ability to turn complex data into clear visual stories will support your analytics reporting requirements.
 
-Sincerely,  
-Flores Zambrano Errick
+I am attracted to Why Hiring’s mission of connecting talent worldwide, and I am eager to contribute to a team that values data‑driven decision making in a fully remote environment.
+
+Thank you for reviewing my application. I would welcome the opportunity to discuss how my skills can add value to your projects. Please let me know a convenient time for a brief interview.
+
+MAGIC #RMTM0LjMzLjY4LjI0OA==

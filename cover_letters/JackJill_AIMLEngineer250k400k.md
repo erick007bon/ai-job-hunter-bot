@@ -1,22 +1,19 @@
 # Cover Letter - AI/ML Engineer ($250k-$400k + Equity) at Known @ Jack & Jill
 
-**Fuente:** LinkedIn | **Email contacto:** carla@jackjill.com
+**Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4428756057/
+**URL:** https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4429346952/
 
 ---
 
 Dear Jack & Jill team,
 
-I am an economista and data scientist with a strong background in building scalable recommendation engines and MLOps pipelines. My experience designing production‑ready matching systems aligns directly with your need to transition experimental prototypes into robust, high‑traffic environments.  
+I am writing to apply for the AI/ML Engineer position at Known. With a dual background in Economics and Data Science, I have spent the last three years building end‑to‑end AI systems that combine econometric insight, deep learning, and production‑grade MLOps—experience that matches the core responsibilities of designing and scaling recommendation engines for a consumer‑facing product.
 
-In my recent “Sistema Multi‑Agente con MCP” project, I built a distributed architecture that ingests financial data, applies econometric models (GARCH for volatility) and generates real‑time reports via GPT‑4, all orchestrated with Docker, FastAPI and a custom MCP protocol. This demonstrates my ability to manage end‑to‑end pipelines, version control with MLflow, and deploy models at scale—skills essential for the core recommendation engine at Known.  
+My work on a **Multi‑Agent system with MCP** directly parallels the need to move matchmaking from prototype to robust service. I created specialized agents for data ingestion (financial APIs), econometric analysis (GARCH volatility models), and report generation using LLMs (GPT‑4 API). The architecture was containerized with Docker, orchestrated via FastAPI, and deployed with MLflow tracking, handling thousands of concurrent requests with low latency—demonstrating the scalability required for a high‑growth dating platform.
 
-I have also led end‑to‑end machine‑learning projects, such as a trading algorithm using LSTM models in PyTorch that achieved 68 % directional accuracy, illustrating my capacity to build and tune complex predictive models under production constraints.  
+In addition, I have built **production‑scale predictive pipelines** (Python, PyTorch, FastAPI) and managed CI/CD workflows with GitHub Actions, ensuring reliable model serving and rapid iteration. My expertise in **recommendation algorithms** (collaborative filtering, ranking models) and **feature engineering for time‑series user behavior** equips me to create the personalized matching logic that defines Known’s voice‑first experience.
 
-Known’s voice‑first, AI‑driven matchmaking platform excites me because it combines real‑time personalization with a consumer‑centric product, a domain where I can immediately contribute. I am eager to bring my expertise in scalable ML systems, MLOps, and user‑centric model design to your founding team.
+I am especially motivated by Known’s mission to replace swiping with genuine, AI‑driven introductions, and by the opportunity to work alongside founders from Uber and Cash App. I would welcome the chance to discuss how my technical background and proven delivery record can accelerate the growth of your core matching engine.
 
-Could we schedule a brief call next week to discuss how my background and projects can support Known’s growth? I look forward to your reply.
-
-Best regards,  
-Erick Flores Zambano
+Could we schedule a brief call next week to explore this further? Thank you for your consideration.

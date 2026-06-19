@@ -1,14 +1,14 @@
-# Cover Letter - Deep Learning Engineer @ Hayden AI
+# Cover Letter - AI / Data Scientist (Performance / Model Maintenance) @ nan
 
-**Fuente:** LinkedIn | **Email contacto:** None
+**Fuente:** Google Jobs (Indeed) | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/deep-learning-engineer-at-hayden-ai-4430731353/
+**URL:** https://www.indeed.com/viewjob?jk=7cb8ae01af4195fa
 
 ---
 
-Dear Hayden AI team,
+Dear nan team,
 
-I am writing to apply for the Deep Learning Engineer position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
+I am writing to apply for the AI / Data Scientist (Performance / Model Maintenance) position. I am an Economist and Data Scientist with dual academic training (Economics + Data Science & AI Engineering), with hands-on experience in Python, Machine Learning, SQL, and AI-powered automation.
 
 Key highlights from my work: I built a multi-agent system using MCP (Model Context Protocol) for automated financial analysis, a PyTorch LSTM model for price forecasting with 68% directional accuracy, and a production-ready FastAPI/Docker REST API with CI/CD via GitHub Actions.
 
