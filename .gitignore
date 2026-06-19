@@ -43,3 +43,4 @@ test_*.txt
 # cover_letters/
 # reportes/
 # data/sent_log.json
+SECRETS_MAESTRO.md
