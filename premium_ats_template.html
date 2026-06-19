@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Erick Flores Zambrano - CV</title>
+  <style>
+    /* CSS for ATS-friendly Premium Design */
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+    
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: #1a1a1a;
+      line-height: 1.5;
+      margin: 0;
+      padding: 0;
+      background: white;
+    }
+    
+    .page {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px;
+      background: white;
+    }
+
+    @media print {
+      body {
+        -webkit-print-color-adjust: exact;
+      }
+      .page {
+        padding: 0;
+        width: 100%;
+        max-width: 100%;
+      }
+      .no-print {
+        display: none;
+      }
+      /* Ensure links don't show URLs in print */
+      a {
+        text-decoration: none;
+        color: inherit;
+      }
+    }
+
+    h1 {
+      font-size: 22px;
+      font-weight: 700;
+      margin: 0 0 4px 0;
+      color: #0A2540; /* Deep Blue Accent */
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      text-align: center;
+    }
+
+    .subtitle {
+      font-size: 13px;
+      font-weight: 600;
+      color: #1565C0;
+      margin: 0 0 8px 0;
+      text-align: center;
+    }
+
+    .contact-info {
+      font-size: 11px;
+      color: #4a4a4a;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .contact-info span {
+      margin: 0 4px;
+    }
+    
+    .contact-info a {
+      color: #4a4a4a;
+      text-decoration: none;
+    }
+
+    .section {
+      margin-bottom: 18px;
+    }
+
+    .section-title {
+      font-size: 13px;
+      font-weight: 700;
+      color: #0A2540;
+      border-bottom: 1px solid #0A2540;
+      padding-bottom: 3px;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    .summary {
+      font-size: 11px;
+      text-align: justify;
+      color: #2a2a2a;
+    }
+
+    .item-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 3px;
+    }
+
+    .item-title {
+      font-size: 12px;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .item-subtitle {
+      font-size: 11px;
+      font-weight: 500;
+      color: #555;
+    }
+    
+    .item-tech {
+      font-size: 10px;
+      font-weight: 600;
+      color: #1565C0;
+    }
+
+    .item-date {
+      font-size: 11px;
+      color: #555;
+      font-weight: 500;
+    }
+
+    .item-list {
+      margin: 0 0 10px 0;
+      padding-left: 18px;
+    }
+
+    .item-list li {
+      font-size: 11px;
+      color: #2a2a2a;
+      margin-bottom: 3px;
+    }
+
+    .skills-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 11px;
+    }
+
+    .skills-table td {
+      padding: 3px 0;
+      vertical-align: top;
+    }
+
+    .skills-category {
+      font-weight: 700;
+      color: #1a1a1a;
+      width: 25%;
+    }
+
+    .skills-list {
+      color: #2a2a2a;
+    }
+
+    .cert-list {
+      margin: 0;
+      padding-left: 18px;
+      font-size: 11px;
+    }
+
+    .cert-list li {
+      margin-bottom: 2px;
+      color: #2a2a2a;
+    }
+
+    .fab {
+      position: fixed;
+      bottom: 30px;
+      right: 30px;
+      background: #0A2540;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      box-shadow: 0 4px 12px rgba(10, 37, 64, 0.2);
+    }
+
+  </style>
+</head>
+<body>
+  <button class="fab no-print" onclick="window.print()">Export to PDF</button>
+  
+  <div class="page">
+    <!-- HEADER -->
+    <h1>ERICK REINALDO FLORES ZAMBRANO</h1>
+    <div class="subtitle">Economist & Data Scientist | AI Engineer | ML Engineer</div>
+    <div class="contact-info">
+      <span>eflores4006@utm.edu.ec</span> |
+      <span>+593 963951193</span> |
+      <span>Machala, Ecuador (Remote)</span><br/>
+      <span><a href="https://linkedin.com/in/erick-flores-zambrano-69075b198">linkedin.com/in/erick-flores-zambrano-69075b198</a></span> |
+      <span><a href="https://github.com/erick007bon">github.com/erick007bon</a></span>
+    </div>
+
+    <!-- SUMMARY -->
+    <div class="section">
+      <div class="section-title">Professional Summary</div>
+      <div class="summary">
+        Economist and Data Scientist with dual academic formation (Economics + Data Science & AI), specialized in the intersection of financial analysis, machine learning, and intelligent automation. Demonstrated experience building end-to-end AI solutions: from predictive models in Python (scikit-learn, PyTorch, TensorFlow) to conversational agent architectures with LLMs, API integrations, and MCP (Model Context Protocol) for multi-agent systems. Currently pursuing two simultaneous university degrees — a testament to discipline, self-directed learning, and resilience. Seeking a remote opportunity to contribute and grow.
+      </div>
+    </div>
+
+    <!-- PROJECTS -->
+    <div class="section">
+      <div class="section-title">Key Projects & Portfolio</div>
+      
+      <div class="item-header">
+        <div class="item-title">FCH-ARX V4 — Original Cryptographic Algorithm <span class="item-tech">[ Python, C, NIST FIPS 180-4 ]</span></div>
+      </div>
+      <ul class="item-list">
+        <li>Designed and implemented a novel hash algorithm from scratch using ARX (Add-Rotate-XOR) operations with mathematically derived constants (Tesla 3-6-9, 26 rounds).</li>
+        <li>Passed SAC-NIST test with 49.95% avalanche (SHA-256 reference: 50.02%). Speed: 185 MB/s in optimized C. Attack complexity: 2^256.</li>
+      </ul>
+
+      <div class="item-header">
+        <div class="item-title">AI Job Hunter Bot V4 — Autonomous 24/7 Agent <span class="item-tech">[ Python, LinkedIn API, Gmail API, OpenRouter, GitHub Actions ]</span></div>
+      </div>
+      <ul class="item-list">
+        <li>Full automation pipeline: scraping 9+ job platforms, real email verification via Hunter.io API, personalized cover letters generated with LLMs.</li>
+        <li>Automatic Gmail sending with CV attachment, anti-duplicate memory, and 24/7 deployment on GitHub Actions.</li>
+      </ul>
+
+      <div class="item-header">
+        <div class="item-title">Algorithmic Trading with Deep Learning <span class="item-tech">[ PyTorch, LSTM, Backtrader, MLflow, Python ]</span></div>
+      </div>
+      <ul class="item-list">
+        <li>LSTM model for S&P 500 price forecasting achieving 68% directional accuracy.</li>
+        <li>Complete pipeline: data ingestion, feature engineering, momentum/mean-reversion backtesting, experiment tracking with MLflow.</li>
+      </ul>
+      
+      <div class="item-header">
+        <div class="item-title">Multi-Agent System with MCP (Model Context Protocol) <span class="item-tech">[ Python, FastAPI, Docker, LLMs, GARCH ]</span></div>
+      </div>
+      <ul class="item-list">
+        <li>Distributed agent architecture for automated financial analysis: scraping agent (Alpha Vantage, TradingView), econometric agent (GARCH volatility models), LLM agent for executive report generation.</li>
+      </ul>
+
+      <div class="item-header">
+        <div class="item-title">RESTful API for Predictive Models <span class="item-tech">[ FastAPI, Docker, Random Forest, GitHub Actions ]</span></div>
+      </div>
+      <ul class="item-list">
+        <li>ML inference service in production: credit risk classification (Random Forest), Docker containerization, automatic Swagger documentation, pytest testing, basic CI/CD with GitHub Actions.</li>
+      </ul>
+    </div>
+
+    <!-- SKILLS -->
+    <div class="section">
+      <div class="section-title">Technical Skills</div>
+      <table class="skills-table">
+        <tr>
+          <td class="skills-category">AI / ML:</td>
+          <td class="skills-list">Python (expert), scikit-learn, PyTorch, TensorFlow, LLMs, Prompt Engineering, Hugging Face</td>
+        </tr>
+        <tr>
+          <td class="skills-category">Data Engineering:</td>
+          <td class="skills-list">SQL (advanced), PostgreSQL, ETL Pipelines, Pentaho, Airflow (concepts), Spark (concepts)</td>
+        </tr>
+        <tr>
+          <td class="skills-category">MLOps / DevOps:</td>
+          <td class="skills-list">FastAPI, Docker, REST APIs, GitHub Actions CI/CD, MLflow, Git</td>
+        </tr>
+        <tr>
+          <td class="skills-category">Finance / Econometrics:</td>
+          <td class="skills-list">Time Series (ARIMA, GARCH), Panel Data, Causal Inference, VaR, Backtesting</td>
+        </tr>
+        <tr>
+          <td class="skills-category">Business Intelligence:</td>
+          <td class="skills-list">Power BI (DAX, Power Query), Excel VBA, Data Storytelling, SQL Server</td>
+        </tr>
+        <tr>
+          <td class="skills-category">Languages:</td>
+          <td class="skills-list">Spanish (Native), English (B2 — technical reading/writing proficient)</td>
+        </tr>
+      </table>
+    </div>
+
+    <!-- EXPERIENCE -->
+    <div class="section">
+      <div class="section-title">Professional Experience</div>
+      
+      <div class="item-header">
+        <div>
+          <span class="item-title">Commercial Advisor</span>
+          <span class="item-subtitle">— Vamoret S.A. (Palmón Group)</span>
+        </div>
+        <div class="item-date">Nov 2022 – Present</div>
+      </div>
+      <ul class="item-list">
+        <li>Lead a team of 3 people in customer service and operational improvement.</li>
+        <li>Designed executive Power BI dashboards with real-time KPIs, RFM segmentation, and DAX forecasting — deployed in production.</li>
+        <li>Automated monthly inventory reporting with Excel VBA macros, reducing processing time by 60%.</li>
+        <li>Applied data analysis for pricing strategies and customer retention decisions.</li>
+      </ul>
+
+      <div class="item-header">
+        <div>
+          <span class="item-title">Commercial Advisor</span>
+          <span class="item-subtitle">— Hularuss S.A. (PepsiCo)</span>
+        </div>
+        <div class="item-date">Oct 2018 – Mar 2021</div>
+      </div>
+      <ul class="item-list">
+        <li>Managed a portfolio of clients using data-driven strategies (Excel + Power BI).</li>
+        <li>Trained new advisors in negotiation techniques and NLP (Neuro-Linguistic Programming).</li>
+        <li>Implemented inventory rotation and merchandising optimization at points of sale.</li>
+      </ul>
+    </div>
+
+    <!-- EDUCATION -->
+    <div class="section">
+      <div class="section-title">Education</div>
+      <div class="item-header">
+        <div class="item-title">B.Eng. Data Science & Artificial Intelligence — Universidad de Guayaquil</div>
+        <div class="item-date">2023 – Present</div>
+      </div>
+      <div class="item-header" style="margin-top: 5px;">
+        <div class="item-title">B.A. Economics — Universidad Técnica de Manabí (UTM)</div>
+        <div class="item-date">2021 – Present</div>
+      </div>
+      <ul class="item-list" style="margin-top: 5px;">
+        <li>★ Managing two simultaneous university degrees remotely — demonstrates exceptional time management, self-discipline, and commitment to continuous learning.</li>
+      </ul>
+    </div>
+
+    <!-- CERTIFICATIONS -->
+    <div class="section">
+      <div class="section-title">Certifications</div>
+      <ul class="cert-list">
+        <li>Python for Finance & Algorithmic Trading — Udemy (40h)</li>
+        <li>SQL for Big Data — IBM (40h)</li>
+        <li>Deep Learning Specialization — Coursera (in progress)</li>
+        <li>LLMs & Prompt Engineering — DeepLearning.AI (in progress)</li>
+        <li>Digital Marketing & Web Analytics — Google Activate (50h)</li>
+      </ul>
+    </div>
+
+  </div>
+</body>
+</html>

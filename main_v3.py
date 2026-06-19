@@ -38,6 +38,8 @@ from src.linkedin.linkedin_messenger import LinkedInMessenger
 from src.linkedin.recruiter_connector import RecruiterConnector
 from src.email.gmail_reply_bot import GmailReplyBot
 from src.notifications.telegram_notifier import notify_job_found, notify_cycle_summary
+from src.generator.dynamic_cv import DynamicCVGenerator
+
 
 def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = True):
     """
@@ -122,6 +124,7 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
     memory = MemoryStore()
     gemini = GeminiAgent()
     gmail = GmailSender() if send_emails else None
+    cv_gen = DynamicCVGenerator()
     
     processed = 0
     report_lines = []
@@ -147,11 +150,15 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
         cl_path = gemini.save_cover_letter(job, letter_text)
         subject = gemini.generate_email_subject(job)
         
+        print(f"    -> Generando CV en PDF adaptado (ATS Premium)...")
+        cv_summary = gemini.generate_cv_summary(job)
+        pdf_path = cv_gen.generate_tailored_pdf(job, summary_text=cv_summary)
+        
         email_sent = False
         contact_email = job.get('contact_email')  # None si no se encontro email real
         source = job.get('source', '').lower()
         
-        # Detectar idioma del trabajo para enviar CV correcto
+        # Detectar idioma del trabajo
         SPANISH_SOURCES = ['computrabajo', 'socioempleo', 'getonbrd', 'torre']
         use_english_cv = not any(s in source for s in SPANISH_SOURCES)
         lang_tag = '[EN CV]' if use_english_cv else '[ES CV]'
@@ -165,11 +172,11 @@ def main(send_emails: bool = False, max_new_jobs: int = 5, send_inmails: bool = 
         
         if can_send:
             print(f"    -> Enviando {lang_tag} a {contact_email} (email verificado)...")
-            email_sent = gmail.send(contact_email, subject, letter_text, use_english_cv=use_english_cv)
+            email_sent = gmail.send(contact_email, subject, letter_text, attachment_path=pdf_path)
         elif contact_email and send_emails and not job.get('email_verified', False):
             # Email encontrado pero no verificado -> enviar igual pero avisar
             print(f"    -> Enviando {lang_tag} a {contact_email} (email encontrado, no verificado)...")
-            email_sent = gmail.send(contact_email, subject, letter_text, use_english_cv=use_english_cv)
+            email_sent = gmail.send(contact_email, subject, letter_text, attachment_path=pdf_path)
         else:
             url = job.get('url', 'N/A')
             print(f"    -> Sin email real. Draft guardado. Postula aqui: {url[:70]}")
