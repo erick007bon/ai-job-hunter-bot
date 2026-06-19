@@ -7258,5 +7258,85 @@
     "applied_at": "2026-06-18T19:21:02.139585",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_DataScientistPythonS.md"
+  },
+  "https://www.indeed.com/viewjob?jk=ba4fa93d3c60e5d1": {
+    "title": "Data Scientist II",
+    "company": "Kansas City National Security Campus",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T23:46:17.120624",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/KansasCityNationalSe_DataScientistII.md"
+  },
+  "https://www.indeed.com/viewjob?jk=414044f59a11de91": {
+    "title": "Visiting Research Scientist - Astronomy",
+    "company": "University of Illinois",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T23:46:27.429537",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/UniversityofIllinois_VisitingResearchScie.md"
+  },
+  "https://www.indeed.com/viewjob?jk=7cb8ae01af4195fa": {
+    "title": "AI / Data Scientist (Performance / Model Maintenance)",
+    "company": "nan",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T23:46:37.676037",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/nan_AIDataScientistPerfo.md"
+  },
+  "https://www.indeed.com/viewjob?jk=b48e2f4d6837c853": {
+    "title": "Special Missions Data Engineer",
+    "company": "Booz Allen Hamilton",
+    "source": "Google Jobs (Indeed)",
+    "applied_at": "2026-06-18T23:46:51.808056",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/BoozAllenHamilton_SpecialMissionsDataE.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4120828049/": {
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T23:46:58.259369",
+    "email_sent_to": "accommodations-ext@meta.com",
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Meta_DataScientistProduct.md"
+  },
+  "https://www.linkedin.com/jobs/view/deep-learning-engineer-at-hayden-ai-4430731353/": {
+    "title": "Deep Learning Engineer",
+    "company": "Hayden AI",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T23:47:07.183653",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/HaydenAI_DeepLearningEngineer.md"
+  },
+  "https://www.linkedin.com/jobs/view/ai-ml-engineer-%24250k-%24400k-%2B-equity-at-known-at-jack-jill-4429346952/": {
+    "title": "AI/ML Engineer ($250k-$400k + Equity) at Known",
+    "company": "Jack & Jill",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T23:47:22.926253",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/JackJill_AIMLEngineer250k400k.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-python-sql-freelance-ai-trainer-at-mindrift-4430477266/": {
+    "title": "Data Scientist (Python & SQL) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T23:47:40.755999",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_DataScientistPythonS.md"
+  },
+  "https://www.linkedin.com/jobs/view/data-scientist-python-sql-freelance-ai-trainer-at-mindrift-4430464458/": {
+    "title": "Data Scientist (Python & SQL) - Freelance AI Trainer",
+    "company": "Mindrift",
+    "source": "LinkedIn",
+    "applied_at": "2026-06-18T23:48:01.323189",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/Mindrift_DataScientistPythonS.md"
+  },
+  "https://remoteOK.com/remote-jobs/remote-junior-data-scientist-why-hiring-1133570": {
+    "title": "Junior Data Scientist",
+    "company": "Why Hiring",
+    "source": "RemoteOK",
+    "applied_at": "2026-06-18T23:48:23.041373",
+    "email_sent_to": null,
+    "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md"
   }
 }
