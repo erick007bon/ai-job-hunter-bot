@@ -2,24 +2,18 @@
 
 **Fuente:** LinkedIn | **Email contacto:** None
 
-**URL:** https://www.linkedin.com/jobs/view/data-scientist-python-sql-freelance-ai-trainer-at-mindrift-4430461582/
+**URL:** https://www.linkedin.com/jobs/view/data-scientist-python-sql-freelance-ai-trainer-at-mindrift-4430464458/
 
 ---
 
 Dear Mindrift team,
 
-I am writing to apply for the Data Scientist (Python & SQL) – Freelance AI Trainer position. With a dual background in Economics and Data Science, I have built end‑to‑end AI solutions that combine predictive modeling, MLOps, and financial analytics—exactly the blend Mindrift seeks.
+I am a data scientist with over five years of experience building end‑to‑end AI solutions that deliver measurable business impact. My expertise in Python, Pandas, Scikit‑learn, and SQL aligns directly with your requirement for creating computationally intensive, reproducible problems. In my “Trading Algorítmico con Deep Learning” project, I designed a full pipeline—from data ingestion and feature engineering to LSTM forecasting and backtesting—that produced a 68 % directional accuracy on S&P 500 prices. This experience demonstrates my ability to craft realistic, industry‑relevant scenarios that span the entire data science lifecycle.
 
-My recent **Trading Algorítmico con Deep Learning** project demonstrates the core competencies required for this role. I designed a full pipeline in Python (pandas, PyTorch) that ingested historical S&P 500 data, performed feature engineering, trained an LSTM model, and back‑tested trading signals with 68 % directional accuracy. The solution was containerized with Docker, exposed through a FastAPI endpoint, and tracked with MLflow, showcasing my ability to move models from research to production.
+I also bring strong MLOps skills; I have deployed predictive models using FastAPI and Docker, and I have integrated multi‑agent architectures via MCP for automated financial analysis. These capabilities will enable me to create deterministic, reproducible problem sets that mirror real‑world workflows and can be validated programmatically.
 
-Key skills that align with your needs:
+I am excited about Mindrift’s focus on testing and improving AI systems, as it offers an opportunity to apply my analytical rigor to novel challenges. I am eager to contribute to your project portfolio and help shape the next generation of AI training datasets.
 
-* **Python & SQL expertise** – daily use of advanced SQL (window functions, CTEs) for data extraction and manipulation, coupled with Python libraries (scikit‑learn, PyTorch) for model development.  
-* **MLOps & deployment** – Docker, FastAPI, and CI/CD pipelines (GitHub Actions) ensure reliable, scalable model serving.  
-* **AI training & LLM integration** – experience building conversational agents with GPT‑4 API and prompt engineering, ready to support Mindrift’s AI trainer initiatives.
+Could we schedule a brief call to discuss how my background fits your current projects? I look forward to your reply.
 
-I am attracted to Mindrift’s focus on cutting‑edge AI tools and its collaborative freelance model, which matches my preference for delivering high‑impact solutions on flexible terms.
-
-Could we schedule a short call next week to discuss how my experience can accelerate your AI training projects? I look forward to the opportunity.
-
-Best regards.
+Best regards,
