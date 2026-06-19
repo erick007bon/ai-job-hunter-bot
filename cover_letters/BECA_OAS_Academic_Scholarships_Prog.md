@@ -7,28 +7,10 @@
 
 ---
 
-I am writing to apply for this scholarship opportunity. As an independent researcher 
-from Ecuador, I have been developing FCH-ARX V4, a novel cryptographic hash algorithm that successfully 
-passed the NIST FIPS 180-4 standard validation, achieving a 49.95% avalanche effect and demonstrating 
-2^256 collision resistance.
+The escalating vulnerability of IoT and embedded systems in Latin America demands a paradigm shift in lightweight cryptography. Current encryption standards often exceed the computational constraints of edge devices, creating a security gap that exposes critical infrastructure to systemic risk. My research addresses this by optimizing the intersection of cryptographic efficiency and artificial intelligence to secure low-power environments.
 
-My research sits at the intersection of applied cryptography and embedded systems AI, addressing real 
-security needs for IoT devices that cannot afford hardware SHA accelerators. While pursuing dual degrees 
-in Economics and Data Science & AI Engineering, I have conducted this research independently while 
-working full-time — a testament to my commitment to advancing my field.
+The development of FCH-ARX V4 represents my commitment to this challenge. By engineering a cryptographic hash algorithm that achieved a 49.95% avalanche effect and $2^{256}$ collision resistance—successfully passing NIST FIPS 180-4 validation—I have demonstrated my ability to contribute original, publishable research to the global cybersecurity landscape. However, achieving these results while working full-time as a Commercial Advisor has highlighted a significant gap: the necessity of a dedicated academic environment to transition from independent discovery to rigorous, scalable scientific contribution.
 
-This scholarship would allow me to dedicate full attention to formalizing the mathematical proof of 
-FCH-ARX V4, extending it to a 512-bit variant for digital signatures, and publishing in indexed 
-Latin American journals (Scielo, RISTI). I am seeking peer review from external cryptographers to 
-strengthen the academic contribution.
+My dual background in Economics (UTM) and Data Science & AI (University of Guayaquil) provides a unique multidisciplinary perspective. While my technical skills in PyTorch and MLOps allow me to build complex systems, my training in econometrics enables me to apply rigorous causal inference and statistical validation to AI-driven security models. This hybrid profile allows me to analyze not only the technical viability of an algorithm but also its socio-economic impact on digital transformation in the region.
 
-My background in economics combined with computer science gives me a unique perspective on optimization 
-problems — I approach algorithm design with both mathematical rigor and practical resource constraints 
-in mind.
-
-I would be honored to represent Ecuador and Latin America in this program.
-
-Sincerely,
-Erick Flores Zambrano
-Data Science & AI Engineering Student | Independent Cryptography Researcher
-adanrivas6655@gmail.com | github.com/erick007bon
+With the support of the OAS Academic Scholarship, I intend to pursue a graduate degree focusing on AI-enhanced cryptography. My research plan involves integrating LLMs and multi-agent systems via MCP (Model Context Protocol) to automate the detection of cryptographic vulnerabilities in embedded firmware. By leveraging this funding, I aim to evolve FCH-ARX V4 into a standardized framework for secure IoT communications, fostering a more resilient digital ecosystem for OAS member states and bridging the technological divide in Latin America.
