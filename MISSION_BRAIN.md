@@ -1,6 +1,9 @@
-# 🧠 MISSION BRAIN — AI JOB HUNTER V4
-**Estado: 🟢 PRODUCCION AUTONOMA 24/7 (Fase 1, 2 y 3)**
-**Ultima actualizacion: 15 Mayo 2026**
+# 🧠 MISSION BRAIN — AI Job Hunter V6
+> Actualizado: 2026-06-19 | Estado: **AUTO-POSTULACIÓN ACTIVA**
+
+## Versión actual: V6 (Playwright Auto-Apply)
+- V5: Scraping + Telegram notify
+- **V6: Scraping + Playwright Auto-Apply + Telegram summary ← ACTUAL**
 
 ---
 
