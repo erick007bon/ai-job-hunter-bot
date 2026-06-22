@@ -7,10 +7,28 @@
 
 ---
 
-Modern IoT and embedded systems face a critical vulnerability: the trade-off between cryptographic security and computational overhead. Existing hash functions often lack the efficiency required for low-power hardware without sacrificing collision resistance. My research addresses this gap through the development of **FCH-ARX V4**, a cryptographic hash algorithm optimized for high performance and robust security.
+I am writing to apply for this scholarship opportunity. As an independent researcher 
+from Ecuador, I have been developing FCH-ARX V4, a novel cryptographic hash algorithm that successfully 
+passed the NIST FIPS 180-4 standard validation, achieving a 49.95% avalanche effect and demonstrating 
+2^256 collision resistance.
 
-The FCH-ARX V4 has already demonstrated significant technical viability, passing NIST FIPS 180-4 validation with a 49.95% avalanche effect and $2^{256}$ collision resistance. This project aligns perfectly with the AI Grants mission of supporting independent, high-impact research that pushes the boundaries of algorithmic efficiency. My unique academic background—a double degree in Economics and Data Science & AI Engineering—allows me to approach this problem from a dual perspective: applying rigorous econometric causal inference to analyze model behavior and utilizing deep learning to optimize cryptographic permutations.
+My research sits at the intersection of applied cryptography and embedded systems AI, addressing real 
+security needs for IoT devices that cannot afford hardware SHA accelerators. While pursuing dual degrees 
+in Economics and Data Science & AI Engineering, I have conducted this research independently while 
+working full-time — a testament to my commitment to advancing my field.
 
-Currently, I conduct this research independently while working full-time as a Commercial Advisor. While my professional role provides stability, it creates a significant temporal gap that limits the speed of my iterations. This grant would serve as the catalyst to transition from part-time experimentation to full-time research, providing the necessary resources to move FCH-ARX V4 from a validated prototype to a published, peer-reviewed contribution to the AI and security community.
+This scholarship would allow me to dedicate full attention to formalizing the mathematical proof of 
+FCH-ARX V4, extending it to a 512-bit variant for digital signatures, and publishing in indexed 
+Latin American journals (Scielo, RISTI). I am seeking peer review from external cryptographers to 
+strengthen the academic contribution.
 
-With this funding, I will execute a three-stage plan: first, conducting a comparative stress-test against SHA-3 across diverse embedded architectures; second, integrating an AI-driven optimization layer to refine the algorithm's throughput; and third, formalizing the results into a technical paper for publication in a top-tier venue (such as IACR or similar). My goal is to provide the open-source community with a lightweight, secure hashing standard that enables safer, faster AI-driven edge computing.
+My background in economics combined with computer science gives me a unique perspective on optimization 
+problems — I approach algorithm design with both mathematical rigor and practical resource constraints 
+in mind.
+
+I would be honored to represent Ecuador and Latin America in this program.
+
+Sincerely,
+Erick Flores Zambrano
+Data Science & AI Engineering Student | Independent Cryptography Researcher
+adanrivas6655@gmail.com | github.com/erick007bon
