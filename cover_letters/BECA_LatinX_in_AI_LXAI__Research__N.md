@@ -7,10 +7,28 @@
 
 ---
 
-The critical challenge in securing IoT and embedded systems lies in the trade-off between cryptographic robustness and computational overhead. Current standards often struggle to maintain high security without sacrificing energy efficiency in resource-constrained hardware. My research addresses this gap through the development of FCH-ARX V4, a cryptographic hash algorithm designed for high-performance integrity verification. Rigorous testing against NIST FIPS 180-4 standards confirms a 49.95% avalanche effect and $2^{256}$ collision resistance, proving its viability for secure, low-latency AI-driven edge computing.
+I am writing to apply for this scholarship opportunity. As an independent researcher 
+from Ecuador, I have been developing FCH-ARX V4, a novel cryptographic hash algorithm that successfully 
+passed the NIST FIPS 180-4 standard validation, achieving a 49.95% avalanche effect and demonstrating 
+2^256 collision resistance.
 
-As a researcher from Ecuador, I have pursued this work independently while balancing a full-time role as a Commercial Advisor. This gap between my professional duties and my intellectual ambitions has limited my access to peer review and high-level academic mentorship. Joining LatinX in AI would bridge this divide, providing the institutional scaffolding necessary to transition from independent development to rigorous, publishable AI research.
+My research sits at the intersection of applied cryptography and embedded systems AI, addressing real 
+security needs for IoT devices that cannot afford hardware SHA accelerators. While pursuing dual degrees 
+in Economics and Data Science & AI Engineering, I have conducted this research independently while 
+working full-time — a testament to my commitment to advancing my field.
 
-My dual background in Economics and Data Science & AI Engineering grants me a unique perspective: I combine the mathematical rigor of econometrics and causal inference with the technical scalability of MLOps and LLM orchestration. This intersection allows me to approach AI not just as a tool, but as a systemic optimization problem.
+This scholarship would allow me to dedicate full attention to formalizing the mathematical proof of 
+FCH-ARX V4, extending it to a 512-bit variant for digital signatures, and publishing in indexed 
+Latin American journals (Scielo, RISTI). I am seeking peer review from external cryptographers to 
+strengthen the academic contribution.
 
-With the support of LXAI, my concrete plan is to submit my findings on FCH-ARX V4 to top-tier conferences such as NeurIPS or ICML. I aim to integrate my algorithm into multi-agent systems using Model Context Protocol (MCP) to create secure, verifiable communication channels for autonomous AI agents. By leveraging LXAI’s networking opportunities, I intend to collaborate with leading researchers to refine my model's efficiency, ensuring that Latin American contributions are represented in the global discourse on secure, decentralized AI. This scholarship is the catalyst I need to shift my trajectory from the commercial sector toward a full-time commitment to AI innovation.
+My background in economics combined with computer science gives me a unique perspective on optimization 
+problems — I approach algorithm design with both mathematical rigor and practical resource constraints 
+in mind.
+
+I would be honored to represent Ecuador and Latin America in this program.
+
+Sincerely,
+Erick Flores Zambrano
+Data Science & AI Engineering Student | Independent Cryptography Researcher
+adanrivas6655@gmail.com | github.com/erick007bon
