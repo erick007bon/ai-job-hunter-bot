@@ -7,28 +7,10 @@
 
 ---
 
-I am writing to apply for this scholarship opportunity. As an independent researcher 
-from Ecuador, I have been developing FCH-ARX V4, a novel cryptographic hash algorithm that successfully 
-passed the NIST FIPS 180-4 standard validation, achieving a 49.95% avalanche effect and demonstrating 
-2^256 collision resistance.
+The escalating vulnerability of IoT and embedded systems in Latin America demands lightweight yet robust cryptographic standards that balance computational efficiency with high security. My research focuses on this critical intersection: developing optimized hashing algorithms that can secure edge devices without compromising processing power. This objective culminated in my development of FCH-ARX V4, a cryptographic hash algorithm that successfully passed NIST FIPS 180-4 validation, achieving a 49.95% avalanche effect and $2^{256}$ collision resistance.
 
-My research sits at the intersection of applied cryptography and embedded systems AI, addressing real 
-security needs for IoT devices that cannot afford hardware SHA accelerators. While pursuing dual degrees 
-in Economics and Data Science & AI Engineering, I have conducted this research independently while 
-working full-time — a testament to my commitment to advancing my field.
+While my current role as a Commercial Advisor at Vamoret S.A. provides professional stability, it creates a significant gap between my potential and my daily activities. I have been conducting high-level research independently, but to elevate FCH-ARX V4 from a validated prototype to a publishable, industry-standard framework, I require the rigorous academic ecosystem and advanced infrastructure available in Germany. This scholarship is the essential catalyst to transition from self-taught exploration to formal AI research.
 
-This scholarship would allow me to dedicate full attention to formalizing the mathematical proof of 
-FCH-ARX V4, extending it to a 512-bit variant for digital signatures, and publishing in indexed 
-Latin American journals (Scielo, RISTI). I am seeking peer review from external cryptographers to 
-strengthen the academic contribution.
+My profile offers a unique multidisciplinary synergy: the analytical rigor of an Economist combined with the technical depth of a Data Scientist. This duality allows me to approach AI not just as a coding challenge, but as a systemic optimization problem, integrating econometric causal inference with machine learning architectures to ensure model reliability and scalability.
 
-My background in economics combined with computer science gives me a unique perspective on optimization 
-problems — I approach algorithm design with both mathematical rigor and practical resource constraints 
-in mind.
-
-I would be honored to represent Ecuador and Latin America in this program.
-
-Sincerely,
-Erick Flores Zambrano
-Data Science & AI Engineering Student | Independent Cryptography Researcher
-REDACTED_EMAIL@example.com | github.com/erick007bon
+With DAAD funding, my objective is to integrate my cryptographic research with AI-driven automation. I plan to develop a framework for "intelligent security," where LLM-driven agents optimize cryptographic parameters in real-time based on network threats. By leveraging Germany's leadership in STEM and MLOps, I aim to create secure, scalable AI architectures that can be implemented in Ecuador’s developing digital infrastructure, bridging the gap between academic theory and practical, development-related applications. I am prepared to dedicate my full capacity to advancing the frontiers of secure AI, contributing to both the German academic community and Latin America's technological sovereignty.
