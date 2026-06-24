@@ -7,28 +7,10 @@
 
 ---
 
-I am writing to apply for this scholarship opportunity. As an independent researcher 
-from Ecuador, I have been developing FCH-ARX V4, a novel cryptographic hash algorithm that successfully 
-passed the NIST FIPS 180-4 standard validation, achieving a 49.95% avalanche effect and demonstrating 
-2^256 collision resistance.
+Modern IoT and embedded systems face a critical vulnerability: the trade-off between computational efficiency and cryptographic security. My research focuses on solving this by developing lightweight, high-performance hashing algorithms capable of securing edge devices without draining limited resources. This culminated in the development of FCH-ARX V4, a cryptographic hash algorithm that successfully passed NIST FIPS 180-4 validation, achieving a 49.95% avalanche effect and $2^{256}$ collision resistance.
 
-My research sits at the intersection of applied cryptography and embedded systems AI, addressing real 
-security needs for IoT devices that cannot afford hardware SHA accelerators. While pursuing dual degrees 
-in Economics and Data Science & AI Engineering, I have conducted this research independently while 
-working full-time — a testament to my commitment to advancing my field.
+However, bridging the gap between theoretical cryptography and scalable AI deployment requires a structured ecosystem. While my double degree in Economics (UTM) and Data Science & AI Engineering (U. Guayaquil) provides me with a unique interdisciplinary perspective—combining econometric rigor with machine learning architecture—my current professional role as a Commercial Advisor limits my ability to dedicate the necessary time to advanced research and community building. I am currently researching independently, but the DeepLearning.AI Ambassador program would provide the official framework and networking catalyst needed to transition from a solo researcher to a central figure in Ecuador's AI landscape.
 
-This scholarship would allow me to dedicate full attention to formalizing the mathematical proof of 
-FCH-ARX V4, extending it to a 512-bit variant for digital signatures, and publishing in indexed 
-Latin American journals (Scielo, RISTI). I am seeking peer review from external cryptographers to 
-strengthen the academic contribution.
+Becoming an Ambassador allows me to synthesize my expertise in LLMs, MCP (Model Context Protocol), and MLOps to foster a local hub of innovation. My goal is to move beyond isolated development and build a collaborative environment where AI can optimize cryptographic security and financial automation.
 
-My background in economics combined with computer science gives me a unique perspective on optimization 
-problems — I approach algorithm design with both mathematical rigor and practical resource constraints 
-in mind.
-
-I would be honored to represent Ecuador and Latin America in this program.
-
-Sincerely,
-Erick Flores Zambrano
-Data Science & AI Engineering Student | Independent Cryptography Researcher
-adanrivas6655@gmail.com | github.com/erick007bon
+If selected, my plan is to organize a series of specialized meetups focused on "AI for Secure Systems," translating complex concepts like multi-agent architectures and causal inference into practical workshops for Ecuadorian developers. By leveraging the support of Andrew Ng’s team, I intend to bridge the gap between academic research and industrial application, positioning Ecuador as a regional leader in secure, AI-driven automation. I am eager to leverage this opportunity to transform my technical research into a community-driven movement.
