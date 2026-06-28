@@ -7,10 +7,28 @@
 
 ---
 
-The challenge of securing data integrity in resource-constrained IoT and embedded systems requires a paradigm shift: moving beyond computationally expensive standards toward lightweight, high-entropy cryptographic primitives. My research focuses on this intersection, specifically the optimization of hashing algorithms that maintain rigorous security bounds while minimizing latency and power consumption.
+I am writing to apply for this scholarship opportunity. As an independent researcher 
+from Ecuador, I have been developing FCH-ARX V4, a novel cryptographic hash algorithm that successfully 
+passed the NIST FIPS 180-4 standard validation, achieving a 49.95% avalanche effect and demonstrating 
+2^256 collision resistance.
 
-My development of FCH-ARX V4 is a testament to this pursuit. By achieving a 49.95% avalanche effect and $2^{256}$ collision resistance—passing NIST FIPS 180-4 validation—I have demonstrated that original, publishable cryptographic innovation is possible through a rigorous, iterative approach. However, as an independent researcher balancing a full-time role as a Commercial Advisor, my capacity to scale this research is limited by time and compute. The OpenAI Residency represents the critical bridge I need to transition from isolated experimentation to high-impact, full-time AI research.
+My research sits at the intersection of applied cryptography and embedded systems AI, addressing real 
+security needs for IoT devices that cannot afford hardware SHA accelerators. While pursuing dual degrees 
+in Economics and Data Science & AI Engineering, I have conducted this research independently while 
+working full-time — a testament to my commitment to advancing my field.
 
-My value proposition lies in my hybrid academic foundation. Combining a degree in Economics (UTM) with ongoing studies in Data Science and AI Engineering (U. Guayaquil) allows me to approach AI not just as a coder, but as a systems thinker. I apply econometric rigor—utilizing causal inference and time-series analysis—to validate the stability and predictability of machine learning architectures, a perspective that is often missing in pure CS profiles.
+This scholarship would allow me to dedicate full attention to formalizing the mathematical proof of 
+FCH-ARX V4, extending it to a 512-bit variant for digital signatures, and publishing in indexed 
+Latin American journals (Scielo, RISTI). I am seeking peer review from external cryptographers to 
+strengthen the academic contribution.
 
-At OpenAI, I intend to explore the synergy between LLMs and cryptographic automation. My goal is to develop a framework for "Automated Cryptographic Verification," utilizing multi-agent systems and the Model Context Protocol (MCP) to autonomously detect vulnerabilities in hash functions and synthesize optimized primitives for embedded AI. By integrating my expertise in PyTorch and MLOps with OpenAI’s frontier models, I aim to accelerate the discovery of secure, lightweight algorithms that ensure the privacy of the next billion connected devices. I am ready to contribute a unique Latin American perspective to the vanguard of AGI.
+My background in economics combined with computer science gives me a unique perspective on optimization 
+problems — I approach algorithm design with both mathematical rigor and practical resource constraints 
+in mind.
+
+I would be honored to represent Ecuador and Latin America in this program.
+
+Sincerely,
+Erick Flores Zambrano
+Data Science & AI Engineering Student | Independent Cryptography Researcher
+REDACTED_EMAIL@example.com | github.com/erick007bon
