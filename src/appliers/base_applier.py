@@ -55,9 +55,10 @@ class BaseApplier(ABC):
 
     async def _get_context(self, playwright) -> BrowserContext:
         """Crea un contexto de navegador persistente con stealth básico."""
+        headless_mode = os.environ.get("PLAYWRIGHT_HEADLESS", "true").lower() == "true"
         context = await playwright.chromium.launch_persistent_context(
             user_data_dir=self.profile_dir,
-            headless=True,
+            headless=headless_mode,
             args=[
                 "--disable-blink-features=AutomationControlled",
                 "--no-first-run",

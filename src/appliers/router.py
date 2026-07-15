@@ -16,7 +16,7 @@ def get_applier_for_url(url: str, source: str = "") -> Optional[BaseApplier]:
         search_text = f"{domain} {source}".lower()
         
         # Enrutamiento basado en dominios/fuentes
-        if any(kw in search_text for kw in ['computrabajo', 'socioempleo', 'multitrabajos', 'getonboard']):
+        if 'multitrabajos' in search_text:
             return MultitrabajosApplier()
             
         if 'greenhouse.io' in domain:
