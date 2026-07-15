@@ -71,22 +71,6 @@ class FunnelDB:
                 result.message
             ))
             conn.commit()
-            
-        # También guardar en JSON append-only como se solicitó
-        log_file = os.path.join(os.path.dirname(self.db_path), "funnel_log.json")
-        try:
-            import json
-            log_entry = {
-                "fecha": datetime.now().isoformat(),
-                "fuente": getattr(result, 'source', 'Desconocido'),
-                "portal": result.portal,
-                "keyword_match": "N/A", # Por ahora no lo tenemos en el result
-                "resultado": "applied" if result.success else "failed"
-            }
-            with open(log_file, "a", encoding="utf-8") as f:
-                f.write(json.dumps(log_entry) + "\n")
-        except Exception as e:
-            print(f"Error guardando en funnel_log.json: {e}")
 
     def record_reply(self, url: str, classification: str, email_body: str):
         """Registra una respuesta basada en la URL (si se conoce) o la empresa."""
@@ -108,19 +92,3 @@ class FunnelDB:
                 email_body
             ))
             conn.commit()
-            
-        # También guardar en JSON append-only
-        log_file = os.path.join(os.path.dirname(self.db_path), "funnel_log.json")
-        try:
-            import json
-            log_entry = {
-                "fecha": datetime.now().isoformat(),
-                "fuente": "Email Reply",
-                "portal": "N/A",
-                "keyword_match": "N/A",
-                "resultado": classification
-            }
-            with open(log_file, "a", encoding="utf-8") as f:
-                f.write(json.dumps(log_entry) + "\n")
-        except Exception as e:
-            print(f"Error guardando en funnel_log.json: {e}")
