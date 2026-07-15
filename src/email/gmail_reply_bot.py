@@ -301,6 +301,15 @@ Keep reply under 150 words. Sign as {nombre}."""
                 replied_count += 1
                 self.replied_log['replied_thread_ids'].append(thread_id)
                 self._save_replied_log()
+                
+                from src.memory.funnel_logger import log_funnel_event
+                log_funnel_event(
+                    fuente="gmail_reply",
+                    portal=company,
+                    keyword_match="",
+                    resultado=email_type,  # "positive" | "rejection" | "question"
+                    detalle=subject[:100]
+                )
 
                 # Notificar por Telegram
                 emoji = "🎉" if email_type == "positive" else ("❌" if email_type == "rejection" else "❓")
