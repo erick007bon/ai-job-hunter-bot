@@ -17,11 +17,10 @@ jobs:
 
       - name: 📦 Install dependencies
         run: |
-          pip install requests
+          pip install selenium webdriver-manager pyyaml pypdf validate_email openai requests
 
-      - name: 🚀 Run AI LinkedIn Demo
+      - name: 🚀 Run AI LinkedIn Auto-Apply
         env:
           LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
-          LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
         run: |
-          python send_live_inmail.py
+          python auto_apply_main.py
