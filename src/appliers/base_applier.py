@@ -19,6 +19,7 @@ class ApplyResult:
     url: str
     success: bool
     message: str = ""
+    source: str = ""
 
 
 class BaseApplier(ABC):

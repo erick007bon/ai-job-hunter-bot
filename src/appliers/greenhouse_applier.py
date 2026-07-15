@@ -28,7 +28,6 @@ class GreenhouseApplier(BaseApplier):
 
         if not url:
             result = ApplyResult(title, company, "Greenhouse", url, False, "URL vacía")
-            from src.memory.funnel_logger import log_funnel_event
             log_funnel_event(fuente=job.get('source', ''), portal="Greenhouse", keyword_match=job.get('matched_keyword', ''), resultado="failed", detalle="URL vacía")
             return result
 
@@ -101,7 +100,6 @@ class GreenhouseApplier(BaseApplier):
 
                 await context.close()
                 result = ApplyResult(title, company, "Greenhouse", url, True, "Formulario llenado — PENDIENTE de verificación visual antes de activar submit")
-                from src.memory.funnel_logger import log_funnel_event
                 log_funnel_event(
                     fuente=job.get('source', ''),
                     portal=result.portal,
@@ -113,7 +111,6 @@ class GreenhouseApplier(BaseApplier):
 
         except Exception as e:
             result = ApplyResult(title, company, "Greenhouse", url, False, f"Error Greenhouse: {str(e)[:100]}")
-            from src.memory.funnel_logger import log_funnel_event
             log_funnel_event(
                 fuente=job.get('source', ''),
                 portal=result.portal,
