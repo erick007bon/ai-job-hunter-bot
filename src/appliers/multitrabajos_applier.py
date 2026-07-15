@@ -119,11 +119,27 @@ class MultitrabajosApplier(BaseApplier):
                 if "hiringroom.com" in current_url:
                     result = await self._apply_hiringroom(page, title, company, url)
                     await context.close()
+                    from src.memory.funnel_logger import log_funnel_event
+                    log_funnel_event(
+                        fuente=job.get('source', ''),
+                        portal=result.portal,
+                        keyword_match=job.get('matched_keyword', ''),
+                        resultado="applied" if result.success else "failed",
+                        detalle=result.message
+                    )
                     return result
 
                 # Caso B: Formulario propio de Multitrabajos/Bumeran
                 result = await self._apply_native_form(page, title, company, url)
                 await context.close()
+                from src.memory.funnel_logger import log_funnel_event
+                log_funnel_event(
+                    fuente=job.get('source', ''),
+                    portal=result.portal,
+                    keyword_match=job.get('matched_keyword', ''),
+                    resultado="applied" if result.success else "failed",
+                    detalle=result.message
+                )
                 return result
 
             except Exception as e:
