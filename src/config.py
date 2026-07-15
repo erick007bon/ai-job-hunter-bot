@@ -17,8 +17,8 @@ class Config:
     HUNTER_API_KEY = os.environ.get("HUNTER_API_KEY", "")
     
     # LinkedIn Auth
-    LINKEDIN_LI_AT = os.environ.get("LINKEDIN_LI_AT", "<TU_COOKIE_LI_AT>")
-    LINKEDIN_JSESSIONID = os.environ.get("LINKEDIN_JSESSIONID", '"ajax:<TU_COOKIE_JSESSIONID>"')
+    LINKEDIN_LI_AT = os.environ.get("LINKEDIN_LI_AT", "")
+    LINKEDIN_JSESSIONID = os.environ.get("LINKEDIN_JSESSIONID", "")
 
     
     # Rutas

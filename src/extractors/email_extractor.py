@@ -9,7 +9,8 @@ from urllib.parse import urlparse
 
 # Hunter.io API - Encuentra emails corporativos REALES y verificados
 # Registrate gratis en hunter.io (25 busquedas/mes gratis)
-HUNTER_API_KEY = os.environ.get("HUNTER_API_KEY", "6245e0dd42c3e67005f70a76a896e392b2260bd6")
+from src.config import Config
+HUNTER_API_KEY = Config.HUNTER_API_KEY
 
 HUNTER_DOMAIN_SEARCH = "https://api.hunter.io/v2/domain-search"
 HUNTER_FIND       = "https://api.hunter.io/v2/email-finder"
@@ -137,7 +138,8 @@ class EmailExtractor:
         all_emails = []
         contact_paths = [
             '', '/careers', '/jobs', '/contact', '/about',
-            '/contacto', '/empleo', '/trabaja-con-nosotros'
+            '/contacto', '/empleo', '/trabaja-con-nosotros',
+            '/join-us', '/we-are-hiring', '/team'
         ]
         
         base = company_url.rstrip('/')
