@@ -27,7 +27,10 @@ class GreenhouseApplier(BaseApplier):
         company = job.get('company', 'Greenhouse')
 
         if not url:
-            return ApplyResult(title, company, "Greenhouse", url, False, "URL vacía")
+            result = ApplyResult(title, company, "Greenhouse", url, False, "URL vacía")
+            from src.memory.funnel_logger import log_funnel_event
+            log_funnel_event(fuente=job.get('source', ''), portal="Greenhouse", keyword_match=job.get('matched_keyword', ''), resultado="failed", detalle="URL vacía")
+            return result
 
         try:
             async with async_playwright() as p:
