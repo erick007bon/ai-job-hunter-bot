@@ -1,0 +1,1 @@
+# Auto-applier module

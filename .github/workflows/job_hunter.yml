@@ -89,6 +89,12 @@ jobs:
         python scholarship_hunter.py || echo "⚠️ scholarship_hunter.py fallo — continuando"
         echo "Búsqueda de becas completada."
 
+    - name: 🤖 Run Auto-Applier (Bajo el Agua)
+      env:
+        LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
+        LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
+      run: python run_applier.py || true
+
     - name: 📊 Commit y Push resultados
       run: |
         git config --global user.name "AI Job Hunter Bot 🤖"
