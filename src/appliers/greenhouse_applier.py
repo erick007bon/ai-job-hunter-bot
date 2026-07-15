@@ -45,6 +45,8 @@ class GreenhouseApplier(BaseApplier):
                     await self._human_delay(1.5, 3.0)
 
                 # --- 1. Subir CV ---
+                os.makedirs("debug_screenshots", exist_ok=True)
+                await page.screenshot(path=f"debug_screenshots/{company}_1_before_cv.png")
                 file_input = page.locator("input[type='file'][name='resume']")
                 if await file_input.count() > 0:
                     if os.path.exists(self.cv_path):
@@ -55,6 +57,7 @@ class GreenhouseApplier(BaseApplier):
                         print(f"  [GREENHOUSE] ⚠️ Archivo CV no encontrado: {self.cv_path}")
 
                 # --- 2. Llenar campos estándar ---
+                await page.screenshot(path=f"debug_screenshots/{company}_2_after_cv.png")
                 first_name = self.cv_data.get('personal_info', {}).get('name', 'Erick').split()[0]
                 last_name = " ".join(self.cv_data.get('personal_info', {}).get('name', 'Erick Flores').split()[1:])
                 email = self.cv_data.get('personal_info', {}).get('email', 'eflores4006@utm.edu.ec')
@@ -80,6 +83,7 @@ class GreenhouseApplier(BaseApplier):
                 # (La integracion real de LLM con gemini_agent ira aqui en el futuro)
                 
                 # --- 4. Enviar aplicación ---
+                await page.screenshot(path=f"debug_screenshots/{company}_3_before_submit.png")
                 submit_btn = page.locator("input#submit_app, button#submit_app")
                 if await submit_btn.count() > 0:
                     # COMENTADO POR SEGURIDAD HASTA QUE APRUEBE EL MODO HEADLESS=FALSE
@@ -93,7 +97,7 @@ class GreenhouseApplier(BaseApplier):
                 #     return ApplyResult(title, company, "Greenhouse", url, True, "Postulación exitosa a Greenhouse")
 
                 await context.close()
-                return ApplyResult(title, company, "Greenhouse", url, True, "Formulario Greenhouse llenado (Submit desactivado por seguridad)")
+                return ApplyResult(title, company, "Greenhouse", url, True, "Formulario llenado — PENDIENTE de verificación visual antes de activar submit")
 
         except Exception as e:
             return ApplyResult(title, company, "Greenhouse", url, False, f"Error Greenhouse: {str(e)[:100]}")
