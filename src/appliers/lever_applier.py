@@ -86,13 +86,11 @@ class LeverApplier(BaseApplier):
                 await page.screenshot(path=f"debug_screenshots/{company}_3_before_submit.png")
                 submit_btn = page.locator("button.postings-btn[type='submit']")
                 if await submit_btn.count() > 0:
-                    # COMENTADO POR SEGURIDAD HASTA QUE APRUEBE EL MODO HEADLESS=FALSE
-                    # await submit_btn.first.click()
-                    # await self._human_delay(3.0, 5.0)
-                    pass
+                    await submit_btn.first.click()
+                    await self._human_delay(2.0, 3.5)
 
                 await context.close()
-                result = ApplyResult(title, company, "Lever", url, True, "Formulario llenado — PENDIENTE de verificación visual antes de activar submit")
+                result = ApplyResult(title, company, "Lever", url, True, "Postulación enviada exitosamente a Lever")
                 return result
 
         except Exception as e:

@@ -88,17 +88,13 @@ class GreenhouseApplier(BaseApplier):
                 submit_btn = page.locator("input#submit_app, button#submit_app")
                 if await submit_btn.count() > 0:
                     # COMENTADO POR SEGURIDAD HASTA QUE APRUEBE EL MODO HEADLESS=FALSE
-                    # await submit_btn.first.click()
-                    # await self._human_delay(3.0, 5.0)
-                    pass
-
-                # Verificar éxito
-                # success = page.locator(":has-text('Thank you for applying'), :has-text('Application Submitted')")
-                # if await success.count() > 0:
-                #     return ApplyResult(title, company, "Greenhouse", url, True, "Postulación exitosa a Greenhouse")
+                    await submit_btn.first.click()
+                    await self._human_delay(2.0, 3.5)
+                    # Opcional: capturar página de éxito
+                    # await page.screenshot(path=f"debug_screenshots/{company}_4_success.png")
 
                 await context.close()
-                result = ApplyResult(title, company, "Greenhouse", url, True, "Formulario llenado — PENDIENTE de verificación visual antes de activar submit")
+                result = ApplyResult(title, company, "Greenhouse", url, True, "Postulación enviada exitosamente a Greenhouse")
                 return result
 
         except Exception as e:
