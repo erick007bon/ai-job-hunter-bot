@@ -25,6 +25,7 @@ from src.notifications.telegram_notifier import (
     notify_application_summary,
     send_telegram,
 )
+from src.email.gmail_sender import GmailSender
 
 # ── Credenciales del perfil ──────────────────────────────────────────────────
 PROFILE = {
@@ -94,6 +95,7 @@ def main(dry_run: bool = False):
 
     memory = MemoryStore()
     engine = MatchEngine()
+    gmail = GmailSender()
 
     # ── 1. SCRAPING ──────────────────────────────────────────────────────────
     scrapers = [
@@ -155,9 +157,39 @@ def main(dry_run: bool = False):
                     memory.mark_applied(job)
                     notify_applied(result)
                 else:
-                    # Registrar como "notificado" aunque no se auto-postuló
+                    email_sent = False
+                    if job.get('company_email'):
+                        print(f"  [EMAIL] Enviando correo en frío a {job['company_email']}")
+                        try:
+                            cover_letter = build_cover_letter(job)
+                            gmail.send_email(
+                                to_address=job['company_email'],
+                                subject=f"Postulación: {job.get('title')} - {PROFILE['name']}",
+                                body_text=cover_letter,
+                                cv_path=CV_PATH
+                            )
+                            email_sent = True
+                            print("  -> Correo enviado con éxito")
+                            
+                            # Mock object for applied_results
+                            class EmailResult:
+                                success = True
+                                job_title = job.get('title')
+                                company = job.get('company')
+                                portal = 'Cold Email'
+                                url = job.get('url')
+                                message = 'Correo enviado exitosamente'
+                            
+                            applied_results.append(EmailResult)
+                            memory.mark_applied(job)
+                        except Exception as e:
+                            print(f"  -> [ERROR CORREO] {e}")
+
                     notify_job_found(job)
-                    print(f"  [NOTIFY] Notificado por Telegram: {job.get('title')}")
+                    if email_sent:
+                        print(f"  [NOTIFY] Notificado por Telegram (CON CORREO): {job.get('title')}")
+                    else:
+                        print(f"  [NOTIFY] Notificado por Telegram (SIN CORREO): {job.get('title')}")
 
         except ImportError as e:
             print(f"[ERROR] Playwright no instalado: {e}")
