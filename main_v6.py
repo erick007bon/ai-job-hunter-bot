@@ -181,16 +181,19 @@ def main(dry_run: bool = False):
                             print("  -> Correo enviado con éxito")
                             
                             # Mock object for applied_results
-                            class EmailResult:
-                                success = True
-                                job_title = job.get('title')
-                                company = job.get('company')
-                                portal = 'Cold Email'
-                                url = job.get('url')
-                                message = 'Correo enviado exitosamente'
+                            email_result = ApplyResult(
+                                job_title=job.get('title'),
+                                company=job.get('company'),
+                                portal='Cold Email',
+                                url=job.get('url'),
+                                success=True,
+                                message='Correo enviado exitosamente',
+                                source=job.get('source', '')
+                            )
                             
-                            applied_results.append(EmailResult)
+                            applied_results.append(email_result)
                             memory.mark_applied(job)
+                            funnel.record_application(email_result)
                         except Exception as e:
                             print(f"  -> [ERROR CORREO] {e}")
 
@@ -203,6 +206,9 @@ def main(dry_run: bool = False):
         except ImportError as e:
             print(f"[ERROR] Playwright no instalado: {e}")
             print("  Ejecuta: pip install playwright && playwright install chromium")
+            print("  [FALLBACK] Notificando ofertas sin postular...")
+            for job in nuevas[:MAX_APPS]:
+                notify_job_found(job)
     else:
         # Sin auto-apply, solo notificar
         for job in nuevas[:MAX_APPS]:
