@@ -79,7 +79,10 @@ class MultitrabajosApplier(BaseApplier):
         url     = job.get("url", "")
 
         if not url:
-            return ApplyResult(title, company, "Multitrabajos", url, False, "Sin URL")
+            result = ApplyResult(title, company, "Multitrabajos", url, False, "Sin URL")
+            from src.memory.funnel_logger import log_funnel_event
+            log_funnel_event(fuente=job.get('source', ''), portal="Multitrabajos", keyword_match=job.get('matched_keyword', ''), resultado="failed", detalle="Sin URL")
+            return result
 
         print(f"\n  [MULTITRABAJOS] Postulando: {title} @ {company}")
 
@@ -92,7 +95,10 @@ class MultitrabajosApplier(BaseApplier):
                 logged = await self._login(page)
                 if not logged:
                     await context.close()
-                    return ApplyResult(title, company, "Multitrabajos", url, False, "Login fallido")
+                    result = ApplyResult(title, company, "Multitrabajos", url, False, "Login fallido")
+                    from src.memory.funnel_logger import log_funnel_event
+                    log_funnel_event(fuente=job.get('source', ''), portal="Multitrabajos", keyword_match=job.get('matched_keyword', ''), resultado="failed", detalle="Login fallido")
+                    return result
 
                 # 2. NAVEGAR A LA OFERTA
                 await page.goto(url, wait_until="domcontentloaded", timeout=30000)
@@ -107,7 +113,10 @@ class MultitrabajosApplier(BaseApplier):
 
                 if await apply_btn.count() == 0:
                     await context.close()
-                    return ApplyResult(title, company, "Multitrabajos", url, False, "Botón postular no encontrado")
+                    result = ApplyResult(title, company, "Multitrabajos", url, False, "Botón postular no encontrado")
+                    from src.memory.funnel_logger import log_funnel_event
+                    log_funnel_event(fuente=job.get('source', ''), portal="Multitrabajos", keyword_match=job.get('matched_keyword', ''), resultado="failed", detalle="Botón postular no encontrado")
+                    return result
 
                 await apply_btn.first.click()
                 await self._human_delay(2.0, 3.5)
@@ -144,7 +153,10 @@ class MultitrabajosApplier(BaseApplier):
 
             except Exception as e:
                 await context.close()
-                return ApplyResult(title, company, "Multitrabajos", url, False, f"Error: {str(e)[:100]}")
+                result = ApplyResult(title, company, "Multitrabajos", url, False, f"Error: {str(e)[:100]}")
+                from src.memory.funnel_logger import log_funnel_event
+                log_funnel_event(fuente=job.get('source', ''), portal="Multitrabajos", keyword_match=job.get('matched_keyword', ''), resultado="failed", detalle=result.message)
+                return result
 
     async def _apply_native_form(self, page, title, company, url) -> ApplyResult:
         """Formulario nativo de Multitrabajos/Bumeran."""
