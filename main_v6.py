@@ -143,18 +143,27 @@ def main(dry_run: bool = False):
     elif AUTO_APPLY and nuevas:
         # Importar aquí para no fallar si Playwright no está instalado en modo dry-run
         try:
-            from src.appliers.multitrabajos_applier import MultitrabajosApplier
-            applier = MultitrabajosApplier()
+            from src.appliers.router import get_applier_for_url
+            from src.memory.funnel_db import FunnelDB
+            
+            funnel = FunnelDB()
 
             for job in nuevas[:MAX_APPS]:
-                source = job.get('source', '').lower()
+                url = job.get('url', '')
+                source = job.get('source', '')
+                
+                applier = get_applier_for_url(url, source)
 
-                # Por ahora aplicamos vía Multitrabajos a ofertas locales Ecuador
-                if any(kw in source for kw in ['computrabajo', 'socioempleo', 'multitrabajos', 'getonboard']):
-                    print(f"\n[AUTO-APPLY] {job.get('title')} @ {job.get('company')}")
+                if applier:
+                    print(f"\n[AUTO-APPLY] {job.get('title')} @ {job.get('company')} via {applier.__class__.__name__}")
                     result = applier.apply_sync(job)
+                    
+                    # Añadir el source original al ApplyResult para la base de datos
+                    result.source = source 
+                    
                     applied_results.append(result)
                     memory.mark_applied(job)
+                    funnel.record_application(result)
                     notify_applied(result)
                 else:
                     email_sent = False
