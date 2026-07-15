@@ -17,8 +17,8 @@ class Config:
     HUNTER_API_KEY = os.environ.get("HUNTER_API_KEY", "")
     
     # LinkedIn Auth
-    LINKEDIN_LI_AT = os.environ.get("LINKEDIN_LI_AT", "AQEDAS5itwwF3emOAAABng9cFRwAAAGeM2iZHFYARzSAOR0x-uGv9sVHcBBlbUmMLWWwXtcte5JvQLNLbOY13JKrj_XwuyJCpjPbOB6nloxHxoznCCkyMnHJb0vq7RpWGm0uWheLrApMTGyVag56Es_W")
-    LINKEDIN_JSESSIONID = os.environ.get("LINKEDIN_JSESSIONID", '"ajax:9123054129527685968"')
+    LINKEDIN_LI_AT = os.environ.get("LINKEDIN_LI_AT", "")
+    LINKEDIN_JSESSIONID = os.environ.get("LINKEDIN_JSESSIONID", "")
 
     
     # Rutas
