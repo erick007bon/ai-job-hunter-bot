@@ -91,7 +91,25 @@ class LeverApplier(BaseApplier):
                     pass
 
                 await context.close()
-                return ApplyResult(title, company, "Lever", url, True, "Formulario llenado — PENDIENTE de verificación visual antes de activar submit")
+                result = ApplyResult(title, company, "Lever", url, True, "Formulario llenado — PENDIENTE de verificación visual antes de activar submit")
+                from src.memory.funnel_logger import log_funnel_event
+                log_funnel_event(
+                    fuente=job.get('source', ''),
+                    portal=result.portal,
+                    keyword_match=job.get('matched_keyword', ''),
+                    resultado="applied" if result.success else "failed",
+                    detalle=result.message
+                )
+                return result
 
         except Exception as e:
-            return ApplyResult(title, company, "Lever", url, False, f"Error Lever: {str(e)[:100]}")
+            result = ApplyResult(title, company, "Lever", url, False, f"Error Lever: {str(e)[:100]}")
+            from src.memory.funnel_logger import log_funnel_event
+            log_funnel_event(
+                fuente=job.get('source', ''),
+                portal=result.portal,
+                keyword_match=job.get('matched_keyword', ''),
+                resultado="applied" if result.success else "failed",
+                detalle=result.message
+            )
+            return result
