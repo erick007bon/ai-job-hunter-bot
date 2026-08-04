@@ -18,6 +18,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from src.scrapers.api_scrapers import RemotiveScraper, RemoteOKScraper, GetOnBoardScraper
 from src.scrapers.latam_scrapers import ComputrabajoScraper, TorreScraper
 from src.filters.match_engine import MatchEngine
+from src.extractors.email_extractor import EmailExtractor
 from src.memory.memory_store import MemoryStore
 from src.notifications.telegram_notifier import (
     notify_job_found,
@@ -26,6 +27,23 @@ from src.notifications.telegram_notifier import (
     send_telegram,
 )
 from src.email.gmail_sender import GmailSender
+
+
+def dedupe_jobs(jobs: list) -> list:
+    """
+    Elimina duplicados por URL (o por titulo+empresa si no hay URL).
+    Antes de este fix, el mismo scraper/pagina duplicaba entradas y
+    los reportes mostraban la misma oferta 2-3 veces.
+    """
+    seen = set()
+    unique = []
+    for job in jobs:
+        key = job.get('url') or f"{job.get('title','')}|{job.get('company','')}"
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(job)
+    return unique
 
 # ── Credenciales del perfil ──────────────────────────────────────────────────
 PROFILE = {
@@ -117,7 +135,8 @@ def main(dry_run: bool = False):
         except Exception as e:
             print(f"  -> [ERROR] {name}: {str(e)[:80]}")
 
-    print(f"\n[TOTAL] {len(all_jobs)} ofertas encontradas")
+    all_jobs = dedupe_jobs(all_jobs)
+    print(f"\n[TOTAL] {len(all_jobs)} ofertas encontradas (tras dedupe)")
 
     # ── 2. FILTRAR ───────────────────────────────────────────────────────────
     filtered = engine.filter_jobs(all_jobs)
@@ -132,6 +151,18 @@ def main(dry_run: bool = False):
             nuevas.append(job)
 
     print(f"[NUEVAS] {len(nuevas)} ofertas nuevas (no aplicadas antes)")
+
+    # ── 3.5 EXTRAER EMAILS DE CONTACTO REALES (Hunter.io + scraping) ────────
+    # FIX: antes main_v6 nunca poblaba 'contact_email', asi que la rama de
+    # cold-email de abajo (que ademas buscaba la llave equivocada
+    # 'company_email') nunca se ejecutaba. Resultado real observado: 0
+    # postulaciones en cada corrida durante semanas.
+    if nuevas:
+        print("\n[EMAIL EXTRACTOR] Buscando emails de contacto reales...")
+        extractor = EmailExtractor()
+        nuevas = extractor.enrich_all(nuevas)
+        con_email = sum(1 for j in nuevas if j.get('contact_email'))
+        print(f"  -> {con_email}/{len(nuevas)} con email real verificado.")
 
     # ── 4. AUTO-POSTULACIÓN ──────────────────────────────────────────────────
     applied_results = []
@@ -167,12 +198,16 @@ def main(dry_run: bool = False):
                     notify_applied(result)
                 else:
                     email_sent = False
-                    if job.get('company_email'):
-                        print(f"  [EMAIL] Enviando correo en frío a {job['company_email']}")
+                    # FIX: la llave real que pone EmailExtractor es 'contact_email',
+                    # no 'company_email' (nunca coincidian). Ademas solo enviamos
+                    # si el email fue verificado — nunca inventado.
+                    contact_email = job.get('contact_email')
+                    if contact_email and job.get('email_verified'):
+                        print(f"  [EMAIL] Enviando correo en frío a {contact_email}")
                         try:
                             cover_letter = build_cover_letter(job)
                             gmail.send_email(
-                                to_address=job['company_email'],
+                                to_address=contact_email,
                                 subject=f"Postulación: {job.get('title')} - {PROFILE['name']}",
                                 body_text=cover_letter,
                                 cv_path=CV_PATH

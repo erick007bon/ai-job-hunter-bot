@@ -30,12 +30,55 @@ def init_browser():
     driver.maximize_window()
     return driver
 
+def _overlay_env_vars(parameters):
+    """
+    El archivo auto_apply_config.yaml commiteado en git NO contiene datos
+    personales (el repo es publico). Los valores reales se inyectan aqui
+    desde variables de entorno en runtime (local .env o GitHub Secrets).
+    Si una variable no esta definida, el placeholder "CHANGE_ME" se queda
+    y la validacion de abajo se encarga de frenar la ejecucion en vez de
+    postular con datos falsos/vacios.
+    """
+    env_map = {
+        'CANDIDATE_EMAIL': ('email',),
+        'CANDIDATE_OPENAI_KEY': ('openaiApiKey',),
+        'CANDIDATE_FIRST_NAME': ('personalInfo', 'First Name'),
+        'CANDIDATE_LAST_NAME': ('personalInfo', 'Last Name'),
+        'CANDIDATE_PHONE_COUNTRY_CODE': ('personalInfo', 'Phone Country Code'),
+        'CANDIDATE_PHONE': ('personalInfo', 'Mobile Phone Number'),
+        'CANDIDATE_STREET': ('personalInfo', 'Street address'),
+        'CANDIDATE_CITY': ('personalInfo', 'City'),
+        'CANDIDATE_STATE': ('personalInfo', 'State'),
+        'CANDIDATE_ZIP': ('personalInfo', 'Zip'),
+        'CANDIDATE_LINKEDIN': ('personalInfo', 'Linkedin'),
+        'CANDIDATE_WEBSITE': ('personalInfo', 'Website'),
+        'CANDIDATE_PRONOUNS': ('personalInfo', 'Pronouns'),
+        'CANDIDATE_GENDER': ('eeo', 'gender'),
+        'CANDIDATE_RACE': ('eeo', 'race'),
+        'CANDIDATE_VETERAN': ('eeo', 'veteran'),
+        'CANDIDATE_DISABILITY': ('eeo', 'disability'),
+        'CANDIDATE_CITIZENSHIP': ('eeo', 'citizenship'),
+        'CANDIDATE_CLEARANCE': ('eeo', 'clearance'),
+    }
+    for env_key, path in env_map.items():
+        value = os.environ.get(env_key)
+        if not value:
+            continue
+        if len(path) == 1:
+            parameters[path[0]] = value
+        else:
+            parameters[path[0]][path[1]] = value
+    return parameters
+
+
 def validate_yaml():
     with open("auto_apply_config.yaml", 'r', encoding='utf-8') as stream:
         try:
             parameters = yaml.safe_load(stream)
         except yaml.YAMLError as exc:
             raise exc
+
+    parameters = _overlay_env_vars(parameters)
 
     mandatory_params = ['email',
                         'password',
@@ -135,10 +178,44 @@ def validate_yaml():
     for survey_question in eeo:
         assert eeo[survey_question] != ''
 
-    if parameters.get('openaiApiKey') == 'sk-proj-your-openai-api-key':
-        # Overwrite the default value with None to indicate internally that the OpenAI API key is not configured
-        print("OpenAI API key not configured. Defaulting to empty responses for text fields.")
-        parameters['openaiApiKey'] = None
+    # Salvaguarda: si algun placeholder "CHANGE_ME" quedo sin resolver por
+    # variable de entorno, NO se debe postular con eso (enviaria datos falsos
+    # o vacios a empresas reales). Frenamos con un error explicito en vez de
+    # continuar en silencio.
+    unresolved = []
+    if str(parameters.get('email', '')).strip().upper().startswith('CHANGE_ME'):
+        unresolved.append('email (CANDIDATE_EMAIL)')
+    for field, env_hint in [
+        ('First Name', 'CANDIDATE_FIRST_NAME'), ('Last Name', 'CANDIDATE_LAST_NAME'),
+        ('Mobile Phone Number', 'CANDIDATE_PHONE'), ('City', 'CANDIDATE_CITY'),
+    ]:
+        if str(personal_info.get(field, '')).strip().upper().startswith('CHANGE_ME'):
+            unresolved.append(f'personalInfo.{field} ({env_hint})')
+    for field, env_hint in [
+        ('gender', 'CANDIDATE_GENDER'), ('race', 'CANDIDATE_RACE'),
+        ('veteran', 'CANDIDATE_VETERAN'), ('disability', 'CANDIDATE_DISABILITY'),
+    ]:
+        if str(eeo.get(field, '')).strip().upper().startswith('CHANGE_ME'):
+            unresolved.append(f'eeo.{field} ({env_hint})')
+    if unresolved:
+        raise Exception(
+            "auto_apply_config.yaml tiene placeholders sin resolver y no hay "
+            "variables de entorno que los reemplacen. Por seguridad, NO se va a "
+            "postular con datos de relleno. Define estas variables antes de correr:\n  - "
+            + "\n  - ".join(unresolved)
+        )
+
+    if not parameters.get('openaiApiKey') or str(parameters.get('openaiApiKey')).strip().upper() in ('CHANGE_ME', 'SK-PROJ-YOUR-OPENAI-API-KEY'):
+        # Antes: se enviaban las postulaciones igual, con respuestas de texto EN BLANCO
+        # a las preguntas del formulario. Eso produce postulaciones incompletas/pobres
+        # a empresas reales a tu nombre. Ahora se frena explicitamente en vez de
+        # continuar en silencio con respuestas vacias.
+        raise Exception(
+            "OPENAI_API_KEY (via CANDIDATE_OPENAI_KEY) no esta configurada. "
+            "Postular sin ella genera respuestas en blanco en las preguntas del "
+            "formulario. Configura la variable de entorno o corre con debug=True "
+            "y revisa manualmente antes de habilitar esto de nuevo."
+        )
 
     return parameters
 

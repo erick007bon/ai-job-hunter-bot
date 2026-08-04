@@ -1,6 +1,14 @@
-email: REDACTED_EMAIL@example.com
+# ==============================================================================
+# CONFIG TEMPLATE — sin datos personales.
+# Los valores reales (email, telefono, direccion, EEO) se inyectan en runtime
+# via variables de entorno (ver seccion "Variables de entorno esperadas" abajo)
+# o en un archivo local `auto_apply_config.local.yaml` (gitignored) que sobreescribe
+# estos placeholders. NUNCA vuelvas a poner datos reales directamente aqui:
+# este archivo se commitea y el repo es publico.
+# ==============================================================================
+email: "CHANGE_ME@example.com"
 password: "not_needed_for_local_profile"
-openaiApiKey: sk-proj-your-openai-api-key
+openaiApiKey: "CHANGE_ME"
 
 disableAntiLock: False
 remote: True
@@ -90,28 +98,33 @@ experience:
  Data Engineering: 3
  default: 3
 
+# personalInfo y eeo quedan con placeholders. Se sobreescriben en runtime
+# desde variables de entorno (ver validate_yaml() en auto_apply_main.py):
+#   CANDIDATE_EMAIL, CANDIDATE_PHONE, CANDIDATE_CITY, CANDIDATE_STATE,
+#   CANDIDATE_ZIP, CANDIDATE_STREET, CANDIDATE_GENDER, CANDIDATE_RACE,
+#   CANDIDATE_VETERAN, CANDIDATE_DISABILITY
 personalInfo:
- Pronouns: Mr.
- First Name: Erick
- Last Name: Flores Zambrano
- Phone Country Code: Ecuador (+593)
- Mobile Phone Number: REDACTED_PHONE
- Street address: Centro
- City: Machala
- State: El Oro
- Zip: REDACTED_ZIP
- Linkedin: https://www.linkedin.com/in/erick-flores-zambrano-69075b198/
- Website: https://github.com/erick007bon
+ Pronouns: "CHANGE_ME"
+ First Name: "CHANGE_ME"
+ Last Name: "CHANGE_ME"
+ Phone Country Code: "CHANGE_ME"
+ Mobile Phone Number: "CHANGE_ME"
+ Street address: "CHANGE_ME"
+ City: "CHANGE_ME"
+ State: "CHANGE_ME"
+ Zip: "CHANGE_ME"
+ Linkedin: "CHANGE_ME"
+ Website: "CHANGE_ME"
  MessageToManager: "Hi, I am an experienced Data/AI Engineer ready to bring value. Check my portfolio in GitHub."
 
 eeo:
- gender: Male
- race: Hispanic
- veteran: No
- disability: No
- citizenship: yes
- clearance: no
+ gender: "CHANGE_ME"
+ race: "CHANGE_ME"
+ veteran: "CHANGE_ME"
+ disability: "CHANGE_ME"
+ citizenship: "CHANGE_ME"
+ clearance: "CHANGE_ME"
 
-evaluateJobFit: False
+evaluateJobFit: True
 textResume: ""
 debug: False

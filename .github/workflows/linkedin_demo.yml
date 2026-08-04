@@ -1,3 +1,11 @@
+# ⚠️ Manual/workflow_dispatch UNICAMENTE — a proposito, NO tiene `schedule:`.
+# Automatiza LinkedIn Easy Apply con una cookie de sesion inyectada desde
+# un runner de GitHub Actions (IP de datacenter), lo cual va contra los
+# Terminos de Servicio de LinkedIn y es un riesgo real de que la cuenta sea
+# marcada/limitada. Dispáralo solo si entiendes y aceptas ese riesgo.
+# Ademas, desde 2026-08-04, auto_apply_main.py se niega a correr si no le
+# das las variables CANDIDATE_* (nombre, telefono, direccion, EEO, API key
+# de OpenAI) — ya no se postula con placeholders ni con respuestas en blanco.
 name: 🤖 LinkedIn Autonomy Demo
 
 on:
@@ -22,5 +30,24 @@ jobs:
       - name: 🚀 Run AI LinkedIn Auto-Apply
         env:
           LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
+          CANDIDATE_EMAIL: ${{ secrets.CANDIDATE_EMAIL }}
+          CANDIDATE_OPENAI_KEY: ${{ secrets.CANDIDATE_OPENAI_KEY }}
+          CANDIDATE_FIRST_NAME: ${{ secrets.CANDIDATE_FIRST_NAME }}
+          CANDIDATE_LAST_NAME: ${{ secrets.CANDIDATE_LAST_NAME }}
+          CANDIDATE_PHONE_COUNTRY_CODE: ${{ secrets.CANDIDATE_PHONE_COUNTRY_CODE }}
+          CANDIDATE_PHONE: ${{ secrets.CANDIDATE_PHONE }}
+          CANDIDATE_STREET: ${{ secrets.CANDIDATE_STREET }}
+          CANDIDATE_CITY: ${{ secrets.CANDIDATE_CITY }}
+          CANDIDATE_STATE: ${{ secrets.CANDIDATE_STATE }}
+          CANDIDATE_ZIP: ${{ secrets.CANDIDATE_ZIP }}
+          CANDIDATE_LINKEDIN: ${{ secrets.CANDIDATE_LINKEDIN }}
+          CANDIDATE_WEBSITE: ${{ secrets.CANDIDATE_WEBSITE }}
+          CANDIDATE_PRONOUNS: ${{ secrets.CANDIDATE_PRONOUNS }}
+          CANDIDATE_GENDER: ${{ secrets.CANDIDATE_GENDER }}
+          CANDIDATE_RACE: ${{ secrets.CANDIDATE_RACE }}
+          CANDIDATE_VETERAN: ${{ secrets.CANDIDATE_VETERAN }}
+          CANDIDATE_DISABILITY: ${{ secrets.CANDIDATE_DISABILITY }}
+          CANDIDATE_CITIZENSHIP: ${{ secrets.CANDIDATE_CITIZENSHIP }}
+          CANDIDATE_CLEARANCE: ${{ secrets.CANDIDATE_CLEARANCE }}
         run: |
           python auto_apply_main.py
