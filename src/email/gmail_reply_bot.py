@@ -146,7 +146,7 @@ TASK: Write a SHORT (max 100 words), professional, enthusiastic reply that:
 2. Confirms availability for an interview (Monday-Friday, any time works)
 3. Asks for the next steps or offers specific times like "Tuesday or Thursday afternoon"
 4. Is warm but not over-the-top
-5. Signs as: {nombre} | Data Scientist & AI Engineer | REDACTED_PHONE
+5. Signs as: {nombre} | Data Scientist & AI Engineer | {os.environ.get('CANDIDATE_PHONE', '')}
 
 Write ONLY the email body. Start directly with the greeting."""
 

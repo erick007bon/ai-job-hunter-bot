@@ -89,11 +89,25 @@ jobs:
         python scholarship_hunter.py || echo "⚠️ scholarship_hunter.py fallo — continuando"
         echo "Búsqueda de becas completada."
 
-    - name: 🤖 Run Auto-Applier (Bajo el Agua)
-      env:
-        LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
-        LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
-      run: python run_applier.py || true
+    # ⚠️ DESACTIVADO A PROPOSITO (2026-08-04).
+    # Este paso invocaba run_applier.py, que a su vez dependia de
+    # src/auto_applier/ (modulo que no existe en el repo -> ImportError
+    # silencioso via `|| true` en cada corrida desde el 19-jun-2026).
+    # Antes de esa fecha (8 al 19 de junio) el workflow SI ejecutaba
+    # auto_apply_main.py -> linkedineasyapply.py de forma automatica,
+    # 4x al dia, inyectando la cookie de sesion de LinkedIn desde un
+    # runner de GitHub Actions (IP de datacenter) y, sin OPENAI_API_KEY
+    # configurada, enviando respuestas EN BLANCO a las preguntas de los
+    # formularios de aplicacion. Eso es: (a) alto riesgo de que LinkedIn
+    # marque/banee la cuenta por automatizacion desde datacenter, y
+    # (b) postulaciones de mala calidad enviadas a empresas reales a tu
+    # nombre. Se deja desactivado deliberadamente hasta que se decida
+    # asumir ese riesgo de forma consciente. Para correrlo manualmente y
+    # bajo supervision, usa el workflow "LinkedIn Autonomy Demo"
+    # (workflow_dispatch) despues de configurar CANDIDATE_OPENAI_KEY y
+    # las demas variables CANDIDATE_* que pide auto_apply_main.py.
+    # - name: 🤖 Run Auto-Applier LinkedIn
+    #   run: python run_applier.py
 
     - name: 📊 Commit y Push resultados
       run: |

@@ -61,7 +61,7 @@ class LeverApplier(BaseApplier):
                 await page.screenshot(path=f"debug_screenshots/{company}_2_after_cv.png")
                 full_name = self.cv_data.get('personal_info', {}).get('name', 'Erick Flores Zambrano')
                 email = self.cv_data.get('personal_info', {}).get('email', 'eflores4006@utm.edu.ec')
-                phone = self.cv_data.get('personal_info', {}).get('phone', 'REDACTED_PHONE')
+                phone = self.cv_data.get('personal_info', {}).get('phone', os.environ.get('CANDIDATE_PHONE', ''))
                 linkedin = self.cv_data.get('social_links', {}).get('linkedin', 'https://linkedin.com/in/erick-flores-zambrano-69075b198')
 
                 fields_to_fill = [
