@@ -2,15 +2,13 @@
   "personal_info": {
     "nombre": "FLORES ZAMBRANO ERICK",
     "titulo": "Ingeniero en IA & Científico de Datos | Data Engineer | Economista con especialización en Machine Learning",
-    "email": "REDACTED_EMAIL@example.com",
-    "telefono": "REDACTED_PHONE",
+    "email": "eflores4006@utm.edu.ec",
+    "telefono": "",
     "linkedin": "erick-flores-zambrano-69075b198",
     "github": "erick007bon",
     "ubicacion": "Machala, Ecuador"
   },
-  
   "perfil_profesional": "Economista y Científico de Datos con doble formación académica (Economía + Ciencia de Datos e IA), especializado en la intersección entre análisis financiero, machine learning y automatización inteligente. Experiencia demostrada desarrollando soluciones de IA end-to-end: desde modelos predictivos en Python (scikit-learn, PyTorch, TensorFlow) hasta arquitecturas de agentes conversacionales con LLMs, integraciones via API y protocolos MCP (Model Context Protocol) para sistemas multi-agente. Competencias clave en econometría aplicada (series temporales ARIMA/GARCH, modelos de panel, causal inference), MLOps (Docker, FastAPI, MLflow), y BI empresarial (Power BI, SQL avanzado).",
-  
   "skills": {
     "ia_ml": [
       "LLMs & Generative AI (Hugging Face, prompt engineering)",
@@ -44,7 +42,6 @@
       "Elaboración de reportes y análisis de ventas"
     ]
   },
-  
   "experiencia": [
     {
       "empresa": "Investigador Independiente & AI Engineer",
@@ -104,46 +101,76 @@
       ]
     }
   ],
-  
   "proyectos": [
     {
       "nombre": "FCH-ARX V2 - Algoritmo Criptográfico Hashing",
       "descripcion": "Diseño matemático e implementación en C/Python de un motor criptográfico basado en topología ARX (Add-Rotate-XOR) y secuencias Tesla. Aprobó rigurosamente la validación NIST (FIPS 180-4) demostrando resistencia total a colisiones y superando la eficiencia base de SHA-256 en entornos IoT (Cortex-M0).",
-      "tecnologias": ["Python", "C", "Criptoanálisis Diferencial", "NIST Testing"],
+      "tecnologias": [
+        "Python",
+        "C",
+        "Criptoanálisis Diferencial",
+        "NIST Testing"
+      ],
       "url": "github.com/erick007bon/fch-arx-v4-cryptographic-engine"
     },
     {
       "nombre": "AI Autonomous Job Hunter Bot",
       "descripcion": "Sistema autónomo 24/7 que extrae ofertas de LinkedIn, Google Jobs e Indeed, evalúa el encaje del perfil con IA, y envía InMails de conexión altamente personalizados a reclutadores usando Voyager API. Integra extensión de Chrome propia para sincronización de sesión local a nube (GitHub Actions).",
-      "tecnologias": ["Python", "GitHub Actions", "Chrome Extensions", "LLM APIs", "Web Scraping"],
+      "tecnologias": [
+        "Python",
+        "GitHub Actions",
+        "Chrome Extensions",
+        "LLM APIs",
+        "Web Scraping"
+      ],
       "url": "github.com/erick007bon/ai-job-hunter-bot"
     },
     {
       "nombre": "Sistema Multi-Agente con MCP",
       "descripcion": "Arquitectura de agentes especializados para análisis financiero automatizado: Agente scraping de datos financieros via APIs (trading view, Alpha Vantage), agente análisis econométrico con modelos GARCH para volatilidad, agente generación de reportes con LLM (GPT-4 API).",
-      "tecnologias": ["Python", "FastAPI", "Docker", "MCP"],
+      "tecnologias": [
+        "Python",
+        "FastAPI",
+        "Docker",
+        "MCP"
+      ],
       "url": ""
     },
     {
       "nombre": "Trading Algorítmico con Deep Learning",
       "descripcion": "Sistema de predicción de precios y señales de trading: backtesting de estrategias de momentum y mean reversion en datos históricos S&P 500, modelo LSTM (PyTorch) para forecasting de precios con 68% accuracy en direccionalidad. Pipeline completo: ingesta datos → features engineering → entrenamiento → backtesting.",
-      "tecnologias": ["Python", "PyTorch", "Backtrader", "pandas-ta", "MLflow"],
+      "tecnologias": [
+        "Python",
+        "PyTorch",
+        "Backtrader",
+        "pandas-ta",
+        "MLflow"
+      ],
       "url": ""
     },
     {
       "nombre": "API RESTful para Modelos Predictivos",
       "descripcion": "Servicio web para inferencia de modelos de ML en producción: endpoint FastAPI con modelo de clasificación de riesgo crediticio (Random Forest), containerización con Docker, documentación automática con Swagger, testing con pytest, CI/CD básico con GitHub Actions.",
-      "tecnologias": ["FastAPI", "Docker", "Random Forest", "pytest", "GitHub Actions"],
+      "tecnologias": [
+        "FastAPI",
+        "Docker",
+        "Random Forest",
+        "pytest",
+        "GitHub Actions"
+      ],
       "url": ""
     },
     {
       "nombre": "Dashboard Ejecutivo Power BI - Análisis de Ventas 360°",
       "descripcion": "Panel interactivo para seguimiento de KPIs comerciales en tiempo real: conexión directa a SQL Server, automatización de refresh diario, segmentación RFM, análisis de cohortes, forecasting con modelos DAX. Implementado en Vamoret S.A. con impacto medible en toma de decisiones.",
-      "tecnologias": ["Power BI", "SQL Server", "DAX"],
+      "tecnologias": [
+        "Power BI",
+        "SQL Server",
+        "DAX"
+      ],
       "url": ""
     }
   ],
-  
   "educacion": [
     {
       "titulo": "Ingeniería en Ciencia de Datos e Inteligencia Artificial",
@@ -159,10 +186,11 @@
       "fecha_inicio": "2021",
       "fecha_fin": "Presente (7.º semestre)",
       "modalidad": "Virtual asincrónica",
-      "detalles": ["Doble carrera simultánea: gestión excepcional del tiempo, resiliencia y aprendizaje autónomo"]
+      "detalles": [
+        "Doble carrera simultánea: gestión excepcional del tiempo, resiliencia y aprendizaje autónomo"
+      ]
     }
   ],
-  
   "certificaciones": [
     {
       "nombre": "Python para Finanzas y Trading Algorítmico",
@@ -213,7 +241,6 @@
       "fecha": ""
     }
   ],
-  
   "idiomas": [
     {
       "idioma": "Español",

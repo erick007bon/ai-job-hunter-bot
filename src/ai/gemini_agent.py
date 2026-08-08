@@ -142,7 +142,7 @@ Quedo disponible para una entrevista cuando lo consideren conveniente. Adjunto m
 Atentamente,
 {nombre}
 {titulo}
-REDACTED_EMAIL@example.com | GitHub: erick007bon"""
+{Config.EMAIL_SENDER} | GitHub: erick007bon"""
         else:
             return f"""Dear {company} team,
 
@@ -159,7 +159,7 @@ I would welcome the opportunity to discuss how my background aligns with your te
 Best regards,
 {nombre}
 {titulo}
-REDACTED_EMAIL@example.com | GitHub: erick007bon"""
+{Config.EMAIL_SENDER} | GitHub: erick007bon"""
 
     def generate_email_subject(self, job: Dict) -> str:
         """Genera el asunto del email"""

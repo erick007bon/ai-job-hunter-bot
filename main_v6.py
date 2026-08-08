@@ -27,6 +27,7 @@ from src.notifications.telegram_notifier import (
     send_telegram,
 )
 from src.email.gmail_sender import GmailSender
+from src.generator.dynamic_cv import DynamicCVGenerator
 
 
 def dedupe_jobs(jobs: list) -> list:
@@ -54,7 +55,7 @@ PROFILE = {
     'linkedin': 'linkedin.com/in/erick-flores-zambrano-69075b198',
 }
 
-CV_PATH      = os.environ.get('CV_PATH', 'CV_Erick_Flores.pdf')
+CV_PATH      = os.environ.get('CV_PATH', os.path.join('data', 'CV_Erick_Flores_EN.pdf'))
 MAX_APPS     = int(os.environ.get('MAX_APPLICATIONS', '5'))
 AUTO_APPLY   = os.environ.get('AUTO_APPLY', 'true').lower() == 'true'
 
@@ -114,6 +115,7 @@ def main(dry_run: bool = False):
     memory = MemoryStore()
     engine = MatchEngine()
     gmail = GmailSender()
+    cv_generator = DynamicCVGenerator()
 
     # ── 1. SCRAPING ──────────────────────────────────────────────────────────
     scrapers = [
@@ -206,14 +208,26 @@ def main(dry_run: bool = False):
                         print(f"  [EMAIL] Enviando correo en frío a {contact_email}")
                         try:
                             cover_letter = build_cover_letter(job)
-                            gmail.send_email(
-                                to_address=contact_email,
+                            # FIX: generar el CV real para esta postulacion en vez de
+                            # depender de un archivo estatico que podia no existir.
+                            # Si falla (ej. Playwright no instalado), cae al CV
+                            # generico limpio en data/CV_Erick_Flores_EN.pdf.
+                            attachment_path = CV_PATH
+                            try:
+                                attachment_path = cv_generator.generate_tailored_pdf(job)
+                            except Exception as cv_err:
+                                print(f"  [CV] No se pudo generar CV a medida ({cv_err}); usando CV base.")
+                            # FIX: GmailSender expone .send(to, subject, body, attachment_path),
+                            # no .send_email(to_address=..., body_text=..., cv_path=...) —
+                            # antes esto tiraba AttributeError silenciosamente en cada intento.
+                            email_sent = gmail.send(
+                                to=contact_email,
                                 subject=f"Postulación: {job.get('title')} - {PROFILE['name']}",
-                                body_text=cover_letter,
-                                cv_path=CV_PATH
+                                body=cover_letter,
+                                attachment_path=attachment_path if os.path.exists(attachment_path) else None
                             )
-                            email_sent = True
-                            print("  -> Correo enviado con éxito")
+                            if email_sent:
+                                print("  -> Correo enviado con éxito")
                             
                             # Mock object for applied_results
                             email_result = ApplyResult(
