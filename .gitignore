@@ -44,3 +44,7 @@ test_*.txt
 # reportes/
 # data/sent_log.json
 SECRETS_MAESTRO.md
+
+# CVs generados dinamicamente por postulacion - no versionar (contienen PII)
+data/CV_*.pdf
+!data/CV_Erick_Flores_EN.pdf

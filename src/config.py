@@ -27,7 +27,13 @@ class Config:
     CV_PATH = os.path.join(DATA_DIR, "cv_erick_data.json")
     CV_PDF_PATH_ES = os.path.join(DATA_DIR, "CV_FLORES_ERICK.pdf")  # CV Espanol
     CV_PDF_PATH_EN = os.path.join(DATA_DIR, "CV_Erick_Flores_EN.pdf")  # CV Ingles
-    CV_PDF_PATH = CV_PDF_PATH_ES  # Default
+    # NOTA (2026-08-05): el CV en espanol viejo (CV_FLORES_ERICK.pdf) se elimino
+    # del repo porque tenia PII incrustada (telefono + email personal en el PDF).
+    # Hasta que se genere una version limpia en espanol, todos los defaults
+    # apuntan al CV en ingles limpio para no romper el envio de adjuntos.
+    if not os.path.exists(CV_PDF_PATH_ES) and os.path.exists(CV_PDF_PATH_EN):
+        CV_PDF_PATH_ES = CV_PDF_PATH_EN
+    CV_PDF_PATH = CV_PDF_PATH_EN  # Default
     REPORTS_DIR = os.path.join(BASE_DIR, "reportes")
     COVER_LETTERS_DIR = os.path.join(BASE_DIR, "cover_letters")
     
