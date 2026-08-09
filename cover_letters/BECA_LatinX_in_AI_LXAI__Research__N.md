@@ -31,4 +31,4 @@ I would be honored to represent Ecuador and Latin America in this program.
 Sincerely,
 Erick Flores Zambrano
 Data Science & AI Engineering Student | Independent Cryptography Researcher
-REDACTED_EMAIL@example.com | github.com/erick007bon
+{Config.EMAIL_SENDER} | github.com/erick007bon
