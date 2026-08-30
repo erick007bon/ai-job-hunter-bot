@@ -63,9 +63,10 @@ AUTO_APPLY = os.environ.get('AUTO_APPLY', 'true').lower() == 'true'
 SMTP_HOST     = os.environ.get('SMTP_HOST', 'smtp.gmail.com')
 SMTP_PORT     = int(os.environ.get('SMTP_PORT', '587'))
 SMTP_TLS      = os.environ.get('SMTP_TLS', 'true').lower() == 'true'
-SMTP_USER     = os.environ.get('EMAIL_USER', '')
-SMTP_PASSWORD = os.environ.get('EMAIL_PASSWORD', '')
-EMAIL_SENDER  = os.environ.get('EMAIL_SENDER', SMTP_USER)
+SMTP_USER     = os.environ.get('EMAIL_USER') or os.environ.get('EMAIL_SENDER') or ''
+SMTP_PASSWORD = os.environ.get('EMAIL_PASSWORD') or ''
+EMAIL_SENDER  = os.environ.get('EMAIL_SENDER') or SMTP_USER
+
 
 # ── OpenRouter para IA ───────────────────────────────────────────────────────
 OPENROUTER_API_KEY = os.environ.get('OPENROUTER_API_KEY', '')
