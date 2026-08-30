@@ -118,7 +118,7 @@ def get_applier_for_url(url: str, source: str = "") -> Optional["BaseApplier"]:
         return None
 
     try:
-        domain = urlparse(url).netloc.lower().lstrip("www.")
+        domain = re.sub(r'^www\.', '', urlparse(url).netloc.lower())
 
         # 1. Intentar con la URL/dominio original
         applier = _get_applier_by_domain(domain, url)
@@ -131,13 +131,14 @@ def get_applier_for_url(url: str, source: str = "") -> Optional["BaseApplier"]:
         if is_job_board:
             final_url = _follow_redirect(url)
             if final_url and final_url != url:
-                final_domain = urlparse(final_url).netloc.lower().lstrip("www.")
+                final_domain = re.sub(r'^www\.', '', urlparse(final_url).netloc.lower())
                 applier = _get_applier_by_domain(final_domain, final_url)
                 if applier:
                     print(f"[ROUTER] ATS detectado tras redirect: {applier.__class__.__name__} ({final_domain})")
                     return applier
 
             print(f"[ROUTER] Job board sin ATS detectable ({domain}) → cold-email")
+
             return None
 
         # 3. URL desconocida — sin applier

@@ -323,7 +323,7 @@ def main(dry_run: bool = False):
             from src.appliers.base_applier import ApplyResult
 
             funnel = FunnelDB()
-            gmail  = GmailSender()
+
 
             for job in nuevas[:MAX_APPS]:
                 url    = job.get('url', '')
