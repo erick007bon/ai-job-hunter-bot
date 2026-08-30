@@ -82,3 +82,30 @@ class GetOnBoardScraper:
             'location': 'Ecuador/LATAM',
             'tags': [],
         }
+
+class JobicyScraper:
+    def fetch_jobs(self):
+        try:
+            r = requests.get(
+                "https://jobicy.com/api/v2/remote-jobs?count=20&industry=data-science",
+                headers=HEADERS, timeout=12
+            )
+            r.raise_for_status()
+            jobs = r.json().get('jobs', [])
+            return [self._normalize(j) for j in jobs[:15]]
+        except Exception as e:
+            print(f"[Jobicy] Error: {e}")
+            return []
+
+    def _normalize(self, j):
+        return {
+            'title': j.get('jobTitle', ''),
+            'company': j.get('companyName', ''),
+            'url': j.get('url', ''),
+            'description': j.get('jobDescription', '')[:800],
+            'salary': f"{j.get('annualSalaryMin','?')} - {j.get('annualSalaryMax','?')} {j.get('salaryCurrency','')}".strip(),
+            'source': 'Jobicy',
+            'location': j.get('jobGeo', 'Remote'),
+            'tags': [j.get('jobIndustry', '')],
+        }
+
