@@ -24,7 +24,7 @@ class LinkedInApplier(BaseApplier):
         self.li_at      = Config.LINKEDIN_LI_AT
         self.jsessionid = Config.LINKEDIN_JSESSIONID
 
-    def apply_sync(self, job: dict) -> ApplyResult:
+    def apply(self, job: dict) -> ApplyResult:
         """Aplica sincrónicamente lanzando el loop async interno."""
         try:
             return asyncio.run(self._apply_async(job))
