@@ -107,17 +107,19 @@ class RecruiterConnector:
                 if stats["sent"] >= target:
                     break
 
-                nombre    = profile.get("nombre", "")
-                public_id = profile.get("public_id", "")
+                # Campos reales de search_people(): name, jobtitle, urn_id
+                nombre    = profile.get("nombre", "")       # ya mapeado en linkedin_client
+                urn_id    = profile.get("urn_id", "")
                 headline  = profile.get("area", "")
 
-                # Detectar idioma del perfil por el headline
+                # Detectar idioma por el headline / jobtitle del perfil
                 lang = "en" if any(
                     w in headline.lower()
                     for w in ["recruiter", "hiring", "talent", "acquisition", "engineer"]
                 ) else "es"
 
-                message = CONNECTION_MESSAGES[lang].format(nombre=nombre.split()[0] if nombre else "")
+                first_name = nombre.split()[0] if nombre else ""
+                message = CONNECTION_MESSAGES[lang].format(nombre=first_name)
 
                 print(f"  [->] Conectando con {nombre} ({headline[:50]})...")
                 ok = client.add_connection(profile, message=message)

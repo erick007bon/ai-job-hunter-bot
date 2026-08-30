@@ -134,9 +134,9 @@ class LinkedInClient:
                     "url":         url,
                     "job_id":      job_id,
                     "source":      "LinkedIn",
-                    "easy_apply":  item.get("applyMethod", {}).get(
-                                       "com.linkedin.voyager.jobs.ComplexOnsiteApply"
-                                   ) is not None,
+                    # easy_apply se determina en linkedin_applier al llamar get_job()
+                    # search_jobs() devuelve applyMethod vacío siempre
+                    "easy_apply":  None,
                     "description": "",
                 })
         except Exception as e:
@@ -190,16 +190,16 @@ class LinkedInClient:
             )
 
             for item in raw:
-                public_id  = item.get("publicIdentifier", "")
-                name       = item.get("firstName", "") + " " + item.get("lastName", "")
-                headline   = item.get("headline", "")
-                urn_id     = item.get("urn_id", "")
+                # Campos reales confirmados por debug: name, jobtitle, urn_id, distance, location
+                urn_id   = item.get("urn_id", "")
+                nombre   = item.get("name", "")
+                headline = item.get("jobtitle", "")
 
-                if public_id:
+                if urn_id:
                     results.append({
-                        "public_id": public_id,
+                        "public_id": "",    # se resuelve en add_connection() via urn_id
                         "urn_id":    urn_id,
-                        "nombre":    name.strip(),
+                        "nombre":    nombre.strip(),
                         "area":      headline,
                     })
         except Exception as e:
@@ -213,9 +213,21 @@ class LinkedInClient:
     def add_connection(self, profile: dict, message: str = "") -> bool:
         """
         Envía solicitud de conexión con nota personalizada.
+        Usa urn_id (disponible en search_people) para obtener public_id.
         """
+        urn_id    = profile.get("urn_id", "")
         public_id = profile.get("public_id", "")
+
+        # Resolver public_id desde urn_id si no está disponible
+        if not public_id and urn_id:
+            try:
+                detail    = self.api.get_profile(urn_id=urn_id)
+                public_id = detail.get("public_id", "")
+            except Exception as e:
+                logger.warning(f"[LinkedInClient] No se pudo resolver public_id de {urn_id}: {e}")
+
         if not public_id:
+            logger.warning(f"[LinkedInClient] Sin public_id para conectar (urn_id={urn_id})")
             return False
 
         try:
