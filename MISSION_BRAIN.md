@@ -12,9 +12,9 @@
 ### LinkedIn
 ```
 LINKEDIN_EMAIL="tu_email@gmail.com"
-LINKEDIN_PASSWORD="<TU_PASSWORD>"
-LINKEDIN_LI_AT="<TU_COOKIE_LI_AT>"
-LINKEDIN_JSESSIONID="ajax:<TU_COOKIE_JSESSIONID>"
+LINKEDIN_PASSWORD="<CAMBIADA_POR_SEGURIDAD>"
+LINKEDIN_LI_AT="..."
+LINKEDIN_JSESSIONID="..."
 ```
 > ⚠️ Las cookies `li_at` y `JSESSIONID` expiran en ~60-90 días.
 > Cuando expiren: abrir LinkedIn.com en el navegador → F12 → Application → Cookies → copiar nuevas.
@@ -31,7 +31,7 @@ Alias rápido: bot   (ya configurado en ~/.bashrc)
 ### Email / SMTP
 ```
 EMAIL_USER="eflores4006@utm.edu.ec"
-EMAIL_PASSWORD="<TU_PASSWORD>"
+EMAIL_PASSWORD="<CAMBIADA_POR_SEGURIDAD>"
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
 ```

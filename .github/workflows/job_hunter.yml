@@ -1,13 +1,6 @@
 name: 🤖 AI Job Hunter V7 — Auto-Postulación 24/7
 
 on:
-  schedule:
-    - cron: '0 12 * * *'   # 07:00 Ecuador (UTC-5)
-    - cron: '0 15 * * *'   # 10:00 Ecuador
-    - cron: '0 18 * * *'   # 13:00 Ecuador
-    - cron: '0 21 * * *'   # 16:00 Ecuador
-    - cron: '0 0 * * *'    # 19:00 Ecuador
-    - cron: '0 3 * * *'    # 22:00 Ecuador
   workflow_dispatch:       # Ejecución manual desde GitHub
 
 jobs:

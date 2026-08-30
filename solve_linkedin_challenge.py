@@ -11,7 +11,7 @@ import sys
 import requests
 
 EMAIL    = "tu_email@gmail.com"
-PASSWORD = "<TU_PASSWORD>"
+PASSWORD = "<CAMBIADA_POR_SEGURIDAD>"
 
 LI_LOGIN_URL     = "https://www.linkedin.com/uas/login"
 LI_SUBMIT_URL    = "https://www.linkedin.com/uas/login-submit"
