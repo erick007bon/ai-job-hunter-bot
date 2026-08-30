@@ -36,25 +36,30 @@ def _get_client():
 
     # Método 1: cookies (más estable en servidores — no activa verificación de IP)
     if li_at and jsessionid:
-        raw_jsession = jsessionid.replace('ajax:', '')
-        cookies = {
-            "li_at":     li_at,
-            "JSESSIONID": f'"ajax:{raw_jsession}"',
-        }
+        import requests as _requests
+        raw_jsession = jsessionid.replace('ajax:', '').strip('"')
+        jar = _requests.cookies.RequestsCookieJar()
+        jar.set("li_at",      li_at,                      domain=".linkedin.com", path="/")
+        jar.set("JSESSIONID", f'"ajax:{raw_jsession}"',   domain=".linkedin.com", path="/")
         try:
-            api = Linkedin("", "", cookies=cookies)
+            api = Linkedin("", "", cookies=jar)
             logger.info("[LinkedInClient] Autenticado via cookies")
             return api
         except Exception as e:
             logger.warning(f"[LinkedInClient] Cookie auth falló: {e}")
 
-    # Método 2: email + password
+    # Método 2: email + password (puede requerir CHALLENGE la primera vez en IP nueva)
     if email and password:
         try:
             api = Linkedin(email, password)
             logger.info("[LinkedInClient] Autenticado via email+password")
             return api
         except Exception as e:
+            if "CHALLENGE" in str(e):
+                raise RuntimeError(
+                    "LinkedIn pide verificación por email. "
+                    "Ejecuta 'python solve_linkedin_challenge.py' en el servidor para resolverlo una vez."
+                )
             raise RuntimeError(f"LinkedIn auth falló (email+password): {e}")
 
     raise RuntimeError(
