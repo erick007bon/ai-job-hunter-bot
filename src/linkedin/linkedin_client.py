@@ -212,31 +212,34 @@ class LinkedInClient:
     # ─────────────────────────────────────────────────────── #
     def add_connection(self, profile: dict, message: str = "") -> bool:
         """
-        Envía solicitud de conexión con nota personalizada.
-        Usa urn_id (disponible en search_people) para obtener public_id.
+        Envía solicitud de conexión usando fs_miniProfile URN.
+        El urn_id de search_people() es un fs_miniProfile URN base64.
+        linkedin-api acepta profile_urn en format urn:li:fs_miniProfile:{urn_id}.
         """
         urn_id    = profile.get("urn_id", "")
         public_id = profile.get("public_id", "")
 
-        # Resolver public_id desde urn_id si no está disponible
-        if not public_id and urn_id:
-            try:
-                detail    = self.api.get_profile(urn_id=urn_id)
-                public_id = detail.get("public_id", "")
-            except Exception as e:
-                logger.warning(f"[LinkedInClient] No se pudo resolver public_id de {urn_id}: {e}")
-
-        if not public_id:
-            logger.warning(f"[LinkedInClient] Sin public_id para conectar (urn_id={urn_id})")
+        if not urn_id and not public_id:
+            logger.warning("[LinkedInClient] Sin urn_id ni public_id para conectar")
             return False
 
         try:
-            self.api.add_connection(public_id, message=message)
+            if urn_id:
+                # Formato correcto para la API de LinkedIn
+                profile_urn = f"urn:li:fs_miniProfile:{urn_id}"
+                self.api.add_connection(
+                    public_id or "",
+                    message=message,
+                    profile_urn=profile_urn,
+                )
+            else:
+                self.api.add_connection(public_id, message=message)
+
             # Pausa anti-detección
             time.sleep(random.randint(15, 30))
             return True
         except Exception as e:
-            logger.warning(f"[LinkedInClient] Error conectando con {public_id}: {e}")
+            logger.warning(f"[LinkedInClient] Error conectando con {urn_id or public_id}: {e}")
             return False
 
     # ─────────────────────────────────────────────────────── #
