@@ -1,10 +1,11 @@
 """
 linkedin_applier.py — Auto-postulación en LinkedIn usando linkedin-api.
 
-Estrategia:
-  1. Si el empleo tiene Easy Apply → enviar directamente via linkedin-api
-  2. Si tiene postulación externa → obtener URL del ATS → router lo procesa
-  3. Funciona en servidor headless sin Playwright ni detección de bot
+Estrategia (confirmada con debug de payloads reales):
+  1. Llama a get_job(job_id) para obtener el applyMethod real
+  2. Si tiene SimpleOnsiteApply → Easy Apply nativo de LinkedIn
+  3. Si tiene OffsiteApply → obtener URL del ATS externo → router lo procesa
+  4. Sin Playwright, sin anti-bot, funciona en GCP 24/7
 """
 import os
 import logging
@@ -12,11 +13,15 @@ from src.appliers.base_applier import ApplyResult
 
 logger = logging.getLogger(__name__)
 
+# Claves confirmadas por debug real de la API de LinkedIn
+EASY_APPLY_KEY    = "com.linkedin.voyager.jobs.SimpleOnsiteApply"
+OFFSITE_APPLY_KEY = "com.linkedin.voyager.jobs.OffsiteApply"
+
 
 class LinkedInApplier:
     """
     Aplica a empleos de LinkedIn via linkedin-api.
-    No usa navegador, por lo tanto no puede ser detectado como bot.
+    No usa navegador — inmune a detección de bot en servidores.
     """
 
     def apply_sync(self, job: dict) -> ApplyResult:
@@ -42,42 +47,71 @@ class LinkedInApplier:
         except RuntimeError as e:
             return ApplyResult(
                 success=False, job_title=title, company=company,
-                portal="LinkedIn", url=url,
-                message=str(e)
+                portal="LinkedIn", url=url, message=str(e)
             )
 
-        # ── Caso 1: Easy Apply disponible ──────────────────────────────────
-        if job.get("easy_apply", False):
-            print(f"  [LinkedIn] 🟢 Easy Apply disponible → enviando...")
-            ok = client.easy_apply(job, cv_path=os.environ.get("CV_PATH", ""))
-            if ok:
+        # ── Obtener detalles del empleo (applyMethod real) ─────────────────
+        try:
+            detail       = client.api.get_job(job_id)
+            apply_method = detail.get("applyMethod", {})
+        except Exception as e:
+            return ApplyResult(
+                success=False, job_title=title, company=company,
+                portal="LinkedIn", url=url,
+                message=f"Error al obtener detalles del empleo: {e}"
+            )
+
+        # ── Caso 1: Easy Apply nativo de LinkedIn ──────────────────────────
+        if EASY_APPLY_KEY in apply_method:
+            print(f"  [LinkedIn] 🟢 Easy Apply detectado (SimpleOnsiteApply) → enviando...")
+            try:
+                client.api.easy_apply(
+                    job_id,
+                    phone_number=os.environ.get("PROFILE_PHONE", "+593963951193"),
+                    follow_company=True,
+                )
                 return ApplyResult(
                     success=True, job_title=title, company=company,
                     portal="LinkedIn Easy Apply", url=url,
-                    message="Easy Apply enviado correctamente"
+                    message="Easy Apply enviado correctamente via linkedin-api"
                 )
-            else:
+            except Exception as e:
+                logger.warning(f"[LinkedInApplier] Easy Apply falló para {job_id}: {e}")
                 return ApplyResult(
                     success=False, job_title=title, company=company,
                     portal="LinkedIn Easy Apply", url=url,
-                    message="Easy Apply falló — ver logs"
+                    message=f"Easy Apply falló: {e}"
                 )
 
-        # ── Caso 2: Postulación externa → buscar URL del ATS ───────────────
-        print(f"  [LinkedIn] 🔗 Sin Easy Apply → buscando URL externa...")
-        external_url = client.get_external_apply_url(job_id)
+        # ── Caso 2: Postulación externa (ATS de la empresa) ───────────────
+        offsite     = apply_method.get(OFFSITE_APPLY_KEY, {})
+        external_url = (
+            offsite.get("companyApplyUrl", "")
+            or offsite.get("easyApplyUrl", "")
+        )
 
         if external_url:
-            print(f"  [LinkedIn] → Redirigiendo a ATS externo: {external_url[:60]}")
-            from src.appliers.router import get_applier_for_url
-            applier = get_applier_for_url(external_url, "LinkedIn-External")
-            if applier:
-                job_copy = dict(job)
-                job_copy["url"] = external_url
-                return applier.apply_sync(job_copy)
+            print(f"  [LinkedIn] 🔗 ATS externo detectado → {external_url[:70]}")
+            try:
+                from src.appliers.router import get_applier_for_url
+                applier = get_applier_for_url(external_url, "LinkedIn-External")
+                if applier:
+                    job_copy       = dict(job)
+                    job_copy["url"] = external_url
+                    return applier.apply_sync(job_copy)
+            except Exception as e:
+                logger.warning(f"[LinkedInApplier] Error al redirigir ATS externo: {e}")
 
+            return ApplyResult(
+                success=False, job_title=title, company=company,
+                portal="LinkedIn-External", url=external_url,
+                message="ATS externo detectado pero sin applier disponible"
+            )
+
+        # ── Caso 3: Sin método de aplicación detectable ────────────────────
+        print(f"  [LinkedIn] ⚠️ applyMethod vacío o desconocido: {list(apply_method.keys())}")
         return ApplyResult(
             success=False, job_title=title, company=company,
             portal="LinkedIn", url=url,
-            message="Sin Easy Apply ni URL externa detectable"
+            message=f"Sin Easy Apply ni URL externa detectable. Keys: {list(apply_method.keys())}"
         )
