@@ -58,17 +58,22 @@ class RemoteOKScraper:
 
 class GetOnBoardScraper:
     def fetch_jobs(self):
-        try:
-            r = requests.get(
-                "https://www.getonbrd.com/api/v0/jobs?per_page=20&page=1",
-                headers=HEADERS, timeout=12
-            )
-            r.raise_for_status()
-            jobs = r.json().get('data', [])
-            return [self._normalize(j) for j in jobs[:10]]
-        except Exception as e:
-            print(f"[GetOnBoard] Error: {e}")
-            return []
+        categories = ['data-science-analytics', 'ai-machine-learning']
+        jobs = []
+        for cat in categories:
+            try:
+                r = requests.get(
+                    f"https://www.getonbrd.com/api/v0/categories/{cat}/jobs?per_page=15&page=1",
+                    headers=HEADERS, timeout=12
+                )
+                r.raise_for_status()
+                data = r.json().get('data', [])
+                for j in data:
+                    jobs.append(self._normalize(j))
+            except Exception as e:
+                print(f"[GetOnBoard:{cat}] Error: {e}")
+        return jobs
+
 
     def _normalize(self, j):
         attrs = j.get('attributes', {})

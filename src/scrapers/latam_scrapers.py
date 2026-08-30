@@ -80,9 +80,10 @@ class WeWorkRemotelyScraper(BaseScraper):
     def fetch_jobs(self) -> List[Dict]:
         import xml.etree.ElementTree as ET
         feeds = [
-            "https://weworkremotely.com/categories/remote-data-science-jobs.rss",
-            "https://weworkremotely.com/categories/remote-programming-jobs.rss"
+            "https://weworkremotely.com/categories/remote-programming-jobs.rss",
+            "https://weworkremotely.com/categories/remote-devops-sysadmin-jobs.rss"
         ]
+
         all_jobs = []
         
         for feed_url in feeds:
@@ -147,28 +148,28 @@ class TorreScraper(BaseScraper):
             return []
 
 class WorkingNomadsScraper(BaseScraper):
-    """WorkingNomads.com - Data/AI remote jobs RSS"""
+    """WorkingNomads.com - Direct JSON API"""
     def fetch_jobs(self) -> List[Dict]:
-        import xml.etree.ElementTree as ET
-        url = "https://www.workingnomads.com/feed?category=data-science"
+        url = "https://www.workingnomads.com/api/exposed_jobs/"
         try:
-            response = requests.get(url, headers=self.headers, timeout=10)
-            root = ET.fromstring(response.content)
-            items = root.findall('.//item')
+            response = requests.get(url, headers=self.headers, timeout=12)
+            response.raise_for_status()
+            data = response.json()
             
             jobs = []
-            for item in items[:8]:
+            for item in data[:30]:
                 jobs.append({
-                    "title": item.findtext('title', ''),
-                    "company": item.findtext('author', 'Ver enlace'),
-                    "location": "Remoto Global",
+                    "title": item.get('title', ''),
+                    "company": item.get('company_name', 'Ver enlace'),
+                    "location": item.get('location', 'Remoto Global'),
                     "salary": "",
-                    "url": item.findtext('link', ''),
+                    "url": item.get('url', ''),
                     "source": "WorkingNomads",
-                    "description": item.findtext('description', '')[:500],
-                    "date": str(datetime.datetime.now().date())
+                    "description": item.get('description', '')[:500],
+                    "date": item.get('pub_date', str(datetime.datetime.now().date()))[:10]
                 })
             return jobs
         except Exception as e:
             print(f"Error en WorkingNomads: {e}")
             return []
+
