@@ -54,6 +54,14 @@ Deploy: git add -A && git commit -m "..." && git push origin main
 
 ## 🏗️ Arquitectura del Sistema (V7)
 
+### 🔌 Acceso Remoto IA-to-Server (SSH-MCP)
+Para evitar que el usuario copie y pegue comandos en la consola de Google Cloud, el siguiente paso evolutivo es conectar la instancia directamente a Antigravity usando **SSH-MCP**.
+- **Ventaja**: Es el método más rápido, robusto y 100% resistente a fallos visuales (al ser nativo de terminal, no usa scraping web).
+- **Cómo configurarlo (Futuro)**: 
+  1. Instalar el servidor `mcp-server-ssh` en la máquina local.
+  2. Proveerle la IP de Google Cloud (`35.235.240.65` o similar) y el archivo de la llave privada SSH (`.pem` o `.ppk`).
+  3. Antigravity tendrá control `bash` directo sobre la instancia de producción para arreglar bugs, hacer `git pull` o reiniciar el entorno.
+
 ```
                 ┌──────────────────────────────────────────┐
                 │          main_v6.py  (Orquestador)       │
