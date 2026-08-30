@@ -346,16 +346,7 @@ def main(dry_run: bool = False):
                 print(f"[JOB] {title} @ {company}")
                 print(f"      Source: {source} | URL: {url[:60]}...")
 
-                # ── Empleos de LinkedIn → notificación Telegram para apply manual ──
-                if 'linkedin.com' in url:
-                    send_telegram(
-                        f"🔵 *LinkedIn — Aplica YA (1 clic):*\n"
-                        f"*{title}* @ {company}\n"
-                        f"🔗 {url}"
-                    )
-                    memory.mark_applied(job)
-                    print(f"[LINKEDIN] ✉️ Notificación Telegram enviada → aplica tú manualmente")
-                    continue
+                # (El applier de LinkedIn ahora se maneja automáticamente a través del router)
 
                 # ── Intentar applier ATS (Playwright) ──
                 applier = get_applier_for_url(url, source)
