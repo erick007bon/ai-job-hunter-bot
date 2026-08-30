@@ -41,18 +41,11 @@ CONNECTION_NOTES = [
     ),
 ]
 
-# Keywords para buscar reclutadores relevantes
+# Keywords para buscar reclutadores (3 por corrida para evitar rate-limiting 429)
 RECRUITER_SEARCHES = [
-    {"keywords": "data science recruiter", "location": ""},
-    {"keywords": "AI engineer recruiter", "location": ""},
-    {"keywords": "machine learning talent", "location": ""},
-    {"keywords": "tech recruiter data", "location": ""},
-    {"keywords": "reclutador data scientist", "location": ""},
-    {"keywords": "talent acquisition data engineer", "location": ""},
-    {"keywords": "hiring manager data science", "location": ""},
-    {"keywords": "recruiter python developer", "location": ""},
-    {"keywords": "reclutador tecnologia IA", "location": ""},
-    {"keywords": "talent data engineer remote", "location": ""},
+    {"keywords": "data science recruiter remote", "location": ""},
+    {"keywords": "AI engineer talent acquisition", "location": ""},
+    {"keywords": "machine learning hiring manager", "location": ""},
 ]
 
 
@@ -270,6 +263,12 @@ class RecruiterConnector:
                 wait = random.randint(20, 45)
                 print(f"  [->] Esperando {wait}s...")
                 time.sleep(wait)
+
+            # Pausa anti-429 entre búsquedas: 60-90 segundos
+            if stats["sent"] < target:
+                wait_search = random.randint(60, 90)
+                print(f"\n[CONNECTOR] Pausa anti-429: {wait_search}s antes de la siguiente búsqueda...")
+                time.sleep(wait_search)
 
         # Guardar log
         self._save_log()

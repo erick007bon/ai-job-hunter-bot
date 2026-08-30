@@ -62,7 +62,22 @@ class LinkedInApplier(BaseApplier):
             page = await context.new_page()
 
             try:
-                await page.goto(url, wait_until="domcontentloaded", timeout=20000)
+                # CRÍTICO: ir a linkedin.com primero para activar las cookies de sesión
+                # De lo contrario Playwright arranca sin sesión y LinkedIn entra en redirect loop
+                await page.goto("https://www.linkedin.com/", wait_until="domcontentloaded", timeout=20000)
+                await asyncio.sleep(2)
+
+                # Verificar que estamos logueados (no en página de login)
+                if "login" in page.url or "authwall" in page.url:
+                    await browser.close()
+                    return ApplyResult(
+                        success=False, job_title=title, company=company,
+                        portal="LinkedIn", url=url,
+                        message="Cookies expiradas — renovar li_at y JSESSIONID en .env"
+                    )
+
+                # Ahora sí navegar al empleo
+                await page.goto(url, wait_until="domcontentloaded", timeout=25000)
                 await asyncio.sleep(2)
 
                 # ── Buscar botón Easy Apply ──────────────────────────────────
