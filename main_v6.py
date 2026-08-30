@@ -372,9 +372,15 @@ def main(dry_run: bool = False):
 
         except ImportError as e:
             print(f"[ERROR] Playwright no instalado: {e}")
-            print("  → Notificando ofertas sin postular...")
+            print("  → Notificando ofertas por Telegram para postulación manual...")
             for job in nuevas[:MAX_APPS]:
-                notify_job_found(job)
+                send_telegram(
+                    f"💼 *EMPLEO NUEVO — Postula manualmente*\n\n"
+                    f"📌 *{job.get('title')}* @ {job.get('company')}\n"
+                    f"🔗 {job.get('url')}\n"
+                    f"🌐 Fuente: {job.get('source')}"
+                )
+                memory.mark_applied(job)  # marcar para no spamear
 
     # ── 5. LINKEDIN RECRUITER OUTREACH ────────────────────────────────────────
     if not dry_run:
@@ -419,7 +425,20 @@ def _try_cold_email(job: dict, funnel, memory, applied_results: list):
     email_verified = job.get('email_verified', False)
 
     if not contact_email:
-        print("  [COLD EMAIL] Sin email de contacto disponible")
+        # Sin email — notificar por Telegram para postulación manual
+        title   = job.get('title', 'Puesto')
+        company = job.get('company', 'Empresa')
+        url     = job.get('url', '')
+        source  = job.get('source', '')
+        print(f"  [COLD EMAIL] Sin email → Telegram alert para postulación manual")
+        send_telegram(
+            f"💼 *EMPLEO NUEVO — Postula tú manualmente*\n\n"
+            f"📌 *{title}* @ {company}\n"
+            f"🔗 {url}\n"
+            f"🌐 Fuente: {source}\n\n"
+            f"_El bot no encontró formulario automático ni email de contacto._"
+        )
+        memory.mark_applied(job)  # marcar como visto para no repetir
         return
 
     if not email_verified:
