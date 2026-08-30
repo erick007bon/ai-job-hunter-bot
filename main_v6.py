@@ -2,15 +2,18 @@
 AI Job Hunter V6 — Orquestador principal con Auto-Postulación.
 
 Pipeline:
-  1. Scraping (6 plataformas: Remotive, RemoteOK, GetOnBoard, Jobicy, WeWorkRemotely, WorkingNomads)
+  1. Scraping multi-canal (LinkedIn 50% + API boards 50%)
+     - LinkedIn: scraping de empleos + conexión automática con reclutadores
+     - Remotive, RemoteOK, GetOnBoard, Jobicy, WeWorkRemotely, WorkingNomads
   2. Filtrado por perfil (MatchEngine)
   3. Deduplicación (MemoryStore)
   4. Enriquecimiento con email real de RRHH (Hunter.io / EmailExtractor)
   5. Auto-postulación:
      a) Router → detecta ATS (Greenhouse, Lever, Workable, etc.) → Playwright apply
      b) Fallback → cold-email con CV adjunto (SMTP o Gmail OAuth2)
-  6. Notificaciones Telegram
-  7. Reporte en markdown
+  6. LinkedIn recruiter outreach (conexión automática con nota personalizada)
+  7. Notificaciones Telegram
+  8. Reporte en markdown
 
 Para configurar: ver secrets en .github/workflows/job_hunter.yml
 """
@@ -34,6 +37,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from src.scrapers.api_scrapers import RemotiveScraper, RemoteOKScraper, GetOnBoardScraper, JobicyScraper
 from src.scrapers.latam_scrapers import WeWorkRemotelyScraper, WorkingNomadsScraper
+from src.scrapers.linkedin_scraper import LinkedInScraper
+from src.linkedin.recruiter_connector import RecruiterConnector
 from src.filters.match_engine import MatchEngine
 from src.memory.memory_store import MemoryStore
 from src.extractors.email_extractor import EmailExtractor
@@ -256,13 +261,15 @@ def main(dry_run: bool = False):
     engine = MatchEngine()
 
     # ── 1. SCRAPING ──────────────────────────────────────────────────────────
+    # LinkedIn aporta ~50% de las búsquedas; el resto de boards el otro 50%
     scrapers = [
+        LinkedInScraper(),        # 🔵 LinkedIn — empleos Data/AI/ML (cookies Voyager)
         RemotiveScraper(),        # API estable
         RemoteOKScraper(),        # API estable
-        GetOnBoardScraper(),      # API v0 funcional
+        GetOnBoardScraper(),      # API v0 LATAM — Data Science & AI
         JobicyScraper(),          # API estable
-        WeWorkRemotelyScraper(),  # RSS feed — Data & Programming
-        WorkingNomadsScraper(),   # RSS feed — Data Science
+        WeWorkRemotelyScraper(),  # RSS — Programming & DevOps
+        WorkingNomadsScraper(),   # JSON API — remoto global
     ]
 
     all_jobs = []
@@ -362,7 +369,19 @@ def main(dry_run: bool = False):
             for job in nuevas[:MAX_APPS]:
                 notify_job_found(job)
 
-    # ── 5. REPORTE ───────────────────────────────────────────────────────────
+    # ── 5. LINKEDIN RECRUITER OUTREACH ────────────────────────────────────────
+    if not dry_run:
+        print("\n[LINKEDIN] 🔵 Buscando reclutadores en LinkedIn para conectar...")
+        try:
+            connector = RecruiterConnector()
+            connected = connector.run(max_connections=8)
+            print(f"[LINKEDIN] ✅ Conexiones enviadas: {connected}")
+            if connected > 0:
+                send_telegram(f"🔵 LinkedIn: {connected} solicitudes de conexión enviadas a reclutadores de Data/AI")
+        except Exception as e:
+            print(f"[LINKEDIN] ⚠️ Error en recruiter outreach: {e}")
+
+    # ── 6. REPORTE ───────────────────────────────────────────────────────────
     report = generate_report(applied_results, all_jobs, filtered)
 
     os.makedirs("reportes", exist_ok=True)
@@ -371,8 +390,6 @@ def main(dry_run: bool = False):
 
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
-    with open('OPORTUNIDADES_HOY.md', 'w', encoding='utf-8') as f:
-        f.write(report)
 
     notify_application_summary(applied_results)
 
@@ -380,6 +397,7 @@ def main(dry_run: bool = False):
     print(f"       Postulaciones: {len(applied_results)} | "
           f"Exitosas: {sum(1 for r in applied_results if r.success)}")
     print("=" * 60)
+
 
 
 def _try_cold_email(job: dict, funnel, memory, applied_results: list):

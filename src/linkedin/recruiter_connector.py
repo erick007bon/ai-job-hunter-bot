@@ -270,3 +270,12 @@ class RecruiterConnector:
         print(f"\n[CONNECTOR] Resultado: {stats['sent']} conexiones enviadas")
         print(f"[CONNECTOR] Total historico: {len(self.already_connected)} reclutadores contactados")
         return stats
+
+    def run(self, max_connections: int = 8) -> int:
+        """
+        Método de conveniencia para llamar desde el pipeline principal.
+        Retorna número de conexiones enviadas.
+        """
+        stats = self.run_weekly_connections(target=max_connections)
+        return stats.get("sent", 0)
+
