@@ -186,7 +186,7 @@ class LinkedInClient:
             raw = self.api.search_people(
                 keywords=keywords,
                 limit=limit,
-                network_depths=["S", "O"],   # 2do y 3er grado
+                # network_depths eliminado: causa 0 resultados en algunas versiones
             )
 
             for item in raw:
