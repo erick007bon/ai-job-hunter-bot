@@ -77,16 +77,23 @@ class RecruiterConnector:
 
     def _init_session(self) -> requests.Session:
         session = requests.Session()
+        # LinkedIn almacena JSESSIONID con el prefijo "ajax:" en la cookie,
+        # pero el header csrf-token usa el valor RAW sin comillas adicionales
+        raw_jsessionid = self.jsessionid.strip('"').replace('ajax:', '')
         session.cookies.set("li_at", self.li_at, domain=".linkedin.com")
-        session.cookies.set("JSESSIONID", f'"{self.jsessionid}"', domain=".linkedin.com")
+        session.cookies.set("JSESSIONID", f'"ajax:{raw_jsessionid}"', domain=".linkedin.com")
         session.headers.update({
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                          "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
             "Accept": "application/vnd.linkedin.normalized+json+2.1",
             "Accept-Language": "en-US,en;q=0.9,es;q=0.8",
-            "csrf-token": self.jsessionid,
+            "csrf-token": f"ajax:{raw_jsessionid}",
             "x-restli-protocol-version": "2.0.0",
+            "x-li-lang": "en_US",
+            "x-li-track": '{"clientVersion":"1.13.14765","mpVersion":"1.13.14765","osName":"web","timezoneOffset":-5,"timezone":"America/Guayaquil","deviceFormFactor":"DESKTOP","mpName":"voyager-web","displayDensity":1,"displayWidth":1920,"displayHeight":1080}',
         })
         return session
+
 
     def _load_log(self):
         """Carga historial de conexiones para no repetir"""
