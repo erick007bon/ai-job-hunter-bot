@@ -1,4 +1,4 @@
-# AI Job Hunter Bot V6 — Dependencias para Linux (GitHub Actions Ubuntu)
+# AI Job Hunter Bot V7 — Dependencias para Linux (GCP VM + GitHub Actions)
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
@@ -18,3 +18,5 @@ reportlab>=4.0.0
 # Utils
 python-dotenv>=1.0.0
 python-jobspy>=0.1.0
+# LinkedIn API (sin navegador, sin bot detection)
+linkedin-api>=0.0.1

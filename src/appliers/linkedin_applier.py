@@ -1,137 +1,83 @@
 """
-linkedin_applier.py — Aplica a ofertas de LinkedIn usando Easy Apply (Playwright).
+linkedin_applier.py — Auto-postulación en LinkedIn usando linkedin-api.
 
 Estrategia:
-  1. Navega a la URL del empleo en LinkedIn con cookies de sesión
-  2. Si existe el botón "Easy Apply" → hace clic y completa el formulario automáticamente
-  3. Si hay redirección externa → retorna la URL del ATS para que el router la procese
+  1. Si el empleo tiene Easy Apply → enviar directamente via linkedin-api
+  2. Si tiene postulación externa → obtener URL del ATS → router lo procesa
+  3. Funciona en servidor headless sin Playwright ni detección de bot
 """
 import os
-import time
-import asyncio
-from typing import Optional
-from src.appliers.base_applier import BaseApplier, ApplyResult
-from src.config import Config
+import logging
+from src.appliers.base_applier import ApplyResult
+
+logger = logging.getLogger(__name__)
 
 
-class LinkedInApplier(BaseApplier):
+class LinkedInApplier:
     """
-    Aplica a empleos de LinkedIn usando Easy Apply.
-    Usa Playwright con cookies de sesión para autenticarse automáticamente.
+    Aplica a empleos de LinkedIn via linkedin-api.
+    No usa navegador, por lo tanto no puede ser detectado como bot.
     """
 
-    def __init__(self):
-        self.li_at      = Config.LINKEDIN_LI_AT
-        self.jsessionid = Config.LINKEDIN_JSESSIONID
+    def apply_sync(self, job: dict) -> ApplyResult:
+        title   = job.get("title", "Puesto")
+        company = job.get("company", "Empresa")
+        url     = job.get("url", "")
+        job_id  = job.get("job_id", "")
 
-    async def apply(self, job: dict) -> ApplyResult:
-        from playwright.async_api import async_playwright
+        # Extraer job_id de la URL si no viene en el dict
+        if not job_id and "jobs/view/" in url:
+            job_id = url.rstrip("/").split("/")[-1]
 
-        url     = job.get('url', '')
-        title   = job.get('title', 'Puesto')
-        company = job.get('company', 'Empresa')
-        cv_path = os.environ.get('CV_PATH', 'data/CV_Erick_Flores_EN.pdf')
-
-        async with async_playwright() as p:
-            browser = await p.chromium.launch(headless=True)
-            context = await browser.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                           "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        if not job_id:
+            return ApplyResult(
+                success=False, job_title=title, company=company,
+                portal="LinkedIn", url=url,
+                message="Sin job_id — no se puede aplicar"
             )
 
-            # Inyectar cookies de sesión de LinkedIn
-            await context.add_cookies([
-                {
-                    "name": "li_at",
-                    "value": self.li_at,
-                    "domain": ".linkedin.com",
-                    "path": "/",
-                    "httpOnly": True,
-                    "secure": True,
-                },
-                {
-                    "name": "JSESSIONID",
-                    "value": f'"{self.jsessionid}"',
-                    "domain": ".linkedin.com",
-                    "path": "/",
-                    "httpOnly": False,
-                    "secure": True,
-                },
-            ])
+        try:
+            from src.linkedin.linkedin_client import LinkedInClient
+            client = LinkedInClient()
+        except RuntimeError as e:
+            return ApplyResult(
+                success=False, job_title=title, company=company,
+                portal="LinkedIn", url=url,
+                message=str(e)
+            )
 
-            page = await context.new_page()
-
-            try:
-                # CRÍTICO: ir a linkedin.com primero para activar las cookies de sesión
-                # De lo contrario Playwright arranca sin sesión y LinkedIn entra en redirect loop
-                await page.goto("https://www.linkedin.com/", wait_until="domcontentloaded", timeout=20000)
-                await asyncio.sleep(2)
-
-                # Verificar que estamos logueados (no en página de login)
-                if "login" in page.url or "authwall" in page.url:
-                    await browser.close()
-                    return ApplyResult(
-                        success=False, job_title=title, company=company,
-                        portal="LinkedIn", url=url,
-                        message="Cookies expiradas — renovar li_at y JSESSIONID en .env"
-                    )
-
-                # Ahora sí navegar al empleo
-                await page.goto(url, wait_until="domcontentloaded", timeout=25000)
-                await asyncio.sleep(2)
-
-                # ── Buscar botón Easy Apply ──────────────────────────────────
-                easy_apply = page.locator(
-                    "button.jobs-apply-button, "
-                    "button[aria-label*='Easy Apply'], "
-                    "button[data-control-name='jobdetails_topcard_inapply']"
-                ).first
-
-                if await easy_apply.is_visible(timeout=5000):
-                    await easy_apply.click()
-                    await asyncio.sleep(2)
-
-                    # Subir CV si hay campo de upload
-                    upload_input = page.locator("input[type='file']").first
-                    if cv_path and os.path.isfile(cv_path) and await upload_input.is_visible(timeout=3000):
-                        await upload_input.set_input_files(cv_path)
-                        await asyncio.sleep(1)
-
-                    # Siguiente / Revisar / Enviar
-                    for btn_label in ["Siguiente", "Next", "Revisar", "Review", "Enviar solicitud", "Submit application"]:
-                        btn = page.locator(f"button:has-text('{btn_label}')").first
-                        if await btn.is_visible(timeout=2000):
-                            await btn.click()
-                            await asyncio.sleep(1.5)
-
-                    await browser.close()
-                    return ApplyResult(
-                        success=True,
-                        job_title=title,
-                        company=company,
-                        portal="LinkedIn Easy Apply",
-                        url=url,
-                        message="Easy Apply enviado"
-                    )
-
-                # ── Sin Easy Apply → reportar para cold-email ────────────────
-                await browser.close()
+        # ── Caso 1: Easy Apply disponible ──────────────────────────────────
+        if job.get("easy_apply", False):
+            print(f"  [LinkedIn] 🟢 Easy Apply disponible → enviando...")
+            ok = client.easy_apply(job, cv_path=os.environ.get("CV_PATH", ""))
+            if ok:
                 return ApplyResult(
-                    success=False,
-                    job_title=title,
-                    company=company,
-                    portal="LinkedIn",
-                    url=url,
-                    message="Sin botón Easy Apply — postulación manual necesaria"
+                    success=True, job_title=title, company=company,
+                    portal="LinkedIn Easy Apply", url=url,
+                    message="Easy Apply enviado correctamente"
+                )
+            else:
+                return ApplyResult(
+                    success=False, job_title=title, company=company,
+                    portal="LinkedIn Easy Apply", url=url,
+                    message="Easy Apply falló — ver logs"
                 )
 
-            except Exception as e:
-                await browser.close()
-                return ApplyResult(
-                    success=False,
-                    job_title=title,
-                    company=company,
-                    portal="LinkedIn",
-                    url=url,
-                    message=f"Error: {str(e)[:120]}"
-                )
+        # ── Caso 2: Postulación externa → buscar URL del ATS ───────────────
+        print(f"  [LinkedIn] 🔗 Sin Easy Apply → buscando URL externa...")
+        external_url = client.get_external_apply_url(job_id)
+
+        if external_url:
+            print(f"  [LinkedIn] → Redirigiendo a ATS externo: {external_url[:60]}")
+            from src.appliers.router import get_applier_for_url
+            applier = get_applier_for_url(external_url, "LinkedIn-External")
+            if applier:
+                job_copy = dict(job)
+                job_copy["url"] = external_url
+                return applier.apply_sync(job_copy)
+
+        return ApplyResult(
+            success=False, job_title=title, company=company,
+            portal="LinkedIn", url=url,
+            message="Sin Easy Apply ni URL externa detectable"
+        )
