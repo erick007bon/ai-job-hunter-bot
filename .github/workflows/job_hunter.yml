@@ -2,10 +2,10 @@ name: 🤖 AI Job Hunter V6 — Auto-Postulación + Becas + Telegram
 
 on:
   schedule:
-    - cron: '0 12 * * *'   # 7am Ecuador
-    - cron: '0 17 * * *'   # 12pm Ecuador
-    - cron: '0 22 * * *'   # 5pm Ecuador
-    - cron: '0 3 * * *'    # 10pm Ecuador
+    - cron: '0 12 * * *'   # 07:00 Ecuador (UTC-5)
+    - cron: '0 17 * * *'   # 12:00 Ecuador
+    - cron: '0 22 * * *'   # 17:00 Ecuador
+    - cron: '0 3 * * *'    # 22:00 Ecuador
   workflow_dispatch:
 
 jobs:
@@ -30,21 +30,58 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: 🌐 Install Playwright Chromium (para auto-postulación)
+    - name: 🌐 Install Playwright + system deps (para auto-postulación)
       run: |
-        playwright install chromium
-        playwright install-deps chromium
+        python -m playwright install chromium
+        python -m playwright install-deps chromium
 
     - name: 📁 Prepare directories
       run: mkdir -p data reportes cover_letters browser_profiles
 
-    - name: 🔑 Reconstruct Gmail Credentials
+    # ── SECRETS RECONSTRUCTION ──────────────────────────────────────────────
+    # Para configurar estos secrets ve a:
+    # https://github.com/erick007bon/ai-job-hunter-bot/settings/secrets/actions
+    #
+    # Secrets OBLIGATORIOS:
+    #   TELEGRAM_BOT_TOKEN  — token de tu bot de Telegram (@BotFather)
+    #   TELEGRAM_CHAT_ID    — ID de tu chat personal o grupo
+    #   CV_PDF_B64          — tu CV en PDF codificado en base64:
+    #                         En Linux/Mac: base64 -i CV_Erick_Flores_EN.pdf | pbcopy
+    #                         En Windows:   [Convert]::ToBase64String([IO.File]::ReadAllBytes("CV.pdf"))
+    #
+    # Secrets OPCIONALES (para cold-email):
+    #   EMAIL_USER          — tu correo SMTP (ej: eflores4006@utm.edu.ec)
+    #   EMAIL_PASSWORD      — contraseña de aplicación (NO la personal)
+    #
+    # Secrets OPCIONALES (para detección de emails de RRHH):
+    #   HUNTER_API_KEY      — API key de hunter.io (plan gratuito: 25 búsquedas/mes)
+    #
+    # Secrets OPCIONALES (para cover letters con IA):
+    #   OPENROUTER_API_KEY  — API key de openrouter.ai
+    #
+    # Secrets OPCIONALES (para Gmail OAuth2, alternativa al SMTP):
+    #   GMAIL_CREDENTIALS_B64 — credentials.json de Google Cloud Console en base64
+    #   GMAIL_TOKEN_B64       — token.json OAuth2 en base64 (EXPIRA cada 7 días)
+
+    - name: 📄 Reconstruct CV PDF  ← CRÍTICO para cold-email
+      run: |
+        if [ -n "$CV_PDF_B64" ]; then
+          echo "$CV_PDF_B64" | base64 -d > data/CV_Erick_Flores_EN.pdf
+          echo "✓ CV PDF restaurado ($(wc -c < data/CV_Erick_Flores_EN.pdf) bytes)"
+        else
+          echo "⚠️ CV_PDF_B64 no configurado — las postulaciones por email fallarán"
+          echo "   Para configurarlo: base64 -i tu_CV.pdf (y pegar resultado como secret CV_PDF_B64)"
+        fi
+      env:
+        CV_PDF_B64: ${{ secrets.CV_PDF_B64 }}
+
+    - name: 🔑 Reconstruct Gmail Credentials (OAuth2 — opcional)
       run: |
         if [ -n "$GMAIL_CREDENTIALS_B64" ]; then
           echo "$GMAIL_CREDENTIALS_B64" | base64 -d > data/credentials.json
           echo "✓ credentials.json restaurado"
         else
-          echo "⚠️  GMAIL_CREDENTIALS_B64 no configurado"
+          echo "ℹ️  GMAIL_CREDENTIALS_B64 no configurado — usando SMTP en su lugar"
         fi
         if [ -n "$GMAIL_TOKEN_B64" ]; then
           echo "$GMAIL_TOKEN_B64" | base64 -d > data/token.json
@@ -56,49 +93,58 @@ jobs:
 
     - name: 🚀 Run AI Job Hunter V6 (Auto-Postulación)
       env:
+        # Telegram (obligatorio)
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        MULTITRABAJOS_EMAIL: ${{ secrets.MULTITRABAJOS_EMAIL }}
-        MULTITRABAJOS_PASSWORD: ${{ secrets.MULTITRABAJOS_PASSWORD }}
-        CV_PATH: CV_Erick_Flores.pdf
+        # CV
+        CV_PATH: data/CV_Erick_Flores_EN.pdf
         MAX_APPLICATIONS: "5"
         AUTO_APPLY: "true"
-        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
-        EMAIL_SENDER: ${{ secrets.EMAIL_SENDER }}
+        # SMTP email directo (recomendado — no caduca)
+        EMAIL_SENDER: ${{ secrets.EMAIL_USER }}
         EMAIL_USER: ${{ secrets.EMAIL_USER }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-        SMTP_HOST: smtp.office365.com
+        SMTP_HOST: smtp.gmail.com
         SMTP_PORT: "587"
         SMTP_TLS: "true"
+        # IA para cover letters personalizadas
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        # Detección de emails de RRHH
         HUNTER_API_KEY: ${{ secrets.HUNTER_API_KEY }}
+        # LinkedIn (solo para scrapers, NO para postulación automática)
         LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
         LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
+        # Multitrabajos.ec
+        MULTITRABAJOS_EMAIL: ${{ secrets.MULTITRABAJOS_EMAIL }}
+        MULTITRABAJOS_PASSWORD: ${{ secrets.MULTITRABAJOS_PASSWORD }}
       run: |
-        echo "🚀 Iniciando AI Job Hunter V6 con Auto-Postulación..."
+        echo "🚀 Iniciando AI Job Hunter V6..."
+        echo "   CV disponible: $(test -f data/CV_Erick_Flores_EN.pdf && echo 'SÍ ✓' || echo 'NO ✗ — solo notificará a Telegram')"
         python main_v6.py
         echo "✅ Ciclo completado."
 
-    - name: 🎓 Run Scholarship Hunter (Becas — 1x al dia a las 7am)
+    - name: 🎓 Run Scholarship Hunter (Becas — 1x al día a las 7am)
       if: github.event.schedule == '0 12 * * *' || github.event_name == 'workflow_dispatch'
       env:
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
-        echo "Buscando becas internacionales..."
-        python scholarship_hunter.py || echo "⚠️ scholarship_hunter.py fallo — continuando"
-        echo "Búsqueda de becas completada."
+        echo "🎓 Buscando becas internacionales..."
+        python scholarship_hunter.py || echo "⚠️ scholarship_hunter.py falló — continuando"
+        echo "✅ Búsqueda de becas completada."
 
-    - name: 🤖 Run Auto-Applier (Bajo el Agua)
-      env:
-        LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
-        LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
-      run: python run_applier.py || true
+    # ⚠️ DESACTIVADO DELIBERADAMENTE (2026-08-04)
+    # El LinkedIn Easy Apply desde IPs de datacenter viola los ToS de LinkedIn
+    # y genera postulaciones con respuestas en blanco si OPENAI_API_KEY no está.
+    # Para usarlo bajo supervisión manual → workflow "LinkedIn Autonomy Demo"
+    # - name: 🤖 Run Auto-Applier LinkedIn
+    #   run: python run_applier.py
 
     - name: 📊 Commit y Push resultados
       run: |
         git config --global user.name "AI Job Hunter Bot 🤖"
         git config --global user.email "bot@job-hunter.ai"
-        git add cover_letters/ reportes/ data/applied_jobs.json data/token.json OPORTUNIDADES_HOY.md || true
-        git commit -m "🎯 Auto-Apply V6: $(date +'%Y-%m-%d %H:%M UTC')" || echo "Sin cambios nuevos"
-        git push || echo "Push fallido, pero el bot corrió OK"
+        git add cover_letters/ reportes/ data/applied_jobs.json OPORTUNIDADES_HOY.md 2>/dev/null || true
+        git commit -m "🎯 Auto-Apply V6: $(date +'%Y-%m-%d %H:%M UTC')" || echo "Sin cambios nuevos que guardar"
+        git push || echo "Push fallido — el bot corrió OK de todos modos"

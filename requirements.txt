@@ -2,14 +2,17 @@
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
+feedparser>=6.0.0
+# Google API (Gmail OAuth2)
 google-auth>=2.20.0
 google-auth-oauthlib>=1.0.0
 google-auth-httplib2>=0.1.0
 google-api-python-client>=2.90.0
+# AI
 openai>=1.0.0
-playwright>=1.40.0
-python-dotenv>=1.0.0
-python-jobspy>=0.1.0
-# V6 — Auto-Apply con Playwright
+# Playwright para auto-apply en ATSs
 playwright>=1.44.0
 tf-playwright-stealth>=1.1.0
+# Utils
+python-dotenv>=1.0.0
+python-jobspy>=0.1.0
