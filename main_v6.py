@@ -237,15 +237,19 @@ def generate_report(applied_results: list, all_jobs: list, filtered: list) -> st
 
 
 def dedupe_jobs(jobs: list) -> list:
-    """Elimina duplicados por URL (case-insensitive, trailing slash normalizado)."""
-    seen   = set()
+    """Elimina duplicados por URL Y por huella title+company (para casos como WorkingNomads)."""
+    seen_urls   = set()
+    seen_titles = set()
     unique = []
     for job in jobs:
         url = job.get('url', '').rstrip('/').lower()
-        if url and url not in seen:
-            seen.add(url)
+        fingerprint = f"{job.get('title','').lower().strip()}|{job.get('company','').lower().strip()}"
+        if (url and url not in seen_urls) and (fingerprint not in seen_titles):
+            seen_urls.add(url)
+            seen_titles.add(fingerprint)
             unique.append(job)
     return unique
+
 
 
 def main(dry_run: bool = False):
