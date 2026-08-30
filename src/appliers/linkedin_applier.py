@@ -121,7 +121,7 @@ class LinkedInApplier:
         pero sí nos da acceso a la sesión requests con cookies válidas.
         """
         try:
-            session    = client.api.client._session
+            session    = client.api.client.session
             jsessionid = os.environ.get("LINKEDIN_JSESSIONID", "").strip('"').replace("ajax:", "").strip()
 
             payload = {
