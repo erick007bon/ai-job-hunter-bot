@@ -92,10 +92,10 @@ def _get_applier_by_domain(domain: str, url: str) -> Optional["BaseApplier"]:
         from src.appliers.multitrabajos_applier import MultitrabajosApplier
         return MultitrabajosApplier()
 
-    # LinkedIn Easy Apply
+    # LinkedIn: NO se puede hacer Easy Apply desde servidor headless (anti-bot)
+    # El main_v6 maneja las ofertas de LinkedIn con notificación Telegram directa
     if 'linkedin.com' in domain:
-        from src.appliers.linkedin_applier import LinkedInApplier
-        return LinkedInApplier()
+        return None
 
     return None
 
