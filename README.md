@@ -1,118 +1,134 @@
-# 🤖 AI Job Hunter Bot V6
+# 🤖 AI Job Hunter Bot V7
 
-> **Agente autónomo 24/7 de búsqueda y postulación de empleo remoto.**
-> Desplegado en Google Cloud VM + GitHub Actions para cobertura máxima.
+Bot de búsqueda y postulación automática de empleo remoto en Data Science / AI / ML Engineering.
 
----
-
-## 🚀 ¿Qué hace este bot?
-
-1. **Scraping multi-canal** — LinkedIn + 6 plataformas remotas (~80-100 ofertas/ciclo)
-2. **Filtrado inteligente** — MatchEngine filtra por rol, nivel y idioma
-3. **Anti-duplicados** — Nunca postula dos veces al mismo trabajo
-4. **Auto-postulación** — Vía ATS (Greenhouse, Lever, Workable) o Cold-Email con CV adjunto
-5. **LinkedIn Networking** — Conecta automáticamente con 8 reclutadores de Data/AI por corrida
-6. **Notificaciones** — Todo llega a Telegram en tiempo real
+**Candidato**: Erick Flores Zambrano — Ecuador  
+**Servidor**: Google Cloud VM 24/7 + GitHub Actions (backup)
 
 ---
 
-## 🏗️ Arquitectura
+## ¿Qué hace?
+
+Cada **4 horas** automáticamente:
+
+1. **Scraping** — busca empleos en 7 fuentes simultáneas:
+   - LinkedIn (~30 empleos via API nativa, sin anti-bot)
+   - Remotive, RemoteOK, GetOnBoard, Jobicy
+   - WeWorkRemotely, WorkingNomads
+
+2. **Filtrado** — descarta Senior, irrelevantes, idioma no compatible
+
+3. **Deduplicación** — no postula dos veces al mismo empleo
+
+4. **Auto-postulación**:
+   - LinkedIn Easy Apply → POST directo al Voyager API de LinkedIn
+   - ATS externos (Greenhouse, Lever, Workable) → Playwright headless
+   - Fallback → Cold-email SMTP con CV adjunto + cover letter generada por IA
+
+5. **Network** — envía 8 solicitudes de conexión a reclutadores Data/AI en LinkedIn
+
+6. **Notificación** → Telegram con resultados en tiempo real
+
+---
+
+## Estructura
 
 ```
-main_v6.py
-├── src/scrapers/
-│   ├── linkedin_scraper.py      ← 🔵 LinkedIn (50% del sourcing)
-│   ├── api_scrapers.py          ← Remotive, RemoteOK, GetOnBoard, Jobicy
-│   └── latam_scrapers.py        ← WeWorkRemotely, WorkingNomads
-├── src/linkedin/
-│   ├── recruiter_connector.py   ← Auto-conexión con reclutadores
-│   └── linkedin_messenger.py    ← InMail vía Voyager API
-├── src/filters/
-│   └── match_engine.py          ← Filtrado por perfil
-├── src/appliers/
-│   ├── router.py                ← Detecta ATS de la oferta
-│   ├── greenhouse_applier.py
-│   ├── lever_applier.py
-│   ├── workable_applier.py
-│   └── multitrabajos_applier.py
-├── src/email/
-│   ├── gmail_sender.py          ← Envío OAuth2
-│   └── gmail_reply_bot.py       ← Auto-respuestas de RRHH
-├── src/memory/
-│   └── memory_store.py          ← Anti-duplicados
-├── src/notifications/
-│   └── telegram_notifier.py
-└── generate_cv_en.py            ← PDF ATS con ReportLab
+main_v6.py                          ← Orquestador principal
+src/
+├── scrapers/
+│   ├── linkedin_scraper.py         ← LinkedIn via linkedin-api
+│   ├── api_scrapers.py             ← Remotive, RemoteOK, GetOnBoard, Jobicy
+│   └── latam_scrapers.py           ← WeWorkRemotely, WorkingNomads
+├── linkedin/
+│   ├── linkedin_client.py          ← Autenticación + search_jobs + search_people
+│   └── recruiter_connector.py      ← 8 conexiones/corrida con reclutadores
+├── appliers/
+│   ├── router.py                   ← Detecta ATS y decide applier
+│   ├── linkedin_applier.py         ← Easy Apply via Voyager API POST
+│   ├── greenhouse_applier.py       ← Playwright → boards.greenhouse.io
+│   ├── lever_applier.py            ← Playwright → jobs.lever.co
+│   └── workable_applier.py         ← Playwright → apply.workable.com
+├── filters/match_engine.py         ← Filtra por rol / nivel / idioma
+├── memory/memory_store.py          ← Anti-duplicados (SQLite)
+├── extractors/email_extractor.py   ← Hunter.io para emails de RRHH
+├── notifications/telegram_notifier.py
+└── email/gmail_sender.py
 ```
 
 ---
 
-## ⚙️ Instalación local
+## Cómo corre en producción
 
+### Servidor GCP (principal, 24/7)
 ```bash
-git clone https://github.com/erick007bon/ai-job-hunter-bot.git
-cd ai-job-hunter-bot
-python3 -m venv venv
-source venv/bin/activate          # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-playwright install chromium
-cp .env.example .env              # Editar con tus claves
-python main_v6.py --dry-run       # Prueba sin postular
-python main_v6.py                 # Ejecución real
+# Conectarse
+# SSH al servidor: adanrivas6655@job-hunter-bot
+
+# Entrar al proyecto (alias)
+bot
+
+# Correr manualmente
+python main_v6.py
+
+# Correr en modo prueba (sin postular)
+python main_v6.py --dry-run
+
+# Ver crontab
+crontab -l
 ```
 
----
-
-## 🌐 Despliegue en Google Cloud (Producción)
-
-La instancia `job-hunter-bot` en `us-east1-c` corre el bot cada 4 horas:
-
-```bash
-# En la VM de GCP:
-source venv/bin/activate
-crontab -e
-# Agregar:
-0 */4 * * * cd ~/ai-job-hunter-bot && venv/bin/python main_v6.py >> cron.log 2>&1
+**Crontab configurado** (corre cada 4 horas automáticamente):
+```
+0 */4 * * * cd ~/ai-job-hunter-bot && source venv/bin/activate && python main_v6.py >> ~/logs/job_hunter.log 2>&1
 ```
 
-**GitHub Actions** actúa como respaldo paralelo (6 corridas/día).
+### GitHub Actions (backup, 6 veces/día)
+- Se activa en: 7am, 10am, 1pm, 4pm, 7pm, 10pm (Ecuador)
+- Workflow: `.github/workflows/job_hunter.yml`
+- Ejecución manual: ir a **Actions** → **AI Job Hunter V7** → **Run workflow**
 
 ---
 
-## 🔐 Variables de entorno requeridas
+## Variables de entorno requeridas
 
-Crear `.env` con:
+En el servidor GCP en `~/ai-job-hunter-bot/.env`:
 
-```ini
-TELEGRAM_BOT_TOKEN=...
-TELEGRAM_CHAT_ID=...
-OPENROUTER_API_KEY=...
-EMAIL_USER=eflores4006@utm.edu.ec
-EMAIL_PASSWORD=...
-EMAIL_SENDER=eflores4006@utm.edu.ec
-HUNTER_API_KEY=...
-LINKEDIN_LI_AT=...
-LINKEDIN_JSESSIONID=...
-AUTO_APPLY=true
-MAX_APPLICATIONS=5
-CV_PATH=data/CV_Erick_Flores_EN.pdf
+```env
+# LinkedIn (cookies — renovar cada 60-90 días)
+LINKEDIN_LI_AT="..."
+LINKEDIN_JSESSIONID="ajax:..."
+LINKEDIN_EMAIL="..."
+LINKEDIN_PASSWORD="..."
+
+# Telegram
+TELEGRAM_BOT_TOKEN="..."
+TELEGRAM_CHAT_ID="..."
+
+# Email SMTP
+EMAIL_USER="eflores4006@utm.edu.ec"
+EMAIL_PASSWORD="..."
+
+# IA (cover letters)
+OPENROUTER_API_KEY="..."
+
+# CV
+CV_PATH="data/CV_Erick_Flores_EN.pdf"
+PROFILE_PHONE="+593963951193"
 ```
 
----
-
-## 📊 Métricas del sistema
-
-- **Fuentes activas**: 7 (LinkedIn + 6 APIs/RSS)
-- **Ofertas por ciclo**: ~80-100 únicas
-- **Filtradas compatibles**: ~5-10 por ciclo
-- **Postulaciones por día**: hasta 30 (6 ciclos × 5 apps)
-- **Conexiones LinkedIn/día**: hasta 48 (6 ciclos × 8 conexiones)
-- **Cobertura**: Global remoto + LATAM
+Para GitHub Actions, configurar como **Secrets** en:  
+`https://github.com/erick007bon/ai-job-hunter-bot/settings/secrets/actions`
 
 ---
 
-## 🧠 Tecnologías
+## Estado actual (2026-08-30)
 
-`Python 3.13` · `Playwright` · `BeautifulSoup4` · `ReportLab` · `Gmail API OAuth2`
-`LinkedIn Voyager API` · `Hunter.io API` · `OpenRouter (Mistral/Gemini)` · `Telegram Bot API`
-`GitHub Actions` · `Google Cloud Compute Engine` · `Debian 13`
+| Función | Estado |
+|---------|--------|
+| Scraping LinkedIn | ✅ ~30 empleos/corrida |
+| Scraping 6 job boards | ✅ ~80 empleos/corrida |
+| LinkedIn Easy Apply | ✅ Voyager API POST |
+| Recruiter connections | ✅ 8 conexiones/corrida |
+| Cold-email SMTP | ✅ Con CV adjunto + IA cover letter |
+| ATS externos (Playwright) | ⚠️ Instalar: `playwright install chromium` |
