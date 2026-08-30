@@ -13,6 +13,8 @@ openai>=1.0.0
 # Playwright para auto-apply en ATSs
 playwright>=1.44.0
 tf-playwright-stealth>=1.1.0
+# PDF Generator
+reportlab>=4.0.0
 # Utils
 python-dotenv>=1.0.0
 python-jobspy>=0.1.0
