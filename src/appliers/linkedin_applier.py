@@ -63,24 +63,19 @@ class LinkedInApplier:
 
         # ── Caso 1: Easy Apply nativo de LinkedIn ──────────────────────────
         if EASY_APPLY_KEY in apply_method:
-            print(f"  [LinkedIn] 🟢 Easy Apply detectado (SimpleOnsiteApply) → enviando...")
-            try:
-                client.api.easy_apply(
-                    job_id,
-                    phone_number=os.environ.get("PROFILE_PHONE", "+593963951193"),
-                    follow_company=True,
-                )
+            print(f"  [LinkedIn] 🟢 Easy Apply detectado (SimpleOnsiteApply) → enviando via Voyager API...")
+            ok = self._easy_apply_voyager(client, job_id, title, company)
+            if ok:
                 return ApplyResult(
                     success=True, job_title=title, company=company,
                     portal="LinkedIn Easy Apply", url=url,
-                    message="Easy Apply enviado correctamente via linkedin-api"
+                    message="Easy Apply enviado correctamente via Voyager API"
                 )
-            except Exception as e:
-                logger.warning(f"[LinkedInApplier] Easy Apply falló para {job_id}: {e}")
+            else:
                 return ApplyResult(
                     success=False, job_title=title, company=company,
                     portal="LinkedIn Easy Apply", url=url,
-                    message=f"Easy Apply falló: {e}"
+                    message="Easy Apply falló — ver logs para detalles"
                 )
 
         # ── Caso 2: Postulación externa (ATS de la empresa) ───────────────
@@ -115,3 +110,64 @@ class LinkedInApplier:
             portal="LinkedIn", url=url,
             message=f"Sin Easy Apply ni URL externa detectable. Keys: {list(apply_method.keys())}"
         )
+
+    # ──────────────────────────────────────────────────────────────────────────
+    def _easy_apply_voyager(self, client, job_id: str, title: str, company: str) -> bool:
+        """
+        Implementa Easy Apply usando la sesión autenticada de linkedin-api
+        para hacer POST directo al Voyager API de LinkedIn.
+
+        La librería linkedin-api no expone easy_apply() en versiones recientes,
+        pero sí nos da acceso a la sesión requests con cookies válidas.
+        """
+        try:
+            session    = client.api.client._session
+            jsessionid = os.environ.get("LINKEDIN_JSESSIONID", "").strip('"').replace("ajax:", "").strip()
+
+            payload = {
+                "jobs": [
+                    {
+                        "jobPostingUrn":  f"urn:li:fsd_jobPosting:{job_id}",
+                        "trackingId":     job_id,
+                        "resumeHidden":   False,
+                        "followCompany":  True,
+                        "questionAndAnswers": [],
+                        "contactInfo": {
+                            "firstName":    "Erick",
+                            "lastName":     "Flores Zambrano",
+                            "emailAddress": os.environ.get("EMAIL_USER", "eflores4006@utm.edu.ec"),
+                            "phoneNumber":  os.environ.get("PROFILE_PHONE", "+593963951193"),
+                        },
+                    }
+                ]
+            }
+
+            headers = {
+                "csrf-token":               jsessionid,
+                "Content-Type":             "application/json",
+                "X-RestLi-Protocol-Version": "2.0.0",
+                "Accept":                   "application/vnd.linkedin.normalized+json+2.1",
+                "Referer":                  f"https://www.linkedin.com/jobs/view/{job_id}/",
+            }
+
+            resp = session.post(
+                "https://www.linkedin.com/voyager/api/jobs/normalizedJobApplications",
+                json=payload,
+                headers=headers,
+                timeout=20,
+            )
+
+            logger.info(f"[EasyApply] Response {resp.status_code} para job {job_id}")
+
+            if resp.status_code in (200, 201):
+                print(f"  [LinkedIn] ✅ Easy Apply enviado (status {resp.status_code})")
+                return True
+            else:
+                logger.warning(
+                    f"[EasyApply] Error {resp.status_code}: {resp.text[:200]}"
+                )
+                return False
+
+        except Exception as e:
+            logger.warning(f"[EasyApply] Excepción al llamar Voyager API: {e}")
+            return False

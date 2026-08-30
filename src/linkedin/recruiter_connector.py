@@ -96,10 +96,10 @@ class RecruiterConnector:
             print(f"\n[CONNECTOR] Buscando: '{keywords}'...")
             profiles = client.search_people(keywords=keywords, limit=10)
 
-            # Filtrar ya conectados
+            # Filtrar ya conectados (usar urn_id como clave única, no public_id)
             profiles = [
                 p for p in profiles
-                if p.get("public_id") not in self.already_connected
+                if p.get("urn_id", "") and p.get("urn_id") not in self.already_connected
             ]
             print(f"  → {len(profiles)} nuevos perfiles encontrados")
 
@@ -125,7 +125,8 @@ class RecruiterConnector:
                 ok = client.add_connection(profile, message=message)
 
                 if ok:
-                    self.already_connected.add(public_id)
+                    # Guardar urn_id (siempre disponible) como clave única
+                    self.already_connected.add(urn_id)
                     stats["sent"] += 1
                     print(f"  [OK] Conexión enviada ({stats['sent']}/{target})")
                 else:
