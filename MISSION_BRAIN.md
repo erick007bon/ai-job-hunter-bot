@@ -1,11 +1,11 @@
-# 🧠 MISSION BRAIN — AI Job Hunter Bot
+# 🧠 MISSION BRAIN — AI Job Hunter Bot V7
 
 > **Objetivo**: Conseguir trabajo remoto 100% en Data Science / AI / ML Engineering.
-> **Operando**: 24/7 en Google Cloud VM (`job-hunter-bot`, `us-east1-c`, IP: `34.24.28.172`)
+> **Operando**: 24/7 en Google Cloud VM (`job-hunter-bot`, `us-east1-c`)
 
 ---
 
-## 🏗️ Arquitectura del Sistema (V6 — Producción)
+## 🏗️ Arquitectura del Sistema (V7 — Producción)
 
 ```
                 ┌──────────────────────────────────────────┐
@@ -17,7 +17,8 @@
    ┌──────▼──────┐    ┌─────────▼──────┐     ┌──────────▼───────┐
    │  LINKEDIN   │    │  JOB BOARDS    │     │ LINKEDIN NETWORK  │
    │  Scraper    │    │  API Scrapers  │     │ RecruiterConnector│
-   │  ~50% jobs  │    │  ~50% jobs     │     │ 8 conexiones/run  │
+   │  ~30 jobs   │    │  ~80+ jobs     │     │ 8 conexiones/run  │
+   │  (API real) │    │  (APIs/RSS)    │     │ (linkedin-api)    │
    └──────┬──────┘    └─────────┬──────┘     └──────────────────-┘
           └─────────────────────┘
                       │
@@ -26,15 +27,12 @@
           │  MemoryStore (dupes)   │
           └───────────┬────────────┘
                       │
-          ┌───────────▼────────────┐
-          │   EmailExtractor       │
-          │   (Hunter.io API)      │
-          └───────────┬────────────┘
-                      │
           ┌───────────▼────────────────────────────────────┐
           │              AUTO-POSTULACIÓN                   │
-          │  Router → ATS Playwright (Greenhouse/Lever/...) │
-          │  Fallback → Cold-Email SMTP + CV adjunto        │
+          │  1. LinkedIn Easy Apply (linkedin-api nativo)   │
+          │  2. ATS Externo (Greenhouse/Lever/Workable)     │
+          │     via Playwright headless                     │
+          │  3. Fallback → Cold-Email SMTP + CV adjunto     │
           └───────────┬────────────────────────────────────┘
                       │
           ┌───────────▼────────────┐
@@ -45,33 +43,25 @@
 
 ---
 
-## 📦 Módulos Activos
+## 📦 Módulos — Estado Real
 
 | Módulo | Archivo | Estado |
 |--------|---------|--------|
-| Orquestador principal | `main_v6.py` | ✅ Activo |
-| LinkedIn Scraper | `src/scrapers/linkedin_scraper.py` | ✅ Activo |
-| Recruiter Connector | `src/linkedin/recruiter_connector.py` | ✅ Activo |
-| LinkedIn Messenger | `src/linkedin/linkedin_messenger.py` | ✅ Activo |
-| Remotive API | `src/scrapers/api_scrapers.py` | ✅ Activo |
-| RemoteOK API | `src/scrapers/api_scrapers.py` | ✅ Activo |
-| GetOnBoard API (LATAM) | `src/scrapers/api_scrapers.py` | ✅ Activo |
-| Jobicy API | `src/scrapers/api_scrapers.py` | ✅ Activo |
-| WeWorkRemotely RSS | `src/scrapers/latam_scrapers.py` | ✅ Activo |
-| WorkingNomads JSON | `src/scrapers/latam_scrapers.py` | ✅ Activo |
-| LinkedIn Easy Apply | `auto_apply_main.py` | ✅ Activo |
-| MatchEngine (Filtros) | `src/filters/match_engine.py` | ✅ Activo |
-| MemoryStore (Anti-dupes) | `src/memory/memory_store.py` | ✅ Activo |
-| EmailExtractor (Hunter.io) | `src/extractors/email_extractor.py` | ✅ Activo |
+| Orquestador | `main_v6.py` | ✅ Activo |
+| LinkedIn Scraper | `src/scrapers/linkedin_scraper.py` | ✅ Funciona (linkedin-api + cookies) |
+| LinkedIn Client | `src/linkedin/linkedin_client.py` | ✅ Cookies + email/password fallback |
+| LinkedIn Easy Apply | `src/appliers/linkedin_applier.py` | ⚠️ Detecta mal el campo Easy Apply |
+| Recruiter Connector | `src/linkedin/recruiter_connector.py` | ⚠️ search_people() devuelve 0 |
 | Router ATS | `src/appliers/router.py` | ✅ Activo |
-| Greenhouse Applier | `src/appliers/greenhouse_applier.py` | ✅ Activo |
-| Lever Applier | `src/appliers/lever_applier.py` | ✅ Activo |
-| Workable Applier | `src/appliers/workable_applier.py` | ✅ Activo |
-| Multitrabajos Applier | `src/appliers/multitrabajos_applier.py` | ✅ Activo |
-| Gmail Sender | `src/email/gmail_sender.py` | ✅ Activo |
-| Gmail Reply Bot | `src/email/gmail_reply_bot.py` | ✅ Activo |
+| Greenhouse Applier | `src/appliers/greenhouse_applier.py` | ⚠️ Playwright no probado en VM |
+| Lever Applier | `src/appliers/lever_applier.py` | ⚠️ Playwright no probado en VM |
+| Workable Applier | `src/appliers/workable_applier.py` | ⚠️ Playwright no probado en VM |
+| Multitrabajos | `src/appliers/multitrabajos_applier.py` | ✅ Activo LATAM |
+| Remotive/RemoteOK/etc. | `src/scrapers/api_scrapers.py` | ✅ Activo |
+| WeWorkRemotely/WorkingNomads | `src/scrapers/latam_scrapers.py` | ✅ Activo |
+| EmailExtractor | `src/extractors/email_extractor.py` | ✅ Activo (0 emails = sin API key Hunter.io) |
+| Gmail SMTP | SMTP directo | ✅ Activo |
 | Telegram Notifier | `src/notifications/telegram_notifier.py` | ✅ Activo |
-| CV Generator | `generate_cv_en.py` | ✅ Activo |
 
 ---
 
@@ -80,12 +70,12 @@
 ```
 Cada 4 horas (crontab en GCP VM):
 
-1. [LINKEDIN]     Scrape 30 empleos Data/AI (3 keywords × 10)
-2. [BOARDS]       Scrape 6 APIs/RSS (~60+ ofertas adicionales)
+1. [LINKEDIN]     Scrape ~30 empleos Data/AI (5 keywords × 10) via linkedin-api
+2. [BOARDS]       Scrape 6 APIs/RSS (~80+ ofertas)
 3. [FILTRO]       MatchEngine filtra por rol, nivel, idioma
 4. [DEDUP]        MemoryStore elimina ya aplicados
 5. [ENRICH]       Hunter.io busca email real de RRHH
-6. [APPLY]        Router → ATS Playwright o Cold-Email SMTP
+6. [APPLY]        Router → LinkedIn Easy Apply → ATS Playwright → Cold-Email
 7. [NETWORK]      RecruiterConnector → 8 solicitudes LinkedIn/corrida
 8. [NOTIF]        Telegram reporta resultados
 9. [REPORTE]      Markdown en /reportes/
@@ -98,38 +88,50 @@ Cada 4 horas (crontab en GCP VM):
 | Componente | Detalles |
 |------------|----------|
 | **Servidor 24/7** | Google Cloud VM `job-hunter-bot` (Debian 13, `us-east1-c`) |
-| **IP Externa** | `34.24.28.172` |
 | **Crontab** | `0 */4 * * *` — cada 4 horas |
-| **Python** | 3.13 + venv en `/home/adanrivas6655/ai-job-hunter-bot/venv` |
-| **GitHub Actions** | Backup paralelo — 6 corridas/día (7am, 10am, 1pm, 4pm, 7pm, 10pm ECT) |
+| **Auth LinkedIn** | Cookies `li_at` + `JSESSIONID` (renovar cada ~60-90 días) |
+| **Python** | 3.13 + venv en `~/ai-job-hunter-bot/venv` |
 | **Email** | `eflores4006@utm.edu.ec` via SMTP (`smtp.gmail.com:587`) |
-| **LinkedIn Easy Apply** | Workflow separado `linkedin_demo.yml` — diario 8am ECT |
 
 ---
 
-## 🔐 Secrets Necesarios (GitHub Actions)
+## 🔐 Secrets en .env (GCP VM)
 
-| Secret | Uso |
+| Variable | Uso |
 |--------|-----|
 | `TELEGRAM_BOT_TOKEN` | Notificaciones |
 | `TELEGRAM_CHAT_ID` | Chat destino |
 | `OPENROUTER_API_KEY` | Cover letters con IA |
-| `GMAIL_CREDENTIALS_B64` | Gmail OAuth2 |
-| `GMAIL_TOKEN_B64` | Gmail OAuth2 token |
 | `HUNTER_API_KEY` | Extracción de emails RRHH |
-| `LINKEDIN_LI_AT` | Cookie sesión LinkedIn |
+| `LINKEDIN_LI_AT` | Cookie sesión LinkedIn (renovar cada 60-90 días) |
 | `LINKEDIN_JSESSIONID` | Cookie CSRF LinkedIn |
-| `CV_PDF_B64` | PDF del CV en Base64 |
-| `EMAIL_SENDER` | `eflores4006@utm.edu.ec` |
-| `MULTITRABAJOS_EMAIL` | Para Multitrabajos Ecuador |
-| `MULTITRABAJOS_PASSWORD` | Para Multitrabajos Ecuador |
+| `LINKEDIN_EMAIL` | Email LinkedIn (fallback si cookies expiran) |
+| `LINKEDIN_PASSWORD` | Contraseña LinkedIn (fallback) |
+| `CV_PATH` | Ruta local al CV en PDF |
+| `EMAIL_USER` | `eflores4006@utm.edu.ec` |
+| `EMAIL_PASSWORD` | Contraseña SMTP |
 
 ---
 
-## 🗺️ Roadmap (Próximos Pasos)
+## 🗺️ Roadmap V7
 
-- [ ] LinkedIn Easy Apply con Playwright (postulación directa en LinkedIn)
-- [ ] Gmail Reply Bot activo en GCP (responder emails de RRHH automáticamente)
-- [ ] Scholarship Hunter integrado al pipeline diario
-- [ ] Métricas de funnel en dashboard Telegram (tasa de respuesta, entrevistas)
-- [ ] FCH-ARX V2 paper submission a revista indexada LATAM
+### ✅ Completado
+- [x] Scraping multi-plataforma (7 fuentes, ~110 empleos/corrida)
+- [x] MatchEngine + MemoryStore (anti-duplicados)
+- [x] LinkedIn scraping via linkedin-api (sin anti-bot, sin Playwright)
+- [x] Autenticación LinkedIn via cookies (RequestsCookieJar)
+- [x] Cold-email SMTP con CV adjunto + cover letter IA (OpenRouter)
+- [x] Telegram notifications en tiempo real
+- [x] Reporte Markdown automático en `/reportes/`
+
+### 🔴 Pendiente (CRÍTICO — próximas iteraciones)
+- [ ] **FASE 1**: Debug payloads reales (`python debug_linkedin_api.py` en servidor)
+- [ ] **FASE 2**: Arreglar detección de Easy Apply (campo incorrecto en `linkedin_client.py`)
+- [ ] **FASE 3**: Instalar y probar Playwright en VM (`playwright install chromium`)
+- [ ] **FASE 3**: Activar flujo LinkedIn → URL externa → GreenhouseApplier/LeverApplier
+- [ ] **FASE 4**: Arreglar `search_people()` del Recruiter Connector (0 perfiles)
+
+### 🟡 Futuro
+- [ ] Workday / SAP SuccessFactors Applier (ATS enterprise)
+- [ ] Gmail Reply Bot (responder automáticamente a RRHH)
+- [ ] Dashboard métricas en Telegram (funnel: visto → aplicado → entrevista → oferta)
