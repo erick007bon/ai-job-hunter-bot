@@ -12,9 +12,9 @@
 ### LinkedIn
 ```
 LINKEDIN_EMAIL="adanrivas6655@gmail.com"
-LINKEDIN_PASSWORD="Cocodrilo1998"
-LINKEDIN_LI_AT="AQEDAS5itwwASAmyAAABoFOe7xcAAAGgd6tzF04AWvFEIdgQsw4ABfQWZfkWrxLQqLXP5ZHKyAgthz-sqr0dTCDf28kpb1S3ynuJXUQkw3f9YLp2U4osBl3xsz6_2WxZF4R2xLcUkvu31GW_7zOUSmJ2"
-LINKEDIN_JSESSIONID="ajax:8984208232478093684"
+LINKEDIN_PASSWORD="<CAMBIADA_POR_SEGURIDAD>"
+LINKEDIN_LI_AT="..."
+LINKEDIN_JSESSIONID="..."
 ```
 > ⚠️ Las cookies `li_at` y `JSESSIONID` expiran en ~60-90 días.
 > Cuando expiren: abrir LinkedIn.com en el navegador → F12 → Application → Cookies → copiar nuevas.
@@ -31,7 +31,7 @@ Alias rápido: bot   (ya configurado en ~/.bashrc)
 ### Email / SMTP
 ```
 EMAIL_USER="eflores4006@utm.edu.ec"
-EMAIL_PASSWORD="Cocodrilo1998"
+EMAIL_PASSWORD="<CAMBIADA_POR_SEGURIDAD>"
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
 ```

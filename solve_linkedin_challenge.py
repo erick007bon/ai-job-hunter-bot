@@ -11,7 +11,7 @@ import sys
 import requests
 
 EMAIL    = "adanrivas6655@gmail.com"
-PASSWORD = "Cocodrilo1998"
+PASSWORD = "<CAMBIADA_POR_SEGURIDAD>"
 
 LI_LOGIN_URL     = "https://www.linkedin.com/uas/login"
 LI_SUBMIT_URL    = "https://www.linkedin.com/uas/login-submit"
