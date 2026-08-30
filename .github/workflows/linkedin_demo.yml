@@ -1,6 +1,8 @@
-name: 🤖 LinkedIn Autonomy Demo
+name: 🤖 LinkedIn Autonomy Demo — Easy Apply Auto-Postulación
 
 on:
+  schedule:
+    - cron: '0 13 * * *'   # 08:00 AM Ecuador (1x al día de forma segura)
   workflow_dispatch:
 
 jobs:
@@ -19,8 +21,24 @@ jobs:
         run: |
           pip install selenium webdriver-manager pyyaml pypdf validate_email openai requests
 
+      - name: 📁 Prepare directories
+        run: mkdir -p data
+
+      - name: 📄 Reconstruct CV PDF for LinkedIn Upload
+        run: |
+          if [ -n "$CV_PDF_B64" ]; then
+            echo "$CV_PDF_B64" | base64 -d > data/CV_Erick_Flores_EN.pdf
+            echo "✓ CV PDF restaurado para LinkedIn Easy Apply"
+          else
+            echo "⚠️ CV_PDF_B64 no configurado"
+          fi
+        env:
+          CV_PDF_B64: ${{ secrets.CV_PDF_B64 }}
+
       - name: 🚀 Run AI LinkedIn Auto-Apply
         env:
           LINKEDIN_LI_AT: ${{ secrets.LINKEDIN_LI_AT }}
+          LINKEDIN_JSESSIONID: ${{ secrets.LINKEDIN_JSESSIONID }}
+          OPENAI_API_KEY: ${{ secrets.OPENROUTER_API_KEY || secrets.GEMINI_API_KEY }}
         run: |
           python auto_apply_main.py

@@ -1,78 +1,90 @@
-# 🧠 MISSION BRAIN — AI Job Hunter V6
-> Actualizado: 2026-06-19 | Estado: **AUTO-POSTULACIÓN ACTIVA**
-
-## Versión actual: V6 (Playwright Auto-Apply)
-- V5: Scraping + Telegram notify
-- **V6: Scraping + Playwright Auto-Apply + Telegram summary ← ACTUAL**
+# 🧠 MISSION BRAIN — AI Job Hunter V6 (Autonomous Engineering System)
+> Estado: **AUTO-POSTULACIÓN MULTI-CANAL ACTIVA** | CI/CD: **GitHub Actions 6x/día**
 
 ---
 
-## 🎯 ARQUITECTURA DEL SISTEMA V4 (El Trinomio)
+## 🎯 Arquitectura de Optimización de Procesos (Ingeniería de Automatización)
 
-El sistema ahora opera de forma completamente autonoma desde los servidores de GitHub Actions, ejecutando 3 fases tacticas independientes para maximizar las oportunidades laborales.
+Este proyecto es un sistema de ingeniería autónomo para optimizar el embudo de colocación laboral en Data Science, IA y Economía. Opera como un pipeline distribuido de extremo a extremo:
 
-### 🌐 FASE 1: Omniscape & Emailing (Cada 6 Horas)
-1. **Scraping Multi-Canal (12 Plataformas):**
-   - Google Jobs, Indeed, Glassdoor (Via `python-jobspy` - ¡NUEVO!)
-   - LinkedIn, Remotive, RemoteOK, GetOnBoard, Torre, WeWorkRemotely, WorkingNomads, Computrabajo, SocioEmpleo.
-2. **Filtrado NLP:** Filtra roles Entry/Mid-level descartando Senior/Lead.
-3. **Hunter.io:** Extrae correos directos de los dominios de las empresas.
-4. **Gemini AI:** Redacta Cover Letters hiper-personalizadas al JD.
-5. **Generacion Dinamica:** Compila CV en PDF en-vuelo usando `reportlab` (Ingles/Español segun rol).
-6. **Gmail API OAuth2:** Envia el correo directo al reclutador.
-
-### 🚀 FASE 2: LinkedIn InMail Direct Access
-Por cada rol procesado, el bot busca reclutadores de esa empresa en LinkedIn.
-1. Utiliza **LinkedIn Voyager API** (Ingenieria Inversa) saltandose limites basicos.
-2. Extrae Top-3 skills del Job Description usando NLP.
-3. Redacta un **InMail Corto** conectando las skills con el **Portafolio Real** (FCH-ARX V4, Trading LSTM, etc).
-4. El InMail apela a la humildad: "Solo pido una oportunidad para demostrar mi valia tecnica".
-
-### 🤝 FASE 3: Recruiter Connection Network (Diario, 7:00 AM)
-Modulo de crecimiento pasivo de red enfocado en roles Data/AI.
-1. **Target:** 10 nuevos reclutadores de IA/Datos al dia (50+ semanales).
-2. **Contexto:** Lee el area del reclutador (Tech, Talent, Data).
-3. **Invitacion AI:** Envia nota de conexion contextual a su area con link directo al GitHub.
-4. **Proteccion Anti-Ban:** Memoriza los perfiles contactados para jamas enviar duplicados. Pausas aleatorias (20-45s) simulando humanos.
-
----
-
-## 🔒 SEGURIDAD Y DEPLOYMENT (CI/CD)
-
-Todo el codigo se ejecuta en **GitHub Actions (Ubuntu Server)**.
-Los secretos estan inyectados via variables de entorno, evitando quemarlos en codigo fuente.
-
-**Secretos en Github:**
-- `GMAIL_CREDENTIALS_B64`
-- `GMAIL_TOKEN_B64`
-- `HUNTER_API_KEY`
-- `LINKEDIN_LI_AT`
-- `LINKEDIN_JSESSIONID`
-- `OPENROUTER_API_KEY`
-- `EMAIL_SENDER`
-
----
-
-## 🛠️ CAMBIOS RECIENTES (LOG)
-
-- **[FIX CRÍTICO - 03 Junio 2026]** Reparación total del pipeline de automatización que estaba crasheando (6 bugs):
-  1. **MemoryStore:** Se agregaron los métodos faltantes (`is_applied`, `get_stats`) y se corrigió la firma de `mark_applied` para aceptar argumentos con nombre, evitando los `AttributeError` y `TypeError` que detenían el bot en la fase de filtrado.
-  2. **Gmail API (OAuth2):** Se eliminó el obsoleto `gmail_sender.py` basado en contraseñas SMTP. Se reconstruyó para usar el mismo sistema de tokens OAuth2 (`token.json` y `credentials.json`) del Reply Bot. Ahora los correos se envían correctamente usando tu cuenta de Google autenticada.
-  3. **Notificaciones de Telegram:** Se activaron y configuraron correctamente los métodos `notify_job_found` y `notify_cycle_summary` en el flujo principal (`main_v3.py`). Las notificaciones llegan en tiempo real a tu celular.
-  4. **GitHub Workflow:** Se reparó `job_hunter.yml` que apuntaba a un archivo de memoria inexistente (`sent_log.json` en lugar del correcto `applied_jobs.json`) y fallaba al hacer el commit de los resultados.
-  5. **Seguridad Hunter.io:** La llave de la API de Hunter ya no está en texto plano; usa una variable de entorno con fallback, mejorando la seguridad.
-  6. **Git/Repositorio:** Se eliminaron archivos problemáticos de *Cover Letters* con errores de mayúsculas/minúsculas que bloqueaban los pulls y pushes de Git en Windows.
-
-- **[FIX ANTERIOR]** Dependencias de Windows (`pywin32`) eliminadas del `requirements.txt`. El bot ahora compila y corre perfecto en Linux (Ubuntu/Actions).
-- **[FEATURE]** Integrado `python-jobspy` para capturar Google Jobs, Indeed y Glassdoor (suma ~130 vacantes nuevas al pool diario).
-- **[FEATURE]** Construido `RecruiterConnector` (Fase 3) para automatizar networking con Headhunters.
-- **[MIGRACION]** Todo el proyecto se esta sincronizando con el repositorio `BOT-DE-ENCONTRAR-TRABAJO` para presentacion publica de portafolio (como experto en automatizacion/IA).
+```
+┌────────────────────────────────────────────────────────┐
+│  GITHUB ACTIONS CRON (6x al día — Horario Ecuador 🇪🇨) │
+│  07:00 AM | 10:00 AM | 01:00 PM | 04:00 PM | 07:00 PM  │
+└──────────────────────────┬─────────────────────────────┘
+                           │
+             ┌─────────────▼─────────────┐
+             │  1. OMNISCAPE MULTI-CANAL │
+             │  Remotive, RemoteOK,      │
+             │  GetOnBoard, Jobicy,      │
+             │  WeWorkRemotely, Nomads   │
+             └─────────────┬─────────────┘
+                           │
+             ┌─────────────▼─────────────┐
+             │  2. NLP MATCH ENGINE      │
+             │  Filtra Data/AI/Econ      │
+             │  Excluye Senior/Lead      │
+             └─────────────┬─────────────┘
+                           │
+             ┌─────────────▼─────────────┐
+             │  3. DEDUPLICACIÓN & MEM   │
+             │  MemoryStore (JSON)       │
+             │  FunnelDB (SQLite)        │
+             └─────────────┬─────────────┘
+                           │
+             ┌─────────────▼─────────────┐
+             │  4. ENRIQUECIMIENTO RRHH  │
+             │  Hunter.io API            │
+             └─────────────┬─────────────┘
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+  ┌──────────▼──────────┐     ┌──────────▼──────────┐
+  │ RUTA ATS AUTOMÁTICA │     │ RUTA COLD-EMAIL     │
+  │ Playwright headless │     │ SMTP directo /      │
+  │ Greenhouse, Lever,  │     │ Gmail API           │
+  │ Workable, Ashby     │     │ Cover Letter IA     │
+  │ (Auto-formulario)   │     │ CV PDF adjunto      │
+  └──────────┬──────────┘     └──────────┬──────────┘
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+             ┌─────────────▼─────────────┐
+             │ 5. TELEGRAM + LINKEDIN    │
+             │ Notificaciones en tiempo  │
+             │ real + Easy Apply Bot     │
+             │ + Scholarship Hunter      │
+             └───────────────────────────┘
+```
 
 ---
 
-## 📋 PASOS MANUALES PENDIENTES (USUARIO)
-El bot hace el 90% del trabajo pesado (encontrar ofertas, descifrar correos, redactar y enviar cold-emails).
-**El 10% que te toca a ti:**
-1. Monitorear tu bandeja `eflores4006@utm.edu.ec` para respuestas reales.
-2. Abrir `OPORTUNIDADES_HOY.md` en GitHub y aplicar manualmente en 3 o 4 vacantes top del dia.
-3. Optimizar perfil de LinkedIn (Foto profesional, Titular de Data Scientist, Banner) para cuando los reclutadores de la Fase 3 acepten la solicitud.
+## 🚀 Módulos del Ecosistema
+
+### 1. 📧 Auto-Postulación por Correo (Cold-Email con IA)
+- **Motor de IA:** Generación dinámica de Cover Letters personalizadas usando `OpenRouter` (Mistral/Gemini) analizando el Job Description.
+- **Motor de Envío:** Soporte dual: **SMTP directo autenticado** (sin vencimiento de token) + **Gmail OAuth2**.
+- **Generación de CV:** PDF generado con ReportLab sin sobremontado de texto, tipografía optimizada ATS y codificación en `CV_PDF_B64`.
+
+### 2. 🤖 LinkedIn Easy Apply Bot (Headless / Invisible)
+- **Ejecución:** Workflow `linkedin_demo.yml` (automático diario 8:00 AM y dispatch manual).
+- **Mecanismo:** Inyección de sesión con cookies `LINKEDIN_LI_AT` y `LINKEDIN_JSESSIONID` en Chromium headless.
+- **Acción:** Búsqueda de posiciones remotas con "Solicitud sencilla", llenado de formularios EEO, respuesta a preguntas de reclutadores y carga automática del CV PDF.
+
+### 3. 🎓 Scholarship Hunter (Cazador de Becas Internacionales)
+- Se ejecuta automáticamente a las **07:00 AM** todos los días.
+- Rastrea convocatorias internacionales de becas para maestrías y certificaciones en Inteligencia Artificial y Economía, enviando el reporte a Telegram.
+
+### 4. 📊 Funnel Analytics (FunnelDB)
+- Base de datos SQLite (`data/funnel.db`) que registra cada intento, portal, éxito/fallo y clasificación de respuestas recibidas.
+
+---
+
+## 📈 Roadmap de Escalabilidad (Llevarlo al Siguiente Nivel)
+
+1. **Servidor Dedicado / VPS (Contabo / Hetzner / AWS EC2 Free Tier):**
+   - Para correr Playwright con perfil de navegador persistente y bypass total de Cloudflare/Datadome mediante proxies residenciales.
+2. **Pool de Proxies Residenciales (BrightData / Webshare):**
+   - Evita rate-limiting al consultar 50+ plataformas por hora.
+3. **Agente Conversacional con MCP (Model Context Protocol):**
+   - Responder automáticamente a correos de reclutadores agendando entrevistas en Google Calendar.

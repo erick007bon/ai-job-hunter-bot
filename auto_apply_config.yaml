@@ -55,7 +55,7 @@ posterBlacklist:
  - none
 
 uploads:
- resume: data/CV_FLORES_ERICK_ZAMBRANO.pdf
+ resume: data/CV_Erick_Flores_EN.pdf
 
 checkboxes:
  driversLicence: True
