@@ -7338,5 +7338,21 @@
     "applied_at": "2026-06-18T23:48:23.041373",
     "email_sent_to": null,
     "cover_letter_path": "/home/runner/work/ai-job-hunter-bot/ai-job-hunter-bot/cover_letters/WhyHiring_JuniorDataScientist.md"
+  },
+  "https://jobicy.com/jobs/151982-data-scientist-quora": {
+    "title": "Data Scientist - Quora",
+    "company": "Quora",
+    "source": "Jobicy",
+    "applied_at": "2026-08-30T03:11:55.117918",
+    "email_sent_to": null,
+    "cover_letter_path": null
+  },
+  "https://jobicy.com/jobs/151808-data-scientist": {
+    "title": "Data Scientist",
+    "company": "BetterHelp",
+    "source": "Jobicy",
+    "applied_at": "2026-08-30T03:11:56.603648",
+    "email_sent_to": null,
+    "cover_letter_path": null
   }
 }
