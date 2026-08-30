@@ -381,7 +381,7 @@ def main(dry_run: bool = False):
         print("\n[LINKEDIN] 🔵 Buscando reclutadores en LinkedIn para conectar...")
         try:
             connector = RecruiterConnector()
-            connected = connector.run(max_connections=8)
+            connected = connector.run(max_connections=3)  # 3/corrida = ~18/día, más seguro
             print(f"[LINKEDIN] ✅ Conexiones enviadas: {connected}")
             if connected > 0:
                 send_telegram(f"🔵 LinkedIn: {connected} solicitudes de conexión enviadas a reclutadores de Data/AI")

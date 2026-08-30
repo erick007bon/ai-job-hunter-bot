@@ -1,13 +1,16 @@
 """
 linkedin_client.py — Cliente centralizado para linkedin-api.
 
-Proporciona autenticación y acceso unificado a todas las funciones
-de LinkedIn: búsqueda de empleos, Easy Apply, búsqueda de personas
-y envío de solicitudes de conexión.
+Autenticación:
+  1. Cookies li_at + JSESSIONID (preferida, dura 60-90 días en uso moderado)
+  2. Email + password (fallback, puede requerir CHALLENGE en IP de datacenter)
 
-Usa email + password (más estable que cookies para automatización 24/7).
+Cuando las cookies expiran, el bot detecta el loop de redirección automáticamente
+y envía alerta por Telegram para que el usuario renueve las cookies.
+El usuario solo necesita hacerlo una vez cada 60-90 días.
 """
 import os
+import re
 import logging
 import time
 import random
@@ -15,12 +18,66 @@ from typing import Optional
 
 logger = logging.getLogger(__name__)
 
+_COOKIES_EXPIRED_NOTIFIED = False  # flag para no spamear Telegram
+
+
+def _notify_cookies_expired():
+    """Envía alerta Telegram cuando las cookies de LinkedIn expiran."""
+    global _COOKIES_EXPIRED_NOTIFIED
+    if _COOKIES_EXPIRED_NOTIFIED:
+        return
+    _COOKIES_EXPIRED_NOTIFIED = True
+    try:
+        from src.notifications.telegram_notifier import send_telegram
+        send_telegram(
+            "🔑 *LinkedIn: Cookies expiradas*\n\n"
+            "Las cookies de LinkedIn expiraron (pasa cada 60-90 días).\n\n"
+            "Para renovarlas:\n"
+            "1. Abre LinkedIn.com en el navegador\n"
+            "2. F12 → Application → Cookies\n"
+            "3. Copia `li_at` y `JSESSIONID`\n"
+            "4. En el servidor ejecuta:\n"
+            "`sed -i '/^LINKEDIN_LI_AT=/d' .env`\n"
+            "`sed -i '/^LINKEDIN_JSESSIONID=/d' .env`\n"
+            "`echo 'LINKEDIN_LI_AT=\"NUEVA\"' >> .env`\n"
+            "`echo 'LINKEDIN_JSESSIONID=\"ajax:NUEVO\"' >> .env`"
+        )
+    except Exception:
+        pass
+
+
+def _save_cookies_to_env(api) -> None:
+    """Guarda cookies frescas de una sesión email+password en el .env del servidor."""
+    try:
+        session_cookies = api.client.session.cookies
+        li_at = session_cookies.get("li_at", domain=".linkedin.com")
+        jsession = session_cookies.get("JSESSIONID", domain=".linkedin.com", default="")
+        jsession = jsession.strip('"').replace('ajax:', '')
+
+        if not li_at:
+            return
+
+        env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', '..', '.env')
+        env_path = os.path.normpath(env_path)
+        if not os.path.exists(env_path):
+            return
+
+        with open(env_path, 'r') as f:
+            lines = f.readlines()
+        lines = [l for l in lines if not l.startswith('LINKEDIN_LI_AT=') and not l.startswith('LINKEDIN_JSESSIONID=')]
+        lines.append(f'LINKEDIN_LI_AT="{li_at}"\n')
+        lines.append(f'LINKEDIN_JSESSIONID="ajax:{jsession}"\n')
+        with open(env_path, 'w') as f:
+            f.writelines(lines)
+        logger.info("[LinkedInClient] Cookies frescas guardadas en .env automáticamente")
+    except Exception as e:
+        logger.warning(f"[LinkedInClient] No se pudieron guardar cookies: {e}")
+
 
 def _get_client():
     """
     Retorna una instancia autenticada de la Linkedin API.
-    Intenta cookies primero (más estable en IPs de servidor),
-    y si no, usa email + password.
+    Intenta cookies primero; si expiraron, usa email+password y guarda cookies nuevas.
     """
     try:
         from linkedin_api import Linkedin
@@ -34,7 +91,7 @@ def _get_client():
     email      = os.environ.get("LINKEDIN_EMAIL", "")
     password   = os.environ.get("LINKEDIN_PASSWORD", "")
 
-    # Método 1: cookies (más estable en servidores — no activa verificación de IP)
+    # Método 1: cookies (más estable en servidores)
     if li_at and jsessionid:
         import requests as _requests
         raw_jsession = jsessionid.replace('ajax:', '').strip('"')
@@ -48,17 +105,19 @@ def _get_client():
         except Exception as e:
             logger.warning(f"[LinkedInClient] Cookie auth falló: {e}")
 
-    # Método 2: email + password (puede requerir CHALLENGE la primera vez en IP nueva)
+    # Método 2: email + password → guarda cookies nuevas automáticamente
     if email and password:
         try:
             api = Linkedin(email, password)
             logger.info("[LinkedInClient] Autenticado via email+password")
+            _save_cookies_to_env(api)  # guarda cookies frescas para próxima vez
             return api
         except Exception as e:
             if "CHALLENGE" in str(e):
+                _notify_cookies_expired()
                 raise RuntimeError(
-                    "LinkedIn pide verificación por email. "
-                    "Ejecuta 'python solve_linkedin_challenge.py' en el servidor para resolverlo una vez."
+                    "LinkedIn pide verificación. Se envió alerta a Telegram. "
+                    "Ejecuta 'python solve_linkedin_challenge.py' en el servidor."
                 )
             raise RuntimeError(f"LinkedIn auth falló (email+password): {e}")
 
@@ -140,7 +199,12 @@ class LinkedInClient:
                     "description": "",
                 })
         except Exception as e:
-            logger.warning(f"[LinkedInClient] Error buscando '{keywords}': {e}")
+            err = str(e)
+            if "30 redirects" in err or "redirect" in err.lower():
+                logger.error("[LinkedInClient] Cookies expiradas (redirect loop detectado)")
+                _notify_cookies_expired()
+            else:
+                logger.warning(f"[LinkedInClient] Error buscando '{keywords}': {e}")
 
         return results
 
