@@ -24,20 +24,7 @@ class LinkedInApplier(BaseApplier):
         self.li_at      = Config.LINKEDIN_LI_AT
         self.jsessionid = Config.LINKEDIN_JSESSIONID
 
-    def apply(self, job: dict) -> ApplyResult:
-        """Aplica sincrónicamente lanzando el loop async interno."""
-        try:
-            return asyncio.run(self._apply_async(job))
-        except RuntimeError:
-            # Ya hay un loop activo (ej. Jupyter / Playwright anidado)
-            loop = asyncio.new_event_loop()
-            asyncio.set_event_loop(loop)
-            try:
-                return loop.run_until_complete(self._apply_async(job))
-            finally:
-                loop.close()
-
-    async def _apply_async(self, job: dict) -> ApplyResult:
+    async def apply(self, job: dict) -> ApplyResult:
         from playwright.async_api import async_playwright
 
         url     = job.get('url', '')
