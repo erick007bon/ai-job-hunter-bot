@@ -92,6 +92,11 @@ def _get_applier_by_domain(domain: str, url: str) -> Optional["BaseApplier"]:
         from src.appliers.multitrabajos_applier import MultitrabajosApplier
         return MultitrabajosApplier()
 
+    # LinkedIn Easy Apply
+    if 'linkedin.com' in domain:
+        from src.appliers.linkedin_applier import LinkedInApplier
+        return LinkedInApplier()
+
     return None
 
 
