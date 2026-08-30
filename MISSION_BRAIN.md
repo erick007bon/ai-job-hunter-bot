@@ -95,11 +95,11 @@ Para evitar que el usuario copie y pegue comandos en la consola de Google Cloud,
 | LinkedIn Scraper | `src/scrapers/linkedin_scraper.py` | ✅ ~30 empleos/corrida |
 | LinkedIn Client | `src/linkedin/linkedin_client.py` | ✅ Cookies auth OK |
 | LinkedIn Applier | `src/appliers/linkedin_applier.py` | ✅ Easy Apply via Voyager API |
-| Recruiter Connector | `src/linkedin/recruiter_connector.py` | ⚠️ Encuentra 27 perfiles, add_connection falla → fix en progreso |
-| Router ATS | `src/appliers/router.py` | ✅ Activo |
-| Greenhouse Applier | `src/appliers/greenhouse_applier.py` | ⚠️ No probado en VM |
-| Lever Applier | `src/appliers/lever_applier.py` | ⚠️ No probado en VM |
-| Workable Applier | `src/appliers/workable_applier.py` | ⚠️ No probado en VM |
+| Recruiter Connector | `src/linkedin/recruiter_connector.py` | ✅ Conecta exitosamente |
+| Router ATS | `src/appliers/router.py` | ✅ Activo (con fallback Telegram) |
+| Greenhouse Applier | `src/appliers/greenhouse_applier.py` | ✅ Playwright instalado en VM |
+| Lever Applier | `src/appliers/lever_applier.py` | ✅ Playwright instalado en VM |
+| Workable Applier | `src/appliers/workable_applier.py` | ✅ Playwright instalado en VM |
 | Remotive/RemoteOK/etc. | `src/scrapers/api_scrapers.py` | ✅ ~80 empleos/corrida |
 | Email Extractor | `src/extractors/email_extractor.py` | ⚠️ 0 emails (no hay Hunter.io API key activa) |
 | Gmail SMTP | directo | ✅ Activo |
@@ -132,11 +132,12 @@ Cada 4 horas (crontab en GCP VM):
 - search_people: corregido campos (`name`, `jobtitle`, `urn_id` en vez de `firstName`, `lastName`, `headline`)
 - Dedup recruiter: ahora usa `urn_id` como clave (antes usaba `public_id` = vacío)
 - network_depths: eliminado (causaba 0 resultados)
+- **Recruiter `add_connection`**: Fix probado exitosamente usando `fs_miniProfile URN` directamente. Envía conexiones correctamente.
+- **Playwright ATS externo (Greenhouse/Lever)**: Instalado y funcionando en la VM de GCP.
+- **Fallback Tolerante a Fallos**: Si no hay email y falla ATS, se envía alerta por Telegram para aplicar manual (cero pérdida de ofertas).
 
 ### 🔴 Pendiente
-- **Recruiter `add_connection`**: Falla con `'message'` al llamar `get_profile(urn_id)`. Fix nuevo: usar `fs_miniProfile URN` directamente (`urn:li:fs_miniProfile:{urn_id}`). Este fix está en el último commit pero aún no probado.
-- **Easy Apply Voyager POST**: Detecta OK, pero el endpoint exacto puede necesitar ajuste de payload (ver logs de status code).
-- **Playwright ATS externo (Greenhouse/Lever)**: No instalado en VM. Instalar: `playwright install chromium`.
+- **Easy Apply Voyager POST**: Detecta OK e intenta enviar, pero devuelve Error 404. El endpoint exacto necesita ajuste de payload.
 
 ### 🟡 No urgente
 - GetOnBoard 404: La API pública `/api/v0/categories/ai-machine-learning/jobs` fue deprecada.
@@ -182,16 +183,15 @@ playwright install-deps
 - [x] MatchEngine + MemoryStore (anti-duplicados)
 - [x] LinkedIn scraping via linkedin-api (sin anti-bot)
 - [x] Autenticación LinkedIn via cookies (RequestsCookieJar)
-- [x] Easy Apply: detección correcta (SimpleOnsiteApply) + POST Voyager API
-- [x] Recruiter: encuentra 27+ perfiles por corrida
+- [x] Easy Apply: detección correcta (SimpleOnsiteApply)
+- [x] Recruiter: encuentra perfiles y envía conexiones con éxito (fix URN)
 - [x] Cold-email SMTP con CV adjunto + cover letter IA
-- [x] Telegram notifications en tiempo real
+- [x] Telegram notifications en tiempo real + Fallback manual
 - [x] Alias `bot` en servidor para entrar rápido
+- [x] Playwright instalado y configurado en GCP
 
 ### 🔴 Siguiente sesión (prioridad)
-1. Probar `add_connection` con `fs_miniProfile URN` (último commit, no probado aún)
-2. Verificar status code del Voyager Easy Apply POST (ver logs)
-3. Instalar Playwright en VM y probar Greenhouse/Lever appliers
+1. **Verificar Error 404 del Voyager Easy Apply POST** (Corregir payload/endpoint para que postule 100% automático en LinkedIn).
 
 ### 🟡 Futuro
 - Workday / SAP SuccessFactors Applier
