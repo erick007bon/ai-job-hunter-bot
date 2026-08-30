@@ -34,15 +34,45 @@ def build_cv():
 
     styles = getSampleStyleSheet()
 
-    # ── Estilos personalizados ────────────────────────────────────────────────
-    name_style = ParagraphStyle("Name", fontSize=22, textColor=DARK_BLUE,
-                                 fontName="Helvetica-Bold", alignment=TA_CENTER, spaceAfter=4)
-    title_style = ParagraphStyle("Title", fontSize=11, textColor=MED_BLUE,
-                                  fontName="Helvetica", alignment=TA_CENTER, spaceAfter=2)
-    contact_style = ParagraphStyle("Contact", fontSize=8.5, textColor=DARK_GRAY,
-                                    fontName="Helvetica", alignment=TA_CENTER, spaceAfter=12)
-    section_style = ParagraphStyle("Section", fontSize=11, textColor=DARK_BLUE,
-                                    fontName="Helvetica-Bold", spaceBefore=10, spaceAfter=3)
+    # ── Estilos personalizados (con leading explícito para evitar sobremontado) ─
+    name_style = ParagraphStyle(
+        "Name",
+        fontSize=20,
+        leading=25,
+        textColor=DARK_BLUE,
+        fontName="Helvetica-Bold",
+        alignment=TA_CENTER,
+        spaceAfter=4
+    )
+    title_style = ParagraphStyle(
+        "Title",
+        fontSize=10.5,
+        leading=14,
+        textColor=MED_BLUE,
+        fontName="Helvetica-Bold",
+        alignment=TA_CENTER,
+        spaceBefore=2,
+        spaceAfter=5
+    )
+    contact_style = ParagraphStyle(
+        "Contact",
+        fontSize=8.5,
+        leading=13,
+        textColor=DARK_GRAY,
+        fontName="Helvetica",
+        alignment=TA_CENTER,
+        spaceBefore=2,
+        spaceAfter=10
+    )
+    section_style = ParagraphStyle(
+        "Section",
+        fontSize=10.5,
+        leading=14,
+        textColor=DARK_BLUE,
+        fontName="Helvetica-Bold",
+        spaceBefore=8,
+        spaceAfter=3
+    )
     body_style = ParagraphStyle("Body", fontSize=9, textColor=DARK_GRAY,
                                  fontName="Helvetica", spaceAfter=3, leading=13)
     bullet_style = ParagraphStyle("Bullet", fontSize=9, textColor=DARK_GRAY,
