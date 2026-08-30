@@ -19,7 +19,8 @@ logger = logging.getLogger(__name__)
 def _get_client():
     """
     Retorna una instancia autenticada de la Linkedin API.
-    Importación diferida para no romper el bot si linkedin-api no está instalado.
+    Intenta cookies primero (más estable en IPs de servidor),
+    y si no, usa email + password.
     """
     try:
         from linkedin_api import Linkedin
@@ -28,15 +29,37 @@ def _get_client():
             "linkedin-api no está instalado. Ejecuta: pip install linkedin-api"
         )
 
-    email    = os.environ.get("LINKEDIN_EMAIL", "")
-    password = os.environ.get("LINKEDIN_PASSWORD", "")
+    li_at      = os.environ.get("LINKEDIN_LI_AT", "").strip('"')
+    jsessionid = os.environ.get("LINKEDIN_JSESSIONID", "").strip('"')
+    email      = os.environ.get("LINKEDIN_EMAIL", "")
+    password   = os.environ.get("LINKEDIN_PASSWORD", "")
 
-    if not email or not password:
-        raise RuntimeError(
-            "Faltan LINKEDIN_EMAIL o LINKEDIN_PASSWORD en el .env"
-        )
+    # Método 1: cookies (más estable en servidores — no activa verificación de IP)
+    if li_at and jsessionid:
+        raw_jsession = jsessionid.replace('ajax:', '')
+        cookies = {
+            "li_at":     li_at,
+            "JSESSIONID": f'"ajax:{raw_jsession}"',
+        }
+        try:
+            api = Linkedin("", "", cookies=cookies)
+            logger.info("[LinkedInClient] Autenticado via cookies")
+            return api
+        except Exception as e:
+            logger.warning(f"[LinkedInClient] Cookie auth falló: {e}")
 
-    return Linkedin(email, password)
+    # Método 2: email + password
+    if email and password:
+        try:
+            api = Linkedin(email, password)
+            logger.info("[LinkedInClient] Autenticado via email+password")
+            return api
+        except Exception as e:
+            raise RuntimeError(f"LinkedIn auth falló (email+password): {e}")
+
+    raise RuntimeError(
+        "Configura LINKEDIN_LI_AT + LINKEDIN_JSESSIONID (o LINKEDIN_EMAIL + LINKEDIN_PASSWORD) en .env"
+    )
 
 
 class LinkedInClient:
