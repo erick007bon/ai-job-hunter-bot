@@ -3,10 +3,13 @@ name: 🤖 AI Job Hunter V6 — Auto-Postulación + Becas + Telegram
 on:
   schedule:
     - cron: '0 12 * * *'   # 07:00 Ecuador (UTC-5)
-    - cron: '0 17 * * *'   # 12:00 Ecuador
-    - cron: '0 22 * * *'   # 17:00 Ecuador
-    - cron: '0 3 * * *'    # 22:00 Ecuador
+    - cron: '0 15 * * *'   # 10:00 Ecuador
+    - cron: '0 18 * * *'   # 13:00 Ecuador (1:00 PM)
+    - cron: '0 21 * * *'   # 16:00 Ecuador (4:00 PM)
+    - cron: '0 0 * * *'    # 19:00 Ecuador (7:00 PM)
+    - cron: '0 3 * * *'    # 22:00 Ecuador (10:00 PM)
   workflow_dispatch:
+
 
 jobs:
   job_hunt:
