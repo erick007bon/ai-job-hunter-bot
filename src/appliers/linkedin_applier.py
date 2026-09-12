@@ -146,7 +146,35 @@ class LinkedInApplier:
 
             job_urn = f"urn:li:fsd_jobPosting:{job_id}"
 
-            # ── Endpoint 1: easyApplyApplications (actual, 2024-2025) ──────────
+            # ── Endpoint 0: jobApplications (Unify Apply nativo 2025/2026) ─────
+            payload_v0 = {
+                "jobPosting": f"urn:li:fs_normalized_jobPosting:{job_id}",
+                "jobPostingUrn": job_urn,
+                "applicant": {
+                    "firstName": "Erick",
+                    "lastName": "Flores Zambrano",
+                    "emailAddress": os.environ.get("EMAIL_USER", "eflores4006@utm.edu.ec"),
+                    "phoneNumber": os.environ.get("PROFILE_PHONE", "+593963951193"),
+                }
+            }
+            try:
+                resp0 = session.post(
+                    "https://www.linkedin.com/voyager/api/jobs/jobApplications",
+                    json=payload_v0,
+                    headers=common_headers,
+                    timeout=20,
+                )
+                logger.info(f"[EasyApply v0] status={resp0.status_code} job={job_id}")
+                if resp0.status_code in (200, 201):
+                    print(f"  [LinkedIn] ✅ Easy Apply enviado (endpoint v0 Unify, status {resp0.status_code})")
+                    return True
+                if resp0.status_code == 400 and ("already applied" in resp0.text.lower() or "duplicate" in resp0.text.lower()):
+                    print(f"  [LinkedIn] ℹ️ Ya habías aplicado a este empleo antes")
+                    return True
+            except Exception as e_v0:
+                logger.warning(f"[EasyApply v0] Exception: {e_v0}")
+
+            # ── Endpoint 1: easyApplyApplications (fallback) ───────────────────
             payload_v1 = {
                 "easyApplyJobPostingUrn": job_urn,
                 "questionAndAnswers":     [],
