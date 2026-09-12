@@ -130,6 +130,50 @@ def try_native_auth():
             if li_at and js:
                 print("   [OK] Login nativo exitoso sin challenges!")
                 return li_at, js.strip('"').replace("ajax:", "")
+
+        if data.get("login_result") == "CHALLENGE" and data.get("challenge_url"):
+            challenge_url = data["challenge_url"]
+            print("\n[Challenge] LinkedIn pide verificación de dispositivo (PIN enviado a tu email).")
+            pin = _wait_for_pin_noninteractive(timeout_seconds=60)
+            if not pin and sys.stdin.isatty():
+                try:
+                    pin = input("Ingresa el PIN de 6 dígitos que llegó a tu correo: ").strip()
+                except Exception:
+                    pass
+            if not pin:
+                pin = _wait_for_pin_noninteractive(timeout_seconds=60)
+
+            if pin:
+                print(f"[Challenge] Enviando PIN {pin} a la URL del challenge...")
+                combined_cookies = requests.cookies.RequestsCookieJar()
+                combined_cookies.update(r_init.cookies)
+                combined_cookies.update(r_auth.cookies)
+
+                csrf_val = jsession
+                if "csrfToken=" in challenge_url:
+                    import urllib.parse
+                    parsed = urllib.parse.urlparse(challenge_url)
+                    params = urllib.parse.parse_qs(parsed.query)
+                    if "csrfToken" in params:
+                        csrf_val = params["csrfToken"][0]
+
+                r_verify = requests.post(
+                    challenge_url,
+                    data={
+                        "pin": pin,
+                        "csrfToken": csrf_val,
+                    },
+                    cookies=combined_cookies,
+                    headers=auth_headers,
+                    allow_redirects=True,
+                    timeout=20,
+                )
+                print(f"   Status tras verificación: {r_verify.status_code}")
+                li_at = r_verify.cookies.get("li_at") or combined_cookies.get("li_at")
+                js = r_verify.cookies.get("JSESSIONID") or combined_cookies.get("JSESSIONID")
+                if li_at:
+                    print("   [OK] Verificación exitosa! Cookies obtenidas.")
+                    return li_at, js.strip('"').replace("ajax:", "")
     except Exception as e:
         print(f"   [Aviso] Login nativo falló ({e}), intentando flujo web...")
     return None, None
