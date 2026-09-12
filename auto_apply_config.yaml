@@ -1,4 +1,4 @@
-email: erickflores6655@gmail.com
+email: eflores4006@utm.edu.ec
 password: "not_needed_for_local_profile"
 openaiApiKey: sk-proj-your-openai-api-key
 
@@ -35,11 +35,14 @@ positions:
  - Machine Learning Engineer
  - AI Engineer
  - Data Analyst
+ - Business Intelligence Analyst
+ - Python Developer
 
 locations:
- - United States
+ - Ecuador
  - Remote
- - Canada
+ - Latin America
+ - United States
 
 residentStatus: False
 distance: 100
@@ -55,7 +58,8 @@ posterBlacklist:
  - none
 
 uploads:
- resume: data/CV_Erick_Flores_EN.pdf
+ resume: data/CV_Erick_Flores_Data_AI.pdf
+
 
 checkboxes:
  driversLicence: True
