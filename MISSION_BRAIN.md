@@ -1,5 +1,5 @@
 # 🧠 MISSION BRAIN — AI Job Hunter Bot V7
-**Última actualización**: 2026-08-30
+**Última actualización**: 2026-09-12
 
 > **Objetivo**: Conseguir trabajo remoto 100% en Data Science / AI / ML Engineering.
 > **Candidato**: Erick Flores Zambrano — Economista + Ing. en IA/Datos (Ecuador)
@@ -135,9 +135,8 @@ Cada 4 horas (crontab en GCP VM):
 - **Recruiter `add_connection`**: Fix probado exitosamente usando `fs_miniProfile URN` directamente. Envía conexiones correctamente.
 - **Playwright ATS externo (Greenhouse/Lever)**: Instalado y funcionando en la VM de GCP.
 - **Fallback Tolerante a Fallos**: Si no hay email y falla ATS, se envía alerta por Telegram para aplicar manual (cero pérdida de ofertas).
-
-### 🔴 Pendiente
-- **Easy Apply Voyager POST**: Detecta OK e intenta enviar, pero devuelve Error 404. El endpoint exacto necesita ajuste de payload.
+- **Easy Apply 404 (2026-09-12)**: Corregido. Endpoint correcto: `/voyager/api/jobs/easyApplyApplications`. Payload simplificado con `easyApplyJobPostingUrn`. Fallback a `/voyager/api/jobs/easyApply` si el primero falla.
+- **solve_linkedin_challenge.py (2026-09-12)**: Ya no bloquea en modo cron con `input()`. Si hay challenge, envía alerta Telegram y espera PIN en `/tmp/linkedin_pin.txt`. Password se lee de `LINKEDIN_PASSWORD` en `.env`.
 
 ### 🟡 No urgente
 - GetOnBoard 404: La API pública `/api/v0/categories/ai-machine-learning/jobs` fue deprecada.
@@ -191,7 +190,8 @@ playwright install-deps
 - [x] Playwright instalado y configurado en GCP
 
 ### 🔴 Siguiente sesión (prioridad)
-1. **Verificar Error 404 del Voyager Easy Apply POST** (Corregir payload/endpoint para que postule 100% automático en LinkedIn).
+1. **Verificar en VM que Easy Apply funciona** — hacer `git pull` en la VM y correr `python main_v6.py` con MAX_APPLICATIONS=2 para confirmar status 200/201.
+2. **Agregar LINKEDIN_PASSWORD al .env en la VM** — necesario para el auto-refresh de cookies.
 
 ### 🟡 Futuro
 - Workday / SAP SuccessFactors Applier
