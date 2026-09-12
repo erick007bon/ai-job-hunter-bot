@@ -187,7 +187,7 @@ class LinkedInClient:
                 location_name=location,
                 limit=limit,
                 experience=experience or [],   # e.g. ["2", "3"] = Mid/Senior
-                listed_at=86400,               # últimas 24 horas
+                listed_at=604800,              # última semana (7 días, como en la pantalla de Erick)
                 remote=["2"],                  # On-site=1, Remote=2, Hybrid=3
             )
 

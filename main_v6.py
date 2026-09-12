@@ -311,7 +311,17 @@ def main(dry_run: bool = False):
         else:
             nuevas.append(job)
 
-    print(f"[NUEVAS] {len(nuevas)} ofertas nuevas (no aplicadas antes)")
+    # Si todas salieron [SKIP] pero filtered > 0, limpiar entradas antiguas no verificadas
+    if not nuevas and filtered:
+        print("[MEMORIA] Todas las compatibles estaban registradas. Verificando si fueron postulaciones reales...")
+        cleaned = memory.clean_unverified_entries()
+        if cleaned > 0:
+            for job in filtered:
+                if not memory.already_applied(job.get('url', '')):
+                    nuevas.append(job)
+            print(f"[MEMORIA] ¡Se reactivaron {len(nuevas)} ofertas para procesar!")
+
+    print(f"[NUEVAS] {len(nuevas)} ofertas nuevas (listas para postular o despachar)")
 
     # ── 3.5. ENRIQUECER CON EMAILS REALES ────────────────────────────────────
     if nuevas and not dry_run:

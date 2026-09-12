@@ -2,21 +2,32 @@ import re
 from typing import List, Dict
 from src.config import Config
 
-# Roles objetivo: SOLO estos tipos de trabajos
+# Roles objetivo: SOLO estos tipos de trabajos (ES y EN)
 WHITELIST_ROLES = [
-    "data scientist", "data engineer", "ai engineer", "ml engineer",
-    "machine learning", "python developer", "analytics engineer",
-    "data analyst", "nlp engineer", "llm engineer", "deep learning",
-    "computer vision", "research scientist", "applied scientist",
-    "data architect", "business intelligence", "bi developer",
-    "econometrist", "economist", "quantitative analyst", "quant",
-    "mlops", "ml ops", "data infrastructure", "feature engineer",
+    # Inteligencia Artificial / Machine Learning
+    "aprendizaje automático", "machine learning", "ml engineer", "ml developer",
+    "inteligencia artificial", "ai engineer", "ai developer", "ai specialist",
+    "deep learning", "nlp", "llm", "prompt engineer", "computer vision",
+    "product builder", "generative ai",
+
+    # Datos / Analytics / BI
+    "data scientist", "científico de datos", "científica de datos", "ciencia de datos",
+    "data engineer", "ingeniero de datos", "ingeniería de datos",
+    "data analyst", "analista de datos", "analista", "analytics", "analytics engineer",
+    "research analyst", "research scientist", "applied scientist",
+    "business intelligence", "bi developer", "analista bi", "power bi",
+    "data architect", "arquitecto de datos", "data infrastructure", "data entry",
+    "feature engineer", "mlops", "ml ops",
+
+    # Programación / Herramientas / Economía
+    "python", "sql", "excel", "expert", "software engineer",
+    "econometrist", "economist", "economista", "econometría", "quantitative", "quant",
 ]
 
 # Roles que NUNCA debemos postular (off-topic absoluto)
 BLACKLIST_ROLES = [
     "office assistant", "copywriter", "ios developer", "android developer",
-    "customer support", "customer service", "sales representative",
+    "customer support", "customer service", "sales representative", "asesor de viajes",
     "marketing manager", "content writer", "freelance writer", "copyeditor",
     "graphic designer", "ux designer", "ui designer", "social media",
     "account manager", "devops intern", "customer retention",
@@ -46,17 +57,24 @@ class MatchEngine:
         return any(keyword in text for keyword in self.english_reject_keywords)
 
     def _is_relevant_role(self, title: str) -> bool:
-        """Verifica que el titulo sea un rol de IA/Datos/ML — lista blanca explícita."""
+        """Verifica que el titulo sea un rol de IA/Datos/ML — lista blanca explícita en ES y EN."""
         title_lower = title.lower()
         # Primero verificar blacklist (rechazo absoluto)
         for bad in BLACKLIST_ROLES:
             if bad in title_lower:
                 return False
-        # Luego verificar whitelist (debe tener al menos uno)
+
+        # Para siglas cortas independientes (ia, ai, bi, ml), usar límites de palabra
+        short_acronyms = {"ia", "ai", "bi", "ml"}
+        words = set(re.findall(r'\b[a-zA-ZáéíóúÁÉÍÓÚñÑ]+\b', title_lower))
+        if any(acronym in words for acronym in short_acronyms):
+            return True
+
+        # Luego verificar whitelist
         for good in WHITELIST_ROLES:
             if good in title_lower:
                 return True
-        return False  # Si no está en whitelist, rechazar
+        return False
 
     def filter_jobs(self, jobs: List[Dict]) -> List[Dict]:
         matched_jobs = []
