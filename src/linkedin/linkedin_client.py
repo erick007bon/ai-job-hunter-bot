@@ -100,10 +100,8 @@ def _get_client():
         jar.set("JSESSIONID", f'"ajax:{raw_jsession}"',   domain=".linkedin.com", path="/")
         try:
             api = Linkedin("", "", cookies=jar)
-            # Verificación explícita usando la API para asegurar que no devuelva la página de login
-            profile = api.get_user_profile(use_cache=False)
-            if not profile or "miniProfile" not in profile:
-                raise ValueError("Respuesta inválida de API (cookies posiblemente caducadas)")
+            # Verificación explícita usando búsqueda de empleos (evita /me obsoleto que causa 302 loop)
+            test_res = api.search_jobs("Data", limit=1)
             logger.info("[LinkedInClient] Autenticado via cookies exitosamente")
             return api
         except Exception as e:

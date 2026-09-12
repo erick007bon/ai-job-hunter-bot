@@ -95,6 +95,77 @@ def _wait_for_pin_noninteractive(timeout_seconds: int = 600) -> str:
     return ""
 
 
+def try_native_auth():
+    """
+    Autenticación directa vía endpoint nativo móvil (/uas/authenticate).
+    Evita bloqueos de Cloudflare y captchas del login web.
+    """
+    auth_headers = {
+        "X-Li-User-Agent": "LIAuthLibrary:0.0.3 com.linkedin.android:4.1.881 Asus_ASUS_Z01QD:android_9",
+        "User-Agent": "ANDROID OS",
+        "X-User-Language": "en",
+        "X-User-Locale": "en_US",
+        "Accept-Language": "en-us",
+    }
+    print("[0/3] Intentando login vía API nativa...")
+    try:
+        r_init = requests.get("https://www.linkedin.com/uas/authenticate", headers=auth_headers, timeout=15)
+        jsession = r_init.cookies.get("JSESSIONID", "").strip('"')
+        payload = {
+            "session_key": EMAIL,
+            "session_password": PASSWORD,
+            "JSESSIONID": f'"{jsession}"' if not jsession.startswith('"') else jsession,
+        }
+        r_auth = requests.post(
+            "https://www.linkedin.com/uas/authenticate",
+            data=payload,
+            cookies=r_init.cookies,
+            headers=auth_headers,
+            timeout=15,
+        )
+        data = r_auth.json() if r_auth.text and r_auth.text.startswith("{") else {}
+        if r_auth.status_code == 200 and data.get("login_result") == "PASS":
+            li_at = r_auth.cookies.get("li_at") or r_init.cookies.get("li_at")
+            js = r_auth.cookies.get("JSESSIONID") or r_init.cookies.get("JSESSIONID")
+            if li_at and js:
+                print("   [OK] Login nativo exitoso sin challenges!")
+                return li_at, js.strip('"').replace("ajax:", "")
+    except Exception as e:
+        print(f"   [Aviso] Login nativo falló ({e}), intentando flujo web...")
+    return None, None
+
+
+def save_cookies_to_env(li_at: str, jsessionid: str):
+    print("[3/3] Guardando cookies en .env...")
+    env_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+    if not os.path.exists(env_path):
+        env_path = ".env"
+
+    lines = []
+    if os.path.exists(env_path):
+        with open(env_path, "r", encoding="utf-8") as f:
+            lines = f.readlines()
+
+    lines = [
+        l for l in lines
+        if not l.startswith("LINKEDIN_LI_AT=") and not l.startswith("LINKEDIN_JSESSIONID=")
+    ]
+    lines.append(f'LINKEDIN_LI_AT="{li_at}"\n')
+    lines.append(f'LINKEDIN_JSESSIONID="ajax:{jsessionid}"\n')
+
+    with open(env_path, "w", encoding="utf-8") as f:
+        f.writelines(lines)
+
+    print(f"   li_at: {li_at[:30]}...")
+    print(f"   JSESSIONID: ajax:{jsessionid[:20]}...")
+    print("\n[Done] Cookies renovadas. Ejecuta: python main_v6.py")
+
+    _send_telegram(
+        "✅ *LinkedIn: Cookies renovadas automáticamente*\n"
+        "El bot continuará operando normalmente."
+    )
+
+
 def main():
     if not PASSWORD:
         print("[ERROR] LINKEDIN_PASSWORD no configurado en .env")
@@ -104,6 +175,12 @@ def main():
             "Renueva las cookies manualmente."
         )
         sys.exit(1)
+
+    # ── Intento 1: API nativa móvil ──────────────────────────────────────────
+    li_at, jsessionid = try_native_auth()
+    if li_at and jsessionid:
+        save_cookies_to_env(li_at, jsessionid)
+        return
 
     session = requests.Session()
     session.headers.update(HEADERS)
