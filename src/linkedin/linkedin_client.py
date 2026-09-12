@@ -147,17 +147,25 @@ class LinkedInClient:
     """
     _instance: Optional["LinkedInClient"] = None
     _api = None
+    _auth_failed = False
 
     def __new__(cls):
         if cls._instance is None:
             cls._instance = super().__new__(cls)
             cls._instance._api = None
+            cls._instance._auth_failed = False
         return cls._instance
 
     @property
     def api(self):
+        if self._auth_failed:
+            raise RuntimeError("Autenticación fallida previamente en este ciclo, abortando nuevas peticiones.")
         if self._api is None:
-            self._api = _get_client()
+            try:
+                self._api = _get_client()
+            except Exception as e:
+                self._auth_failed = True
+                raise e
         return self._api
 
     # ─────────────────────────────────────────────────────── #
