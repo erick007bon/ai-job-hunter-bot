@@ -36,9 +36,18 @@ class MemoryStore:
         with open(MEMORY_FILE, 'w', encoding='utf-8') as f:
             json.dump(self.data, f, indent=2, ensure_ascii=False)
 
-    def _save_sent_log(self):
-        with open(SENT_LOG_FILE, 'w', encoding='utf-8') as f:
-            json.dump(self.sent_log, f, indent=2, ensure_ascii=False)
+    def clean_unverified_entries(self) -> int:
+        """Elimina de la memoria entradas que no fueron efectivamente enviadas con éxito."""
+        before = len(self.data)
+        self.data = {
+            url: v for url, v in self.data.items()
+            if isinstance(v, dict) and (v.get('status') == 'applied_success' or v.get('email_sent_to'))
+        }
+        self._save()
+        removed = before - len(self.data)
+        if removed > 0:
+            print(f"[MEMORIA] Limpieza: se liberaron {removed} ofertas previas no postuladas.")
+        return removed
 
     def already_applied(self, url: str) -> bool:
         """Alias de is_applied para compatibilidad (evita procesar dos veces el mismo link)."""

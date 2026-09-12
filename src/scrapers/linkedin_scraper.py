@@ -11,13 +11,25 @@ from .base_scraper import BaseScraper
 
 logger = logging.getLogger(__name__)
 
-# Búsquedas de empleos — keywords × locations
+# Búsquedas de empleos — keywords × locations (Exactas a las búsquedas de Erick en LinkedIn)
 JOB_SEARCHES = [
-    {"keywords": "Data Scientist",        "location": "Remote"},
-    {"keywords": "AI Engineer",           "location": "Remote"},
+    # 🇪🇨 Ecuador (Remoto) — Búsqueda exacta de la captura de Erick
+    {"keywords": "Aprendizaje automático",    "location": "Ecuador"},
+    {"keywords": "Inteligencia Artificial",   "location": "Ecuador"},
+    {"keywords": "Data Analyst",              "location": "Ecuador"},
+    {"keywords": "Excel",                     "location": "Ecuador"},
+    # 🌎 América Latina (Remoto)
+    {"keywords": "Aprendizaje automático",    "location": "Latin America"},
+    {"keywords": "Machine Learning",          "location": "Latin America"},
+    {"keywords": "Data Analyst",              "location": "Latin America"},
+    {"keywords": "Python",                    "location": "Latin America"},
+    {"keywords": "Ciencia de Datos",          "location": "Latin America"},
+    # 🌐 Global Remoto (Data & AI)
+    {"keywords": "Data Scientist",            "location": "Remote"},
+    {"keywords": "AI Engineer",               "location": "Remote"},
     {"keywords": "Machine Learning Engineer", "location": "Remote"},
-    {"keywords": "Data Engineer",         "location": "Remote"},
-    {"keywords": "Data Analyst",          "location": "Remote"},
+    {"keywords": "Data Engineer",             "location": "Remote"},
+    {"keywords": "Data Analyst",              "location": "Remote"},
 ]
 
 
