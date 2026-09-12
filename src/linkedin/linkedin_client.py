@@ -100,10 +100,24 @@ def _get_client():
         jar.set("JSESSIONID", f'"ajax:{raw_jsession}"',   domain=".linkedin.com", path="/")
         try:
             api = Linkedin("", "", cookies=jar)
-            logger.info("[LinkedInClient] Autenticado via cookies")
+            # Verificación explícita usando la API para asegurar que no devuelva la página de login
+            profile = api.get_user_profile(use_cache=False)
+            if not profile or "miniProfile" not in profile:
+                raise ValueError("Respuesta inválida de API (cookies posiblemente caducadas)")
+            logger.info("[LinkedInClient] Autenticado via cookies exitosamente")
             return api
         except Exception as e:
-            logger.warning(f"[LinkedInClient] Cookie auth falló: {e}")
+            logger.warning(f"[LinkedInClient] Cookie auth falló: {e}. Intentando refrescar...")
+            # Intentar refrescar autenticación
+            from src.linkedin.refresh_auth import run_refresh
+            if run_refresh():
+                # Forzar recarga de variables de entorno desde .env
+                from dotenv import load_dotenv
+                load_dotenv(override=True)
+                return _get_client()
+            else:
+                logger.error("[LinkedInClient] No se pudo refrescar cookies automáticamente")
+                raise RuntimeError("Cookies expiradas y fallo al refrescar")
 
     # Método 2: email + password → guarda cookies nuevas automáticamente
     if email and password:

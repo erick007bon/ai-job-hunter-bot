@@ -58,7 +58,7 @@ class RemoteOKScraper:
 
 class GetOnBoardScraper:
     def fetch_jobs(self):
-        categories = ['data-science-analytics', 'ai-machine-learning']
+        categories = ['data-science-analytics', 'programming']
         jobs = []
         for cat in categories:
             try:
