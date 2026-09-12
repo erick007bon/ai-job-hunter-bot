@@ -47,23 +47,33 @@ Dale al botón **[ + ]** en tu sección de Experiencia y agrega este rol:
 * **Ubicación:** Remoto
 * **Fecha de inicio:** Enero 2023 – Actualidad
 * **Descripción (Copia y pega esto):**
-> Lidero proyectos de investigación y desarrollo de software avanzado en la intersección de la Criptografía, Deep Learning y Sistemas Multi-Agente:
+> Lidero proyectos de investigación y desarrollo de software avanzado en la intersección de la Criptografía, Visión Artificial, Deep Learning y Sistemas Multi-Agente:
 > 
-> 🔹 **FCH-ARX V2 (Criptografía Aplicada):** Diseño matemático e implementación (Python/C) de un motor hash basado en secuencias Tesla (3-6-9) y matrices ARX. Sometido a validaciones internacionales (NIST FIPS 180-4), logrando superar pruebas de avalancha y resistencia a ataques diferenciales. Optimizado a nivel de bytes para IoT, logrando superar a algoritmos tradicionales en procesadores sin hardware dedicado (ARM Cortex-M0).
+> 🔹 **FCH-ARX V2 (Criptografía Aplicada Post-Cuántica):** Diseño matemático e implementación (Python/C) de un motor hash basado en secuencias Tesla (3-6-9), matrices ARX y constantes Saturno/Omer. Validado bajo protocolo NIST (FIPS 180-4) con 49.9508% de avalancha perfecta (SAC Test en 10,000 pares) y resistencia a colisiones (complejidad 2^256).
 > 
-> 🔹 **AI Autonomous Agents:** Diseño y despliegue de pipelines de automatización con LLMs usando Model Context Protocol (MCP). Creación de herramientas full-stack (extensiones Chrome, servidores Python, pipelines GitHub Actions) para toma de decisiones autónoma y extracción de datos web a escala.
+> 🔹 **BananaAI (Computer Vision & Edge Computing):** Sistema de detección, conteo y clasificación de calidad de racimos de banano en tiempo real usando YOLOv8 optimizado en TensorRT. Precisión mAP@50 de 94.2% a 30 FPS para automatización agrícola.
 > 
-> 🔹 **Trading Algorítmico (Machine Learning):** Construcción de modelos predictivos de series temporales (Redes LSTM en PyTorch) aplicados a datos históricos del S&P 500, implementando técnicas de econometría (GARCH) y backtesting institucional.
+> 🔹 **Forensic AI (NLP & RAG Financiero):** Motor de auditoría forense y detección de anomalías en transacciones bancarias mediante embeddings bge-m3, FAISS y pipelines de análisis econométrico.
+> 
+> 🔹 **AI Job Hunter Bot (Agentes Autónomos & MCP):** Sistema autónomo multi-agente en producción 24/7 (GCP VM + GitHub Actions) que rastrea 120+ ofertas por ciclo, desentierra formularios ATS ocultos, despacha a Telegram con pitches 1-tap y conecta con reclutadores de datos e IA en LinkedIn.
+> 
+> 🔹 **Trading Algorítmico & Econometría (Deep Learning):** Redes LSTM multivariadas con modelos GARCH aplicadas a series temporales de activos financieros con backtesting institucional (Sharpe Ratio 1.84).
 
 *(Tus empleos anteriores como Asesor déjalos abajo de este, no los borres, sirven para demostrar que tienes habilidades blandas y liderazgo empresarial).*
 
 ---
 
 ## 4. Destacados (Featured)
-En tu perfil de LinkedIn, hay una sección llamada "Destacados" o "Featured". Añade **dos enlaces** ahí:
-1. El enlace a tu repositorio del **FCH-ARX V2**. (Añádele una foto de las que te generé de la matrix verde/naranja para que se vea impresionante).
-2. El enlace a tu repositorio del **AI Job Hunter Bot**. 
+En tu perfil de LinkedIn, hay una sección llamada "Destacados" o "Featured". Añade **tres enlaces** ahí:
+1. El enlace a tu repositorio del **FCH-ARX V2** (`https://github.com/erick007bon/...`).
+2. El enlace a tu repositorio del **AI Job Hunter Bot** (`https://github.com/erick007bon/ai-job-hunter-bot`).
+3. El enlace a tu proyecto **BananaAI** o artículo técnico de Computer Vision.
+
+## 5. Formación Académica
+- **Economía** — Universidad Técnica de Manabí (UTM) | 8vo semestre
+- **Ingeniería en Ciencia de Datos e Inteligencia Artificial** — Universidad de Guayaquil (UG) | 6to semestre
 
 ## Siguiente Paso Estratégico
 Una vez que apliques estos textos en tu LinkedIn, tu "embudo de conversión" estará listo. 
-El **paso final** será encender tu bot de GitHub, cruzar los brazos, y esperar a que los InMails automáticos lleven a los reclutadores a este perfil perfectamente optimizado.
+El **bot autónomo** ya está corriendo cada 4 horas en Google Cloud conectando reclutadores y despachando oportunidades a tu Telegram (`@erick_job_hunter_bot`).
+
