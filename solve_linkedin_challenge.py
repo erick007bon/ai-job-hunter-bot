@@ -117,14 +117,15 @@ def main():
         start = resp.text.find('name="loginCsrfParam" value="') + len('name="loginCsrfParam" value="')
         end   = resp.text.find('"', start)
         csrf  = resp.text[start:end]
-
+    # Fallback: buscar con regex o usar cookie session
     if not csrf:
-        for line in resp.text.split("\n"):
-            if "loginCsrfParam" in line and "value" in line:
-                parts = line.split('value="')
-                if len(parts) > 1:
-                    csrf = parts[1].split('"')[0]
-                    break
+        import re
+        m = re.search(r'name="loginCsrfParam"[^>]*value="([^"]+)"', resp.text)
+        if m:
+            csrf = m.group(1)
+    if not csrf:
+        # Ultimo fallback: cookie de sesión (LinkedIn a veces usa JSESSIONID como csrf)
+        csrf = session.cookies.get("JSESSIONID", "").strip('"')
 
     print(f"   CSRF: {csrf[:20]}..." if csrf else "   Warning: Sin CSRF token")
 
