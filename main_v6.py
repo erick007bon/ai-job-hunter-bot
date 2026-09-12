@@ -206,28 +206,37 @@ def send_cold_email_smtp(
         return False
 
 
-def generate_report(applied_results: list, all_jobs: list, filtered: list) -> str:
+def generate_report(applied_results: list, all_jobs: list, filtered: list, manual_notified: list = None) -> str:
     today   = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     success = [r for r in applied_results if r.success]
     failed  = [r for r in applied_results if not r.success]
+    manual_notified = manual_notified or []
 
     lines = [
         f"# 🤖 AI Job Hunter V6 — Reporte {today}",
-        f"**Total encontrados:** {len(all_jobs)} | **Compatibles:** {len(filtered)} | "
-        f"**Postulaciones:** {len(applied_results)}",
-        f"**✅ Exitosas:** {len(success)} | **❌ Fallidas:** {len(failed)}",
+        f"**Total encontrados:** {len(all_jobs)} | **Compatibles:** {len(filtered)}",
+        f"**Postulaciones automáticas:** {len(applied_results)} (✅ Exitosas: {len(success)} | ❌ Fallidas: {len(failed)})",
+        f"**📲 Enviadas a Telegram (1-Tap):** {len(manual_notified)}",
         "",
-        "## ✅ Postulaciones Exitosas",
     ]
-    for r in success:
-        lines.append(f"- **{r.job_title}** @ {r.company} ({r.portal}) → {r.url}")
+    if success:
+        lines.append("## ✅ Postulaciones Automáticas Exitosas")
+        for r in success:
+            lines.append(f"- **{r.job_title}** @ {r.company} ({r.portal}) → {r.url}")
+
+    if manual_notified:
+        lines.append("\n## 📲 Enviadas a tu Telegram (Postulación Manual en 1 Click)")
+        for j in manual_notified:
+            lines.append(
+                f"- [{j.get('title')} @ {j.get('company')}]({j.get('url')}) — {j.get('source')}"
+            )
 
     if failed:
-        lines.append("\n## ⚠️ Postulaciones con Error")
+        lines.append("\n## ⚠️ Intentos de Postulación con Cuestionario o Error")
         for r in failed:
-            lines.append(f"- **{r.job_title}** @ {r.company} → _{r.message}_")
+            lines.append(f"- **{r.job_title}** @ {r.company} → _{r.message}_ ({r.url})")
 
-    lines.append("\n## 🔍 Todas las Ofertas Compatibles (para revisión manual)")
+    lines.append("\n## 🔍 Todas las Ofertas Compatibles del Ciclo")
     for j in filtered:
         lines.append(
             f"- [{j.get('title')} @ {j.get('company')}]({j.get('url')}) — {j.get('source')}"
@@ -315,8 +324,9 @@ def main(dry_run: bool = False):
         except Exception as e:
             print(f"[EMAIL EXTRACTOR] Error: {e}")
 
-    # ── 4. AUTO-POSTULACIÓN ──────────────────────────────────────────────────
+    # ── 4. AUTO-POSTULACIÓN Y DESPACHO A TELEGRAM ─────────────────────────────
     applied_results = []
+    manual_notified = []
 
     if dry_run:
         print("\n[DRY-RUN] Ofertas que se postularían:")
@@ -326,7 +336,9 @@ def main(dry_run: bool = False):
 
     if not AUTO_APPLY:
         for job in nuevas[:MAX_APPS]:
-            notify_job_found(job)
+            notify_job_found(job, manual_action=True, reason="Modo manual activo")
+            memory.mark_notified_manual(job, reason="Modo manual")
+            manual_notified.append(job)
     else:
         try:
             from src.appliers.router import get_applier_for_url
@@ -334,7 +346,6 @@ def main(dry_run: bool = False):
             from src.appliers.base_applier import ApplyResult
 
             funnel = FunnelDB()
-
 
             for job in nuevas[:MAX_APPS]:
                 url    = job.get('url', '')
@@ -346,9 +357,7 @@ def main(dry_run: bool = False):
                 print(f"[JOB] {title} @ {company}")
                 print(f"      Source: {source} | URL: {url[:60]}...")
 
-                # (El applier de LinkedIn ahora se maneja automáticamente a través del router)
-
-                # ── Intentar applier ATS (Playwright) ──
+                # ── 1. Intentar applier ATS (Playwright / API / LinkedIn) ──
                 applier = get_applier_for_url(url, source)
 
                 if applier:
@@ -360,27 +369,32 @@ def main(dry_run: bool = False):
                     if result.success:
                         memory.mark_applied(job)
                         notify_applied(result)
-
                     else:
-                        print(f"  [APPLY FAIL] {result.message} — intentando cold-email")
-                        # Si el applier falla, intentar cold-email como fallback
-                        _try_cold_email(job, funnel, memory, applied_results)
+                        print(f"  [APPLY MANUAL NEEDED] {result.message}")
+                        # Si no pudo auto-aplicar (cuestionario o form dinámico), enviar a Telegram en 1 tap
+                        target_url = result.url or url
+                        job_to_notify = dict(job)
+                        job_to_notify['url'] = target_url
+                        notify_job_found(job_to_notify, manual_action=True, reason=result.message)
+                        memory.mark_notified_manual(job_to_notify, reason=result.message)
+                        manual_notified.append(job_to_notify)
                 else:
-                    # ── Fallback: cold-email directo ──
-                    _try_cold_email(job, funnel, memory, applied_results)
-                    notify_job_found(job)
+                    # ── 2. Fallback: cold-email directo si existe email verificado ──
+                    email_sent = _try_cold_email(job, funnel, memory, applied_results)
+                    if not email_sent:
+                        # ── 3. Enviar a Telegram para postulación manual en 1 tap ──
+                        print(f"  [TELEGRAM DISPATCH] Enviando oferta a Telegram para postulación manual en 1 click...")
+                        notify_job_found(job, manual_action=True, reason="Postulación directa en plataforma requerida")
+                        memory.mark_notified_manual(job, reason="Manual")
+                        manual_notified.append(job)
 
         except ImportError as e:
-            print(f"[ERROR] Playwright no instalado: {e}")
+            print(f"[ERROR] Dependencia no disponible: {e}")
             print("  → Notificando ofertas por Telegram para postulación manual...")
             for job in nuevas[:MAX_APPS]:
-                send_telegram(
-                    f"💼 *EMPLEO NUEVO — Postula manualmente*\n\n"
-                    f"📌 *{job.get('title')}* @ {job.get('company')}\n"
-                    f"🔗 {job.get('url')}\n"
-                    f"🌐 Fuente: {job.get('source')}"
-                )
-                memory.mark_applied(job)  # marcar para no spamear
+                notify_job_found(job, manual_action=True, reason="Falta de dependencia local")
+                memory.mark_notified_manual(job, reason="Fallback")
+                manual_notified.append(job)
 
     # ── 5. LINKEDIN RECRUITER OUTREACH ────────────────────────────────────────
     if not dry_run:
@@ -395,7 +409,7 @@ def main(dry_run: bool = False):
             print(f"[LINKEDIN] ⚠️ Error en recruiter outreach: {e}")
 
     # ── 6. REPORTE ───────────────────────────────────────────────────────────
-    report = generate_report(applied_results, all_jobs, filtered)
+    report = generate_report(applied_results, all_jobs, filtered, manual_notified)
 
     os.makedirs("reportes", exist_ok=True)
     ts          = datetime.datetime.now().strftime('%Y%m%d_%H%M')
@@ -404,46 +418,28 @@ def main(dry_run: bool = False):
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
 
-    notify_application_summary(applied_results)
+    notify_application_summary(applied_results, manual_notified)
 
     print(f"\n[DONE] Reporte: {report_path}")
-    print(f"       Postulaciones: {len(applied_results)} | "
-          f"Exitosas: {sum(1 for r in applied_results if r.success)}")
+    print(f"       Postulaciones automáticas: {len(applied_results)} | "
+          f"Exitosas: {sum(1 for r in applied_results if r.success)} | "
+          f"Notificadas a Telegram (1-tap): {len(manual_notified)}")
     print("=" * 60)
 
 
 
-def _try_cold_email(job: dict, funnel, memory, applied_results: list):
+def _try_cold_email(job: dict, funnel, memory, applied_results: list) -> bool:
     """
-    Intenta enviar un cold-email con el CV adjunto.
-    Primero intenta SMTP directo; si falla, intenta Gmail OAuth2.
-    Registra el resultado en funnel y memory.
+    Intenta enviar un cold-email con el CV adjunto si existe email verificado.
+    Retorna True si el envío fue exitoso, False en caso contrario.
     """
     from src.appliers.base_applier import ApplyResult
 
     contact_email  = job.get('contact_email')
     email_verified = job.get('email_verified', False)
 
-    if not contact_email:
-        # Sin email — notificar por Telegram para postulación manual
-        title   = job.get('title', 'Puesto')
-        company = job.get('company', 'Empresa')
-        url     = job.get('url', '')
-        source  = job.get('source', '')
-        print(f"  [COLD EMAIL] Sin email → Telegram alert para postulación manual")
-        send_telegram(
-            f"💼 *EMPLEO NUEVO — Postula tú manualmente*\n\n"
-            f"📌 *{title}* @ {company}\n"
-            f"🔗 {url}\n"
-            f"🌐 Fuente: {source}\n\n"
-            f"_El bot no encontró formulario automático ni email de contacto._"
-        )
-        memory.mark_applied(job)  # marcar como visto para no repetir
-        return
-
-    if not email_verified:
-        print(f"  [COLD EMAIL] Email no verificado ({contact_email}) — omitiendo")
-        return
+    if not contact_email or not email_verified:
+        return False
 
     print(f"\n[COLD EMAIL] {job.get('title')} @ {job.get('company')} → {contact_email}")
 
@@ -479,14 +475,17 @@ def _try_cold_email(job: dict, funnel, memory, applied_results: list):
         portal=method_used,
         url=job.get('url'),
         success=success,
-        message='Email enviado exitosamente' if success else 'Fallo el envío de email',
+        message='Email enviado exitosamente con CV adjunto' if success else 'Fallo el envío de email',
         source=job.get('source', ''),
     )
 
     applied_results.append(result)
     funnel.record_application(result)
     if success:
-        memory.mark_applied(job)
+        memory.mark_applied(job, email_sent_to=contact_email)
+        notify_applied(result)
+
+    return success
 
 
 if __name__ == '__main__':
