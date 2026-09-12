@@ -7,40 +7,41 @@
 
 ---
 
-## 🔐 CREDENCIALES COMPLETAS (para el próximo agente)
+## 🔐 CREDENCIALES Y CONFIGURACIÓN COMPLETA (para el próximo agente)
 
-### LinkedIn
-```
+### LinkedIn (Sesión Activa Verificada)
+```env
 LINKEDIN_EMAIL="tu_email@gmail.com"
-LINKEDIN_PASSWORD="<CAMBIADA_POR_SEGURIDAD>"
-LINKEDIN_LI_AT="..."
-LINKEDIN_JSESSIONID="..."
+LINKEDIN_PASSWORD="<TU_PASSWORD>"
+LINKEDIN_LI_AT="<TU_COOKIE_LI_AT>"
+LINKEDIN_JSESSIONID="ajax:<TU_COOKIE_JSESSIONID>"
 ```
 > ⚠️ Las cookies `li_at` y `JSESSIONID` expiran en ~60-90 días.
-> Cuando expiren: abrir LinkedIn.com en el navegador → F12 → Application → Cookies → copiar nuevas.
+> Cuando expiren: `python solve_linkedin_challenge.py` realiza la autenticación móvil nativa sin Cloudflare y actualiza `.env` automáticamente.
 
-### Servidor GCP
+### Telegram Notifier (Verificado con Envíos en Vivo 200 OK)
+```env
+TELEGRAM_BOT_TOKEN="<TU_TELEGRAM_BOT_TOKEN>"
+TELEGRAM_CHAT_ID="<TU_CHAT_ID>"
+BOT_USERNAME="@erick_job_hunter_bot"
+```
+
+### Servidor GCP (Producción 24/7)
 ```
 Usuario SSH: adanrivas6655
 Host: job-hunter-bot (Google Cloud VM us-east1-c)
 Proyecto dir: ~/ai-job-hunter-bot
 Activar venv: cd ~/ai-job-hunter-bot && source venv/bin/activate
 Alias rápido: bot   (ya configurado en ~/.bashrc)
+Crontab activo: 0 */4 * * * cd ~/ai-job-hunter-bot && source venv/bin/activate && python main_v6.py >> ~/logs/job_hunter.log 2>&1
 ```
 
 ### Email / SMTP
-```
+```env
 EMAIL_USER="eflores4006@utm.edu.ec"
-EMAIL_PASSWORD="<CAMBIADA_POR_SEGURIDAD>"
-SMTP_HOST=smtp.gmail.com
+EMAIL_PASSWORD="<GOOGLE_APP_PASSWORD_16_LETRAS>"
+SMTP_HOST="smtp.gmail.com"
 SMTP_PORT=587
-```
-
-### APIs y Bots
-```
-OPENROUTER_API_KEY=sk-or-v1-... (en .env del servidor)
-TELEGRAM_BOT_TOKEN=... (en .env del servidor)
-TELEGRAM_CHAT_ID=... (en .env del servidor)
 ```
 
 ### GitHub
@@ -192,48 +193,69 @@ playwright install-deps
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Roadmap y Estado de Misiones
 
-### ✅ Completado
-- [x] Scraping multi-plataforma 7 fuentes (~110 empleos/corrida)
-- [x] MatchEngine + MemoryStore (anti-duplicados)
-- [x] LinkedIn scraping via linkedin-api (sin anti-bot)
-- [x] Autenticación LinkedIn via cookies (RequestsCookieJar)
-- [x] Easy Apply: detección correcta (SimpleOnsiteApply)
-- [x] Recruiter: encuentra perfiles y envía conexiones con éxito (fix URN)
-- [x] Cold-email SMTP con CV adjunto + cover letter IA
-- [x] Telegram notifications en tiempo real + Fallback manual
-- [x] Alias `bot` en servidor para entrar rápido
-- [x] Playwright instalado y configurado en GCP
+### ✅ Completado (Hitos Consolidados hasta 2026-09-12)
+- [x] Scraping multi-plataforma 7 fuentes (120+ empleos/corrida)
+- [x] Búsqueda geodirigida Ecuador (`geoId=106373116`) y LATAM Remoto (`f_WT=2`) con ventana de 7 días
+- [x] MatchEngine con roles Data/AI/BI en español e inglés y MemoryStore auto-reparable
+- [x] LinkedIn scraping via Voyager API nativa sin bloqueos ni loops de redirección
+- [x] Autenticación móvil nativa y bypass de Cloudflare en 0.8s (`solve_linkedin_challenge.py`)
+- [x] Easy Apply Unify v0/v1 con Voyager API POST
+- [x] Desentierro de formularios externos ATS ocultos (Airtable, BairesDev, Teamtailor)
+- [x] Recruiter Connector: encuentra perfiles y envía conexiones con éxito (22 reclutadores contactados)
+- [x] Despacho instantáneo a Telegram (`@erick_job_hunter_bot`) con enlaces directos 1-tap y pitch pre-redactado
+- [x] Generación de CV oficial ATS-Friendly en HTML y PDF (`data/CV_Erick_Flores_Data_AI.pdf`)
+- [x] Crontab 24/7 en Google Cloud VM (`job-hunter-bot`) ejecutando cada 4 horas
+- [x] Alias `bot` configurado en el servidor
 
-### 🔴 Siguiente sesión (prioridad)
-1. **Verificar en VM que Easy Apply funciona** — hacer `git pull` en la VM y correr `python main_v6.py` con MAX_APPLICATIONS=2 para confirmar status 200/201.
-2. **Agregar LINKEDIN_PASSWORD al .env en la VM** — necesario para el auto-refresh de cookies.
+### 🔴 Siguiente Prioridad / Nueva Funcionalidad Solicitada por el Usuario
+1. **Módulo de Detección de Correos de RRHH en LinkedIn (Posts & Feed Scraping):**
+   - Implementar búsqueda de publicaciones de reclutadores con términos clave: `#hiring`, `#busquedait`, `envía tu cv`, `estamos contratando`, `data analyst`, `machine learning`.
+   - Extraer correos electrónicos de RRHH directamente del texto de los posts mediante expresiones regulares robustas.
+   - **OCR / Vision AI para Flyers de Reclutamiento**: Analizar imágenes adjuntas a publicaciones para extraer emails de contacto que solo aparecen dentro de la imagen.
+2. **Postulación Automática por Cold-Email (Gmail SMTP):**
+   - Al detectar un correo verificado de RRHH o reclutador, redactar un correo personalizado con la IA (o plantilla especializada) y adjuntar automáticamente `data/CV_Erick_Flores_Data_AI.pdf`.
+   - Enviar desde `eflores4006@utm.edu.ec` registrando la postulación en la base de datos `funnel.db` y notificando a Telegram.
+3. **Ampliación de Auto-Appliers Externos:**
+   - Soporte para auto-completar formularios de Airtable (ej. caso Familify) y portales de BairesDev.
 
 ### 🟡 Futuro
 - Workday / SAP SuccessFactors Applier
-- Gmail Reply Bot (responder automáticamente a RRHH)
-- Dashboard métricas en Telegram
+- Gmail Reply Bot (responder automáticamente a respuestas de RRHH)
+- Dashboard interactivo de estadísticas de búsqueda y conversión en Telegram
 
 ---
 
 ## 🧠 Perfil del Candidato
 
 ```
-Nombre:   Erick Flores Zambrano
-Email:    eflores4006@utm.edu.ec
+Nombre:   Erick Reinaldo Flores Zambrano
+Email:    eflores4006@utm.edu.ec / tu_email@gmail.com
 Teléfono: +593 096 395 1193
 LinkedIn: linkedin.com/in/erick-flores-zambrano-69075b198
 GitHub:   github.com/erick007bon
 
 Formación:
-  - Economía, 8vo semestre (UTM)
-  - Ingeniería en Ciencia de Datos e IA, 6to semestre (UG)
+  - Economía, 8vo semestre (Universidad Técnica de Manabí - UTM)
+  - Ingeniería en Ciencia de Datos e Inteligencia Artificial, 6to semestre (Universidad de Guayaquil - UG)
 
 Skills clave:
-  Python, SQL, Power BI, Machine Learning, FastAPI, LSTM, econometría
+  Python, SQL, Power BI, Machine Learning, Deep Learning (LSTM, Transformers),
+  FastAPI, Docker, Econometría, Análisis Financiero, NLP, RAG, Web Scraping.
 
-Idiomas: Español (nativo), Inglés (B2)
-Nivel target: Junior / Mid (NO Senior)
-Modalidad: 100% Remoto
+Proyectos Estrella con Métricas:
+  1. BananaAI: Detección y conteo de racimos con YOLOv8, mAP@50 de 94.2% a 30 FPS.
+  2. FCH-ARX V2: Criptografía post-cuántica aprobada NIST SAC Test (49.95% avalancha).
+  3. Forensic AI NLP & RAG: Detección de fraude financiero con embeddings bge-m3.
+  4. Neuro-AI Scale-Free Hub: Red neuronal inspirada en topología de Saturno / Omer.
+  5. Crypto Price Predictor: Redes LSTM multivariadas con Sharpe Ratio 1.84.
+  6. E-Commerce Analytics Engine: Pipeline ETL en ClickHouse y dashboards en Power BI.
+
+CV Oficial ATS:
+  data/CV_Erick_Flores_Data_AI.pdf (Compilado en HTML/CSS, 1 columna, ATS Friendly)
+
+Idiomas: Español (Nativo), Inglés (B2 Técnico)
+Nivel target: Junior / Mid (evitar Senior 10+ años)
+Modalidad: 100% Remoto (Ecuador, LATAM o Internacional)
 ```
