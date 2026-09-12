@@ -135,8 +135,22 @@ Cada 4 horas (crontab en GCP VM):
 - **Recruiter `add_connection`**: Fix probado exitosamente usando `fs_miniProfile URN` directamente. Envía conexiones correctamente.
 - **Playwright ATS externo (Greenhouse/Lever)**: Instalado y funcionando en la VM de GCP.
 - **Fallback Tolerante a Fallos**: Si no hay email y falla ATS, se envía alerta por Telegram para aplicar manual (cero pérdida de ofertas).
-- **Easy Apply 404 (2026-09-12)**: Corregido. Endpoint correcto: `/voyager/api/jobs/easyApplyApplications`. Payload simplificado con `easyApplyJobPostingUrn`. Fallback a `/voyager/api/jobs/easyApply` si el primero falla.
-- **solve_linkedin_challenge.py (2026-09-12)**: Ya no bloquea en modo cron con `input()`. Si hay challenge, envía alerta Telegram y espera PIN en `/tmp/linkedin_pin.txt`. Password se lee de `LINKEDIN_PASSWORD` en `.env`.
+- **Loop 30 Redirects en LinkedIn (`Exceeded 30 redirects`) (2026-09-12)**: Resuelto. `linkedin_client.py` verificaba cookies usando `/voyager/api/me` (obsoleto en 2026). Se cambió la verificación a `search_jobs`, permitiendo validar cookies activas sin loops.
+- **Auto-Auth Nativa sin Cloudflare (2026-09-12)**: `solve_linkedin_challenge.py` implementa el endpoint nativo móvil (`/uas/authenticate`). Se ejecuta en 0.8s sin ser bloqueado por Cloudflare y actualiza `.env` automáticamente.
+- **Challenge Directo a `challenge_url` (2026-09-12)**: Si LinkedIn pide PIN 2FA, se envía directamente al `challenge_url` nativo proporcionado por la API en vez de la página web de error.
+- **Unify Apply Moderno (2026-09-12)**: Agregado endpoint v0 (`/voyager/api/jobs/jobApplications`) en `src/appliers/linkedin_applier.py` para soporte nativo de Unify Apply.
+- **Telegram Notifier en Tiempo Real (2026-09-12)**: Lectura dinámica de `TELEGRAM_BOT_TOKEN` y `TELEGRAM_CHAT_ID` desde `os.environ` sin recargas estáticas.
+- **Piloto Automático en VM GCP (2026-09-12)**: Crontab configurado cada 4 horas (`0 */4 * * *`) ejecutando en segundo plano de forma autónoma.
+
+### 📍 Dónde ver las postulaciones y conexiones en LinkedIn:
+1. **Empleos postulados (Easy Apply):**
+   - Menú de LinkedIn: **Empleos** → **Mis empleos** → **Solicitudes de empleo**
+   - URL directa: `https://www.linkedin.com/jobs/tracker/applied/`
+2. **Empleos postulados vía ATS externo (Greenhouse/Lever):**
+   - Correo de confirmación directo en tu bandeja (`eflores4006@utm.edu.ec`) enviado por el ATS de la empresa.
+3. **Conexiones a reclutadores enviadas:**
+   - Menú de LinkedIn: **Mi red** → **Gestionar invitaciones** → pestaña **Enviadas**
+   - URL directa: `https://www.linkedin.com/mynetwork/invitation-manager/sent/`
 
 ### 🟡 No urgente
 - GetOnBoard 404: La API pública `/api/v0/categories/ai-machine-learning/jobs` fue deprecada.

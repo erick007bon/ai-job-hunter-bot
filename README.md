@@ -122,13 +122,29 @@ Para GitHub Actions, configurar como **Secrets** en:
 
 ---
 
-## Estado actual (2026-08-30)
+## Estado actual (2026-09-12)
 
-| Función | Estado |
-|---------|--------|
-| Scraping LinkedIn | ✅ ~30 empleos/corrida |
-| Scraping 6 job boards | ✅ ~80 empleos/corrida |
-| LinkedIn Easy Apply | ✅ Voyager API POST |
-| Recruiter connections | ✅ 8 conexiones/corrida |
-| Cold-email SMTP | ✅ Con CV adjunto + IA cover letter |
-| ATS externos (Playwright) | ⚠️ Instalar: `playwright install chromium` |
+| Función | Estado | Notas |
+|---------|--------|-------|
+| Scraping LinkedIn | ✅ Activo (~25 empleos/corrida) | Voyager API sin loops 302 |
+| Scraping 6 job boards | ✅ Activo (~80 empleos/corrida) | Remotive, RemoteOK, GetOnBoard, etc. |
+| LinkedIn Easy Apply | ✅ Activo (Unify Apply v0/v1) | Voyager API POST directo |
+| LinkedIn ATS Externos | ✅ Activo (Playwright) | Greenhouse, Lever, Workable |
+| Recruiter Outreach | ✅ Activo (3 conexiones/corrida) | ~18 solicitudes diarias a reclutadores Data/AI |
+| Notificaciones Telegram | ✅ Activo | Alertas de empleo y resumen del ciclo |
+| Auto-Refresh Cookies | ✅ Activo | API nativa móvil sin Cloudflare |
+
+---
+
+## 📍 ¿Dónde ver tus postulaciones y conexiones en LinkedIn?
+
+1. **Postulaciones Easy Apply:**  
+   `https://www.linkedin.com/jobs/tracker/applied/`  
+   *(En LinkedIn: Empleos → Mis empleos → Solicitudes de empleo)*.
+
+2. **Postulaciones ATS Externas (Greenhouse, Lever, etc.):**  
+   Llegan directamente a tu correo (`eflores4006@utm.edu.ec`) como confirmación oficial de la empresa.
+
+3. **Invitaciones a Reclutadores enviadas:**  
+   `https://www.linkedin.com/mynetwork/invitation-manager/sent/`  
+   *(En LinkedIn: Mi red → Gestionar invitaciones → pestaña Enviadas)*.
