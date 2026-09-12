@@ -1,33 +1,40 @@
-# 🤖 AI Job Hunter Bot V7
+# 🤖 AI Job Hunter Bot V7 — Autonomous Tech Recruiter & Job Hunter
 
-Bot de búsqueda y postulación automática de empleo remoto en Data Science / AI / ML Engineering.
+Bot autónomo de búsqueda, filtrado, postulación y networking en **Data Science, Artificial Intelligence, Machine Learning & Business Intelligence** para trabajo remoto en Ecuador, Latinoamérica y Global.
 
-**Candidato**: Erick Flores Zambrano — Ecuador  
-**Servidor**: Google Cloud VM 24/7 + GitHub Actions (backup)
+**Candidato**: Erick Flores Zambrano — Economista (UTM) & Estudiante de Ing. en Ciencia de Datos e IA (UG)  
+**Servidor**: Google Cloud Platform (VM `job-hunter-bot`, Debian 12, 24/7) + GitHub Actions  
+**CV Oficial**: `data/CV_Erick_Flores_Data_AI.pdf` (generado desde HTML ATS-friendly)
 
 ---
 
-## ¿Qué hace?
+## ¿Qué hace el sistema?
 
-Cada **4 horas** automáticamente:
+Cada **4 horas** de forma 100% autónoma en la nube:
 
-1. **Scraping** — busca empleos en 7 fuentes simultáneas:
-   - LinkedIn (~30 empleos via API nativa, sin anti-bot)
-   - Remotive, RemoteOK, GetOnBoard, Jobicy
-   - WeWorkRemotely, WorkingNomads
+1. **Scraping Multi-Canal (120+ ofertas)**:
+   - **LinkedIn (Ecuador & LATAM)**: Búsquedas dirigidas (`Aprendizaje automático`, `Inteligencia Artificial`, `Data Analyst`, `Excel`, `Python`, `Ciencia de Datos`) con filtro remoto y ventana de 7 días.
+   - **Bolsas globales**: Remotive, RemoteOK, GetOnBoard, Jobicy, WeWorkRemotely, WorkingNomads.
 
-2. **Filtrado** — descarta Senior, irrelevantes, idioma no compatible
+2. **Filtrado Inteligente (MatchEngine)**:
+   - Valida roles relevantes en español e inglés (ML, Deep Learning, LLMs, Computer Vision, Data Science, BI, Power BI, SQL, Data Entry, Economía Cuantitativa).
+   - Descarta off-topic absoluto (ventas, diseño, soporte al cliente) y puestos que exigen 10+ años de antigüedad.
 
-3. **Deduplicación** — no postula dos veces al mismo empleo
+3. **Memoria Persistente y Auto-Reparable (MemoryStore)**:
+   - Previene spam o duplicados.
+   - Auto-recupera oportunidades que no hayan sido postuladas efectivamente.
 
-4. **Auto-postulación**:
-   - LinkedIn Easy Apply → POST directo al Voyager API de LinkedIn
-   - ATS externos (Greenhouse, Lever, Workable) → Playwright headless
-   - Fallback → Cold-email SMTP con CV adjunto + cover letter generada por IA
+4. **Estrategia Híbrida de Postulación & Despacho (1-Tap Apply)**:
+   - **Auto-Postulación**: Intenta Easy Apply nativo vía Voyager API y portales ATS compatibles (Greenhouse, Lever).
+   - **Despacho Directo a Telegram (1-Click)**: Si la oferta requiere cuestionario personalizado o portal externo (ej. formularios de Airtable, Teamtailor, BairesDev), el bot extrae la URL directa del formulario y la envía de inmediato a Telegram con un pitch profesional listo para copiar y pegar.
+   - **Cold-Email**: Envío directo con CV adjunto cuando se detecta email de RRHH verificado.
 
-5. **Network** — envía 8 solicitudes de conexión a reclutadores Data/AI en LinkedIn
+5. **Networking Automatizado con Reclutadores**:
+   - Conecta con reclutadores de talento de IA/Datos en LATAM y remoto desde la cuenta de LinkedIn del usuario (3 invitaciones por ciclo, ~18 al día de forma segura).
 
-6. **Notificación** → Telegram con resultados en tiempo real
+6. **Notificación & Reportes**:
+   - Mensajería instantánea a Telegram vía `@erick_job_hunter_bot`.
+   - Generación de reportes markdown detallados en `reportes/`.
 
 ---
 

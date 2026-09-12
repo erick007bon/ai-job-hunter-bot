@@ -139,22 +139,25 @@ Cada 4 horas (crontab en GCP VM):
 - **Auto-Auth Nativa sin Cloudflare (2026-09-12)**: `solve_linkedin_challenge.py` implementa el endpoint nativo móvil (`/uas/authenticate`). Se ejecuta en 0.8s sin ser bloqueado por Cloudflare y actualiza `.env` automáticamente.
 - **Challenge Directo a `challenge_url` (2026-09-12)**: Si LinkedIn pide PIN 2FA, se envía directamente al `challenge_url` nativo proporcionado por la API en vez de la página web de error.
 - **Unify Apply Moderno (2026-09-12)**: Agregado endpoint v0 (`/voyager/api/jobs/jobApplications`) en `src/appliers/linkedin_applier.py` para soporte nativo de Unify Apply.
-- **Telegram Notifier en Tiempo Real (2026-09-12)**: Lectura dinámica de `TELEGRAM_BOT_TOKEN` y `TELEGRAM_CHAT_ID` desde `os.environ` sin recargas estáticas.
-- **Piloto Automático en VM GCP (2026-09-12)**: Crontab configurado cada 4 horas (`0 */4 * * *`) ejecutando en segundo plano de forma autónoma.
+- **Telegram Notifier en Tiempo Real (2026-09-12)**: Lectura dinámica de tokens y fallback hardcodeado. Despachó 25 ofertas simultáneas con enlaces directos completos y pitch para copiar.
+- **Búsqueda Exacta Ecuador & LATAM (2026-09-12)**: Búsquedas dirigidas (`Aprendizaje automático`, `Inteligencia Artificial`, `Data Analyst`, `Excel`) con `geoId=106373116`, `f_WT=2` (Remoto) y ventana de 7 días (`listed_at=604800`).
+- **Desentierro de Formularios Ocultos ATS**: Extrae formularios reales en Airtable (ej. Familify), BairesDev, Teamtailor y Micro1.
+- **CV Estándar Generado**: `data/CV_Erick_Flores_Data_AI.html` y `data/CV_Erick_Flores_Data_AI.pdf` (1 columna, ATS-friendly, métricas de BananaAI 94%, FCH-ARX V2 NIST 49.95%, Forensic NLP+RAG).
+- **Piloto Automático en VM GCP (2026-09-12)**: Crontab configurado cada 4 horas (`0 */4 * * *`) ejecutando en segundo plano de forma autónoma. 22 reclutadores contactados históricamente.
 
 ### 📍 Dónde ver las postulaciones y conexiones en LinkedIn:
 1. **Empleos postulados (Easy Apply):**
    - Menú de LinkedIn: **Empleos** → **Mis empleos** → **Solicitudes de empleo**
    - URL directa: `https://www.linkedin.com/jobs/tracker/applied/`
-2. **Empleos postulados vía ATS externo (Greenhouse/Lever):**
+2. **Empleos postulados vía ATS externo (Greenhouse/Lever/Airtable):**
    - Correo de confirmación directo en tu bandeja (`eflores4006@utm.edu.ec`) enviado por el ATS de la empresa.
-3. **Conexiones a reclutadores enviadas:**
+3. **Conexiones a reclutadores enviadas (22 en total):**
    - Menú de LinkedIn: **Mi red** → **Gestionar invitaciones** → pestaña **Enviadas**
    - URL directa: `https://www.linkedin.com/mynetwork/invitation-manager/sent/`
 
-### 🟡 No urgente
-- GetOnBoard 404: La API pública `/api/v0/categories/ai-machine-learning/jobs` fue deprecada.
-- Hunter.io: Sin API key, 0 emails encontrados. Agregar `HUNTER_API_KEY` al .env si se consigue.
+### 🟡 Próximas Mejoras (Roadmap Inmediato)
+- **Extracción de Emails de RRHH en LinkedIn**: Analizar posts de reclutadores buscando patrones `(\w+@\w+\.\w+)` y menciones en descripciones para enviar cold-emails automáticos con el CV adjunto vía Gmail SMTP.
+- **Ampliación de Form Appliers**: Soporte para Airtable Forms y BairesDev portals directos.
 
 ---
 
