@@ -61,9 +61,12 @@ class LinkedInApplier:
                 message=f"Error al obtener detalles del empleo: {e}"
             )
 
-        # ── Caso 1: Easy Apply nativo de LinkedIn ──────────────────────────
-        if EASY_APPLY_KEY in apply_method:
-            print(f"  [LinkedIn] 🟢 Easy Apply detectado (SimpleOnsiteApply) → enviando via Voyager API...")
+        # ── Caso 1: Easy Apply nativo de LinkedIn (SimpleOnsiteApply o ComplexOnsiteApply) ─
+        COMPLEX_APPLY_KEY = "com.linkedin.voyager.jobs.ComplexOnsiteApply"
+        if EASY_APPLY_KEY in apply_method or COMPLEX_APPLY_KEY in apply_method:
+            apply_info = apply_method.get(COMPLEX_APPLY_KEY) or apply_method.get(EASY_APPLY_KEY) or {}
+            easy_url = apply_info.get("easyApplyUrl") or f"https://www.linkedin.com/job-apply/{job_id}"
+            print(f"  [LinkedIn] 🟢 Easy Apply detectado → enviando via Voyager API...")
             ok = self._easy_apply_voyager(client, job_id, title, company)
             if ok:
                 return ApplyResult(
@@ -74,8 +77,8 @@ class LinkedInApplier:
             else:
                 return ApplyResult(
                     success=False, job_title=title, company=company,
-                    portal="LinkedIn Easy Apply", url=url,
-                    message="Easy Apply falló — ver logs para detalles"
+                    portal="LinkedIn Easy Apply", url=easy_url,
+                    message="Easy Apply requiere preguntas manuales — link directo listo para postular en 1 tap"
                 )
 
         # ── Caso 2: Postulación externa (ATS de la empresa) ───────────────

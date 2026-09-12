@@ -41,20 +41,29 @@ class MemoryStore:
             json.dump(self.sent_log, f, indent=2, ensure_ascii=False)
 
     def already_applied(self, url: str) -> bool:
-        """Alias de is_applied para compatibilidad."""
+        """Alias de is_applied para compatibilidad (evita procesar dos veces el mismo link)."""
         return url in self.data
 
     def is_applied(self, url: str) -> bool:
         """Alias de already_applied() — usado por main_v3.py"""
         return self.already_applied(url)
 
+    def is_truly_applied(self, url: str) -> bool:
+        """Retorna True sólo si fue efectivamente aplicada de forma automática."""
+        entry = self.data.get(url)
+        if not entry:
+            return False
+        return entry.get('status') != 'notified_manual' and 'applied_at' in entry
+
     def mark_applied(self, job: dict, email_sent_to: str = None, cover_letter_path: str = None):
+        """Marca un empleo como postulado con éxito."""
         url = job.get('url', '')
         if url:
             entry = {
                 'title': job.get('title', ''),
                 'company': job.get('company', ''),
                 'source': job.get('source', ''),
+                'status': 'applied_success',
                 'applied_at': datetime.now().isoformat(),
                 'email_sent_to': email_sent_to,
                 'cover_letter_path': cover_letter_path,
@@ -64,6 +73,20 @@ class MemoryStore:
             if cover_letter_path:
                 entry['cover_letter_path'] = cover_letter_path
             self.data[url] = entry
+            self._save()
+
+    def mark_notified_manual(self, job: dict, reason: str = ""):
+        """Registra que una oferta fue enviada a Telegram para postulación manual del usuario."""
+        url = job.get('url', '')
+        if url:
+            self.data[url] = {
+                'title': job.get('title', ''),
+                'company': job.get('company', ''),
+                'source': job.get('source', ''),
+                'status': 'notified_manual',
+                'notified_at': datetime.now().isoformat(),
+                'reason': reason,
+            }
             self._save()
 
     def get_stats(self) -> dict:
