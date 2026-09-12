@@ -114,59 +114,98 @@ class LinkedInApplier:
     # ──────────────────────────────────────────────────────────────────────────
     def _easy_apply_voyager(self, client, job_id: str, title: str, company: str) -> bool:
         """
-        Implementa Easy Apply usando la sesión autenticada de linkedin-api
-        para hacer POST directo al Voyager API de LinkedIn.
+        Implementa Easy Apply usando la sesión autenticada de linkedin-api.
 
-        La librería linkedin-api no expone easy_apply() en versiones recientes,
-        pero sí nos da acceso a la sesión requests con cookies válidas.
+        Estrategia multi-endpoint:
+          1. /voyager/api/jobs/easyApplyApplications  (endpoint actual 2024-2025)
+          2. /voyager/api/jobs/easyApply              (endpoint legacy)
+        El csrf-token ya viene seteado en session.headers por linkedin-api.
         """
+        import time
+        import random
+
         try:
-            session    = client.api.client.session
-            jsessionid = os.environ.get("LINKEDIN_JSESSIONID", "").strip('"').replace("ajax:", "").strip()
+            session = client.api.client.session
 
-            payload = {
-                "jobs": [
-                    {
-                        "jobPostingUrn":  f"urn:li:fsd_jobPosting:{job_id}",
-                        "trackingId":     job_id,
-                        "resumeHidden":   False,
-                        "followCompany":  True,
-                        "questionAndAnswers": [],
-                        "contactInfo": {
-                            "firstName":    "Erick",
-                            "lastName":     "Flores Zambrano",
-                            "emailAddress": os.environ.get("EMAIL_USER", "eflores4006@utm.edu.ec"),
-                            "phoneNumber":  os.environ.get("PROFILE_PHONE", "+593963951193"),
-                        },
-                    }
-                ]
-            }
+            # El csrf-token es el JSESSIONID sin comillas ni prefijo "ajax:"
+            # linkedin-api ya lo setea en session.headers["csrf-token"]
+            csrf = session.headers.get("csrf-token", "")
+            if not csrf:
+                jsessionid = os.environ.get("LINKEDIN_JSESSIONID", "").strip('"').replace("ajax:", "").strip()
+                csrf = jsessionid
 
-            headers = {
-                "csrf-token":               jsessionid,
-                "Content-Type":             "application/json",
+            common_headers = {
+                "csrf-token":                csrf,
+                "Content-Type":              "application/json",
                 "X-RestLi-Protocol-Version": "2.0.0",
-                "Accept":                   "application/vnd.linkedin.normalized+json+2.1",
-                "Referer":                  f"https://www.linkedin.com/jobs/view/{job_id}/",
+                "Accept":                    "application/vnd.linkedin.normalized+json+2.1",
+                "Referer":                   f"https://www.linkedin.com/jobs/view/{job_id}/",
+                "x-li-lang":                 "en_US",
+                "x-li-track":                '{"clientVersion":"1.13.1977","osName":"web","timezoneOffset":-5,"deviceFormFactor":"DESKTOP","mpName":"voyager-web"}',
             }
 
+            job_urn = f"urn:li:fsd_jobPosting:{job_id}"
+
+            # ── Endpoint 1: easyApplyApplications (actual, 2024-2025) ──────────
+            payload_v1 = {
+                "easyApplyJobPostingUrn": job_urn,
+                "questionAndAnswers":     [],
+                "resumeId":               None,
+            }
             resp = session.post(
-                "https://www.linkedin.com/voyager/api/jobs/normalizedJobApplications",
-                json=payload,
-                headers=headers,
+                "https://www.linkedin.com/voyager/api/jobs/easyApplyApplications",
+                json=payload_v1,
+                headers=common_headers,
                 timeout=20,
             )
-
-            logger.info(f"[EasyApply] Response {resp.status_code} para job {job_id}")
+            logger.info(f"[EasyApply v1] status={resp.status_code} job={job_id}")
 
             if resp.status_code in (200, 201):
-                print(f"  [LinkedIn] ✅ Easy Apply enviado (status {resp.status_code})")
+                print(f"  [LinkedIn] ✅ Easy Apply enviado (endpoint v1, status {resp.status_code})")
                 return True
-            else:
-                logger.warning(
-                    f"[EasyApply] Error {resp.status_code}: {resp.text[:200]}"
-                )
-                return False
+
+            if resp.status_code == 400:
+                logger.warning(f"[EasyApply v1] 400 — posiblemente ya aplicado o faltan campos: {resp.text[:300]}")
+                # 400 puede significar "ya aplicaste" → lo contamos como éxito silencioso
+                if "already applied" in resp.text.lower() or "duplicate" in resp.text.lower():
+                    print(f"  [LinkedIn] ℹ️ Ya habías aplicado a este empleo antes")
+                    return True
+
+            # ── Pausa anti-rate-limit ──────────────────────────────────────────
+            time.sleep(random.uniform(2, 4))
+
+            # ── Endpoint 2: easyApply (legacy, algunos jobs aún lo usan) ──────
+            payload_v2 = {
+                "jobPostingUrn":      job_urn,
+                "onsiteApply":        True,
+                "followCompany":      True,
+                "questionAndAnswers": [],
+                "contactInfo": {
+                    "firstName":    "Erick",
+                    "lastName":     "Flores Zambrano",
+                    "emailAddress": os.environ.get("EMAIL_USER", "eflores4006@utm.edu.ec"),
+                    "phoneNumber":  os.environ.get("PROFILE_PHONE", "+593963951193"),
+                },
+            }
+            resp2 = session.post(
+                "https://www.linkedin.com/voyager/api/jobs/easyApply",
+                json=payload_v2,
+                headers=common_headers,
+                timeout=20,
+            )
+            logger.info(f"[EasyApply v2] status={resp2.status_code} job={job_id}")
+
+            if resp2.status_code in (200, 201):
+                print(f"  [LinkedIn] ✅ Easy Apply enviado (endpoint v2, status {resp2.status_code})")
+                return True
+
+            # ── Ambos endpoints fallaron ───────────────────────────────────────
+            logger.warning(
+                f"[EasyApply] Ambos endpoints fallaron. "
+                f"v1={resp.status_code} ({resp.text[:150]}) | "
+                f"v2={resp2.status_code} ({resp2.text[:150]})"
+            )
+            return False
 
         except Exception as e:
             logger.warning(f"[EasyApply] Excepción al llamar Voyager API: {e}")
