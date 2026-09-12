@@ -61,7 +61,7 @@ PROFILE = {
 }
 
 CV_PATH    = os.environ.get('CV_PATH', Config.CV_PDF_PATH)
-MAX_APPS   = int(os.environ.get('MAX_APPLICATIONS', '5'))
+MAX_APPS   = int(os.environ.get('MAX_APPLICATIONS', '25'))
 AUTO_APPLY = os.environ.get('AUTO_APPLY', 'true').lower() == 'true'
 
 # ── Configuración SMTP (fallback a Gmail OAuth2) ─────────────────────────────
