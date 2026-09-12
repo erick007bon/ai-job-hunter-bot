@@ -47,7 +47,10 @@ def _send_telegram(msg: str):
     token   = os.environ.get("TELEGRAM_BOT_TOKEN", "")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
     if not token or not chat_id:
-        print(f"  [Telegram] No configurado — mensaje: {msg[:100]}")
+        try:
+            print(f"  [Telegram] No configurado — mensaje: {msg[:100]}")
+        except Exception:
+            print("  [Telegram] No configurado")
         return
     try:
         requests.post(
@@ -145,18 +148,34 @@ def main():
         print("\n[Challenge] LinkedIn pide verificación de dispositivo.")
 
         # Modo interactivo (terminal real) vs no-interactivo (cron)
-        if sys.stdin.isatty():
+        pin = _wait_for_pin_noninteractive(timeout_seconds=30)
+        if not pin and sys.stdin.isatty():
             pin = input("Input: Ingresa el código de 6 dígitos: ").strip()
-        else:
-            pin = _wait_for_pin_noninteractive(timeout_seconds=600)
-
         if not pin:
-            print("[ERROR] No se recibió PIN — abortando.")
-            sys.exit(1)
+            pin = _wait_for_pin_noninteractive(timeout_seconds=30)
+
+        # Extraer challengeId y csrfToken del HTML del challenge
+        challenge_id = ""
+        csrf_token = ""
+        import re
+        m_ch = re.search(r'name="challengeId"[^>]*value="([^"]+)"', resp2.text)
+        if m_ch:
+            challenge_id = m_ch.group(1)
+        m_cs = re.search(r'name="csrfToken"[^>]*value="([^"]+)"', resp2.text)
+        if m_cs:
+            csrf_token = m_cs.group(1)
+        # Fallback a cookie JSESSIONID si no hay csrfToken explícito
+        if not csrf_token:
+            csrf_token = session.cookies.get("JSESSIONID", "").strip('"')
 
         resp3 = session.post(
-            LI_CHALLENGE_URL,
-            data={"pin": pin, "isTrackingCookie": False},
+            resp2.url,
+            data={
+                "pin": pin,
+                "isTrackingCookie": False,
+                "challengeId": challenge_id,
+                "csrfToken": csrf_token,
+            },
             allow_redirects=True,
             timeout=15,
         )
