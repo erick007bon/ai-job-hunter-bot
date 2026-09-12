@@ -11,13 +11,15 @@ TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
 def send_telegram(message: str) -> bool:
     """Envía mensaje a Telegram. Retorna True si exitoso."""
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+    token = os.environ.get("TELEGRAM_BOT_TOKEN") or TELEGRAM_BOT_TOKEN
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID") or TELEGRAM_CHAT_ID
+    if not token or not chat_id:
         print("  [TELEGRAM] Token o chat_id no configurados — saltando notificación.")
         return False
     try:
-        url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
+        url = f"https://api.telegram.org/bot{token}/sendMessage"
         r = requests.post(url, json={
-            "chat_id": TELEGRAM_CHAT_ID,
+            "chat_id": chat_id,
             "text": message,
             "parse_mode": "Markdown",
         }, timeout=10)
