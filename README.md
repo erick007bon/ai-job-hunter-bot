@@ -67,10 +67,10 @@ src/
 
 ## Cómo corre en producción
 
-### Servidor GCP (principal, 24/7)
+### Servidor Cloud (principal, 24/7)
 ```bash
-# Conectarse
-# SSH al servidor: usuario@servidor-gcp
+# Conectarse al servidor por SSH
+ssh tu_usuario@tu-servidor-cloud
 
 # Entrar al proyecto (alias)
 bot
@@ -99,7 +99,7 @@ crontab -l
 
 ## 🔐 Variables de entorno requeridas
 
-Configurar en el servidor GCP en `~/ai-job-hunter-bot/.env` (y como GitHub Secrets en tu repositorio):
+Configurar en el servidor en `~/ai-job-hunter-bot/.env` (y como GitHub Secrets en tu repositorio):
 
 ```env
 # LinkedIn Authentication
@@ -111,13 +111,13 @@ LINKEDIN_JSESSIONID="ajax:<TU_COOKIE_JSESSIONID>"
 # Telegram Notifier & Dispatcher (Alertas 1-Tap)
 TELEGRAM_BOT_TOKEN="<TU_TELEGRAM_BOT_TOKEN>"
 TELEGRAM_CHAT_ID="<TU_CHAT_ID>"
-BOT_USERNAME="@erick_job_hunter_bot"
+BOT_USERNAME="@tu_job_hunter_bot"
 
 # Capacidad de Postulaciones por Ciclo
 MAX_APPLICATIONS=25
 
 # Email SMTP (Cold-Email a RRHH)
-EMAIL_USER="eflores4006@utm.edu.ec"
+EMAIL_USER="tu_email_profesional@gmail.com"
 EMAIL_PASSWORD="<GOOGLE_APP_PASSWORD_16_LETRAS>"
 SMTP_HOST="smtp.gmail.com"
 SMTP_PORT=587
@@ -127,7 +127,7 @@ OPENROUTER_API_KEY="<TU_OPENROUTER_API_KEY>"
 
 # CV Oficial ATS-Friendly
 CV_PATH="data/CV_Erick_Flores_Data_AI.pdf"
-PROFILE_PHONE="+5930963951193"
+PROFILE_PHONE="+593999999999"
 ```
 
 ---
@@ -135,7 +135,7 @@ PROFILE_PHONE="+5930963951193"
 ## 🚀 Bitácora de Sesión — 2026-09-12 (Hito V7: Operación en Producción y Telegram 1-Tap)
 
 ### 1. Resumen Ejecutivo
-En esta sesión se puso en marcha de punta a punta el bot en la **VM de Google Cloud (`job-hunter-bot`)**, superando los bloqueos de LinkedIn, adaptando la búsqueda a las ofertas reales de **Ecuador y LATAM Remoto**, y habilitando un canal directo a **Telegram con despacho 1-Tap** que extrae hasta formularios ocultos de ATS externos (ej. Airtable, BairesDev, Teamtailor).
+En esta sesión se puso en marcha de punta a punta el bot en la **VM de Cloud**, superando los bloqueos de LinkedIn, adaptando la búsqueda a las ofertas reales de **Ecuador y LATAM Remoto**, y habilitando un canal directo a **Telegram con despacho 1-Tap** que extrae hasta formularios ocultos de ATS externos (ej. Airtable, BairesDev, Teamtailor).
 
 ### 2. Logros Técnicos y Soluciones Implementadas
 
@@ -148,27 +148,27 @@ En esta sesión se puso en marcha de punta a punta el bot en la **VM de Google C
    - Se ajustó `src/scrapers/linkedin_scraper.py` con `geoId=106373116` (Ecuador), filtro remoto `f_WT=2` y ventana de tiempo de 7 días (`f_TPR=r604800` / `listed_at=604800`).
    - Búsquedas con roles en español e inglés: `Aprendizaje automático`, `Inteligencia Artificial`, `Ciencia de Datos`, `Data Analyst`, `Excel`, `Machine Learning`, `Python`, `Power BI`.
 
-3. **Pipeline de Despacho 1-Tap a Telegram (`@erick_job_hunter_bot`):**
+3. **Pipeline de Despacho 1-Tap a Telegram:**
    - Se configuró el bot de Telegram para despacho en tiempo real a tu chat privado.
    - Cada oferta compatible despacha una tarjeta con: título, empresa, enlace directo completo (sin truncar), nivel de compatibilidad y **un pitch profesional pre-redactado listo para copiar y pegar**.
    - Se incrementó `MAX_APPLICATIONS=25` y se agregó `clean_unverified_entries` en `MemoryStore` para evitar que ofertas con formularios externos se den por postuladas sin haber sido enviadas.
 
 4. **Desentierro de Formularios Ocultos ATS:**
    - Comprobación real con la oferta capturada en screenshot: `Product Builder | Diseño, IA y Producto @ Familify` (`job_id=4465810598`).
-   - En lugar de fallar por no tener Easy Apply nativo, el bot identificó el formulario real de Airtable (`https://airtable.com/appHGv49eNoJMraOi/pagN8cf7xHN3zVYGd/form?hide_Rol`) y lo entregó en Telegram para postulación inmediata.
+   - En lugar de fallar por no tener Easy Apply nativo, el bot identificó el formulario real de Airtable y lo entregó en Telegram para postulación inmediata.
 
 5. **Networking Automatizado en Vivo con Reclutadores:**
-   - Se conectó con 3 reclutadores de IA/Datos en LATAM en vivo durante la prueba (Matias Jacome, Jonathan Ludeña, Julian Sanabria), alcanzando **22 reclutadores contactados históricamente** de forma orgánica y segura.
+   - Conexión orgánica con reclutadores de IA/Datos en LATAM alcanzando más de 20 contactos directos.
 
 6. **Generación del CV ATS-Friendly Oficial:**
    - Creación de `data/CV_Erick_Flores_Data_AI.html` y compilación a `data/CV_Erick_Flores_Data_AI.pdf` (494 KB).
    - Estándar: 1 columna, tipografía Inter, acento `#0057FF`, métricas reales cuantificadas de proyectos (BananaAI 94% mAP, FCH-ARX V2 NIST 49.95%, Forensic NLP+RAG) y palabras clave optimizadas para sistemas ATS.
 
 7. **Aclaración Técnica: Pestaña "Solicitados" en LinkedIn vs ATS Externo:**
-   - **Por qué LinkedIn marcaba 0 en "Solicitados":** LinkedIn *únicamente* contabiliza en su UI las postulaciones que se completan dentro del modal nativo "Solicitud Sencilla" (Easy Apply). Si una vacante redirige a un ATS externo (Airtable, Greenhouse, Lever, etc.) o exige cuestionarios personalizados con preguntas de visado o salario, la postulación ocurre fuera de LinkedIn y la confirmación llega a tu correo (`eflores4006@utm.edu.ec`).
+   - **Por qué LinkedIn marcaba 0 en "Solicitados":** LinkedIn *únicamente* contabiliza en su UI las postulaciones que se completan dentro del modal nativo "Solicitud Sencilla" (Easy Apply). Si una vacante redirige a un ATS externo (Airtable, Greenhouse, Lever, etc.) o exige cuestionarios personalizados con preguntas de visado o salario, la postulación ocurre fuera de LinkedIn y la confirmación llega a tu correo de contacto.
    - **Garantía del Bot:** El bot intenta el Easy Apply nativo; si detecta formularios externos o cuestionarios, extrae el enlace directo y lo envía a Telegram para que el candidato aplique en 10 segundos con su perfil.
 
-### 3. Métricas de la Ejecución en la VM de GCP
+### 3. Métricas de la Ejecución en Producción
 - **Ofertas Totales Escaneadas:** 122 (34 de LinkedIn + 88 de bolsas remotas).
 - **Ofertas Compatibles Filtradas:** 31 vacantes afines a Data/AI/BI.
 - **Ofertas Despachadas a Telegram:** 25 tarjetas enriquecidas enviadas en tiempo real.
@@ -184,9 +184,9 @@ En esta sesión se puso en marcha de punta a punta el bot en la **VM de Google C
    *(En LinkedIn: Empleos → Mis empleos → Solicitudes de empleo)*.
 
 2. **Postulaciones ATS Externas (Greenhouse, Lever, Airtable, etc.):**  
-   Llegan directamente a tu correo (`eflores4006@utm.edu.ec`) como confirmación oficial de la empresa contratante.
+   Llegan directamente a tu correo como confirmación oficial de la empresa contratante.
 
-3. **Invitaciones a Reclutadores enviadas (22 en total):**  
+3. **Invitaciones a Reclutadores enviadas:**  
    `https://www.linkedin.com/mynetwork/invitation-manager/sent/`  
    *(En LinkedIn: Mi red → Gestionar invitaciones → pestaña Enviadas)*.
 
@@ -197,8 +197,7 @@ En esta sesión se puso en marcha de punta a punta el bot en la **VM de Google C
 > **Instrucciones para cualquier IA que continúe este proyecto:**
 
 1. **Entorno de Ejecución:**
-   - El código corre en producción en una VM Debian 12 de Google Cloud (`usuario@servidor-gcp`).
-   - El usuario ingresa por SSH y tiene el alias `bot` (`cd ~/ai-job-hunter-bot && source venv/bin/activate`).
+   - El código corre en producción en una VM Debian 12 de Cloud.
    - Crontab corre `python main_v6.py` cada 4 horas.
 2. **Archivos Centrales:**
    - [main_v6.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/main_v6.py): Orquestador principal que ejecuta scraping, filtrado, deduplicación, aplicación, networking y despacho.
@@ -208,4 +207,4 @@ En esta sesión se puso en marcha de punta a punta el bot en la **VM de Google C
    - [src/linkedin/recruiter_connector.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/src/linkedin/recruiter_connector.py): Envía solicitudes de conexión a reclutadores de Data/AI con rate-limiting seguro.
    - [solve_linkedin_challenge.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/solve_linkedin_challenge.py): Script autónomo para resolver challenges 2FA y refrescar cookies sin Cloudflare.
 3. **Próximo Objetivo de Desarrollo:**
-   - Desarrollar el módulo de **Scraping de Publicaciones de Reclutadores en LinkedIn**: buscar posts con palabras clave (`#hiring`, `buscamos data analyst`, `envía tu cv a`), extraer correos electrónicos de RRHH usando regex / OCR / LLM para imágenes de flyers, y enviar cold-emails automáticos con el CV adjunto (`data/CV_Erick_Flores_Data_AI.pdf`) mediante Gmail SMTP.
+   - Desarrollar el módulo de **Scraping de Publicaciones de Reclutadores en LinkedIn**: buscar posts con palabras clave (`#hiring`, `buscamos data analyst`, `envía tu cv a`), extraer correos electrónicos de RRHH usando regex / OCR / LLM para imágenes de flyers, y enviar cold-emails automáticos con el CV adjunto mediante Gmail SMTP.

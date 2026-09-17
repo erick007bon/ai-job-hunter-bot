@@ -27,20 +27,21 @@ venv.bak/
 .mypy_cache/
 .pytest_cache/
 
-# Credenciales sensibles - NUNCA SUBIR
+# Archivos y notas privadas de sesión - NUNCA SUBIR A GITHUB PÚBLICO
 data/credentials.json
 data/token.json
 SECRETS_LOCAL.md
 SECRETS_PARA_GITHUB.txt
+SECRETS_MAESTRO.md
 CLAV/
+MISSION_BRAIN.md
+LINKEDIN_PROFILE_OPTIMIZATION.md
 
-# Archivos de prueba locales
+# Archivos de prueba y temporales
 test_*.py
 test_*.json
 test_*.txt
-
-# Cover letters y log locales (opcional)
-# cover_letters/
-# reportes/
-# data/sent_log.json
-SECRETS_MAESTRO.md
+*.log
+browser_profiles/
+debug_screenshots/
+.claude/
