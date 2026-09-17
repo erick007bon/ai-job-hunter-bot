@@ -97,38 +97,16 @@ crontab -l
 
 ---
 
-## 🔐 Variables de entorno requeridas
+## ⚙️ Configuración
 
-Configurar en el servidor en `~/ai-job-hunter-bot/.env` (y como GitHub Secrets en tu repositorio):
+Copia `.env.example` a `.env` y completa con tus credenciales:
 
-```env
-# LinkedIn Authentication
-LINKEDIN_EMAIL="tu_email_linkedin@gmail.com"
-LINKEDIN_PASSWORD="<TU_CONTRASEÑA_LINKEDIN>"
-LINKEDIN_LI_AT="<TU_COOKIE_LI_AT>"
-LINKEDIN_JSESSIONID="ajax:<TU_COOKIE_JSESSIONID>"
-
-# Telegram Notifier & Dispatcher (Alertas 1-Tap)
-TELEGRAM_BOT_TOKEN="<TU_TELEGRAM_BOT_TOKEN>"
-TELEGRAM_CHAT_ID="<TU_CHAT_ID>"
-BOT_USERNAME="@tu_job_hunter_bot"
-
-# Capacidad de Postulaciones por Ciclo
-MAX_APPLICATIONS=25
-
-# Email SMTP (Cold-Email a RRHH)
-EMAIL_USER="tu_email_profesional@gmail.com"
-EMAIL_PASSWORD="<GOOGLE_APP_PASSWORD_16_LETRAS>"
-SMTP_HOST="smtp.gmail.com"
-SMTP_PORT=587
-
-# IA (Cover letters dinámicas)
-OPENROUTER_API_KEY="<TU_OPENROUTER_API_KEY>"
-
-# CV Oficial ATS-Friendly
-CV_PATH="data/CV_Erick_Flores_Data_AI.pdf"
-PROFILE_PHONE="+593999999999"
+```bash
+cp .env.example .env
 ```
+
+Todas las variables necesarias están documentadas en [`.env.example`](.env.example).  
+Para GitHub Actions, configura los mismos valores como **Repository Secrets** (`Settings → Secrets → Actions`).
 
 ---
 

@@ -1,19 +1,84 @@
 """
-Genera el CV profesional de Erick en inglés — versión corregida con reportlab
+Genera el CV profesional de Erick en ingles - Version Adaptativa por Puesto
+Uso:
+  python generate_cv_en.py                    # CV generico (ML Engineer)
+  python generate_cv_en.py "Data Engineer"    # CV orientado al rol
+  python generate_cv_en.py "Business Analyst" # CV orientado al rol
+  python generate_cv_en.py "Store Manager"    # Activa experiencia Vasari Mozioni
 """
 from reportlab.lib.pagesizes import letter
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.lib.units import inch
 from reportlab.lib import colors
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, HRFlowable, Table, TableStyle
-from reportlab.lib.enums import TA_LEFT, TA_CENTER, TA_RIGHT
-import os
-import sys
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, HRFlowable
+from reportlab.lib.enums import TA_CENTER
+import os, sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from src.config import Config
 
-OUTPUT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "CV_Erick_Flores_EN.pdf")
+# ---- Role detection ----
+ROLE_PROFILES = {
+    "data_engineer": ["data engineer","etl","pipeline","warehouse","spark","airflow","dbt","snowflake"],
+    "ml_engineer":   ["machine learning","ml engineer","deep learning","ai engineer","nlp","llm","pytorch","tensorflow","computer vision"],
+    "data_analyst":  ["data analyst","business analyst","bi ","power bi"," analyst","reporting","analytics","business intelligence"],
+    "finance":       ["economist","finance","financial analyst","quant","trading","econometrics","risk","fintech"],
+    "commercial":    ["commercial","sales","store manager","retail","jefe de tienda","gerente","supervisor","customer success"],
+}
+
+def detect_role(job_title):
+    title_lower = job_title.lower()
+    for role, keywords in ROLE_PROFILES.items():
+        if any(kw in title_lower for kw in keywords):
+            return role
+    return "ml_engineer"
+
+# ---- Dynamic summaries per role ----
+SUMMARIES = {
+    "ml_engineer": (
+        "Economist and AI/ML Engineer with dual academic formation, "
+        "specialized in end-to-end intelligent systems: predictive models (PyTorch, TensorFlow, scikit-learn), "
+        "LLM-powered agents, and API-driven automation. Developed FCH-ARX V4, a novel hash algorithm that "
+        "passed NIST SAC validation, and an autonomous 24/7 job-hunting agent deployed on cloud. "
+        "Seeking a remote ML/AI engineering role."
+    ),
+    "data_engineer": (
+        "Economist and Data Engineer with dual academic background, specialized in ETL pipelines, "
+        "SQL-based Data Warehouses (Star Schema, PostgreSQL), and automation with Python. "
+        "Built production ETL systems in Pentaho plus PostgreSQL, REST APIs in FastAPI/Docker, "
+        "and CI/CD pipelines with GitHub Actions. Seeking a remote Data Engineering role."
+    ),
+    "data_analyst": (
+        "Economist and Data Analyst with expertise in business intelligence, SQL, Power BI (DAX, Power Query), "
+        "and Python analytics. Delivered executive dashboards with real-time KPIs and RFM segmentation. "
+        "Automated Excel/VBA reporting reducing processing time by 60 pct. "
+        "Seeking a remote Data Analyst or BI role to turn data into actionable insights."
+    ),
+    "finance": (
+        "Economist and Quantitative Analyst specialized in financial modeling, time series (ARIMA, GARCH), "
+        "algorithmic trading (LSTM model, 68 pct directional accuracy on SP500), and risk analysis. "
+        "Built multi-agent financial systems combining LLMs and econometric models. "
+        "Seeking a remote Quantitative Finance or Fintech role."
+    ),
+    "commercial": (
+        "Commercial leader and Data-Driven Manager with 5+ years driving sales performance, team leadership, "
+        "and operational excellence in retail and distribution. Led teams of 3-8 people, implemented KPI dashboards "
+        "in Power BI, and automated inventory reporting (60 pct time reduction). "
+        "Additionally skilled in AI and ML automation. Seeking a remote commercial or operations leadership role."
+    ),
+}
+
+# ---- Vasari Mozioni experience (commercial roles only) ----
+VASARI_EXPERIENCE = (
+    "Store Manager", "Vasari Mozioni - Fashion Retail (Plaza)", "2021 - 2023",
+    [
+        "Managed day-to-day store operations: inventory, visual merchandising, and customer experience for a premium fashion brand.",
+        "Led a team of 5-8 sales associates; conducted weekly performance reviews and sales coaching sessions.",
+        "Implemented a demand forecasting model using Excel to reduce stockouts by approximately 30 pct.",
+        "Achieved top-3 regional store ranking for 2 consecutive quarters based on revenue targets.",
+        "Coordinated with suppliers and logistics for product replenishment and promotional campaigns.",
+    ]
+)
 
 # ── Colores ──────────────────────────────────────────────────────────────────
 DARK_BLUE   = colors.HexColor("#1A237E")
@@ -22,9 +87,18 @@ LIGHT_GRAY  = colors.HexColor("#F5F5F5")
 DARK_GRAY   = colors.HexColor("#424242")
 ACCENT      = colors.HexColor("#0D47A1")
 
-def build_cv():
+def build_cv(job_title=""):
+    role = detect_role(job_title) if job_title else "ml_engineer"
+    include_commercial = (role == "commercial")
+
+    suffix = "_" + role if job_title else ""
+    output_path = os.path.join(
+        os.path.dirname(os.path.abspath(__file__)), "data",
+        "CV_Erick_Flores_EN" + suffix + ".pdf"
+    )
+
     doc = SimpleDocTemplate(
-        OUTPUT_PATH,
+        output_path,
         pagesize=letter,
         leftMargin=0.6*inch,
         rightMargin=0.6*inch,
@@ -81,80 +155,75 @@ def build_cv():
     bold_label = ParagraphStyle("BoldLabel", fontSize=9, textColor=DARK_BLUE,
                                  fontName="Helvetica-Bold", spaceAfter=2)
 
+    headlines = {
+        "ml_engineer":   "Economist and AI Engineer | Machine Learning | LLM Systems",
+        "data_engineer": "Economist and Data Engineer | ETL Pipelines | SQL and Python",
+        "data_analyst":  "Economist and Data Analyst | Power BI | SQL | Python",
+        "finance":       "Economist and Quantitative Analyst | Algorithmic Trading | ML",
+        "commercial":    "Commercial Leader and Data-Driven Manager | Retail | BI | AI",
+    }
+
     story = []
 
-    # ── HEADER ────────────────────────────────────────────────────────────────
+    # HEADER
     story.append(Paragraph("ERICK REINALDO FLORES ZAMBRANO", name_style))
-    story.append(Paragraph("Economist &amp; Data Scientist | AI Engineer | ML Engineer", title_style))
+    story.append(Paragraph(headlines.get(role, headlines["ml_engineer"]), title_style))
     story.append(Paragraph(
-        f"📧 {Config.EMAIL_SENDER}  |  📍 Machala, Ecuador (Remote Available)<br/>"
-        "🔗 linkedin.com/in/erick-flores-zambrano-69075b198  |  💻 github.com/erick007bon",
+        "Email: " + Config.EMAIL_SENDER + "  |  Machala, Ecuador (Remote Available)<br/>"
+        "LinkedIn: linkedin.com/in/erick-flores-zambrano-69075b198  |  GitHub: github.com/erick007bon",
         contact_style
     ))
     story.append(HRFlowable(width="100%", thickness=2, color=DARK_BLUE, spaceAfter=8))
 
-    # ── PROFESSIONAL SUMMARY ──────────────────────────────────────────────────
+    # PROFESSIONAL SUMMARY (adaptive)
     story.append(Paragraph("PROFESSIONAL SUMMARY", section_style))
     story.append(HRFlowable(width="100%", thickness=0.5, color=MED_BLUE, spaceAfter=4))
-    story.append(Paragraph(
-        "Economist and Data Scientist with dual academic formation (Economics + Data Science &amp; AI), "
-        "specialized in the intersection of financial analysis, machine learning, and intelligent automation. "
-        "Demonstrated experience building end-to-end AI solutions: from predictive models in Python "
-        "(scikit-learn, PyTorch, TensorFlow) to conversational agent architectures with LLMs, "
-        "API integrations, and MCP (Model Context Protocol) for multi-agent systems. "
-        "Currently pursuing two simultaneous university degrees — a testament to discipline, "
-        "self-directed learning, and resilience. Seeking a remote opportunity to contribute and grow.",
-        body_style
-    ))
+    story.append(Paragraph(SUMMARIES[role], body_style))
 
-    # ── KEY PROJECTS ──────────────────────────────────────────────────────────
-    story.append(Paragraph("KEY PROJECTS &amp; PORTFOLIO", section_style))
+    # KEY PROJECTS (role-prioritized)
+    story.append(Paragraph("KEY PROJECTS AND PORTFOLIO", section_style))
     story.append(HRFlowable(width="100%", thickness=0.5, color=MED_BLUE, spaceAfter=6))
 
-    projects = [
-        (
-            "FCH-ARX V4 — Original Cryptographic Algorithm",
-            "Python, C, NIST FIPS 180-4",
-            "Designed and implemented a novel hash algorithm from scratch using ARX (Add-Rotate-XOR) operations "
-            "with mathematically derived constants (Tesla 3-6-9, 26 rounds). Passed SAC-NIST test with 49.95% avalanche "
-            "(SHA-256 reference: 50.02%). Speed: 185 MB/s in optimized C. Attack complexity: 2^256."
-        ),
-        (
-            "AI Job Hunter Bot V4 — Autonomous 24/7 Agent",
-            "Python, LinkedIn API, Gmail API, OpenRouter, GitHub Actions",
-            "Full automation pipeline: scraping 9+ job platforms, real email verification via Hunter.io API, "
-            "personalized cover letters generated with LLMs, automatic Gmail sending with CV attachment, "
-            "anti-duplicate memory, and 24/7 deployment on GitHub Actions. This CV was sent using this bot."
-        ),
-        (
-            "Algorithmic Trading with Deep Learning",
-            "PyTorch, LSTM, Backtrader, MLflow, Python",
-            "LSTM model for S&amp;P 500 price forecasting achieving 68% directional accuracy. Complete pipeline: "
-            "data ingestion, feature engineering, momentum/mean-reversion backtesting, experiment tracking with MLflow."
-        ),
-        (
-            "Multi-Agent System with MCP (Model Context Protocol)",
-            "Python, FastAPI, Docker, LLMs, GARCH",
-            "Distributed agent architecture for automated financial analysis: scraping agent (Alpha Vantage, TradingView), "
-            "econometric agent (GARCH volatility models), LLM agent for executive report generation."
-        ),
-        (
-            "ETL Data Warehouse — Star Schema",
-            "Pentaho, PostgreSQL, SQL, ETL",
-            "Complete ETL pipeline for an airline Data Warehouse: dimension tables (Aircraft, Route, Flight, Passenger), "
-            "SQL data cleaning, transformations in Pentaho Data Integration, production-level PostgreSQL integration."
-        ),
-        (
-            "RESTful API for Predictive Models",
-            "FastAPI, Docker, Random Forest, GitHub Actions",
-            "ML inference service in production: credit risk classification (Random Forest), Docker containerization, "
-            "automatic Swagger documentation, pytest testing, basic CI/CD with GitHub Actions."
-        ),
+    all_projects = [
+        ("FCH-ARX V4 - Original Cryptographic Algorithm",
+         "Python, C, NIST FIPS 180-4",
+         "Novel hash algorithm from scratch using ARX (Add-Rotate-XOR) with 26 rounds. "
+         "Passed SAC-NIST: 49.95 pct avalanche (SHA-256 ref: 50.02 pct). Speed: 185 MB/s. Complexity: 2^256.",
+         ["ml_engineer", "data_engineer"]),
+        ("AI Job Hunter Bot V7 - Autonomous 24/7 Agent",
+         "Python, LinkedIn API, Gmail API, OpenRouter, GitHub Actions",
+         "Full automation: scraping 9+ job platforms, LLM cover letters, Gmail with CV, "
+         "anti-duplicate memory, 24/7 cloud deployment. This CV was sent using this bot.",
+         ["ml_engineer", "data_engineer", "commercial"]),
+        ("Algorithmic Trading with Deep Learning",
+         "PyTorch, LSTM, Backtrader, MLflow",
+         "LSTM model for SP500: 68 pct directional accuracy. Full pipeline with backtesting and MLflow tracking.",
+         ["ml_engineer", "finance"]),
+        ("Multi-Agent Financial Analysis System (MCP)",
+         "Python, FastAPI, Docker, LLMs, GARCH",
+         "Distributed agents: data scraping (Alpha Vantage), GARCH volatility models, LLM report generation.",
+         ["ml_engineer", "data_engineer", "finance"]),
+        ("ETL Data Warehouse - Star Schema",
+         "Pentaho, PostgreSQL, SQL, ETL",
+         "Full ETL pipeline for airline DWH: dimension tables, SQL cleaning, Pentaho transformations, PostgreSQL.",
+         ["data_engineer", "data_analyst"]),
+        ("Power BI Executive Dashboard - Retail KPIs",
+         "Power BI, DAX, Power Query, Excel VBA",
+         "Real-time KPI dashboards with RFM segmentation in production. Excel VBA cut reporting time by 60 pct.",
+         ["data_analyst", "commercial", "finance"]),
+        ("RESTful ML Inference API",
+         "FastAPI, Docker, Random Forest, GitHub Actions",
+         "Credit risk classification service: Docker, Swagger docs, pytest, CI/CD with GitHub Actions.",
+         ["data_engineer", "ml_engineer"]),
     ]
 
-    for proj_name, tech, desc in projects:
-        story.append(Paragraph(f"<b>{proj_name}</b>  <font color='#1565C0' size='8'>[ {tech} ]</font>", bold_label))
-        story.append(Paragraph(f"• {desc}", bullet_style))
+    priority = [p for p in all_projects if role in p[3]]
+    rest     = [p for p in all_projects if role not in p[3]]
+    selected = (priority + rest)[:5]
+
+    for proj_name, tech, desc, _ in selected:
+        story.append(Paragraph("<b>" + proj_name + "</b>  <font color='#1565C0' size='8'>[" + tech + "]</font>", bold_label))
+        story.append(Paragraph("- " + desc, bullet_style))
         story.append(Spacer(1, 3))
 
     # ── TECHNICAL SKILLS ──────────────────────────────────────────────────────
@@ -172,22 +241,22 @@ def build_cv():
     for label, value in skills_data:
         story.append(Paragraph(f"<b>{label}:</b>  {value}", body_style))
 
-    # ── PROFESSIONAL EXPERIENCE ───────────────────────────────────────────────
+    # PROFESSIONAL EXPERIENCE (Vasari Mozioni added for commercial roles)
     story.append(Paragraph("PROFESSIONAL EXPERIENCE", section_style))
     story.append(HRFlowable(width="100%", thickness=0.5, color=MED_BLUE, spaceAfter=6))
 
-    exp = [
+    base_exp = [
         (
-            "Commercial Advisor", "Vamoret S.A. (Palmón Group)", "Nov 2022 – Present",
+            "Commercial Advisor", "Vamoret S.A. (Palmon Group)", "Nov 2022 - Present",
             [
                 "Lead a team of 3 people in customer service and operational improvement.",
-                "Designed executive Power BI dashboards with real-time KPIs, RFM segmentation, and DAX forecasting — deployed in production.",
-                "Automated monthly inventory reporting with Excel VBA macros, reducing processing time by 60%.",
+                "Designed executive Power BI dashboards with real-time KPIs, RFM segmentation, and DAX forecasting.",
+                "Automated monthly inventory reporting with Excel VBA macros - 60 pct time reduction.",
                 "Applied data analysis for pricing strategies and customer retention decisions.",
             ]
         ),
         (
-            "Commercial Advisor", "Hularuss S.A. (PepsiCo)", "Oct 2018 – Mar 2021",
+            "Commercial Advisor", "Hularuss S.A. (PepsiCo)", "Oct 2018 - Mar 2021",
             [
                 "Managed a portfolio of clients using data-driven strategies (Excel + Power BI).",
                 "Trained new advisors in negotiation techniques and NLP (Neuro-Linguistic Programming).",
@@ -195,10 +264,13 @@ def build_cv():
             ]
         ),
     ]
-    for job_title, company, dates, bullets in exp:
-        story.append(Paragraph(f"<b>{job_title}</b> — {company} <font color='#9E9E9E'>| {dates}</font>", bold_label))
+
+    exp_list = ([VASARI_EXPERIENCE] + base_exp) if include_commercial else base_exp
+
+    for job_title_exp, company, dates, bullets in exp_list:
+        story.append(Paragraph("<b>" + job_title_exp + "</b> - " + company + " <font color='#9E9E9E'>| " + dates + "</font>", bold_label))
         for b in bullets:
-            story.append(Paragraph(f"• {b}", bullet_style))
+            story.append(Paragraph("- " + b, bullet_style))
         story.append(Spacer(1, 4))
 
     # ── EDUCATION ─────────────────────────────────────────────────────────────
@@ -228,11 +300,14 @@ def build_cv():
     for cert in certs:
         story.append(Paragraph(f"• {cert}", bullet_style))
 
-    # ── BUILD ─────────────────────────────────────────────────────────────────
+    # BUILD
     doc.build(story)
-    size = os.path.getsize(OUTPUT_PATH)
-    print(f"[CV EN] OK - PDF generado: {OUTPUT_PATH}")
-    print(f"[CV EN] Tamano: {size:,} bytes ({size/1024:.1f} KB)")
+    size = os.path.getsize(output_path)
+    print("[CV EN] OK - PDF generado: " + output_path)
+    print("[CV EN] Rol detectado: " + role)
+    print("[CV EN] Tamano: " + str(size) + " bytes (" + str(round(size/1024, 1)) + " KB)")
+    return output_path
 
 if __name__ == "__main__":
-    build_cv()
+    job_title_arg = sys.argv[1] if len(sys.argv) > 1 else ""
+    build_cv(job_title_arg)
