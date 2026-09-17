@@ -22,7 +22,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-EMAIL    = os.environ.get("LINKEDIN_EMAIL",    "tu_email@gmail.com")
+EMAIL    = os.environ.get("LINKEDIN_EMAIL",    "")
 PASSWORD = os.environ.get("LINKEDIN_PASSWORD", "")
 
 LI_LOGIN_URL     = "https://www.linkedin.com/uas/login"
@@ -69,7 +69,7 @@ def _wait_for_pin_noninteractive(timeout_seconds: int = 600) -> str:
     """
     _send_telegram(
         "🔑 *LinkedIn: Verificación de dispositivo requerida*\n\n"
-        "LinkedIn envió un código de 6 dígitos a tu email `tu_email@gmail.com`.\n\n"
+        f"LinkedIn envió un código de 6 dígitos a tu email `{EMAIL}`.\n\n"
         "Para continuar, ejecuta en el servidor:\n"
         f"`echo '123456' > {PIN_FILE}`\n"
         "_(reemplaza 123456 con el código real)_\n\n"

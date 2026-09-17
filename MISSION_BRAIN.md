@@ -9,17 +9,17 @@
 
 ## 🔐 CREDENCIALES Y CONFIGURACIÓN COMPLETA (para el próximo agente)
 
-### LinkedIn (Sesión Activa Verificada)
+### LinkedIn Authentication
 ```env
-LINKEDIN_EMAIL="tu_email@gmail.com"
-LINKEDIN_PASSWORD="<TU_PASSWORD>"
+LINKEDIN_EMAIL="tu_email_linkedin@gmail.com"
+LINKEDIN_PASSWORD="<TU_CONTRASEÑA_LINKEDIN>"
 LINKEDIN_LI_AT="<TU_COOKIE_LI_AT>"
 LINKEDIN_JSESSIONID="ajax:<TU_COOKIE_JSESSIONID>"
 ```
 > ⚠️ Las cookies `li_at` y `JSESSIONID` expiran en ~60-90 días.
 > Cuando expiren: `python solve_linkedin_challenge.py` realiza la autenticación móvil nativa sin Cloudflare y actualiza `.env` automáticamente.
 
-### Telegram Notifier (Verificado con Envíos en Vivo 200 OK)
+### Telegram Notifier & Dispatcher (Alertas 1-Tap)
 ```env
 TELEGRAM_BOT_TOKEN="<TU_TELEGRAM_BOT_TOKEN>"
 TELEGRAM_CHAT_ID="<TU_CHAT_ID>"

@@ -5,19 +5,19 @@ Configurar: crear bot con @BotFather en Telegram, obtener token y chat_id.
 import os
 import requests
 
-DEFAULT_TELEGRAM_BOT_TOKEN = "<TU_TELEGRAM_BOT_TOKEN>"
-DEFAULT_TELEGRAM_CHAT_ID = "<TU_CHAT_ID>"
+DEFAULT_TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+DEFAULT_TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
-TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN") or DEFAULT_TELEGRAM_BOT_TOKEN
-TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID") or DEFAULT_TELEGRAM_CHAT_ID
+TELEGRAM_BOT_TOKEN = DEFAULT_TELEGRAM_BOT_TOKEN
+TELEGRAM_CHAT_ID = DEFAULT_TELEGRAM_CHAT_ID
 
 
 def send_telegram(message: str) -> bool:
     """Envía mensaje a Telegram. Retorna True si exitoso. Si falla Markdown, reintenta en texto plano."""
-    token = os.environ.get("TELEGRAM_BOT_TOKEN") or TELEGRAM_BOT_TOKEN or DEFAULT_TELEGRAM_BOT_TOKEN
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID") or TELEGRAM_CHAT_ID or DEFAULT_TELEGRAM_CHAT_ID
+    token = os.environ.get("TELEGRAM_BOT_TOKEN") or TELEGRAM_BOT_TOKEN
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID") or TELEGRAM_CHAT_ID
     if not token or not chat_id:
-        print("  [TELEGRAM] Token o chat_id no configurados — saltando notificación.")
+        print("  [TELEGRAM] Token o chat_id no configurados en .env — saltando notificación.")
         return False
     try:
         url = f"https://api.telegram.org/bot{token}/sendMessage"

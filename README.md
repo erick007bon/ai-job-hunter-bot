@@ -97,18 +97,18 @@ crontab -l
 
 ---
 
-## 🔐 Variables de entorno configuradas
+## 🔐 Variables de entorno requeridas
 
-En el servidor GCP en `~/ai-job-hunter-bot/.env` (y como GitHub Secrets):
+Configurar en el servidor GCP en `~/ai-job-hunter-bot/.env` (y como GitHub Secrets en tu repositorio):
 
 ```env
-# LinkedIn (Sesión Activa Verificada)
-LINKEDIN_EMAIL="tu_email@gmail.com"
-LINKEDIN_PASSWORD="<TU_PASSWORD>"
+# LinkedIn Authentication
+LINKEDIN_EMAIL="tu_email_linkedin@gmail.com"
+LINKEDIN_PASSWORD="<TU_CONTRASEÑA_LINKEDIN>"
 LINKEDIN_LI_AT="<TU_COOKIE_LI_AT>"
 LINKEDIN_JSESSIONID="ajax:<TU_COOKIE_JSESSIONID>"
 
-# Telegram Notifier (Activo en vivo)
+# Telegram Notifier & Dispatcher (Alertas 1-Tap)
 TELEGRAM_BOT_TOKEN="<TU_TELEGRAM_BOT_TOKEN>"
 TELEGRAM_CHAT_ID="<TU_CHAT_ID>"
 BOT_USERNAME="@erick_job_hunter_bot"
@@ -123,7 +123,7 @@ SMTP_HOST="smtp.gmail.com"
 SMTP_PORT=587
 
 # IA (Cover letters dinámicas)
-OPENROUTER_API_KEY="sk-or-v1-..."
+OPENROUTER_API_KEY="<TU_OPENROUTER_API_KEY>"
 
 # CV Oficial ATS-Friendly
 CV_PATH="data/CV_Erick_Flores_Data_AI.pdf"
@@ -149,7 +149,7 @@ En esta sesión se puso en marcha de punta a punta el bot en la **VM de Google C
    - Búsquedas con roles en español e inglés: `Aprendizaje automático`, `Inteligencia Artificial`, `Ciencia de Datos`, `Data Analyst`, `Excel`, `Machine Learning`, `Python`, `Power BI`.
 
 3. **Pipeline de Despacho 1-Tap a Telegram (`@erick_job_hunter_bot`):**
-   - Se configuró el bot de Telegram (`<TU_TELEGRAM_BOT_TOKEN>`, chat `<TU_CHAT_ID>`).
+   - Se configuró el bot de Telegram para despacho en tiempo real a tu chat privado.
    - Cada oferta compatible despacha una tarjeta con: título, empresa, enlace directo completo (sin truncar), nivel de compatibilidad y **un pitch profesional pre-redactado listo para copiar y pegar**.
    - Se incrementó `MAX_APPLICATIONS=25` y se agregó `clean_unverified_entries` en `MemoryStore` para evitar que ofertas con formularios externos se den por postuladas sin haber sido enviadas.
 
