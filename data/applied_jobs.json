@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-09-18T01:08:21.431635",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T17:00:30.551988",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309": {
+    "title": "AI Response Analyst",
+    "company": "iMerit Technology",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T17:00:31.732605",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T17:00:32.934805",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153580-financial-data-analyst-account-management": {
+    "title": "Financial Data Analyst, Account Management",
+    "company": "SmithRx",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T17:00:33.977573",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153391-analytics-platforms-architect": {
+    "title": "Analytics Platforms Architect",
+    "company": "Tala",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T17:00:34.987977",
+    "reason": "Manual"
   }
 }
