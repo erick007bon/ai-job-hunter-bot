@@ -87,5 +87,37 @@
     "status": "notified_manual",
     "notified_at": "2026-09-18T17:00:34.987977",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153362-applied-ai-ml-engineer-2": {
+    "title": "Applied AI/ML Engineer",
+    "company": "Oddball",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T20:39:05.258632",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153357-analytics-engineer-ii-2": {
+    "title": "Analytics Engineer II",
+    "company": "Instacart",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T20:39:06.256921",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/150836-data-engineer": {
+    "title": "Data Engineer",
+    "company": "Gopuff",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T20:39:07.230850",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-18T20:39:08.296521",
+    "reason": "Manual"
   }
 }
