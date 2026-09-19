@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-09-19T16:19:25.518199",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153391-analytics-platforms-architect": {
+    "title": "Analytics Platforms Architect",
+    "company": "Tala",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T20:17:28.352529",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153362-applied-ai-ml-engineer-2": {
+    "title": "Applied AI/ML Engineer",
+    "company": "Oddball",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T20:17:29.065839",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153357-analytics-engineer-ii-2": {
+    "title": "Analytics Engineer II",
+    "company": "Instacart",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T20:17:29.758831",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T20:17:30.541693",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
+    "title": "CircleCI: Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T20:17:31.372004",
+    "reason": "Manual"
   }
 }
