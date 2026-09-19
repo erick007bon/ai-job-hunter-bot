@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-09-19T01:03:15.318249",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T16:19:21.102359",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309": {
+    "title": "AI Response Analyst",
+    "company": "iMerit Technology",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T16:19:22.239283",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T16:19:23.403969",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153638-data-engineer-fedd024": {
+    "title": "Data Engineer (FedD024)",
+    "company": "Defense Unicorns",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T16:19:24.434224",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153580-financial-data-analyst-account-management": {
+    "title": "Financial Data Analyst, Account Management",
+    "company": "SmithRx",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-19T16:19:25.518199",
+    "reason": "Manual"
   }
 }
