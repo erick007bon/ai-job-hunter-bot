@@ -13,7 +13,7 @@
     "company": "iMerit Technology",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-09-19T01:03:10.743638",
+    "notified_at": "2026-09-20T00:50:11.862160",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
@@ -21,7 +21,7 @@
     "company": "SEAhub Asia",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-19T01:03:11.884191",
+    "notified_at": "2026-09-20T00:50:12.600498",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398": {
@@ -29,7 +29,7 @@
     "company": "iMerit Technology",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-19T01:03:13.002363",
+    "notified_at": "2026-09-20T00:50:13.809023",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
@@ -37,7 +37,7 @@
     "company": "Arabian Private Holdings",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-19T01:03:14.169526",
+    "notified_at": "2026-09-20T00:50:14.572480",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903": {
@@ -45,87 +45,7 @@
     "company": "PulseMediaNL",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-19T01:03:15.318249",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
-    "title": "AI agent engineer",
-    "company": "Sticker Mule",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T16:19:21.102359",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309": {
-    "title": "AI Response Analyst",
-    "company": "iMerit Technology",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T16:19:22.239283",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T16:19:23.403969",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/153638-data-engineer-fedd024": {
-    "title": "Data Engineer (FedD024)",
-    "company": "Defense Unicorns",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T16:19:24.434224",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/153580-financial-data-analyst-account-management": {
-    "title": "Financial Data Analyst, Account Management",
-    "company": "SmithRx",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T16:19:25.518199",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/153391-analytics-platforms-architect": {
-    "title": "Analytics Platforms Architect",
-    "company": "Tala",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T20:17:28.352529",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/153362-applied-ai-ml-engineer-2": {
-    "title": "Applied AI/ML Engineer",
-    "company": "Oddball",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T20:17:29.065839",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/153357-analytics-engineer-ii-2": {
-    "title": "Analytics Engineer II",
-    "company": "Instacart",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T20:17:29.758831",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
-    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T20:17:30.541693",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
-    "title": "CircleCI: Software Engineer",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-09-19T20:17:31.372004",
+    "notified_at": "2026-09-20T00:50:15.335784",
     "reason": "Manual"
   }
 }
