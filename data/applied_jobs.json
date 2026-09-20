@@ -87,5 +87,21 @@
     "status": "notified_manual",
     "notified_at": "2026-09-20T16:43:49.039223",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153580-financial-data-analyst-account-management": {
+    "title": "Financial Data Analyst, Account Management",
+    "company": "SmithRx",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-20T20:33:01.209080",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
+    "title": "CircleCI: Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-20T20:33:02.405175",
+    "reason": "Manual"
   }
 }
