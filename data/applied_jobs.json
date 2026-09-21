@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-09-21T00:56:15.536631",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-21T18:34:03.416280",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309": {
+    "title": "AI Response Analyst",
+    "company": "iMerit Technology",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-21T18:34:04.586341",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-21T18:34:05.813607",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151141-aws-data-engineer-associate": {
+    "title": "AWS Data Engineer (Associate)",
+    "company": "Mactores",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-21T18:34:06.977891",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151331-machine-learning-engineer-5": {
+    "title": "Machine Learning Engineer",
+    "company": "Liftoff",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-21T18:34:08.101362",
+    "reason": "Manual"
   }
 }
