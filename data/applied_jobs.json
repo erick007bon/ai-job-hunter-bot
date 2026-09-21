@@ -13,7 +13,7 @@
     "company": "iMerit Technology",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-09-20T00:50:11.862160",
+    "notified_at": "2026-09-21T00:56:11.514594",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
@@ -21,7 +21,7 @@
     "company": "SEAhub Asia",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-20T00:50:12.600498",
+    "notified_at": "2026-09-21T00:56:12.519841",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398": {
@@ -29,7 +29,7 @@
     "company": "iMerit Technology",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-20T00:50:13.809023",
+    "notified_at": "2026-09-21T00:56:13.635836",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
@@ -37,7 +37,7 @@
     "company": "Arabian Private Holdings",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-20T00:50:14.572480",
+    "notified_at": "2026-09-21T00:56:14.601998",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-entry-administrator-pulsemedianl-1135903": {
@@ -45,63 +45,7 @@
     "company": "PulseMediaNL",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-20T00:50:15.335784",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
-    "title": "AI agent engineer",
-    "company": "Sticker Mule",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-20T16:43:45.345857",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309": {
-    "title": "AI Response Analyst",
-    "company": "iMerit Technology",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-20T16:43:46.346391",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-20T16:43:47.312611",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/146556-machine-learning-engineering-manager-ads-engagement-modeling": {
-    "title": "Machine Learning Engineering Manager - Ads Engagement Modeling",
-    "company": "Reddit",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-20T16:43:48.190795",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/153638-data-engineer-fedd024": {
-    "title": "Data Engineer (FedD024)",
-    "company": "Defense Unicorns",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-20T16:43:49.039223",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/153580-financial-data-analyst-account-management": {
-    "title": "Financial Data Analyst, Account Management",
-    "company": "SmithRx",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-20T20:33:01.209080",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
-    "title": "CircleCI: Software Engineer",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-09-20T20:33:02.405175",
+    "notified_at": "2026-09-21T00:56:15.536631",
     "reason": "Manual"
   }
 }
