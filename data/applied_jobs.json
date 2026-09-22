@@ -119,5 +119,21 @@
     "status": "notified_manual",
     "notified_at": "2026-09-22T01:31:01.267014",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151390-cloud-data-architect": {
+    "title": "Cloud Data Architect",
+    "company": "Oddball",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-22T17:34:40.756923",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151318-data-analytics-engineer": {
+    "title": "Data Analytics Engineer",
+    "company": "Ruby Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-22T17:34:41.744236",
+    "reason": "Manual"
   }
 }
