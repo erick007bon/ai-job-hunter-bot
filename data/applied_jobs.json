@@ -87,5 +87,37 @@
     "status": "notified_manual",
     "notified_at": "2026-09-21T18:34:08.101362",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/146556-machine-learning-engineering-manager-ads-engagement-modeling": {
+    "title": "Machine Learning Engineering Manager - Ads Engagement Modeling",
+    "company": "Reddit",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-22T01:30:58.082094",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153638-data-engineer-fedd024": {
+    "title": "Data Engineer (FedD024)",
+    "company": "Defense Unicorns",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-22T01:30:59.143414",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153580-financial-data-analyst-account-management": {
+    "title": "Financial Data Analyst, Account Management",
+    "company": "SmithRx",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-22T01:31:00.169895",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
+    "title": "CircleCI: Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-22T01:31:01.267014",
+    "reason": "Manual"
   }
 }
