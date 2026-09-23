@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-09-23T01:20:40.669746",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness": {
+    "title": "Data Analyst, Clinical Data Effectiveness",
+    "company": "Clover Health",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-23T17:46:42.567514",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151318-data-analytics-engineer": {
+    "title": "Data Analytics Engineer",
+    "company": "Ruby Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-23T17:46:43.363027",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151141-aws-data-engineer-associate": {
+    "title": "AWS Data Engineer (Associate)",
+    "company": "Mactores",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-23T17:46:44.845338",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151331-machine-learning-engineer-5": {
+    "title": "Machine Learning Engineer",
+    "company": "Liftoff",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-23T17:46:45.638022",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
+    "title": "CircleCI: Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-23T17:46:46.482255",
+    "reason": "Manual"
   }
 }
