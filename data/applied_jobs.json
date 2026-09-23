@@ -127,5 +127,13 @@
     "status": "notified_manual",
     "notified_at": "2026-09-23T17:46:46.482255",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153978-data-analyst-sql-databricks": {
+    "title": "Data Analyst - SQL / Databricks",
+    "company": "Tenable",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-23T21:18:01.264175",
+    "reason": "Manual"
   }
 }
