@@ -87,5 +87,21 @@
     "status": "notified_manual",
     "notified_at": "2026-09-24T17:48:34.661012",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151390-cloud-data-architect": {
+    "title": "Cloud Data Architect",
+    "company": "Oddball",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-24T21:19:35.024197",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
+    "title": "CircleCI: Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-24T21:19:36.247811",
+    "reason": "Manual"
   }
 }
