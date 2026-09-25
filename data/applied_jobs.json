@@ -13,7 +13,7 @@
     "company": "iMerit Technology",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-09-25T01:16:37.068088",
+    "notified_at": "2026-09-25T21:17:36.071498",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
@@ -21,7 +21,7 @@
     "company": "SEAhub Asia",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-25T01:16:47.498371",
+    "notified_at": "2026-09-25T21:17:36.874261",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415": {
@@ -29,7 +29,7 @@
     "company": "Mindrift - Data annotation",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-25T01:16:57.862502",
+    "notified_at": "2026-09-25T21:17:37.592812",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398": {
@@ -37,7 +37,7 @@
     "company": "iMerit Technology",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-25T01:17:08.250984",
+    "notified_at": "2026-09-25T21:17:38.368724",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
@@ -45,39 +45,7 @@
     "company": "Arabian Private Holdings",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-25T01:17:18.619920",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
-    "title": "AI agent engineer",
-    "company": "Sticker Mule",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-25T17:50:26.976901",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-25T17:50:27.813653",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/153978-data-analyst-sql-databricks": {
-    "title": "Data Analyst - SQL / Databricks",
-    "company": "Tenable",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-25T17:50:28.540962",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
-    "title": "CircleCI: Software Engineer",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-09-25T17:50:29.321650",
+    "notified_at": "2026-09-25T21:17:39.162964",
     "reason": "Manual"
   }
 }
