@@ -47,5 +47,37 @@
     "status": "notified_manual",
     "notified_at": "2026-09-25T01:17:18.619920",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-25T17:50:26.976901",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-25T17:50:27.813653",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153978-data-analyst-sql-databricks": {
+    "title": "Data Analyst - SQL / Databricks",
+    "company": "Tenable",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-25T17:50:28.540962",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
+    "title": "CircleCI: Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-25T17:50:29.321650",
+    "reason": "Manual"
   }
 }
