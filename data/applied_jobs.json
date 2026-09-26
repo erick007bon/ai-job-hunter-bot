@@ -87,5 +87,13 @@
     "status": "notified_manual",
     "notified_at": "2026-09-26T01:18:45.179260",
     "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3": {
+    "title": "Sticker Mule: Software engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-26T16:57:09.888394",
+    "reason": "Manual"
   }
 }
