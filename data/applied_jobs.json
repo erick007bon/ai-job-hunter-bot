@@ -87,5 +87,37 @@
     "status": "notified_manual",
     "notified_at": "2026-09-27T01:12:20.741628",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence": {
+    "title": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
+    "company": "WorkWave",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T17:36:37.809715",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/151808-data-scientist": {
+    "title": "Data Scientist",
+    "company": "BetterHelp",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T17:36:38.800626",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure": {
+    "title": "Pinterest: Data Scientist II, Infrastructure",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T17:36:40.080074",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/circleci-software-engineer": {
+    "title": "CircleCI: Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T17:36:41.285812",
+    "reason": "Manual"
   }
 }
