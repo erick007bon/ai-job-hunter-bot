@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-09-26T20:50:21.851713",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T01:12:17.550947",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T01:12:18.414024",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154067-analytics-engineer-data": {
+    "title": "Analytics Engineer, Data",
+    "company": "Tailscale",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T01:12:19.147724",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153978-data-analyst-sql-databricks": {
+    "title": "Data Analyst - SQL / Databricks",
+    "company": "Tenable",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T01:12:19.894500",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3": {
+    "title": "Sticker Mule: Software engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-27T01:12:20.741628",
+    "reason": "Manual"
   }
 }
