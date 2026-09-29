@@ -127,5 +127,21 @@
     "status": "notified_manual",
     "notified_at": "2026-09-29T02:31:42.899715",
     "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1901972/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-09-29T18:30:53.831624",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1901953/": {
+    "title": "AI Content Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-09-29T18:30:54.988413",
+    "reason": "Manual"
   }
 }
