@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-09-28T20:03:13.047164",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154169-data-scientist-risk": {
+    "title": "Data Scientist, Risk",
+    "company": "Imprint",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-29T02:31:39.715684",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154067-analytics-engineer-data": {
+    "title": "Analytics Engineer, Data",
+    "company": "Tailscale",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-29T02:31:40.406021",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure": {
+    "title": "Pinterest: Data Scientist II, ML Infrastructure",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-29T02:31:41.254194",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure": {
+    "title": "Pinterest: Data Scientist II, Infrastructure",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-29T02:31:42.105624",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3": {
+    "title": "Sticker Mule: Software engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-29T02:31:42.899715",
+    "reason": "Manual"
   }
 }
