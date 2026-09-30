@@ -159,5 +159,29 @@
     "status": "notified_manual",
     "notified_at": "2026-09-30T01:54:27.266033",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154278-ai-architect-finance": {
+    "title": "AI Architect, Finance",
+    "company": "ShopFully",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-30T18:19:40.765947",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154273-data-scientist-ii": {
+    "title": "Data Scientist II",
+    "company": "Signifyd",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-30T18:19:41.455551",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer": {
+    "title": "Sticker Mule: AI agent engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-09-30T18:19:42.250458",
+    "reason": "Manual"
   }
 }
