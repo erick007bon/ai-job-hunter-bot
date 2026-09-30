@@ -143,5 +143,21 @@
     "status": "notified_manual",
     "notified_at": "2026-09-29T18:30:54.988413",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154219-analytics-engineer-3": {
+    "title": "Analytics Engineer",
+    "company": "Alma",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-30T01:54:26.217121",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154213-fde-data-engineer-space-fedd141-fedd147": {
+    "title": "FDE Data Engineer- Space (FedD141/FedD147)",
+    "company": "Defense Unicorns",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-09-30T01:54:27.266033",
+    "reason": "Manual"
   }
 }
