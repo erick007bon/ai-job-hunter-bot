@@ -13,7 +13,7 @@
     "company": "iMerit Technology",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-09-28T01:28:42.870145",
+    "notified_at": "2026-10-01T01:54:05.326628",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
@@ -21,7 +21,7 @@
     "company": "SEAhub Asia",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-28T01:28:44.038458",
+    "notified_at": "2026-10-01T01:54:06.203615",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415": {
@@ -29,7 +29,7 @@
     "company": "Mindrift - Data annotation",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-28T01:28:45.315204",
+    "notified_at": "2026-10-01T01:54:07.141953",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398": {
@@ -37,7 +37,7 @@
     "company": "iMerit Technology",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-28T01:28:46.433854",
+    "notified_at": "2026-10-01T01:54:08.126916",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
@@ -45,143 +45,7 @@
     "company": "Arabian Private Holdings",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-09-28T01:28:47.635112",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
-    "title": "AI agent engineer",
-    "company": "Sticker Mule",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-28T20:03:08.547831",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-09-28T20:03:09.807787",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/143584-power-bi-architect": {
-    "title": "Power BI Architect",
-    "company": "Tiger Analytics",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-28T20:03:10.811888",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence": {
-    "title": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
-    "company": "WorkWave",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-28T20:03:11.895054",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/151808-data-scientist": {
-    "title": "Data Scientist",
-    "company": "BetterHelp",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-28T20:03:13.047164",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154169-data-scientist-risk": {
-    "title": "Data Scientist, Risk",
-    "company": "Imprint",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-29T02:31:39.715684",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154067-analytics-engineer-data": {
-    "title": "Analytics Engineer, Data",
-    "company": "Tailscale",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-29T02:31:40.406021",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure": {
-    "title": "Pinterest: Data Scientist II, ML Infrastructure",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-09-29T02:31:41.254194",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure": {
-    "title": "Pinterest: Data Scientist II, Infrastructure",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-09-29T02:31:42.105624",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3": {
-    "title": "Sticker Mule: Software engineer",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-09-29T02:31:42.899715",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1901972/": {
-    "title": "Data Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-09-29T18:30:53.831624",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1901953/": {
-    "title": "AI Content Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-09-29T18:30:54.988413",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154219-analytics-engineer-3": {
-    "title": "Analytics Engineer",
-    "company": "Alma",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-30T01:54:26.217121",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154213-fde-data-engineer-space-fedd141-fedd147": {
-    "title": "FDE Data Engineer- Space (FedD141/FedD147)",
-    "company": "Defense Unicorns",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-30T01:54:27.266033",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154278-ai-architect-finance": {
-    "title": "AI Architect, Finance",
-    "company": "ShopFully",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-30T18:19:40.765947",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154273-data-scientist-ii": {
-    "title": "Data Scientist II",
-    "company": "Signifyd",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-09-30T18:19:41.455551",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer": {
-    "title": "Sticker Mule: AI agent engineer",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-09-30T18:19:42.250458",
+    "notified_at": "2026-10-01T01:54:09.117116",
     "reason": "Manual"
   }
 }
