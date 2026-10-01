@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-01T01:54:09.117116",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-01T18:45:00.160846",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-response-analyst-imerit-technology-1137309": {
+    "title": "AI Response Analyst",
+    "company": "iMerit Technology",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-01T18:45:01.192653",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-01T18:45:02.181005",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152187-specialist-solutions-architect-ai-ml": {
+    "title": "Specialist Solutions Architect - AI/ML",
+    "company": "Databricks",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-01T18:45:03.069169",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154278-ai-architect-finance": {
+    "title": "AI Architect, Finance",
+    "company": "ShopFully",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-01T18:45:03.986227",
+    "reason": "Manual"
   }
 }
