@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-01T18:45:03.986227",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154273-data-scientist-ii": {
+    "title": "Data Scientist II",
+    "company": "Signifyd",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T02:04:32.391659",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154219-analytics-engineer-3": {
+    "title": "Analytics Engineer",
+    "company": "Alma",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T02:04:33.067699",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154213-fde-data-engineer-space-fedd141-fedd147": {
+    "title": "FDE Data Engineer- Space (FedD141/FedD147)",
+    "company": "Defense Unicorns",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T02:04:33.749714",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer": {
+    "title": "Sticker Mule: AI agent engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T02:04:34.499265",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1901972/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T02:04:35.710168",
+    "reason": "Manual"
   }
 }
