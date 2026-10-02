@@ -127,5 +127,37 @@
     "status": "notified_manual",
     "notified_at": "2026-10-02T02:04:35.710168",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154404-global-analytics-manager-remote-in-barcelona-madrid": {
+    "title": "Global Analytics Manager (Remote in Barcelona/Madrid)",
+    "company": "Docplanner",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T18:17:02.916464",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152312-binance-acceleration-program-product-data-analyst": {
+    "title": "Binance Acceleration Program - Product Data Analyst",
+    "company": "Binance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T18:17:03.650789",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152307-bap-data-analyst": {
+    "title": "BAP - Data Analyst",
+    "company": "Binance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T18:17:04.403396",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1901953/": {
+    "title": "AI Content Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-02T18:17:05.450776",
+    "reason": "Manual"
   }
 }
