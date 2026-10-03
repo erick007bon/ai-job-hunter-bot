@@ -159,5 +159,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-02T18:17:05.450776",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154413-ai-data-scientist": {
+    "title": "AI Data Scientist",
+    "company": "Airtm",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-03T01:48:09.803388",
+    "reason": "Manual"
   }
 }
