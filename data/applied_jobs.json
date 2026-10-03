@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-03T17:05:49.056846",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-03T20:47:41.905785",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-03T20:47:43.055383",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154413-ai-data-scientist": {
+    "title": "AI Data Scientist",
+    "company": "Airtm",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-03T20:47:44.158230",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154404-global-analytics-manager-remote-in-barcelona-madrid": {
+    "title": "Global Analytics Manager (Remote in Barcelona/Madrid)",
+    "company": "Docplanner",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-03T20:47:45.111636",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152312-binance-acceleration-program-product-data-analyst": {
+    "title": "Binance Acceleration Program - Product Data Analyst",
+    "company": "Binance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-03T20:47:46.069611",
+    "reason": "Manual"
   }
 }
