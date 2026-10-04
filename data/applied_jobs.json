@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-03T20:47:46.069611",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154478-analytics-engineer-ii-full-stack-revenue-analytics": {
+    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+    "company": "Affirm",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-04T02:28:34.556081",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154472-data-scientist-music-mission": {
+    "title": "Data Scientist - Music Mission",
+    "company": "Spotify",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-04T02:28:35.708579",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154477-data-scientist-music-promotion": {
+    "title": "Data Scientist - Music Promotion",
+    "company": "Spotify",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-04T02:28:36.826742",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer": {
+    "title": "Sticker Mule: AI agent engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-04T02:28:38.112643",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1901972/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-04T02:28:39.939016",
+    "reason": "Manual"
   }
 }
