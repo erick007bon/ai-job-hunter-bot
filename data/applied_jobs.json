@@ -13,7 +13,7 @@
     "company": "iMerit Technology",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-10-03T17:05:45.994990",
+    "notified_at": "2026-10-05T01:45:30.102178",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
@@ -21,7 +21,7 @@
     "company": "SEAhub Asia",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-03T17:05:46.702027",
+    "notified_at": "2026-10-05T01:45:31.103456",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415": {
@@ -29,7 +29,7 @@
     "company": "Mindrift - Data annotation",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-03T17:05:47.484430",
+    "notified_at": "2026-10-05T01:45:32.041206",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398": {
@@ -37,7 +37,7 @@
     "company": "iMerit Technology",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-03T17:05:48.276889",
+    "notified_at": "2026-10-05T01:45:32.993799",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
@@ -45,119 +45,7 @@
     "company": "Arabian Private Holdings",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-03T17:05:49.056846",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
-    "title": "AI agent engineer",
-    "company": "Sticker Mule",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-03T20:47:41.905785",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-03T20:47:43.055383",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154413-ai-data-scientist": {
-    "title": "AI Data Scientist",
-    "company": "Airtm",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-03T20:47:44.158230",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154404-global-analytics-manager-remote-in-barcelona-madrid": {
-    "title": "Global Analytics Manager (Remote in Barcelona/Madrid)",
-    "company": "Docplanner",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-03T20:47:45.111636",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/152312-binance-acceleration-program-product-data-analyst": {
-    "title": "Binance Acceleration Program - Product Data Analyst",
-    "company": "Binance",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-03T20:47:46.069611",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154478-analytics-engineer-ii-full-stack-revenue-analytics": {
-    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
-    "company": "Affirm",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T02:28:34.556081",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154472-data-scientist-music-mission": {
-    "title": "Data Scientist - Music Mission",
-    "company": "Spotify",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T02:28:35.708579",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154477-data-scientist-music-promotion": {
-    "title": "Data Scientist - Music Promotion",
-    "company": "Spotify",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T02:28:36.826742",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer": {
-    "title": "Sticker Mule: AI agent engineer",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T02:28:38.112643",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1901972/": {
-    "title": "Data Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T02:28:39.939016",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/152472-marketing-data-scientist": {
-    "title": "Marketing Data Scientist",
-    "company": "Vonage",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T17:21:50.065174",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/152435-ai-ml-engineering-manager": {
-    "title": "AI/ML Engineering Manager",
-    "company": "Caylent",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T17:21:51.018048",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1901953/": {
-    "title": "AI Content Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T17:21:52.760588",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding": {
-    "title": "STEUART NUTRITION: Software Developer AI Coding",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-04T21:03:09.279923",
+    "notified_at": "2026-10-05T01:45:33.920627",
     "reason": "Manual"
   }
 }
