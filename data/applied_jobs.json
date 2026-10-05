@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-05T01:45:33.920627",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-05T21:01:29.720057",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-05T21:01:30.773697",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154571-data-scientist-iii-temporary": {
+    "title": "Data Scientist III - Temporary",
+    "company": "Veracyte",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-05T21:01:31.751993",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152472-marketing-data-scientist": {
+    "title": "Marketing Data Scientist",
+    "company": "Vonage",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-05T21:01:32.729000",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152435-ai-ml-engineering-manager": {
+    "title": "AI/ML Engineering Manager",
+    "company": "Caylent",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-05T21:01:33.691754",
+    "reason": "Manual"
   }
 }
