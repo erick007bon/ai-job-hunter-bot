@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-05T21:01:33.691754",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154478-analytics-engineer-ii-full-stack-revenue-analytics": {
+    "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
+    "company": "Affirm",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-06T02:46:25.017989",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154472-data-scientist-music-mission": {
+    "title": "Data Scientist - Music Mission",
+    "company": "Spotify",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-06T02:46:25.865697",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154477-data-scientist-music-promotion": {
+    "title": "Data Scientist - Music Promotion",
+    "company": "Spotify",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-06T02:46:26.656017",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding": {
+    "title": "STEUART NUTRITION: Software Developer AI Coding",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-06T02:46:27.618411",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1915664/": {
+    "title": "AI Content Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-06T02:46:28.947547",
+    "reason": "Manual"
   }
 }
