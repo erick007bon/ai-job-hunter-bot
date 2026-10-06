@@ -127,5 +127,21 @@
     "status": "notified_manual",
     "notified_at": "2026-10-06T02:46:28.947547",
     "reason": "Manual"
+  },
+  "https://remotive.com/remote-jobs/software-development/software-engineer-ai-code-trainer-python-web-full-stack-2091149": {
+    "title": "Software Engineer / AI Code Trainer (Python, Web, Full Stack)",
+    "company": "CodeForAI",
+    "source": "Remotive",
+    "status": "notified_manual",
+    "notified_at": "2026-10-06T18:50:42.760320",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1920476/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-06T18:50:44.572399",
+    "reason": "Manual"
   }
 }
