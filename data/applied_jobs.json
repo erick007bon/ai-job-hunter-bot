@@ -143,5 +143,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-06T18:50:44.572399",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154739-commercial-data-scientist": {
+    "title": "Commercial Data Scientist",
+    "company": "Doximity",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-07T02:10:56.161805",
+    "reason": "Manual"
   }
 }
