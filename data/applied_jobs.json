@@ -151,5 +151,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-07T02:10:56.161805",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154779-data-scientist-ii-infrastructure": {
+    "title": "Data Scientist II, Infrastructure",
+    "company": "Pinterest",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-07T19:15:52.719737",
+    "reason": "Manual"
   }
 }
