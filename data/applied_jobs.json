@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-08T02:37:19.539140",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
+    "title": "Data Analyst Assistant",
+    "company": "Arabian Private Holdings",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-08T19:12:18.939257",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-08T19:12:20.087885",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-08T19:12:21.248793",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154813-data-scientist-corporate": {
+    "title": "Data Scientist, Corporate",
+    "company": "YipitData",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-08T19:12:22.260776",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152746-data-scientist-ai-ml": {
+    "title": "Data Scientist, AI/ML",
+    "company": "Gremlin",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-08T19:12:23.270084",
+    "reason": "Manual"
   }
 }
