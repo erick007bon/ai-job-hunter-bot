@@ -127,5 +127,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-09T02:51:35.856406",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154889-data-analytics-engineer-2": {
+    "title": "Data Analytics Engineer",
+    "company": "Toptal",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T18:42:48.061410",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154894-manager-business-analytics": {
+    "title": "Manager, Business Analytics",
+    "company": "Veracyte",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T18:42:48.988437",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152802-manager-strategy-analytics": {
+    "title": "Manager, Strategy & Analytics",
+    "company": "Beyond Finance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T18:42:49.874388",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam": {
+    "title": "Vercel: Security Software Engineer, IAM",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T18:42:50.887572",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1920476/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T18:42:52.413431",
+    "reason": "Manual"
   }
 }
