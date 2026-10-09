@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-08T19:12:23.270084",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154779-data-scientist-ii-infrastructure": {
+    "title": "Data Scientist II, Infrastructure",
+    "company": "Pinterest",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T02:51:30.664706",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154739-commercial-data-scientist": {
+    "title": "Commercial Data Scientist",
+    "company": "Doximity",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T02:51:32.588167",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154571-data-scientist-iii-temporary": {
+    "title": "Data Scientist III - Temporary",
+    "company": "Veracyte",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T02:51:33.571178",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience": {
+    "title": "Dremio: Software Engineer - Developer Experience",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T02:51:34.751597",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding": {
+    "title": "STEUART NUTRITION: Software Developer AI Coding",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-09T02:51:35.856406",
+    "reason": "Manual"
   }
 }
