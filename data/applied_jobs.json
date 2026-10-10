@@ -191,5 +191,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-10T02:11:28.203099",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152947-data-architect": {
+    "title": "Data Architect",
+    "company": "Cordance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-10T17:42:44.911534",
+    "reason": "Manual"
   }
 }
