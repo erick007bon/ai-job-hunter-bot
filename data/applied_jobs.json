@@ -13,7 +13,7 @@
     "company": "CodeForAI",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-10-08T02:37:06.446372",
+    "notified_at": "2026-10-10T21:21:35.068312",
     "reason": "Manual"
   },
   "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126": {
@@ -21,7 +21,7 @@
     "company": "iMerit Technology",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-10-08T02:37:15.831839",
+    "notified_at": "2026-10-10T21:21:36.743448",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
@@ -29,7 +29,7 @@
     "company": "SEAhub Asia",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-08T02:37:17.004876",
+    "notified_at": "2026-10-10T21:21:37.483716",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415": {
@@ -37,7 +37,7 @@
     "company": "Mindrift - Data annotation",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-08T02:37:18.321711",
+    "notified_at": "2026-10-10T21:21:38.227673",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398": {
@@ -45,159 +45,7 @@
     "company": "iMerit Technology",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-08T02:37:19.539140",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
-    "title": "Data Analyst Assistant",
-    "company": "Arabian Private Holdings",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-08T19:12:18.939257",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
-    "title": "AI agent engineer",
-    "company": "Sticker Mule",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-08T19:12:20.087885",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-08T19:12:21.248793",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154813-data-scientist-corporate": {
-    "title": "Data Scientist, Corporate",
-    "company": "YipitData",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-08T19:12:22.260776",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/152746-data-scientist-ai-ml": {
-    "title": "Data Scientist, AI/ML",
-    "company": "Gremlin",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-08T19:12:23.270084",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154779-data-scientist-ii-infrastructure": {
-    "title": "Data Scientist II, Infrastructure",
-    "company": "Pinterest",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T02:51:30.664706",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154739-commercial-data-scientist": {
-    "title": "Commercial Data Scientist",
-    "company": "Doximity",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T02:51:32.588167",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154571-data-scientist-iii-temporary": {
-    "title": "Data Scientist III - Temporary",
-    "company": "Veracyte",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T02:51:33.571178",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience": {
-    "title": "Dremio: Software Engineer - Developer Experience",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T02:51:34.751597",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/steuart-nutrition-software-developer-ai-coding": {
-    "title": "STEUART NUTRITION: Software Developer AI Coding",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T02:51:35.856406",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154889-data-analytics-engineer-2": {
-    "title": "Data Analytics Engineer",
-    "company": "Toptal",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T18:42:48.061410",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154894-manager-business-analytics": {
-    "title": "Manager, Business Analytics",
-    "company": "Veracyte",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T18:42:48.988437",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/152802-manager-strategy-analytics": {
-    "title": "Manager, Strategy & Analytics",
-    "company": "Beyond Finance",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T18:42:49.874388",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam": {
-    "title": "Vercel: Security Software Engineer, IAM",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T18:42:50.887572",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1920476/": {
-    "title": "Data Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-10-09T18:42:52.413431",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154933-applied-scientist": {
-    "title": "Applied Scientist",
-    "company": "Upstart",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-10T02:11:26.163633",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154936-applied-scientist-intern": {
-    "title": "Applied Scientist Intern",
-    "company": "Upstart",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-10T02:11:26.912751",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1915664/": {
-    "title": "AI Content Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-10-10T02:11:28.203099",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/152947-data-architect": {
-    "title": "Data Architect",
-    "company": "Cordance",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-10T17:42:44.911534",
+    "notified_at": "2026-10-10T21:21:38.970454",
     "reason": "Manual"
   }
 }
