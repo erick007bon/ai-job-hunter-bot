@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-11T01:41:17.028674",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154990-analyst-gtm-analytics": {
+    "title": "Analyst, GTM Analytics",
+    "company": "Fivetran",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T17:56:52.502662",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152984-associate-research-scientist-real-world-evidence": {
+    "title": "Associate Research Scientist, Real World Evidence",
+    "company": "Precision Medicine Group",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T17:56:53.487347",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154936-applied-scientist-intern": {
+    "title": "Applied Scientist Intern",
+    "company": "Upstart",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T17:56:54.470257",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai": {
+    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T17:56:55.566063",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience": {
+    "title": "Dremio: Software Engineer - Developer Experience",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T17:56:56.955590",
+    "reason": "Manual"
   }
 }
