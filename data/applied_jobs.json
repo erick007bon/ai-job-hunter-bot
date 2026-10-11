@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-10T21:21:38.970454",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
+    "title": "Data Analyst Assistant",
+    "company": "Arabian Private Holdings",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T01:41:12.655550",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T01:41:13.868083",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T01:41:15.053196",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152947-data-architect": {
+    "title": "Data Architect",
+    "company": "Cordance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T01:41:16.038178",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154933-applied-scientist": {
+    "title": "Applied Scientist",
+    "company": "Upstart",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-11T01:41:17.028674",
+    "reason": "Manual"
   }
 }
