@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-12T02:11:04.141666",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
+    "title": "Data Analyst Assistant",
+    "company": "Arabian Private Holdings",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-12T21:39:06.889026",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
+    "title": "AI agent engineer",
+    "company": "Sticker Mule",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-12T21:39:07.971309",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-12T21:39:09.138926",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155122-applied-scientist-pro-growth": {
+    "title": "Applied Scientist, Pro Growth",
+    "company": "Thumbtack",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-12T21:39:10.242173",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/154990-analyst-gtm-analytics": {
+    "title": "Analyst, GTM Analytics",
+    "company": "Fivetran",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-12T21:39:11.296822",
+    "reason": "Manual"
   }
 }
