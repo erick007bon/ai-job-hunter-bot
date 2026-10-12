@@ -13,7 +13,7 @@
     "company": "CodeForAI",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-10-10T21:21:35.068312",
+    "notified_at": "2026-10-12T02:10:59.628494",
     "reason": "Manual"
   },
   "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126": {
@@ -21,7 +21,7 @@
     "company": "iMerit Technology",
     "source": "Remotive",
     "status": "notified_manual",
-    "notified_at": "2026-10-10T21:21:36.743448",
+    "notified_at": "2026-10-12T02:11:01.800014",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
@@ -29,7 +29,7 @@
     "company": "SEAhub Asia",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-10T21:21:37.483716",
+    "notified_at": "2026-10-12T02:11:02.553992",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415": {
@@ -37,7 +37,7 @@
     "company": "Mindrift - Data annotation",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-10T21:21:38.227673",
+    "notified_at": "2026-10-12T02:11:03.326448",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-ai-trainer-image-qa-evaluator-imerit-technology-1137398": {
@@ -45,111 +45,7 @@
     "company": "iMerit Technology",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-10T21:21:38.970454",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
-    "title": "Data Analyst Assistant",
-    "company": "Arabian Private Holdings",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T01:41:12.655550",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399": {
-    "title": "AI agent engineer",
-    "company": "Sticker Mule",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T01:41:13.868083",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T01:41:15.053196",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/152947-data-architect": {
-    "title": "Data Architect",
-    "company": "Cordance",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T01:41:16.038178",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154933-applied-scientist": {
-    "title": "Applied Scientist",
-    "company": "Upstart",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T01:41:17.028674",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154990-analyst-gtm-analytics": {
-    "title": "Analyst, GTM Analytics",
-    "company": "Fivetran",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T17:56:52.502662",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/152984-associate-research-scientist-real-world-evidence": {
-    "title": "Associate Research Scientist, Real World Evidence",
-    "company": "Precision Medicine Group",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T17:56:53.487347",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/154936-applied-scientist-intern": {
-    "title": "Applied Scientist Intern",
-    "company": "Upstart",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T17:56:54.470257",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai": {
-    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T17:56:55.566063",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience": {
-    "title": "Dremio: Software Engineer - Developer Experience",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T17:56:56.955590",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam": {
-    "title": "Vercel: Security Software Engineer, IAM",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T21:44:17.280672",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1920476/": {
-    "title": "Data Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T21:44:19.438444",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1915664/": {
-    "title": "AI Content Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-10-11T21:44:21.237973",
+    "notified_at": "2026-10-12T02:11:04.141666",
     "reason": "Manual"
   }
 }
