@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-12T21:39:11.296822",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/152984-associate-research-scientist-real-world-evidence": {
+    "title": "Associate Research Scientist, Real World Evidence",
+    "company": "Precision Medicine Group",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-13T03:25:40.967164",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-applied-ai": {
+    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-13T03:25:42.140386",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/dremio-software-engineer-developer-experience": {
+    "title": "Dremio: Software Engineer - Developer Experience",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-13T03:25:43.270694",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/vercel-security-software-engineer-iam": {
+    "title": "Vercel: Security Software Engineer, IAM",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-13T03:25:44.427861",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1920476/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-13T03:25:46.343706",
+    "reason": "Manual"
   }
 }
