@@ -167,5 +167,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-13T19:48:17.961870",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155241-data-analyst-4": {
+    "title": "Data Analyst",
+    "company": "RevenueCat",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-14T01:42:13.972174",
+    "reason": "Manual"
   }
 }
