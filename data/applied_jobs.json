@@ -175,5 +175,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-14T01:42:13.972174",
     "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1939843/": {
+    "title": "AI Trainer",
+    "company": "iMerit Technology",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-14T17:51:31.284020",
+    "reason": "Manual"
   }
 }
