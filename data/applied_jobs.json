@@ -127,5 +127,29 @@
     "status": "notified_manual",
     "notified_at": "2026-10-15T17:41:21.228784",
     "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data": {
+    "title": "Tailscale: Analytics Engineer, Data",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-15T17:56:58.361412",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1920476/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-15T17:57:00.732842",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1915664/": {
+    "title": "AI Content Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-15T17:57:02.393803",
+    "reason": "Manual"
   }
 }
