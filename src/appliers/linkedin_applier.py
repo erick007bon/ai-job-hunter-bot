@@ -156,7 +156,7 @@ class LinkedInApplier:
                 "applicant": {
                     "firstName": "Erick",
                     "lastName": "Flores Zambrano",
-                    "emailAddress": os.environ.get("EMAIL_USER", "eflores4006@utm.edu.ec"),
+                    "emailAddress": os.environ.get("EMAIL_USER", "erickflores6655@gmail.com"),
                     "phoneNumber": os.environ.get("PROFILE_PHONE", "+593963951193"),
                 }
             }
@@ -214,7 +214,7 @@ class LinkedInApplier:
                 "contactInfo": {
                     "firstName":    "Erick",
                     "lastName":     "Flores Zambrano",
-                    "emailAddress": os.environ.get("EMAIL_USER", "eflores4006@utm.edu.ec"),
+                    "emailAddress": os.environ.get("EMAIL_USER", "erickflores6655@gmail.com"),
                     "phoneNumber":  os.environ.get("PROFILE_PHONE", "+593963951193"),
                 },
             }

@@ -57,7 +57,7 @@ class ICIMSApplier(BaseApplier):
                 # --- 2. Llenar campos ---
                 await page.screenshot(path=f"debug_screenshots/{company}_2_after_cv.png")
                 full_name = self.cv_data.get('personal_info', {}).get('name', 'Erick Flores Zambrano')
-                email = self.cv_data.get('personal_info', {}).get('email', 'eflores4006@utm.edu.ec')
+                email = self.cv_data.get('personal_info', {}).get('email', 'erickflores6655@gmail.com')
                 phone = self.cv_data.get('personal_info', {}).get('phone', os.environ.get('CANDIDATE_PHONE', ''))
 
                 fields_to_fill = [

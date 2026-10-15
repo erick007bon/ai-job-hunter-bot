@@ -54,7 +54,7 @@ from src.config import Config
 # ── Perfil del candidato ────────────────────────────────────────────────────
 PROFILE = {
     'name':     'Erick Flores Zambrano',
-    'email':    'eflores4006@utm.edu.ec',
+    'email':    'erickflores6655@gmail.com',
     'phone':    '+593 096 395 1193',
     'github':   'github.com/erick007bon',
     'linkedin': 'linkedin.com/in/erick-flores-zambrano-69075b198',
@@ -68,23 +68,21 @@ AUTO_APPLY = os.environ.get('AUTO_APPLY', 'true').lower() == 'true'
 SMTP_HOST     = os.environ.get('SMTP_HOST', 'smtp.gmail.com')
 SMTP_PORT     = int(os.environ.get('SMTP_PORT', '587'))
 SMTP_TLS      = os.environ.get('SMTP_TLS', 'true').lower() == 'true'
-SMTP_USER     = os.environ.get('EMAIL_USER') or os.environ.get('EMAIL_SENDER') or ''
+SMTP_USER     = os.environ.get('EMAIL_USER') or os.environ.get('EMAIL_SENDER') or 'erickflores6655@gmail.com'
 SMTP_PASSWORD = os.environ.get('EMAIL_PASSWORD') or ''
 EMAIL_SENDER  = os.environ.get('EMAIL_SENDER') or SMTP_USER
 
 
-# ── OpenRouter para IA ───────────────────────────────────────────────────────
+# ── IA para Cover Letters (Gemini y OpenRouter) ──────────────────────────────
+GEMINI_API_KEY     = os.environ.get('GEMINI_API_KEY', '')
 OPENROUTER_API_KEY = os.environ.get('OPENROUTER_API_KEY', '')
 
 
 def build_cover_letter_ai(job: dict) -> str:
     """
-    Genera una carta de presentación personalizada usando OpenRouter (Mistral/Gemini).
-    Fallback a plantilla estática si no hay API key o falla la IA.
+    Genera una carta de presentación personalizada usando Gemini 2.0 Flash o OpenRouter.
+    Fallback a plantilla estática si no hay API key o fallan ambos servicios.
     """
-    if not OPENROUTER_API_KEY:
-        return build_cover_letter_static(job)
-
     title   = job.get('title', 'la posición')
     company = job.get('company', 'su empresa')
     jd      = job.get('description', '')[:1500]  # Primeros 1500 chars del JD
@@ -110,24 +108,47 @@ La carta debe:
 
 Devuelve SOLO el texto de la carta, sin encabezados ni instrucciones."""
 
-    try:
-        from openai import OpenAI
-        client = OpenAI(
-            base_url="https://openrouter.ai/api/v1",
-            api_key=OPENROUTER_API_KEY,
-        )
-        response = client.chat.completions.create(
-            model="mistralai/mistral-7b-instruct:free",
-            messages=[{"role": "user", "content": prompt}],
-            max_tokens=400,
-            temperature=0.7,
-        )
-        letter = response.choices[0].message.content.strip()
-        print(f"  [IA] Cover letter generada con OpenRouter ({len(letter)} chars)")
-        return letter
-    except Exception as e:
-        print(f"  [IA] OpenRouter falló ({e}), usando plantilla estática")
-        return build_cover_letter_static(job)
+    # Intento 1: Google Gemini (OpenAI compatible endpoint, 100% gratuito)
+    if GEMINI_API_KEY:
+        try:
+            from openai import OpenAI
+            client = OpenAI(
+                base_url="https://generativelanguage.googleapis.com/v1beta/openai/",
+                api_key=GEMINI_API_KEY,
+            )
+            response = client.chat.completions.create(
+                model="gemini-2.0-flash",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=400,
+                temperature=0.7,
+            )
+            letter = response.choices[0].message.content.strip()
+            print(f"  [IA] Cover letter generada con Gemini 2.0 Flash ({len(letter)} chars)")
+            return letter
+        except Exception as e:
+            print(f"  [IA] Gemini falló ({e}), intentando OpenRouter...")
+
+    # Intento 2: OpenRouter
+    if OPENROUTER_API_KEY:
+        try:
+            from openai import OpenAI
+            client = OpenAI(
+                base_url="https://openrouter.ai/api/v1",
+                api_key=OPENROUTER_API_KEY,
+            )
+            response = client.chat.completions.create(
+                model="mistralai/mistral-7b-instruct:free",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=400,
+                temperature=0.7,
+            )
+            letter = response.choices[0].message.content.strip()
+            print(f"  [IA] Cover letter generada con OpenRouter ({len(letter)} chars)")
+            return letter
+        except Exception as e:
+            print(f"  [IA] OpenRouter falló ({e}), usando plantilla estática")
+
+    return build_cover_letter_static(job)
 
 
 def build_cover_letter_static(job: dict) -> str:

@@ -18,7 +18,7 @@ ERICK_PROFILE = {
     "titulo": "Economista & Data Scientist | AI Engineer",
     "github": "https://github.com/erick007bon",
     "linkedin": "https://www.linkedin.com/in/erick-flores-zambrano-69075b198",
-    "email": "eflores4006@utm.edu.ec",
+    "email": "erickflores6655@gmail.com",
     "mensaje_core": (
         "Solo busco una oportunidad para demostrar lo que puedo hacer. "
         "Soy aprendiz rápido y me comprometo al 100%."

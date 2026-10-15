@@ -61,7 +61,7 @@ class GmailSender:
 
         try:
             msg = MIMEMultipart()
-            sender = Config.EMAIL_SENDER or 'eflores4006@utm.edu.ec'
+            sender = Config.EMAIL_SENDER or 'erickflores6655@gmail.com'
             msg['From'] = f"Erick Flores Zambrano <{sender}>"
             msg['To'] = to
             msg['Subject'] = subject

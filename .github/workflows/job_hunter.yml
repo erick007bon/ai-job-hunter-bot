@@ -29,13 +29,15 @@ jobs:
     - name: 📁 Prepare directories
       run: mkdir -p data reportes cover_letters
 
-    - name: 📄 Reconstruct CV PDF
+    - name: 📄 Verify or Reconstruct CV PDF
       run: |
-        if [ -n "$CV_PDF_B64" ]; then
+        if [ -f "data/CV_Erick_Flores_EN.pdf" ] && [ -s "data/CV_Erick_Flores_EN.pdf" ]; then
+          echo "✓ CV existente verificado ($(wc -c < data/CV_Erick_Flores_EN.pdf) bytes)"
+        elif [ -n "$CV_PDF_B64" ]; then
           echo "$CV_PDF_B64" | base64 -d > data/CV_Erick_Flores_EN.pdf
-          echo "✓ CV restaurado ($(wc -c < data/CV_Erick_Flores_EN.pdf) bytes)"
+          echo "✓ CV restaurado desde secret ($(wc -c < data/CV_Erick_Flores_EN.pdf) bytes)"
         else
-          echo "⚠️ CV_PDF_B64 no configurado"
+          echo "⚠️ CV PDF no disponible"
         fi
       env:
         CV_PDF_B64: ${{ secrets.CV_PDF_B64 }}
@@ -47,12 +49,13 @@ jobs:
         CV_PATH:              data/CV_Erick_Flores_EN.pdf
         MAX_APPLICATIONS:     "5"
         AUTO_APPLY:           "true"
-        EMAIL_SENDER:         ${{ secrets.EMAIL_USER }}
-        EMAIL_USER:           ${{ secrets.EMAIL_USER }}
+        EMAIL_SENDER:         ${{ secrets.EMAIL_SENDER || 'erickflores6655@gmail.com' }}
+        EMAIL_USER:           ${{ secrets.EMAIL_USER || 'erickflores6655@gmail.com' }}
         EMAIL_PASSWORD:       ${{ secrets.EMAIL_PASSWORD }}
         SMTP_HOST:            smtp.gmail.com
         SMTP_PORT:            "587"
         SMTP_TLS:             "true"
+        GEMINI_API_KEY:       ${{ secrets.GEMINI_API_KEY }}
         OPENROUTER_API_KEY:   ${{ secrets.OPENROUTER_API_KEY }}
         HUNTER_API_KEY:       ${{ secrets.HUNTER_API_KEY }}
         LINKEDIN_LI_AT:       ${{ secrets.LINKEDIN_LI_AT }}

@@ -36,7 +36,10 @@ class EmailExtractor:
         'sentry', '@weworkremotely', '@getonbrd', 'bounce', 'mailer',
         'donotreply', 'postmaster', 'webmaster', '@linkedin', '@indeed',
         'gdpr@', 'privacy@', 'legal@', 'press@', 'abuse@', 'security@',
-        'unsubscribe', 'notification', 'hello@remotive'
+        'unsubscribe', 'notification', 'hello@remotive', 'addons.mozilla.org',
+        'mozilla.org', 'w3.org', 'schema.org', 'github.com', 'sentry.io',
+        'cloudflare.com', 'support@', 'info@jobicy', 'help@', 'billing@',
+        'sales@', 'hostmaster', 'domain@', 'closeforget'
     ]
     
     JOB_BOARD_DOMAINS = [
@@ -44,7 +47,7 @@ class EmailExtractor:
         'torre.ai', 'workingnomads.com', 'socioempleo.gob.ec', 'computrabajo.com',
         'linkedin.com', 'indeed.com', 'glassdoor.com', 'infojobs.net',
         'jobs.lever.co', 'boards.greenhouse.io', 'apply.workable.com',
-        'jobs.ashbyhq.com', 'careers.smartrecruiters.com'
+        'jobs.ashbyhq.com', 'careers.smartrecruiters.com', 'jobicy.com'
     ]
     
     HR_PREFIXES = [
@@ -59,9 +62,16 @@ class EmailExtractor:
     }
     
     def _is_valid_email(self, email: str) -> bool:
-        """Solo acepta emails que no son de portales ni bots"""
+        """Solo acepta emails que no son de portales, extensiones ni bots"""
         email_lower = email.lower()
-        return not any(skip in email_lower for skip in self.SKIP_EMAILS)
+        if any(skip in email_lower for skip in self.SKIP_EMAILS):
+            return False
+        domain = email_lower.split('@')[-1]
+        if any(board in domain for board in self.JOB_BOARD_DOMAINS):
+            return False
+        if any(ext in email_lower for ext in ['.png', '.jpg', '.svg', '.js', '.css']):
+            return False
+        return True
     
     def _is_hr_email(self, email: str) -> bool:
         prefix = email.split('@')[0].lower()
