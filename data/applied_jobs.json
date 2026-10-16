@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-16T01:04:28.549937",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/150667-data-scientist-product-analytics": {
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T17:14:43.627747",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/150666-data-engineer-product-analytics": {
+    "title": "Data Engineer, Product Analytics",
+    "company": "Meta",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T17:14:44.529833",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data": {
+    "title": "Tailscale: Analytics Engineer, Data",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T17:14:45.392765",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1920476/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T17:14:47.368718",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1915664/": {
+    "title": "AI Content Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T17:14:49.158633",
+    "reason": "Manual"
   }
 }
