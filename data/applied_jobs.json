@@ -127,5 +127,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-16T17:14:49.158633",
     "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist": {
+    "title": "Doximity: Commercial Data Scientist",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T20:42:53.733954",
+    "reason": "Manual"
   }
 }
