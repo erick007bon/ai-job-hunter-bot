@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-15T21:07:05.065758",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153258-analyst-ii-full-stack-revenue-analytics": {
+    "title": "Analyst II, Full Stack (Revenue Analytics)",
+    "company": "Affirm",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T01:04:25.032455",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153263-analytics-engineer-ii": {
+    "title": "Analytics Engineer II",
+    "company": "Affirm",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T01:04:25.854432",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/150584-data-engineer-marketing-systems": {
+    "title": "Data Engineer (Marketing Systems)",
+    "company": "Ruby Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T01:04:26.717097",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/149160-video-collection-latam-freelance-ai-trainer-project": {
+    "title": "Video Collection (LATAM) - Freelance AI Trainer Project",
+    "company": "Invisible Technologies",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T01:04:27.669403",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155241-data-analyst-4": {
+    "title": "Data Analyst",
+    "company": "RevenueCat",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-16T01:04:28.549937",
+    "reason": "Manual"
   }
 }
