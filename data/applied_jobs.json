@@ -151,5 +151,29 @@
     "status": "notified_manual",
     "notified_at": "2026-10-17T01:11:09.793906",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534": {
+    "title": "APAC Python",
+    "company": "Kodland",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-17T16:12:27.227684",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153391-analytics-platforms-architect": {
+    "title": "Analytics Platforms Architect",
+    "company": "Tala",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-17T16:12:27.910189",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153362-applied-ai-ml-engineer-2": {
+    "title": "Applied AI/ML Engineer",
+    "company": "Oddball",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-17T16:12:28.694715",
+    "reason": "Manual"
   }
 }
