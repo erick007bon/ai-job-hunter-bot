@@ -175,5 +175,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-17T16:12:28.694715",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155602-data-engineer-us-remote": {
+    "title": "Data Engineer - US Remote",
+    "company": "PerfectServe",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-17T20:20:20.523941",
+    "reason": "Manual"
   }
 }
