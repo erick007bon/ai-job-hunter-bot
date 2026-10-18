@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-18T16:25:25.856556",
     "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T20:20:08.508364",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist": {
+    "title": "Doximity: Commercial Data Scientist",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T20:20:09.401733",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data": {
+    "title": "Tailscale: Analytics Engineer, Data",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T20:20:10.252176",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1920476/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T20:20:13.046570",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1915664/": {
+    "title": "AI Content Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T20:20:14.917414",
+    "reason": "Manual"
   }
 }
