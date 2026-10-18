@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-18T00:44:16.493404",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538": {
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T16:25:22.598495",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T16:25:23.520508",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155653-machine-learning-engineer-4": {
+    "title": "Machine Learning Engineer",
+    "company": "StackAdapt",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T16:25:24.272234",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155646-machine-learning-engineer-ml-engineer-roleplay-sessions": {
+    "title": "Machine Learning Engineer / ML Engineer - Roleplay Sessions",
+    "company": "Synthesia",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T16:25:25.049353",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155602-data-engineer-us-remote": {
+    "title": "Data Engineer - US Remote",
+    "company": "PerfectServe",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-18T16:25:25.856556",
+    "reason": "Manual"
   }
 }
