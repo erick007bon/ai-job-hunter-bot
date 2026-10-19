@@ -8,12 +8,20 @@
     "email_sent_to": null,
     "cover_letter_path": null
   },
+  "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538": {
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-19T00:57:04.834805",
+    "reason": "Manual"
+  },
   "https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534": {
     "title": "APAC Python",
     "company": "Kodland",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-18T00:44:11.709880",
+    "notified_at": "2026-10-19T00:57:05.734282",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531": {
@@ -21,7 +29,7 @@
     "company": "AlgaeCal",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-18T00:44:12.785109",
+    "notified_at": "2026-10-19T00:57:06.633622",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513": {
@@ -29,7 +37,7 @@
     "company": "iMerit Technology",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-18T00:44:13.973876",
+    "notified_at": "2026-10-19T00:57:07.540883",
     "reason": "Manual"
   },
   "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415": {
@@ -37,95 +45,7 @@
     "company": "Mindrift - Data annotation",
     "source": "RemoteOK",
     "status": "notified_manual",
-    "notified_at": "2026-10-18T00:44:15.082732",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
-    "title": "Data Analyst",
-    "company": "SEAhub Asia",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T00:44:16.493404",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538": {
-    "title": "Software Engineer AI Coding Tasks",
-    "company": "Askable",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T16:25:22.598495",
-    "reason": "Manual"
-  },
-  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
-    "title": "ML Engineer",
-    "company": "Trunk Tools, Inc.",
-    "source": "RemoteOK",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T16:25:23.520508",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/155653-machine-learning-engineer-4": {
-    "title": "Machine Learning Engineer",
-    "company": "StackAdapt",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T16:25:24.272234",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/155646-machine-learning-engineer-ml-engineer-roleplay-sessions": {
-    "title": "Machine Learning Engineer / ML Engineer - Roleplay Sessions",
-    "company": "Synthesia",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T16:25:25.049353",
-    "reason": "Manual"
-  },
-  "https://jobicy.com/jobs/155602-data-engineer-us-remote": {
-    "title": "Data Engineer - US Remote",
-    "company": "PerfectServe",
-    "source": "Jobicy",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T16:25:25.856556",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
-    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T20:20:08.508364",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist": {
-    "title": "Doximity: Commercial Data Scientist",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T20:20:09.401733",
-    "reason": "Manual"
-  },
-  "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data": {
-    "title": "Tailscale: Analytics Engineer, Data",
-    "company": "Ver en enlace",
-    "source": "WeWorkRemotely",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T20:20:10.252176",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1920476/": {
-    "title": "Data Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T20:20:13.046570",
-    "reason": "Manual"
-  },
-  "https://www.workingnomads.com/job/go/1915664/": {
-    "title": "AI Content Analyst (No Experience Required)",
-    "company": "Peroptyx",
-    "source": "WorkingNomads",
-    "status": "notified_manual",
-    "notified_at": "2026-10-18T20:20:14.917414",
+    "notified_at": "2026-10-19T00:57:08.463048",
     "reason": "Manual"
   }
 }
