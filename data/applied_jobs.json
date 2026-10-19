@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-19T00:57:08.463048",
     "reason": "Manual"
+  },
+  "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158": {
+    "title": "Software Engineer, AI Coding Tasks",
+    "company": "Askable",
+    "source": "Remotive",
+    "status": "notified_manual",
+    "notified_at": "2026-10-19T19:09:51.225955",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
+    "title": "Data Analyst",
+    "company": "SEAhub Asia",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-19T19:09:52.632813",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-19T19:09:54.019943",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155822-business-intelligence-analyst-contractor": {
+    "title": "Business Intelligence Analyst (Contractor)",
+    "company": "Doximity",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-19T19:09:55.491503",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155799-research-scientist": {
+    "title": "Research Scientist",
+    "company": "Roboflow",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-19T19:09:57.010584",
+    "reason": "Manual"
   }
 }
