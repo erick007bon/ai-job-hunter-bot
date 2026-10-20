@@ -151,5 +151,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-20T17:50:49.572799",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/156010-analytics-engineer-5": {
+    "title": "Analytics Engineer",
+    "company": "Reddit",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T21:24:28.968051",
+    "reason": "Manual"
   }
 }
