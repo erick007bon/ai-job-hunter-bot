@@ -127,5 +127,29 @@
     "status": "notified_manual",
     "notified_at": "2026-10-20T01:39:04.643174",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153638-data-engineer-fedd024": {
+    "title": "Data Engineer (FedD024)",
+    "company": "Defense Unicorns",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T17:50:45.961902",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1920476/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T17:50:47.732506",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1915664/": {
+    "title": "AI Content Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T17:50:49.572799",
+    "reason": "Manual"
   }
 }
