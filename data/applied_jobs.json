@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-19T19:09:57.010584",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/155897-machine-learning-engineer-7": {
+    "title": "Machine Learning Engineer",
+    "company": "Twilio",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T01:39:01.981888",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/153580-financial-data-analyst-account-management": {
+    "title": "Financial Data Analyst, Account Management",
+    "company": "SmithRx",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T01:39:02.717901",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T01:39:03.358369",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist": {
+    "title": "Doximity: Commercial Data Scientist",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T01:39:03.996037",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/tailscale-analytics-engineer-data": {
+    "title": "Tailscale: Analytics Engineer, Data",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-20T01:39:04.643174",
+    "reason": "Manual"
   }
 }
