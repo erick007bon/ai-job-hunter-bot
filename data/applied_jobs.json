@@ -159,5 +159,21 @@
     "status": "notified_manual",
     "notified_at": "2026-10-20T21:24:28.968051",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/156082-765-data-analyst-healthcare-fraud": {
+    "title": "(765) Data Analyst (Healthcare Fraud)",
+    "company": "Arlo Solutions",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T01:24:37.280418",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/156047-manager-business-analytics-insights": {
+    "title": "Manager, Business Analytics & Insights",
+    "company": "BetterHelp",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T01:24:38.164587",
+    "reason": "Manual"
   }
 }
