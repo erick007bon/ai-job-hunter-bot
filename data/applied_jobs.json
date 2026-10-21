@@ -47,5 +47,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-21T17:57:42.951417",
     "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-freelance-grabacion-de-tareas-cotidianas-para-proyecto-de-ia-mindrift-data-annotation-1137415": {
+    "title": "Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA",
+    "company": "Mindrift - Data annotation",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T21:32:14.637929",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222": {
+    "title": "Data Analyst",
+    "company": "SEAhub Asia",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T21:32:15.624005",
+    "reason": "Manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ml-engineer-trunk-tools-inc-1131329": {
+    "title": "ML Engineer",
+    "company": "Trunk Tools, Inc.",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T21:32:16.956647",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/156241-data-architect-2": {
+    "title": "Data Architect",
+    "company": "Caylent",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T21:32:17.897211",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/156082-765-data-analyst-healthcare-fraud": {
+    "title": "(765) Data Analyst (Healthcare Fraud)",
+    "company": "Arlo Solutions",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T21:32:18.734461",
+    "reason": "Manual"
   }
 }
