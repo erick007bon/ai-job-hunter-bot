@@ -92,10 +92,10 @@ def _get_applier_by_domain(domain: str, url: str) -> Optional["BaseApplier"]:
         from src.appliers.multitrabajos_applier import MultitrabajosApplier
         return MultitrabajosApplier()
 
-    # LinkedIn: usa linkedin-api (no Playwright) para Easy Apply y ATS externo
+    # LinkedIn: usa LinkedInEasyApplyBot con rate limiting y motor de screening questions
     if 'linkedin.com' in domain:
-        from src.appliers.linkedin_applier import LinkedInApplier
-        return LinkedInApplier()
+        from src.appliers.linkedin_easy_apply_bot import LinkedInEasyApplyBot
+        return LinkedInEasyApplyBot()
 
     return None
 

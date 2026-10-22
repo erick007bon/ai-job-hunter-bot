@@ -1,0 +1,112 @@
+{
+  "personal": {
+    "first_name": "Erick",
+    "last_name": "Flores Zambrano",
+    "full_name": "Erick Reinaldo Flores Zambrano",
+    "email": "erickflores6655@gmail.com",
+    "phone_country_code": "+593",
+    "phone_number": "0963951193",
+    "full_phone": "+593963951193",
+    "city": "Machala",
+    "state": "El Oro",
+    "country": "Ecuador",
+    "postal_code": "070101",
+    "linkedin_url": "https://www.linkedin.com/in/erick-flores-zambrano-69075b198/",
+    "github_url": "https://github.com/erick007bon",
+    "portfolio_url": "https://github.com/erick007bon"
+  },
+  "work_authorization": {
+    "legally_authorized": true,
+    "require_sponsorship": false,
+    "require_visa": false,
+    "ecuador_citizen": true,
+    "remote_ready": true,
+    "over_18": true
+  },
+  "experience_years": {
+    "python": 3,
+    "sql": 3,
+    "machine_learning": 2,
+    "data_science": 2,
+    "power_bi": 2,
+    "fastapi": 2,
+    "pytorch": 1,
+    "tensorflow": 1,
+    "aws": 1,
+    "git": 3,
+    "etl": 2,
+    "econometrics": 3,
+    "default": 2
+  },
+  "languages": {
+    "spanish": "Nativo / Native or bilingual",
+    "english": "B2 / Profesional / Professional working"
+  },
+  "salary": {
+    "monthly_min_usd": 600,
+    "monthly_target_usd": 900,
+    "annual_min_usd": 12000,
+    "hourly_rate_usd": 10
+  },
+  "education": {
+    "highest_level": "Estudiante Universitario / Bachelor's in progress",
+    "degree_1": "Economía (8vo Semestre) - Universidad Técnica de Manabí",
+    "degree_2": "Ingeniería en Ciencia de Datos e IA (6to Semestre) - Universidad de Guayaquil",
+    "gpa": "8.5 / 10"
+  },
+  "availability": {
+    "notice_period_weeks": 0,
+    "start_date": "Inmediata / Immediately",
+    "willing_to_relocate": "Guayaquil / Remoto / Remote"
+  },
+  "common_patterns": [
+    {
+      "keywords": ["años", "years", "experiencia", "experience", "python"],
+      "answer": "3"
+    },
+    {
+      "keywords": ["años", "years", "experiencia", "experience", "sql"],
+      "answer": "3"
+    },
+    {
+      "keywords": ["años", "years", "experiencia", "experience", "machine learning", "ia", "ai"],
+      "answer": "2"
+    },
+    {
+      "keywords": ["años", "years", "experiencia", "experience", "power bi", "bi"],
+      "answer": "2"
+    },
+    {
+      "keywords": ["años", "years", "experiencia", "experience", "aws"],
+      "answer": "1"
+    },
+    {
+      "keywords": ["autorizado", "authorized", "derecho a trabajar", "legally authorized"],
+      "answer": "Yes"
+    },
+    {
+      "keywords": ["patrocinio", "sponsorship", "visa"],
+      "answer": "No"
+    },
+    {
+      "keywords": ["inglés", "english"],
+      "answer": "Professional"
+    },
+    {
+      "keywords": ["español", "spanish"],
+      "answer": "Native"
+    },
+    {
+      "keywords": ["salario", "salary", "compensación", "compensation", "expectativa salarial"],
+      "answer": "800"
+    },
+    {
+      "keywords": ["disponibilidad", "notice period", "incorporación"],
+      "answer": "Inmediata"
+    },
+    {
+      "keywords": ["remoto", "remote", "teletrabajo"],
+      "answer": "Yes"
+    }
+  ]
+}

@@ -17,7 +17,7 @@ def run_refresh():
         result = subprocess.run(
             [sys.executable, "solve_linkedin_challenge.py"],
             text=True,
-            timeout=650 # 10 min max, para darle tiempo a esperar el PIN
+            timeout=35 # 35s max para evitar que el bot se cuelgue si no hay PIN
         )
         if result.returncode == 0:
             logger.info("[AuthRefresh] Renovación exitosa")
