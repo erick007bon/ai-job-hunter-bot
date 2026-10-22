@@ -29,15 +29,14 @@ jobs:
     - name: 📁 Prepare directories
       run: mkdir -p data reportes cover_letters
 
-    - name: 📄 Verify or Reconstruct CV PDF
+    - name: 📄 Verify CV PDFs
       run: |
-        if [ -f "data/CV_Erick_Flores_EN.pdf" ] && [ -s "data/CV_Erick_Flores_EN.pdf" ]; then
-          echo "✓ CV existente verificado ($(wc -c < data/CV_Erick_Flores_EN.pdf) bytes)"
-        elif [ -n "$CV_PDF_B64" ]; then
-          echo "$CV_PDF_B64" | base64 -d > data/CV_Erick_Flores_EN.pdf
-          echo "✓ CV restaurado desde secret ($(wc -c < data/CV_Erick_Flores_EN.pdf) bytes)"
-        else
-          echo "⚠️ CV PDF no disponible"
+        ls -la data/*.pdf || true
+        if [ -f "data/CV_Erick_Flores_Data_AI.pdf" ]; then
+          echo "✓ CV Data/AI verificado"
+        fi
+        if [ -f "data/CV_Erick_Flores_Pasantias.pdf" ]; then
+          echo "✓ CV Pasantías verificado"
         fi
       env:
         CV_PDF_B64: ${{ secrets.CV_PDF_B64 }}
@@ -46,9 +45,9 @@ jobs:
       env:
         TELEGRAM_BOT_TOKEN:   ${{ secrets.TELEGRAM_BOT_TOKEN }}
         TELEGRAM_CHAT_ID:     ${{ secrets.TELEGRAM_CHAT_ID }}
-        CV_PATH:              data/CV_Erick_Flores_EN.pdf
-        MAX_APPLICATIONS:     "5"
-        AUTO_APPLY:           "true"
+        CV_PATH:              data/CV_Erick_Flores_Data_AI.pdf
+        MAX_APPLICATIONS:     "15"
+        AUTO_APPLY:           "false"
         EMAIL_SENDER:         ${{ secrets.EMAIL_SENDER || 'erickflores6655@gmail.com' }}
         EMAIL_USER:           ${{ secrets.EMAIL_USER || 'erickflores6655@gmail.com' }}
         EMAIL_PASSWORD:       ${{ secrets.EMAIL_PASSWORD }}

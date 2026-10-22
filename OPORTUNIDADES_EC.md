@@ -34,7 +34,7 @@
 ### 1. Pasantías Preprofesionales BIESS (Datos / Finanzas / Riesgos)
 - **Empresa:** Banco del Instituto Ecuatoriano de Seguridad Social (BIESS)
 - **Puntaje:** 10 / 10 (Alineación total: Economía + Ciencia de Datos)
-- **CV a utilizar:** `data/CV_Erick_Flores_Pasantias_BIESS.pdf`
+- **CV a utilizar:** `data/CV_Erick_Flores_Pasantias.pdf` (CV universal de pasantías, economía y banca)
 - **Canal de envío:** Correo directo a `pasantias.biess@biess.fin.ec`
 - **Asunto sugerido:** `Postulación Pasantías Preprofesionales 2026 – Erick Flores Zambrano (Economía / Datos)`
 
@@ -64,7 +64,7 @@ Machala, El Oro – Ecuador
 ### 2. Pasante / Asistente de Operaciones y TI — Banco de Machala
 - **Empresa:** Banco de Machala S.A.
 - **Puntaje:** 9.8 / 10 (Prioridad territorial: Sede Matriz en Machala)
-- **CV a utilizar:** `data/CV_Erick_Flores_Pasantias_BIESS.pdf` (versión bancaria/económica)
+- **CV a utilizar:** `data/CV_Erick_Flores_Pasantias.pdf` (CV universal de pasantías, economía y banca)
 - **Canal de envío:** `rrhh@bancomachala.com` y ventanilla de Talento Humano en Matriz Machala
 - **Asunto sugerido:** `Postulación Pasantías / Asistente Operaciones y TI – Erick Flores Zambrano`
 

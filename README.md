@@ -1,188 +1,128 @@
 # 🤖 AI Job Hunter Bot V7 — Autonomous Tech Recruiter & Job Hunter
 
-Bot autónomo de búsqueda, filtrado, postulación y networking en **Data Science, Artificial Intelligence, Machine Learning & Business Intelligence** para trabajo remoto en Ecuador, Latinoamérica y Global.
+Bot autónomo de búsqueda, filtrado, postulación y networking en **Data Science, Artificial Intelligence, Machine Learning, Business Intelligence & Finanzas** para Ecuador (Machala / El Oro / Guayaquil / Nacional) y Trabajo Remoto Global.
 
-**Candidato**: Erick Flores Zambrano — Economista (UTM) & Estudiante de Ing. en Ciencia de Datos e IA (UG)  
-**Servidor**: Google Cloud Platform (VM `job-hunter-bot`, Debian 12, 24/7) + GitHub Actions  
-**CV Oficial**: `data/CV_Erick_Flores_Data_AI.pdf` (generado desde HTML ATS-friendly)
-
----
-
-## ¿Qué hace el sistema?
-
-Cada **4 horas** de forma 100% autónoma en la nube:
-
-1. **Scraping Multi-Canal (120+ ofertas)**:
-   - **LinkedIn (Ecuador & LATAM)**: Búsquedas dirigidas (`Aprendizaje automático`, `Inteligencia Artificial`, `Data Analyst`, `Excel`, `Python`, `Ciencia de Datos`) con filtro remoto y ventana de 7 días.
-   - **Bolsas globales**: Remotive, RemoteOK, GetOnBoard, Jobicy, WeWorkRemotely, WorkingNomads.
-
-2. **Filtrado Inteligente (MatchEngine)**:
-   - Valida roles relevantes en español e inglés (ML, Deep Learning, LLMs, Computer Vision, Data Science, BI, Power BI, SQL, Data Entry, Economía Cuantitativa).
-   - Descarta off-topic absoluto (ventas, diseño, soporte al cliente) y puestos que exigen 10+ años de antigüedad.
-
-3. **Memoria Persistente y Auto-Reparable (MemoryStore)**:
-   - Previene spam o duplicados.
-   - Auto-recupera oportunidades que no hayan sido postuladas efectivamente.
-
-4. **Estrategia Híbrida de Postulación & Despacho (1-Tap Apply)**:
-   - **Auto-Postulación**: Intenta Easy Apply nativo vía Voyager API y portales ATS compatibles (Greenhouse, Lever).
-   - **Despacho Directo a Telegram (1-Click)**: Si la oferta requiere cuestionario personalizado o portal externo (ej. formularios de Airtable, Teamtailor, BairesDev), el bot extrae la URL directa del formulario y la envía de inmediato a Telegram con un pitch profesional listo para copiar y pegar.
-   - **Cold-Email**: Envío directo con CV adjunto cuando se detecta email de RRHH verificado.
-
-5. **Networking Automatizado con Reclutadores**:
-   - Conecta con reclutadores de talento de IA/Datos en LATAM y remoto desde la cuenta de LinkedIn del usuario (3 invitaciones por ciclo, ~18 al día de forma segura).
-
-6. **Notificación & Reportes**:
-   - Mensajería instantánea a Telegram vía `@erick_job_hunter_bot`.
-   - Generación de reportes markdown detallados en `reportes/`.
+- **Candidato:** Erick Flores Zambrano — Economista (UTMACH) & Ing. en Ciencia de Datos e IA (UG)  
+- **Correo Principal:** `erickflores6655@gmail.com`  
+- **Infraestructura:** GitHub Actions CI/CD (100% Gratuito y Serverless, 3 ejecuciones diarias) + Ejecución Local en Windows  
+- **Canal de Notificaciones:** Telegram Bot ([@erick_job_alerts_bot](https://t.me/erick_job_alerts_bot))  
 
 ---
 
-## Estructura
+## 📄 CVs Maestros Estandarizados (Permanentes)
 
-```
-main_v6.py                          ← Orquestador principal
-src/
-├── scrapers/
-│   ├── linkedin_scraper.py         ← LinkedIn via linkedin-api
-│   ├── api_scrapers.py             ← Remotive, RemoteOK, GetOnBoard, Jobicy
-│   └── latam_scrapers.py           ← WeWorkRemotely, WorkingNomads
-├── linkedin/
-│   ├── linkedin_client.py          ← Autenticación + search_jobs + search_people
-│   └── recruiter_connector.py      ← 8 conexiones/corrida con reclutadores
-├── appliers/
-│   ├── router.py                   ← Detecta ATS y decide applier
-│   ├── linkedin_applier.py         ← Easy Apply via Voyager API POST
-│   ├── greenhouse_applier.py       ← Playwright → boards.greenhouse.io
-│   ├── lever_applier.py            ← Playwright → jobs.lever.co
-│   └── workable_applier.py         ← Playwright → apply.workable.com
-├── filters/match_engine.py         ← Filtra por rol / nivel / idioma
-├── memory/memory_store.py          ← Anti-duplicados (SQLite)
-├── extractors/email_extractor.py   ← Hunter.io para emails de RRHH
-├── notifications/telegram_notifier.py
-└── email/gmail_sender.py
+Para asegurar consistencia en todas las postulaciones futuras, el sistema cuenta con **tres CVs base universales** en `data/`:
+
+| Archivo | Ámbito de Aplicación | Enfoque Principal |
+|---|---|---|
+| `data/CV_Erick_Flores_Pasantias.pdf` | **Pasantías Universitarias, Banca, Finanzas y Sector Público** | Prácticas preprofesionales, análisis macro/micro, riesgo crediticio, econometría, SQL y Power BI. |
+| `data/CV_Erick_Flores_Data_AI.pdf` | **Empleos Tech, Ingeniería de Datos, Data Analyst & ML** | Python, FastAPI, PyTorch, modelos predictivos, pipelines ETL, arquitecturas en la nube. |
+| `data/CV_Erick_Flores_EN.pdf` | **Vacantes Internacionales y Remoto Global en Inglés** | ATS en inglés optimizado para roles de Data Science, Machine Learning y Data Annotation. |
+
+---
+
+## ⚡ ¿Qué hace el sistema en cada ciclo?
+
+El pipeline se ejecuta automáticamente cada día en **GitHub Actions** (08:00, 13:00 y 18:00 hora Ecuador) y de forma local con `python main_v6.py`:
+
+1. **Scraping Multi-Canal (130+ ofertas por ciclo):**
+   - 🇪🇨 **Ecuador Especializado (`src/scrapers/ecuador_scrapers.py`):**
+     - **Computrabajo Ecuador:** Scraper en vivo de pasantías, sistemas, analítica y vacantes en El Oro / Machala.
+     - **Banca Nacional:** Monitoreo activo de BIESS, Banco Pichincha, Banco Guayaquil, Banco de Machala y Produbanco.
+     - **Agroexportación Costa:** Convocatorias de Industrial Pesquera Santa Priscila S.A., Reybanpac y cbc Ecuador (Grupo Mariposa).
+   - 🔵 **LinkedIn (Ecuador & LATAM):** Búsqueda con geolocalización y Voyager API.
+   - 🌐 **Bolsas Remotas Globales:** GetOnBoard (LATAM), Remotive, RemoteOK, Jobicy, WeWorkRemotely, WorkingNomads.
+
+2. **Filtrado Inteligente con MatchEngine:**
+   - Valida roles afines a Data, AI, BI, Python, SQL, Econometría y Pasantías.
+   - Descarta puestos senior (+8 años de experiencia), soporte básico y áreas no afines.
+
+3. **Memoria Persistente y Deduplicación (`MemoryStore` & `FunnelDB`):**
+   - Evita duplicados y previene loops de spam en Telegram manteniendo registro de ofertas enviadas (`applied_success`) y despachadas para acción manual (`notified_manual`).
+   - Base de datos relacional SQLite en `data/funnel.db` con registro de fecha, empresa, enlace y estado.
+
+4. **Postulación Activa Híbrida:**
+   - **Envío Directo por Correo (Cold-Email con PDF adjunto):** Envía correo formal con carta personalizada y CV adjunto a correos de RRHH verificados (`pasantias.biess@biess.fin.ec`, `smunoz@santa-priscila.com`, `rrhh@bancomachala.com`). Cabecera `Reply-To` dirigida a `erickflores6655@gmail.com`.
+   - **Postulación Asistida 1-Tap a Telegram:** Para ofertas que requieren login corporativo (Oracle Cloud, SuccessFactors, Computrabajo), el bot genera una tarjeta interactiva con enlace limpio y carta de presentación redactada lista para copiar y pegar.
+
+5. **Networking Automatizado en LinkedIn:**
+   - Envío orgánico y seguro de invitaciones de conexión a reclutadores de IA y Datos en la región.
+
+---
+
+## 🚀 Plan para Llevar la Auto-Postulación en LinkedIn al "Siguiente Nivel"
+
+Para automatizar la postulación en LinkedIn a escala sin riesgo de suspensión de cuenta, se establece la siguiente hoja de ruta de tres fases:
+
+```mermaid
+graph TD
+    A[Fase 1: Conexión Activa y Filtro Easy Apply] --> B[Fase 2: Motor de Respuestas Psicométricas y Preguntas de Filtro]
+    B --> C[Fase 3: Auto-Apply Híbrido Playwright / Voyager con Rate Limiting]
 ```
 
+### Fase 1: Sesión Persistente y Filtrado Exclusivo de "Easy Apply"
+- **Objetivo:** Filtrar empleos con el tag nativo `f_LF=f_AL` (Easy Apply) que se puedan procesar dentro del ecosistema de LinkedIn.
+- **Herramienta:** Uso de sesión activa mediante `linkedin-mcp` y almacenamiento de cookies locales para operar con tu perfil real (`Erick Flores Zambrano`).
+
+### Fase 2: Motor Inteligente de Preguntas de Formulario (Question Answering Engine)
+- En Easy Apply, LinkedIn suele desplegar modales de 2 a 5 pasos preguntando:
+  - Teléfono (`+593 096 395 1193`)
+  - Años de experiencia con Python/SQL (`2-3 años`)
+  - Autorización legal para trabajar en Ecuador (`Sí`)
+  - Nivel de inglés (`Profesional / B2`)
+  - Salario esperado (`$600 - $1,200 USD`)
+- **Implementación:** Archivo de respuestas maestras estructurado en `data/screening_answers.json` + motor de heurística LLM (Gemini) para inferir respuestas de selección múltiple automáticamente.
+
+### Fase 3: Ejecución Playwright Headless con Rate Limiting Riguroso
+- **Seguridad Antiban:** Máximo **10 a 15 postulaciones Easy Apply al día**, espaciadas con retardos aleatorios tipo humano (20 a 45 segundos por postulación).
+- **Subida de CV Dinámica:** Si la vacante es internacional/inglés, adjunta `data/CV_Erick_Flores_EN.pdf`; si es en español, adjunta `data/CV_Erick_Flores_Data_AI.pdf`.
+- **Verificación de Confirmación:** Valida el modal "Postulación enviada" antes de marcar como exitosa en `funnel.db`. Si surge un captcha o pregunta compleja no mapeada, aborta y te manda el enlace a Telegram para que no pierdas la oferta.
+
 ---
 
-## Cómo corre en producción
+## 🛠️ Estructura del Repositorio
 
-### Servidor Cloud (principal, 24/7)
+```
+├── .github/workflows/
+│   └── job_hunter.yml          ← Cron 3x/día en GitHub Actions (Serverless)
+├── data/
+│   ├── CV_Erick_Flores_Pasantias.pdf   ← CV Universal Pasantías y Banca
+│   ├── CV_Erick_Flores_Data_AI.pdf     ← CV Universal Data, AI & Engineering
+│   ├── CV_Erick_Flores_EN.pdf          ← CV Universal Inglés / Remoto
+│   ├── applied_jobs.json               ← Registro de deduplicación
+│   └── funnel.db                       ← Base de datos SQLite de aplicaciones
+├── src/
+│   ├── scrapers/
+│   │   ├── ecuador_scrapers.py ← Computrabajo EC, Banca y Agroexportación
+│   │   ├── linkedin_scraper.py ← LinkedIn Voyager API
+│   │   ├── api_scrapers.py     ← GetOnBoard, Remotive, RemoteOK, Jobicy
+│   │   └── latam_scrapers.py   ← WeWorkRemotely, WorkingNomads
+│   ├── appliers/
+│   │   ├── base_applier.py     ← ApplyStatus (SUBMITTED, NEEDS_MANUAL, ERROR)
+│   │   ├── greenhouse_applier.py
+│   │   ├── lever_applier.py
+│   │   └── linkedin_applier.py
+│   ├── filters/match_engine.py
+│   ├── memory/memory_store.py
+│   ├── memory/funnel_db.py
+│   └── notifications/telegram_notifier.py
+├── execute_applications.py     ← Script de despacho y postulación inmediata
+├── main_v6.py                  ← Orquestador general del ciclo
+├── OPORTUNIDADES_EC.md         ← Listado maestro de 12 ofertas puntuadas
+└── requirements.txt
+```
+
+---
+
+## 💻 Ejecución Local
+
 ```bash
-# Conectarse al servidor por SSH
-ssh tu_usuario@tu-servidor-cloud
-
-# Entrar al proyecto (alias)
-bot
-
-# Correr manualmente
+# 1. Ejecutar ciclo completo de búsqueda y matching
 python main_v6.py
 
-# Correr en modo prueba (sin postular)
+# 2. Ejecutar postulación activa y despacho a Telegram
+python execute_applications.py
+
+# 3. Ejecutar solo en modo prueba (sin enviar correos ni postulaciones)
 python main_v6.py --dry-run
-
-# Ver crontab
-crontab -l
 ```
-
-**Crontab configurado** (corre cada 4 horas automáticamente):
-```
-0 */4 * * * cd ~/ai-job-hunter-bot && source venv/bin/activate && python main_v6.py >> ~/logs/job_hunter.log 2>&1
-```
-
-### GitHub Actions (backup, 6 veces/día)
-- Se activa en: 7am, 10am, 1pm, 4pm, 7pm, 10pm (Ecuador)
-- Workflow: `.github/workflows/job_hunter.yml`
-- Ejecución manual: ir a **Actions** → **AI Job Hunter V7** → **Run workflow**
-
----
-
-## ⚙️ Configuración
-
-Copia `.env.example` a `.env` y completa con tus credenciales:
-
-```bash
-cp .env.example .env
-```
-
-Todas las variables necesarias están documentadas en [`.env.example`](.env.example).  
-Para GitHub Actions, configura los mismos valores como **Repository Secrets** (`Settings → Secrets → Actions`).
-
----
-
-## 🚀 Bitácora de Sesión — 2026-09-12 (Hito V7: Operación en Producción y Telegram 1-Tap)
-
-### 1. Resumen Ejecutivo
-En esta sesión se puso en marcha de punta a punta el bot en la **VM de Cloud**, superando los bloqueos de LinkedIn, adaptando la búsqueda a las ofertas reales de **Ecuador y LATAM Remoto**, y habilitando un canal directo a **Telegram con despacho 1-Tap** que extrae hasta formularios ocultos de ATS externos (ej. Airtable, BairesDev, Teamtailor).
-
-### 2. Logros Técnicos y Soluciones Implementadas
-
-1. **Resolución de Autenticación LinkedIn y Eliminación de Loops 302:**
-   - **Problema:** El endpoint legacy `/voyager/api/me` causaba `Exceeded 30 redirects` bloqueando la sesión.
-   - **Solución:** Se corrigió `src/linkedin/linkedin_client.py` para validar cookies contra búsquedas reales (`search_jobs`).
-   - **Solución de Challenge 2FA:** Se implementó `solve_linkedin_challenge.py` usando el endpoint nativo móvil (`/uas/authenticate`). Esto elude Cloudflare en 0.8s, procesa el PIN de correo enviado por LinkedIn y actualiza `.env` automáticamente.
-
-2. **Búsqueda Geodirigida (Ecuador & LATAM Remoto):**
-   - Se ajustó `src/scrapers/linkedin_scraper.py` con `geoId=106373116` (Ecuador), filtro remoto `f_WT=2` y ventana de tiempo de 7 días (`f_TPR=r604800` / `listed_at=604800`).
-   - Búsquedas con roles en español e inglés: `Aprendizaje automático`, `Inteligencia Artificial`, `Ciencia de Datos`, `Data Analyst`, `Excel`, `Machine Learning`, `Python`, `Power BI`.
-
-3. **Pipeline de Despacho 1-Tap a Telegram:**
-   - Se configuró el bot de Telegram para despacho en tiempo real a tu chat privado.
-   - Cada oferta compatible despacha una tarjeta con: título, empresa, enlace directo completo (sin truncar), nivel de compatibilidad y **un pitch profesional pre-redactado listo para copiar y pegar**.
-   - Se incrementó `MAX_APPLICATIONS=25` y se agregó `clean_unverified_entries` en `MemoryStore` para evitar que ofertas con formularios externos se den por postuladas sin haber sido enviadas.
-
-4. **Desentierro de Formularios Ocultos ATS:**
-   - Comprobación real con la oferta capturada en screenshot: `Product Builder | Diseño, IA y Producto @ Familify` (`job_id=4465810598`).
-   - En lugar de fallar por no tener Easy Apply nativo, el bot identificó el formulario real de Airtable y lo entregó en Telegram para postulación inmediata.
-
-5. **Networking Automatizado en Vivo con Reclutadores:**
-   - Conexión orgánica con reclutadores de IA/Datos en LATAM alcanzando más de 20 contactos directos.
-
-6. **Generación del CV ATS-Friendly Oficial:**
-   - Creación de `data/CV_Erick_Flores_Data_AI.html` y compilación a `data/CV_Erick_Flores_Data_AI.pdf` (494 KB).
-   - Estándar: 1 columna, tipografía Inter, acento `#0057FF`, métricas reales cuantificadas de proyectos (BananaAI 94% mAP, FCH-ARX V2 NIST 49.95%, Forensic NLP+RAG) y palabras clave optimizadas para sistemas ATS.
-
-7. **Aclaración Técnica: Pestaña "Solicitados" en LinkedIn vs ATS Externo:**
-   - **Por qué LinkedIn marcaba 0 en "Solicitados":** LinkedIn *únicamente* contabiliza en su UI las postulaciones que se completan dentro del modal nativo "Solicitud Sencilla" (Easy Apply). Si una vacante redirige a un ATS externo (Airtable, Greenhouse, Lever, etc.) o exige cuestionarios personalizados con preguntas de visado o salario, la postulación ocurre fuera de LinkedIn y la confirmación llega a tu correo de contacto.
-   - **Garantía del Bot:** El bot intenta el Easy Apply nativo; si detecta formularios externos o cuestionarios, extrae el enlace directo y lo envía a Telegram para que el candidato aplique en 10 segundos con su perfil.
-
-### 3. Métricas de la Ejecución en Producción
-- **Ofertas Totales Escaneadas:** 122 (34 de LinkedIn + 88 de bolsas remotas).
-- **Ofertas Compatibles Filtradas:** 31 vacantes afines a Data/AI/BI.
-- **Ofertas Despachadas a Telegram:** 25 tarjetas enriquecidas enviadas en tiempo real.
-- **Conexiones a Reclutadores:** 3 invitaciones enviadas en el ciclo (22 acumuladas en LinkedIn).
-- **Crontab:** Activo cada 4 horas (`0 */4 * * *`) ejecutando en segundo plano en la VM.
-
----
-
-## 📍 ¿Dónde ver tus postulaciones y conexiones en LinkedIn?
-
-1. **Postulaciones Easy Apply nativas:**  
-   `https://www.linkedin.com/jobs/tracker/applied/`  
-   *(En LinkedIn: Empleos → Mis empleos → Solicitudes de empleo)*.
-
-2. **Postulaciones ATS Externas (Greenhouse, Lever, Airtable, etc.):**  
-   Llegan directamente a tu correo como confirmación oficial de la empresa contratante.
-
-3. **Invitaciones a Reclutadores enviadas:**  
-   `https://www.linkedin.com/mynetwork/invitation-manager/sent/`  
-   *(En LinkedIn: Mi red → Gestionar invitaciones → pestaña Enviadas)*.
-
----
-
-## 🤖 Handover para Modelos de IA / Futuros Agentes
-
-> **Instrucciones para cualquier IA que continúe este proyecto:**
-
-1. **Entorno de Ejecución:**
-   - El código corre en producción en una VM Debian 12 de Cloud.
-   - Crontab corre `python main_v6.py` cada 4 horas.
-2. **Archivos Centrales:**
-   - [main_v6.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/main_v6.py): Orquestador principal que ejecuta scraping, filtrado, deduplicación, aplicación, networking y despacho.
-   - [src/scrapers/linkedin_scraper.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/src/scrapers/linkedin_scraper.py): Scraper que consulta Voyager API de LinkedIn con geolocalización Ecuador/LATAM y 7 días.
-   - [src/filters/match_engine.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/src/filters/match_engine.py): Motor de matching con reglas positivas para Data/AI/BI y filtros de descarte.
-   - [src/notifications/telegram_notifier.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/src/notifications/telegram_notifier.py): Formatea y envía las tarjetas de empleo y reportes.
-   - [src/linkedin/recruiter_connector.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/src/linkedin/recruiter_connector.py): Envía solicitudes de conexión a reclutadores de Data/AI con rate-limiting seguro.
-   - [solve_linkedin_challenge.py](file:///c:/Users/Erick%20Zambrano/Desktop/linkedin/ai-job-hunter-bot/solve_linkedin_challenge.py): Script autónomo para resolver challenges 2FA y refrescar cookies sin Cloudflare.
-3. **Próximo Objetivo de Desarrollo:**
-   - Desarrollar el módulo de **Scraping de Publicaciones de Reclutadores en LinkedIn**: buscar posts con palabras clave (`#hiring`, `buscamos data analyst`, `envía tu cv a`), extraer correos electrónicos de RRHH usando regex / OCR / LLM para imágenes de flyers, y enviar cold-emails automáticos con el CV adjunto mediante Gmail SMTP.

@@ -43,7 +43,7 @@ EMAIL_TARGETS = [
         "url": "https://www.biess.fin.ec/pasantias",
         "to_email": "pasantias.biess@biess.fin.ec",
         "subject": "Postulación Pasantías Preprofesionales 2026 – Erick Flores Zambrano (Economía / Datos)",
-        "cv_path": os.path.abspath("data/CV_Erick_Flores_Pasantias_BIESS.pdf"),
+        "cv_path": os.path.abspath("data/CV_Erick_Flores_Pasantias.pdf"),
         "body": """Estimado Equipo de Selección y Talento Humano del BIESS,
 
 Me dirijo a ustedes con el propósito de postular formalmente a su Convocatoria Nacional de Pasantías Preprofesionales para las áreas de Gestión de Riesgo Crediticio, Inteligencia de Negocios o Inversiones.
@@ -92,7 +92,7 @@ Machala, Ecuador"""
         "url": "https://www.bancomachala.com",
         "to_email": "rrhh@bancomachala.com",
         "subject": "Postulación Pasantías / Asistente Operaciones y TI – Erick Flores Zambrano",
-        "cv_path": os.path.abspath("data/CV_Erick_Flores_Pasantias_BIESS.pdf"),
+        "cv_path": os.path.abspath("data/CV_Erick_Flores_Pasantias.pdf"),
         "body": """Estimados miembros del Departamento de Talento Humano de Banco de Machala,
 
 Por medio de la presente, presento mi postulación para oportunidades de pasantías o asistencia operativa y tecnológica en su Sede Matriz en la ciudad de Machala.
