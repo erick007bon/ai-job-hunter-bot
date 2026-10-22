@@ -210,5 +210,29 @@
     "status": "notified_manual",
     "notified_at": "2026-10-21T22:58:51.498949",
     "reason": "Manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-comercial-con-experiencia-en-guayaquil-05A4A5E49271C6C461373E686DCF3405#lc=ListOffers-Score3-2": {
+    "title": "Analista comercial",
+    "company": "ANCISA S.A.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-22T17:53:38.563298",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/156376-data-analytics-revenue-reporting-specialist": {
+    "title": "Data Analytics & Revenue Reporting Specialist",
+    "company": "LevelUp",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-22T17:53:38.988274",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/151141-aws-data-engineer-associate": {
+    "title": "AWS Data Engineer (Associate)",
+    "company": "Mactores",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-22T17:53:39.409217",
+    "reason": "Modo manual"
   }
 }
