@@ -135,5 +135,56 @@
     "status": "notified_manual",
     "notified_at": "2026-10-22T01:22:00.176970",
     "reason": "Manual"
+  },
+  "https://www.biess.fin.ec/pasantias": {
+    "title": "Pasantías Preprofesionales Universitarias BIESS (Datos / Finanzas / Riesgos / TI)",
+    "company": "Banco del Instituto Ecuatoriano de Seguridad Social (BIESS)",
+    "source": "Cold Email RRHH",
+    "status": "applied_success",
+    "applied_at": "2026-10-21T20:55:48.530246",
+    "email_sent_to": null,
+    "cover_letter_path": null
+  },
+  "https://santa-priscila.com": {
+    "title": "Asistente / Pasante de Sistemas y Control de Gestión",
+    "company": "Industrial Pesquera Santa Priscila S.A.",
+    "source": "Cold Email RRHH",
+    "status": "applied_success",
+    "applied_at": "2026-10-21T20:55:54.512616",
+    "email_sent_to": null,
+    "cover_letter_path": null
+  },
+  "https://www.bancomachala.com": {
+    "title": "Pasante / Asistente de Operaciones y TI Banco de Machala",
+    "company": "Banco de Machala S.A.",
+    "source": "Cold Email RRHH",
+    "status": "applied_success",
+    "applied_at": "2026-10-21T20:55:59.194437",
+    "email_sent_to": null,
+    "cover_letter_path": null
+  },
+  "https://fa-esvi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/es/sites/CX_1/requisitions": {
+    "title": "Programa de Pasantías Universitarias e Innovación BG Lab / TI",
+    "company": "Banco Guayaquil",
+    "source": "Portal Corporativo",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T20:56:02.046120",
+    "reason": "Requiere Login/Portal Corporativo"
+  },
+  "https://grupomariposa.com": {
+    "title": "Programa Trainee Comercial y Operaciones",
+    "company": "cbc Ecuador (Grupo Mariposa)",
+    "source": "Portal Corporativo",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T20:56:03.065312",
+    "reason": "Requiere Login/Portal Corporativo"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tecnicoa-en-bases-de-datos-innatum-sas-en-guayaquil-762EF9B8BDE23A5861373E686DCF3405": {
+    "title": "Técnico/a en Bases de Datos / SQL",
+    "company": "Innatum SAS",
+    "source": "Portal Corporativo",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T20:56:04.112647",
+    "reason": "Requiere Login/Portal Corporativo"
   }
 }

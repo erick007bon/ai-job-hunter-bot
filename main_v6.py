@@ -204,9 +204,10 @@ def send_cold_email_smtp(
         subject = f"Postulación: {title} – {PROFILE['name']}"
 
     msg = MIMEMultipart()
-    msg['From']    = EMAIL_SENDER or SMTP_USER
-    msg['To']      = to_email
-    msg['Subject'] = subject
+    msg['From']     = f"{PROFILE['name']} <{SMTP_USER}>"
+    msg['To']       = to_email
+    msg['Subject']  = subject
+    msg['Reply-To'] = PROFILE['email']
 
     msg.attach(MIMEText(cover_letter, 'plain', 'utf-8'))
 
