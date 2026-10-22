@@ -82,17 +82,62 @@ class LeverApplier(BaseApplier):
                     summary = self.cv_data.get('professional_summary', 'Profesional en Datos e IA.')
                     await self._human_type(page, additional_info_selector, summary)
 
+                from src.appliers.base_applier import ApplyStatus
+
                 # --- 4. Enviar aplicación ---
+                os.makedirs("debug_screenshots", exist_ok=True)
                 await page.screenshot(path=f"debug_screenshots/{company}_3_before_submit.png")
                 submit_btn = page.locator("button.postings-btn[type='submit']")
-                if await submit_btn.count() > 0:
-                    await submit_btn.first.click()
-                    await self._human_delay(2.0, 3.5)
+                
+                if await submit_btn.count() == 0:
+                    await context.close()
+                    return ApplyResult(
+                        job_title=title,
+                        company=company,
+                        portal="Lever",
+                        url=url,
+                        status=ApplyStatus.NEEDS_MANUAL,
+                        message="Botón de submit no disponible o requiere completar preguntas adicionales",
+                        proof_screenshot=f"debug_screenshots/{company}_3_before_submit.png"
+                    )
 
+                await submit_btn.first.click()
+                await self._human_delay(3.0, 5.0)
+
+                body_text = await page.inner_text("body")
+                proof_path = f"debug_screenshots/{company}_4_result.png"
+                await page.screenshot(path=proof_path)
                 await context.close()
-                result = ApplyResult(title, company, "Lever", url, True, "Postulación enviada exitosamente a Lever")
-                return result
+
+                confirm_keywords = ["thank you", "application submitted", "received your application", "gracias", "solicitud enviada"]
+                if any(kw in body_text.lower() for kw in confirm_keywords):
+                    return ApplyResult(
+                        job_title=title,
+                        company=company,
+                        portal="Lever",
+                        url=url,
+                        status=ApplyStatus.SUBMITTED,
+                        message="Confirmación de postulación en Lever verificada",
+                        proof_screenshot=proof_path,
+                        confirmation_text=body_text[:200]
+                    )
+                else:
+                    return ApplyResult(
+                        job_title=title,
+                        company=company,
+                        portal="Lever",
+                        url=url,
+                        status=ApplyStatus.NEEDS_MANUAL,
+                        message="Formulario enviado pero sin confirmación explícita",
+                        proof_screenshot=proof_path
+                    )
 
         except Exception as e:
-            result = ApplyResult(title, company, "Lever", url, False, f"Error Lever: {str(e)[:100]}")
-            return result
+            return ApplyResult(
+                job_title=title,
+                company=company,
+                portal="Lever",
+                url=url,
+                status=ApplyStatus.ERROR,
+                message=f"Error Lever: {str(e)[:120]}"
+            )

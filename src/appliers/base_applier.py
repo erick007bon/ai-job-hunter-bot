@@ -10,16 +10,30 @@ from dataclasses import dataclass
 from playwright.async_api import async_playwright, Page, BrowserContext
 
 
+from enum import Enum
+
+class ApplyStatus(str, Enum):
+    SUBMITTED = "SUBMITTED"        # Confirmación real verificada (texto o pantalla de éxito)
+    NEEDS_MANUAL = "NEEDS_MANUAL"  # Requiere intervención humana (cuestionario custom, captcha, form dinámico)
+    ERROR = "ERROR"                # Fallo técnico, timeout o bloqueo
+
 @dataclass
 class ApplyResult:
-    """Resultado de una postulación."""
+    """Resultado auditado y no engañoso de una postulación."""
     job_title: str
     company: str
     portal: str
     url: str
-    success: bool
+    status: ApplyStatus = ApplyStatus.NEEDS_MANUAL
     message: str = ""
     source: str = ""
+    proof_screenshot: str = ""
+    confirmation_text: str = ""
+
+    @property
+    def success(self) -> bool:
+        """Solo es exitoso si se verificó de forma estricta la confirmación de envío."""
+        return self.status == ApplyStatus.SUBMITTED
 
 
 class BaseApplier(ABC):

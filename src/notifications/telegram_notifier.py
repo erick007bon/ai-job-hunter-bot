@@ -4,6 +4,8 @@ Configurar: crear bot con @BotFather en Telegram, obtener token y chat_id.
 """
 import os
 import requests
+from dotenv import load_dotenv
+load_dotenv()
 
 DEFAULT_TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "")
 DEFAULT_TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")

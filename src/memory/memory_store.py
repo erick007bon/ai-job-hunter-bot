@@ -37,16 +37,22 @@ class MemoryStore:
             json.dump(self.data, f, indent=2, ensure_ascii=False)
 
     def clean_unverified_entries(self) -> int:
-        """Elimina de la memoria entradas que no fueron efectivamente enviadas con éxito."""
+        """
+        Conserva ofertas postuladas con éxito ('applied_success') y notificadas a Telegram ('notified_manual')
+        para evitar loops de spam infinito. Solo purga entradas transitorias con error de red o incompletas.
+        """
         before = len(self.data)
         self.data = {
             url: v for url, v in self.data.items()
-            if isinstance(v, dict) and (v.get('status') == 'applied_success' or v.get('email_sent_to'))
+            if isinstance(v, dict) and (
+                v.get('status') in ('applied_success', 'notified_manual')
+                or v.get('email_sent_to')
+            )
         }
         self._save()
         removed = before - len(self.data)
         if removed > 0:
-            print(f"[MEMORIA] Limpieza: se liberaron {removed} ofertas previas no postuladas.")
+            print(f"[MEMORIA] Limpieza: se depuraron {removed} entradas transitorias defectuosas.")
         return removed
 
     def already_applied(self, url: str) -> bool:

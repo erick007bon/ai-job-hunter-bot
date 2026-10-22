@@ -52,15 +52,20 @@ class FunnelDB:
             ''')
             conn.commit()
 
-    def record_application(self, result):
-        """Registra el ApplyResult de una postulación."""
+    def record_application(self, result) -> bool:
+        """Registra el ApplyResult de una postulación o actualiza su estado si ya existía."""
         try:
             with self._get_conn() as conn:
                 cursor = conn.cursor()
                 cursor.execute('''
-                    INSERT OR IGNORE INTO applications 
+                    INSERT INTO applications 
                     (url, title, company, source, portal, applied_at, success, message)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+                    ON CONFLICT(url) DO UPDATE SET
+                        applied_at = excluded.applied_at,
+                        success = excluded.success,
+                        message = excluded.message,
+                        portal = excluded.portal
                 ''', (
                     result.url,
                     result.job_title,
@@ -72,8 +77,10 @@ class FunnelDB:
                     result.message
                 ))
                 conn.commit()
+                return True
         except Exception as e:
-            print(f"[FunnelDB] Error registrando postulación: {e}")
+            print(f"[FunnelDB] ⚠️ Error registrando postulación ({result.job_title}): {e}")
+            return False
 
     def record_reply(self, url: str, classification: str, email_body: str):
         """Registra una respuesta basada en la URL (si se conoce) o la empresa."""

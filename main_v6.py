@@ -38,6 +38,11 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from src.scrapers.api_scrapers import RemotiveScraper, RemoteOKScraper, GetOnBoardScraper, JobicyScraper
 from src.scrapers.latam_scrapers import WeWorkRemotelyScraper, WorkingNomadsScraper
 from src.scrapers.linkedin_scraper import LinkedInScraper
+from src.scrapers.ecuador_scrapers import (
+    ComputrabajoEcuadorScraper,
+    EcuadorBankingCareersScraper,
+    EcuadorAgroExportScraper,
+)
 from src.linkedin.recruiter_connector import RecruiterConnector
 from src.filters.match_engine import MatchEngine
 from src.memory.memory_store import MemoryStore
@@ -62,7 +67,7 @@ PROFILE = {
 
 CV_PATH    = os.environ.get('CV_PATH', Config.CV_PDF_PATH)
 MAX_APPS   = int(os.environ.get('MAX_APPLICATIONS', '25'))
-AUTO_APPLY = os.environ.get('AUTO_APPLY', 'true').lower() == 'true'
+AUTO_APPLY = os.environ.get('AUTO_APPLY', 'false').lower() == 'true'
 
 # ── Configuración SMTP (fallback a Gmail OAuth2) ─────────────────────────────
 SMTP_HOST     = os.environ.get('SMTP_HOST', 'smtp.gmail.com')
@@ -297,13 +302,16 @@ def main(dry_run: bool = False):
     # ── 1. SCRAPING ──────────────────────────────────────────────────────────
     # LinkedIn aporta ~50% de las búsquedas; el resto de boards el otro 50%
     scrapers = [
-        LinkedInScraper(),        # 🔵 LinkedIn — empleos Data/AI/ML (cookies Voyager)
-        RemotiveScraper(),        # API estable
-        RemoteOKScraper(),        # API estable
-        GetOnBoardScraper(),      # API v0 LATAM — Data Science & AI
-        JobicyScraper(),          # API estable
-        WeWorkRemotelyScraper(),  # RSS — Programming & DevOps
-        WorkingNomadsScraper(),   # JSON API — remoto global
+        LinkedInScraper(),             # 🔵 LinkedIn — empleos Data/AI/ML (cookies Voyager)
+        ComputrabajoEcuadorScraper(),  # 🇪🇨 Computrabajo Ecuador (ec.computrabajo.com)
+        EcuadorBankingCareersScraper(),# 🇪🇨 Banca y sector público (BIESS, Pichincha, Guayaquil, Machala)
+        EcuadorAgroExportScraper(),    # 🇪🇨 Sector agroexportador El Oro/Costa (Santa Priscila, Reybanpac)
+        RemotiveScraper(),             # API estable
+        RemoteOKScraper(),             # API estable
+        GetOnBoardScraper(),           # API v0 LATAM — Data Science & AI
+        JobicyScraper(),               # API estable
+        WeWorkRemotelyScraper(),       # RSS — Programming & DevOps
+        WorkingNomadsScraper(),        # JSON API — remoto global
     ]
 
     all_jobs = []
@@ -332,15 +340,9 @@ def main(dry_run: bool = False):
         else:
             nuevas.append(job)
 
-    # Si todas salieron [SKIP] pero filtered > 0, limpiar entradas antiguas no verificadas
+    # Si todas salieron [SKIP], simplemente registramos que no hay nuevas en este ciclo sin spamear
     if not nuevas and filtered:
-        print("[MEMORIA] Todas las compatibles estaban registradas. Verificando si fueron postulaciones reales...")
-        cleaned = memory.clean_unverified_entries()
-        if cleaned > 0:
-            for job in filtered:
-                if not memory.already_applied(job.get('url', '')):
-                    nuevas.append(job)
-            print(f"[MEMORIA] ¡Se reactivaron {len(nuevas)} ofertas para procesar!")
+        print("[MEMORIA] Todas las ofertas compatibles ya fueron procesadas y registradas previamente.")
 
     print(f"[NUEVAS] {len(nuevas)} ofertas nuevas (listas para postular o despachar)")
 

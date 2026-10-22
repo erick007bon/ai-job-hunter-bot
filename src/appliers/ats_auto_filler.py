@@ -26,9 +26,12 @@ class ATSAutoFiller:
         return None
 
     def fill_form(self, form_url: str, fields: Dict) -> bool:
-        """Simula llenado headless de formulario ATS."""
+        """
+        Llenado headless de formulario ATS.
+        Retorna False si el formulario requiere interacción manual para no registrar falsos positivos.
+        """
         if not form_url or not fields.get("email"):
             return False
-        self.filled += 1
-        # Playwright headless se integrará aquí con browser.launch()
-        return True
+        # Para formularios externos de Airtable/Micro1/Teamtailor/BairesDev con preguntas custom,
+        # retornamos False para derivar a Telegram 1-Tap con URL limpia en lugar de falsificar éxito.
+        return False

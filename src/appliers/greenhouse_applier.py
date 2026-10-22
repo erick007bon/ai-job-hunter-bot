@@ -83,20 +83,64 @@ class GreenhouseApplier(BaseApplier):
                 # Por ahora ponemos un placeholder basico o vacio.
                 # (La integracion real de LLM con gemini_agent ira aqui en el futuro)
                 
+                from src.appliers.base_applier import ApplyStatus
+
                 # --- 4. Enviar aplicación ---
+                os.makedirs("debug_screenshots", exist_ok=True)
                 await page.screenshot(path=f"debug_screenshots/{company}_3_before_submit.png")
                 submit_btn = page.locator("input#submit_app, button#submit_app")
-                if await submit_btn.count() > 0:
-                    # COMENTADO POR SEGURIDAD HASTA QUE APRUEBE EL MODO HEADLESS=FALSE
-                    await submit_btn.first.click()
-                    await self._human_delay(2.0, 3.5)
-                    # Opcional: capturar página de éxito
-                    # await page.screenshot(path=f"debug_screenshots/{company}_4_success.png")
+                
+                if await submit_btn.count() == 0:
+                    await context.close()
+                    return ApplyResult(
+                        job_title=title,
+                        company=company,
+                        portal="Greenhouse",
+                        url=url,
+                        status=ApplyStatus.NEEDS_MANUAL,
+                        message="Botón de submit no encontrado o requiere responder preguntas custom",
+                        proof_screenshot=f"debug_screenshots/{company}_3_before_submit.png"
+                    )
 
+                # Si el usuario activa auto-envío estricto:
+                await submit_btn.first.click()
+                await self._human_delay(3.0, 5.0)
+
+                # Verificar página de confirmación real
+                body_text = await page.inner_text("body")
+                proof_path = f"debug_screenshots/{company}_4_result.png"
+                await page.screenshot(path=proof_path)
                 await context.close()
-                result = ApplyResult(title, company, "Greenhouse", url, True, "Postulación enviada exitosamente a Greenhouse")
-                return result
+
+                confirm_keywords = ["thank you", "application submitted", "received your application", "gracias por postular", "solicitud enviada"]
+                if any(kw in body_text.lower() for kw in confirm_keywords):
+                    return ApplyResult(
+                        job_title=title,
+                        company=company,
+                        portal="Greenhouse",
+                        url=url,
+                        status=ApplyStatus.SUBMITTED,
+                        message="Confirmación de postulación verificada en pantalla",
+                        proof_screenshot=proof_path,
+                        confirmation_text=body_text[:200]
+                    )
+                else:
+                    return ApplyResult(
+                        job_title=title,
+                        company=company,
+                        portal="Greenhouse",
+                        url=url,
+                        status=ApplyStatus.NEEDS_MANUAL,
+                        message="Formulario enviado pero sin confirmación explícita (posible captcha o validación pendiente)",
+                        proof_screenshot=proof_path
+                    )
 
         except Exception as e:
-            result = ApplyResult(title, company, "Greenhouse", url, False, f"Error Greenhouse: {str(e)[:100]}")
-            return result
+            return ApplyResult(
+                job_title=title,
+                company=company,
+                portal="Greenhouse",
+                url=url,
+                status=ApplyStatus.ERROR,
+                message=f"Error Greenhouse: {str(e)[:120]}"
+            )
