@@ -117,13 +117,13 @@ Devuelve SOLO el texto de la carta, sin encabezados ni instrucciones."""
                 api_key=GEMINI_API_KEY,
             )
             response = client.chat.completions.create(
-                model="gemini-2.0-flash",
+                model="gemini-3.8-flash",
                 messages=[{"role": "user", "content": prompt}],
                 max_tokens=400,
                 temperature=0.7,
             )
             letter = response.choices[0].message.content.strip()
-            print(f"  [IA] Cover letter generada con Gemini 2.0 Flash ({len(letter)} chars)")
+            print(f"  [IA] Cover letter generada con Gemini ({len(letter)} chars)")
             return letter
         except Exception as e:
             print(f"  [IA] Gemini falló ({e}), intentando OpenRouter...")
