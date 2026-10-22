@@ -136,10 +136,12 @@ class LinkedInEasyApplyBot:
                 f"🔗 *URL:* {url}"
             )
             send_telegram(tg_msg)
+            setattr(result, "notified", True)
             print(f"  ✅ [ÉXITO] Postulación enviada y verificada en LinkedIn!")
         else:
             # Si requiere pasos manuales o formularios externos
             self._dispatch_1tap(job, reason=result.message, suggested_cv=cv_name)
+            setattr(result, "notified", True)
 
         return result
 

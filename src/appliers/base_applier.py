@@ -11,29 +11,60 @@ from playwright.async_api import async_playwright, Page, BrowserContext
 
 
 from enum import Enum
+from typing import Optional, Any
 
 class ApplyStatus(str, Enum):
     SUBMITTED = "SUBMITTED"        # Confirmación real verificada (texto o pantalla de éxito)
     NEEDS_MANUAL = "NEEDS_MANUAL"  # Requiere intervención humana (cuestionario custom, captcha, form dinámico)
     ERROR = "ERROR"                # Fallo técnico, timeout o bloqueo
 
-@dataclass
 class ApplyResult:
     """Resultado auditado y no engañoso de una postulación."""
-    job_title: str
-    company: str
-    portal: str
-    url: str
-    status: ApplyStatus = ApplyStatus.NEEDS_MANUAL
-    message: str = ""
-    source: str = ""
-    proof_screenshot: str = ""
-    confirmation_text: str = ""
+    def __init__(
+        self,
+        job_title: str = "",
+        company: str = "",
+        portal: str = "",
+        url: str = "",
+        status: Any = ApplyStatus.NEEDS_MANUAL,
+        message: str = "",
+        source: str = "",
+        proof_screenshot: str = "",
+        confirmation_text: str = "",
+        success: Optional[bool] = None,
+        **kwargs
+    ):
+        self.job_title = job_title
+        self.company = company
+        self.portal = portal
+        self.url = url
+        self.message = message
+        self.source = source
+        self.proof_screenshot = proof_screenshot
+        self.confirmation_text = confirmation_text
+
+        # Soporte backwards-compatible para 'success' o status booleano
+        if success is not None:
+            self.status = ApplyStatus.SUBMITTED if success else (status if isinstance(status, ApplyStatus) else ApplyStatus.NEEDS_MANUAL)
+        elif isinstance(status, bool):
+            self.status = ApplyStatus.SUBMITTED if status else ApplyStatus.NEEDS_MANUAL
+        elif isinstance(status, ApplyStatus):
+            self.status = status
+        elif isinstance(status, str):
+            try:
+                self.status = ApplyStatus(status)
+            except ValueError:
+                self.status = ApplyStatus.NEEDS_MANUAL
+        else:
+            self.status = ApplyStatus.NEEDS_MANUAL
 
     @property
     def success(self) -> bool:
         """Solo es exitoso si se verificó de forma estricta la confirmación de envío."""
         return self.status == ApplyStatus.SUBMITTED
+
+    def __repr__(self) -> str:
+        return f"ApplyResult(title={self.job_title!r}, company={self.company!r}, status={self.status.value}, message={self.message!r})"
 
 
 class BaseApplier(ABC):

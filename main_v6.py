@@ -402,15 +402,17 @@ def main(dry_run: bool = False):
                     funnel.record_application(result)
                     if result.success:
                         memory.mark_applied(job)
-                        notify_applied(result)
+                        if not getattr(result, "notified", False):
+                            notify_applied(result)
                     else:
                         print(f"  [APPLY MANUAL NEEDED] {result.message}")
                         # Si no pudo auto-aplicar (cuestionario o form dinámico), enviar a Telegram en 1 tap
                         target_url = result.url or url
                         job_to_notify = dict(job)
                         job_to_notify['url'] = target_url
-                        notify_job_found(job_to_notify, manual_action=True, reason=result.message)
-                        memory.mark_notified_manual(job_to_notify, reason=result.message)
+                        if not getattr(result, "notified", False):
+                            notify_job_found(job_to_notify, manual_action=True, reason=result.message)
+                            memory.mark_notified_manual(job_to_notify, reason=result.message)
                         manual_notified.append(job_to_notify)
                 else:
                     # ── 2. Fallback: cold-email directo si existe email verificado ──

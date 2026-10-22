@@ -186,5 +186,29 @@
     "status": "notified_manual",
     "notified_at": "2026-10-21T20:56:04.112647",
     "reason": "Requiere Login/Portal Corporativo"
+  },
+  "https://apply.workable.com/workana-premium/j/F93DC56FFE": {
+    "title": "Business Intelligence Analyst",
+    "company": "",
+    "source": "LinkedIn",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T22:36:51.688941",
+    "reason": "Error Workable: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"a:has-text('Apply'), but"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-laboratorio-profesional-en-ingenieria-quimica-en-guayaquil-738780FC798BCBF761373E686DCF3405#lc=ListOffers-Score3-0": {
+    "title": "Analista de laboratorio",
+    "company": "PINTURAS ECUATORIANAS S.A PINTUCO",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T22:58:49.696113",
+    "reason": "Manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-intervencion-juniorquito-en-quito-E20B1ABE41E08BE261373E686DCF3405#lc=ListOffers-Score3-1": {
+    "title": "Analista de intervencion juniorquito",
+    "company": "TRANSPORTADORA ECUATORIANA DE VALORES TEVCOL CIA. LTDA.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-21T22:58:51.498949",
+    "reason": "Manual"
   }
 }
