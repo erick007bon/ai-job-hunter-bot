@@ -87,5 +87,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-21T21:32:18.734461",
     "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/156047-manager-business-analytics-insights": {
+    "title": "Manager, Business Analytics & Insights",
+    "company": "BetterHelp",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-22T00:54:08.775322",
+    "reason": "Manual"
+  },
+  "https://jobicy.com/jobs/156010-analytics-engineer-5": {
+    "title": "Analytics Engineer",
+    "company": "Reddit",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-22T00:54:10.314291",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1": {
+    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-22T00:54:11.076468",
+    "reason": "Manual"
+  },
+  "https://weworkremotely.com/remote-jobs/doximity-commercial-data-scientist": {
+    "title": "Doximity: Commercial Data Scientist",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-22T00:54:11.834516",
+    "reason": "Manual"
+  },
+  "https://www.workingnomads.com/job/go/1920476/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-10-22T00:54:13.941451",
+    "reason": "Manual"
   }
 }
