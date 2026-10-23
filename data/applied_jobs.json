@@ -266,5 +266,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-23T17:47:33.436108",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-comercial-con-experiencia-en-guayaquil-05A4A5E49271C6C461373E686DCF3405#lc=ListOffers-Score3-1": {
+    "title": "Analista comercial",
+    "company": "ANCISA S.A.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-23T21:11:06.251535",
+    "reason": "Modo manual"
   }
 }
