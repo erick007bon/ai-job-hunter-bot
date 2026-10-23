@@ -250,5 +250,21 @@
     "status": "notified_manual",
     "notified_at": "2026-10-23T01:20:45.772987",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-experto-excel-avanzado-power-query-power-bi-y-macros-importadora-movilizacion-indispensable-en-guayaquil-F607B0FE3549D0C861373E686DCF3405#lc=ListOffers-Score3-9": {
+    "title": "Experto Excel Avanzado, Power Query, Power BI y Macros – Importadora – Movilización indispensable.",
+    "company": "Importante empresa del sector",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-23T17:47:32.929994",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/151318-data-analytics-engineer": {
+    "title": "Data Analytics Engineer",
+    "company": "Ruby Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-23T17:47:33.436108",
+    "reason": "Modo manual"
   }
 }
