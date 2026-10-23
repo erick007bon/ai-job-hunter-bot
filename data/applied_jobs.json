@@ -242,5 +242,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-22T21:20:46.037911",
     "reason": "Modo manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217": {
+    "title": "Data Analyst Assistant",
+    "company": "Arabian Private Holdings",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-10-23T01:20:45.772987",
+    "reason": "Modo manual"
   }
 }
