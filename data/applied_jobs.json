@@ -298,5 +298,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-24T16:28:43.315566",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/156763-analytics-business-partner": {
+    "title": "Analytics Business Partner",
+    "company": "Cribl",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-24T20:28:13.793783",
+    "reason": "Modo manual"
   }
 }
