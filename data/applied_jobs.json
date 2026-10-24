@@ -274,5 +274,29 @@
     "status": "notified_manual",
     "notified_at": "2026-10-23T21:11:06.251535",
     "reason": "Modo manual"
+  },
+  "https://remotive.com/remote-jobs/artificial-intelligence/ai-trainer-video-annotation-2091161": {
+    "title": "AI Trainer - Video Annotation",
+    "company": "iMerit Technology",
+    "source": "Remotive",
+    "status": "notified_manual",
+    "notified_at": "2026-10-24T16:28:42.333697",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/156701-research-engineer-data-infrastructure": {
+    "title": "Research Engineer - Data Infrastructure",
+    "company": "Elevenlabs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-24T16:28:42.838008",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness": {
+    "title": "Data Analyst, Clinical Data Effectiveness",
+    "company": "Clover Health",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-24T16:28:43.315566",
+    "reason": "Modo manual"
   }
 }
