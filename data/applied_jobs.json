@@ -306,5 +306,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-24T20:28:13.793783",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/156887-machine-learning-engineer-ranking-retrieval": {
+    "title": "Machine Learning Engineer, Ranking & Retrieval",
+    "company": "ClickUp",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-25T17:00:12.368834",
+    "reason": "Modo manual"
   }
 }
