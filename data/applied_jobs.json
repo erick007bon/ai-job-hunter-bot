@@ -314,5 +314,45 @@
     "status": "notified_manual",
     "notified_at": "2026-10-25T17:00:12.368834",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-intervencion-juniorquito-bk-en-quito-11F31581F7DB93CE61373E686DCF3405#lc=ListOffers-Score3-0": {
+    "title": "Analista de intervencion juniorquito (bk)",
+    "company": "TRANSPORTADORA ECUATORIANA DE VALORES TEVCOL CIA. LTDA.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-26T19:05:24.899427",
+    "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-laboratorio-profesional-en-ingenieria-quimica-en-guayaquil-738780FC798BCBF761373E686DCF3405#lc=ListOffers-Score3-1": {
+    "title": "Analista de laboratorio",
+    "company": "PINTURAS ECUATORIANAS S.A PINTUCO",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-26T19:05:25.409775",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157147-binance-acceleration-program-product-data-analyst-2": {
+    "title": "Binance Acceleration Program - Product Data Analyst",
+    "company": "Binance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-26T19:05:25.912455",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157087-manager-client-analytics-partnerships": {
+    "title": "Manager, Client Analytics Partnerships",
+    "company": "StackAdapt",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-26T19:05:27.433590",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/154067-analytics-engineer-data": {
+    "title": "Analytics Engineer, Data",
+    "company": "Tailscale",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-26T19:05:27.964909",
+    "reason": "Modo manual"
   }
 }
