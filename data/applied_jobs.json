@@ -362,5 +362,13 @@
     "status": "notified_manual",
     "notified_at": "2026-10-27T01:53:34.477304",
     "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/dremio-software-engineer-query-execution": {
+    "title": "Dremio: Software Engineer - Query Execution",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-27T18:36:29.647879",
+    "reason": "Modo manual"
   }
 }
