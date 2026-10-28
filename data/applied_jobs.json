@@ -370,5 +370,37 @@
     "status": "notified_manual",
     "notified_at": "2026-10-27T18:36:29.647879",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-intervencion-juniorquito-bk-en-quito-11F31581F7DB93CE61373E686DCF3405#lc=ListOffers-Score3-1": {
+    "title": "Analista de intervencion juniorquito (bk)",
+    "company": "TRANSPORTADORA ECUATORIANA DE VALORES TEVCOL CIA. LTDA.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-28T18:42:45.774262",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157508-data-engineer-4": {
+    "title": "Data Engineer",
+    "company": "Elevenlabs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-28T18:42:46.373154",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/147495-applied-data-scientist-machine-learning-engineer-decision-intelligence": {
+    "title": "Applied Data Scientist / Machine Learning Engineer (Decision Intelligence)",
+    "company": "WorkWave",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-28T18:42:46.948899",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer": {
+    "title": "Jumio: Machine Learning Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-28T18:42:47.566508",
+    "reason": "Modo manual"
   }
 }
