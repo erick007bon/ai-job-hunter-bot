@@ -410,5 +410,37 @@
     "status": "notified_manual",
     "notified_at": "2026-10-29T02:14:34.570094",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157773-ai-trainers-network-basque": {
+    "title": "AI Trainers Network - Basque",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-29T18:51:19.358452",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157769-ai-trainers-network-amharic": {
+    "title": "AI Trainers Network - Amharic",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-29T18:51:19.790326",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157725-business-intelligence-data-architect": {
+    "title": "Business Intelligence Data Architect",
+    "company": "Contentstack",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-29T18:51:20.206053",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-computer-vision": {
+    "title": "Jumio: Machine Learning Engineer - IV (Computer Vision)",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-29T18:51:20.615880",
+    "reason": "Modo manual"
   }
 }
