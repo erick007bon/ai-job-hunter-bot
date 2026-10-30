@@ -458,5 +458,117 @@
     "status": "notified_manual",
     "notified_at": "2026-10-30T02:28:16.918571",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/158018-ai-trainers-network-chinese-simplified": {
+    "title": "AI Trainers Network - Chinese (Simplified)",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:44.346217",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157953-ai-trainers-network-cebuano": {
+    "title": "AI Trainers Network - Cebuano",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:44.934023",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157950-ai-trainers-network-catalan": {
+    "title": "AI Trainers Network - Catalan",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:45.532383",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157947-ai-trainers-network-cantonese": {
+    "title": "AI Trainers Network - Cantonese",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:46.121179",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157944-ai-trainers-network-canadian-french": {
+    "title": "AI Trainers Network - Canadian French",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:46.748697",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157941-ai-trainers-network-burmese": {
+    "title": "AI Trainers Network - Burmese",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:47.430668",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157937-ai-trainers-network-bulgarian": {
+    "title": "AI Trainers Network - Bulgarian",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:48.030717",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157933-ai-trainers-network-bosnian": {
+    "title": "AI Trainers Network - Bosnian",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:48.626740",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157929-ai-trainers-network-belarusian": {
+    "title": "AI Trainers Network - Belarusian",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:49.216213",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/154213-fde-data-engineer-space-fedd141-fedd147": {
+    "title": "FDE Data Engineer- Space (FedD141/FedD147)",
+    "company": "Defense Unicorns",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:49.842597",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/154219-analytics-engineer-3": {
+    "title": "Analytics Engineer",
+    "company": "Alma",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:50.475200",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/toptal-salesforce-developers-with-ai-assisted-coding-experience": {
+    "title": "Toptal: Salesforce Developers with AI-Assisted Coding Experience",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:51.089601",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3": {
+    "title": "Sticker Mule: Software engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:51.674689",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/vercel-software-engineer-data-platform": {
+    "title": "Vercel: Software Engineer - Data Platform",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T18:28:52.271377",
+    "reason": "Modo manual"
   }
 }
