@@ -442,5 +442,21 @@
     "status": "notified_manual",
     "notified_at": "2026-10-29T18:51:20.615880",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/157906-data-engineer-5": {
+    "title": "Data Engineer",
+    "company": "Branch",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T02:28:16.496854",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/vercel-software-engineer-backend": {
+    "title": "Vercel: Software Engineer, Backend",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-10-30T02:28:16.918571",
+    "reason": "Modo manual"
   }
 }
