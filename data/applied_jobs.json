@@ -570,5 +570,21 @@
     "status": "notified_manual",
     "notified_at": "2026-10-30T18:28:52.271377",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-compras-con-experiencia-en-quito-E56FA4251CED532C61373E686DCF3405#lc=ListOffers-Score3-7": {
+    "title": "Analista de compras",
+    "company": "INGESA S.A.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-10-31T02:07:54.854060",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/158128-marketing-analytics-director-united-states-remote": {
+    "title": "Marketing Analytics Director | United States | Remote",
+    "company": "Grafana Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-10-31T02:07:55.475216",
+    "reason": "Modo manual"
   }
 }
