@@ -778,5 +778,45 @@
     "status": "notified_manual",
     "notified_at": "2026-11-02T02:11:29.727697",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/158512-manager-of-data-engineering-delivery-data-science-production-engineering": {
+    "title": "Manager of Data Engineering & Delivery (Data Science Production Engineering)",
+    "company": "Natera",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-02T22:13:55.431425",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/158504-machine-learning-scientist-multimodal-ai": {
+    "title": "Machine Learning Scientist, Multimodal AI",
+    "company": "Natera",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-02T22:13:55.835306",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/158472-data-scientist-3": {
+    "title": "Data Scientist",
+    "company": "Doximity",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-02T22:13:56.235608",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/158437-data-analyst-12-months-contract": {
+    "title": "Data Analyst (12 months contract)",
+    "company": "Binance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-02T22:13:56.664737",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/154413-ai-data-scientist": {
+    "title": "AI Data Scientist",
+    "company": "Airtm",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-02T22:13:57.070430",
+    "reason": "Modo manual"
   }
 }
