@@ -770,5 +770,13 @@
     "status": "notified_manual",
     "notified_at": "2026-11-01T18:19:14.096373",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/158377-data-scientist-music-promotion-2": {
+    "title": "Data Scientist - Music Promotion",
+    "company": "Spotify",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-02T02:11:29.727697",
+    "reason": "Modo manual"
   }
 }
