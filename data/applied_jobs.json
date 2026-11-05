@@ -1098,5 +1098,77 @@
     "status": "notified_manual",
     "notified_at": "2026-11-04T20:20:46.005485",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-intervencion-juniorquito-bk-en-quito-11F31581F7DB93CE61373E686DCF3405#lc=ListOffers-Score3-2": {
+    "title": "Analista de intervencion juniorquito (bk)",
+    "company": "TRANSPORTADORA ECUATORIANA DE VALORES TEVCOL CIA. LTDA.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:47.785932",
+    "reason": "Modo manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685": {
+    "title": "Software Engineer",
+    "company": "Claims",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:48.267308",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159097-brazilian-subject-matter-expert-in-religion-or-philosophy": {
+    "title": "Brazilian Subject Matter Expert in Religion or Philosophy",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:48.764492",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159095-brazilian-subject-matter-expert-in-history": {
+    "title": "Brazilian Subject Matter Expert in History",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:49.258749",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159080-machine-learning-manager-feed-relevance-retrieval": {
+    "title": "Machine Learning Manager, Feed Relevance (Retrieval)",
+    "company": "Reddit",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:49.758022",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159066-machine-learning-engineering-manager-core-ads-ranking": {
+    "title": "Machine Learning Engineering Manager - Core Ads Ranking",
+    "company": "Reddit",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:50.264623",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/152472-marketing-data-scientist": {
+    "title": "Marketing Data Scientist",
+    "company": "Vonage",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:50.755078",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/152435-ai-ml-engineering-manager": {
+    "title": "AI/ML Engineering Manager",
+    "company": "Caylent",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:51.294571",
+    "reason": "Modo manual"
+  },
+  "https://www.workingnomads.com/job/go/1996233/": {
+    "title": "AI Content Reviewer, Video Annotation",
+    "company": "iMerit Technology",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-11-05T20:30:51.773213",
+    "reason": "Modo manual"
   }
 }
