@@ -1178,5 +1178,45 @@
     "status": "notified_manual",
     "notified_at": "2026-11-06T03:18:17.614847",
     "reason": "Modo manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690": {
+    "title": "Operations Expert with Python for AI Supply Chain Task Design",
+    "company": "Toptal",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-11-06T19:53:46.785759",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159299-artemis-ai-data-rater-swedish": {
+    "title": "Artemis AI Data Rater - Swedish",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-06T19:53:47.278660",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159294-artemis-ai-data-rater-polish": {
+    "title": "Artemis AI Data Rater - Polish",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-06T19:53:47.756888",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159265-data-scientist-7": {
+    "title": "Data Scientist",
+    "company": "Solace",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-06T19:53:48.248463",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/154739-commercial-data-scientist": {
+    "title": "Commercial Data Scientist",
+    "company": "Doximity",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-06T19:53:48.732044",
+    "reason": "Modo manual"
   }
 }
