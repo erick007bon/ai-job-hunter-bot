@@ -1170,5 +1170,13 @@
     "status": "notified_manual",
     "notified_at": "2026-11-05T20:30:51.773213",
     "reason": "Modo manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-content-reviewer-video-annotation-imerit-1137686": {
+    "title": "AI Content Reviewer Video Annotation",
+    "company": "iMerit",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-11-06T03:18:17.614847",
+    "reason": "Modo manual"
   }
 }
