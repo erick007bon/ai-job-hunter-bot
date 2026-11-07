@@ -1226,5 +1226,53 @@
     "status": "notified_manual",
     "notified_at": "2026-11-07T17:58:18.414230",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159625-entry-level-ai-data-rater-swedish-sweden": {
+    "title": "Entry-Level AI Data Rater - Swedish (Sweden)",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-07T21:42:57.445895",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159624-entry-level-ai-data-rater-swedish-romania": {
+    "title": "Entry-Level AI Data Rater - Swedish (Romania)",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-07T21:42:57.926996",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159623-entry-level-ai-data-rater-swedish-poland": {
+    "title": "Entry-Level AI Data Rater - Swedish (Poland)",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-07T21:42:58.408087",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159622-entry-level-ai-data-rater-swedish-latvia": {
+    "title": "Entry-Level AI Data Rater - Swedish (Latvia)",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-07T21:42:58.889279",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159621-entry-level-ai-data-rater-swedish-estonia": {
+    "title": "Entry-Level AI Data Rater - Swedish (Estonia)",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-07T21:42:59.398215",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159620-entry-level-ai-data-rater-swedish-bulgaria": {
+    "title": "Entry-Level AI Data Rater - Swedish (Bulgaria)",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-07T21:42:59.980951",
+    "reason": "Modo manual"
   }
 }
