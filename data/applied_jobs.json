@@ -1274,5 +1274,13 @@
     "status": "notified_manual",
     "notified_at": "2026-11-07T21:42:59.980951",
     "reason": "Modo manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701": {
+    "title": "AI Developer",
+    "company": "Salvo Software",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-11-08T02:08:33.346016",
+    "reason": "Modo manual"
   }
 }
