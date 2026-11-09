@@ -1298,5 +1298,77 @@
     "status": "notified_manual",
     "notified_at": "2026-11-08T18:16:05.228536",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-compras-dia-en-playas-04755CF7E9BC04A561373E686DCF3405#lc=ListOffers-Score0-4": {
+    "title": "Analista de Compras",
+    "company": "EXPA S.A.S.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:14.269361",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/160270-data-scientist-ii-soccer": {
+    "title": "Data Scientist II (Soccer)",
+    "company": "Teamworks",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:14.704729",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/160265-analytics-engineering-manager-fincrime": {
+    "title": "Analytics Engineering Manager, FinCrime",
+    "company": "Monzo",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:15.150932",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/160069-llm-applied-data-scientist-rag-nlp": {
+    "title": "LLM Applied Data Scientist (RAG/ NLP)",
+    "company": "Binance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:15.580264",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159906-shape-the-future-of-ai-hebrew-speakers-in-israel": {
+    "title": "Shape the Future of AI — Hebrew Speakers in Israel",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:16.010604",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/159905-shape-the-future-of-ai-finnish-talent-hub": {
+    "title": "Shape the Future of AI — Finnish Talent Hub",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:16.436830",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/152746-data-scientist-ai-ml": {
+    "title": "Data Scientist, AI/ML",
+    "company": "Gremlin",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:16.871996",
+    "reason": "Modo manual"
+  },
+  "https://www.workingnomads.com/job/go/2007849/": {
+    "title": "Data Analyst (No Experience Required) - Japanese and English",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:17.295169",
+    "reason": "Modo manual"
+  },
+  "https://www.workingnomads.com/job/go/2007847/": {
+    "title": "Data Analyst (No Experience Required)",
+    "company": "Peroptyx",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-11-09T22:55:17.721174",
+    "reason": "Modo manual"
   }
 }
