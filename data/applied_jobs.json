@@ -1370,5 +1370,85 @@
     "status": "notified_manual",
     "notified_at": "2026-11-09T22:55:17.721174",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-compras-dia-en-playas-04755CF7E9BC04A561373E686DCF3405#lc=ListOffers-Score0-3": {
+    "title": "Analista de Compras",
+    "company": "EXPA S.A.S.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:32.606380",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/161042-applied-scientist-3": {
+    "title": "Applied Scientist",
+    "company": "Upstart",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:33.037935",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/161034-applied-scientist-2": {
+    "title": "Applied Scientist",
+    "company": "Quilter",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:33.455388",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/161001-research-scientist-real-time-video-generation": {
+    "title": "Research Scientist, Real-Time Video Generation",
+    "company": "Cantina Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:33.890957",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/160999-machine-learning-engineer-voice-conversion": {
+    "title": "Machine Learning Engineer, Voice Conversion",
+    "company": "Cantina Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:34.317387",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/160998-project-lyra-danish-culture-expert": {
+    "title": "Project Lyra Danish Culture Expert",
+    "company": "Welo Global",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:34.758686",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/160994-machine-learning-engineer-tts": {
+    "title": "Machine Learning Engineer, TTS",
+    "company": "Cantina Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:35.173956",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/160991-machine-learning-engineer-core-evaluations": {
+    "title": "Machine Learning Engineer, Core Evaluations",
+    "company": "Cantina Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:35.611947",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/152802-manager-strategy-analytics": {
+    "title": "Manager, Strategy & Analytics",
+    "company": "Beyond Finance",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:36.042109",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/clover-health-director-ai-enabled-fraud-prevention-investigations": {
+    "title": "Clover Health: Director, AI-Enabled Fraud Prevention & Investigations",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-10T20:21:36.461687",
+    "reason": "Modo manual"
   }
 }
