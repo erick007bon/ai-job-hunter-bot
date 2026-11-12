@@ -1498,5 +1498,29 @@
     "status": "notified_manual",
     "notified_at": "2026-11-11T20:04:23.073747",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-e-implementaciones-software-saas-y-erp-en-cuenca-8161ADDE8100173561373E686DCF3405#lc=ListOffers-Score0-3": {
+    "title": "Analista de Soporte e Implementaciones",
+    "company": "Kamaytech",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-12T03:40:57.313928",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/161424-data-engineer-tableau": {
+    "title": "Data Engineer (Tableau)",
+    "company": "Particle41",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-12T03:40:57.791353",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/161415-marketing-gtm-data-analyst": {
+    "title": "Marketing & GTM Data Analyst",
+    "company": "Deepgram",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-12T03:40:58.282583",
+    "reason": "Modo manual"
   }
 }
