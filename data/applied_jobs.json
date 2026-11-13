@@ -1570,5 +1570,13 @@
     "status": "notified_manual",
     "notified_at": "2026-11-12T20:42:09.225633",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-compras-dia-en-playas-04755CF7E9BC04A561373E686DCF3405#lc=ListOffers-Score0-8": {
+    "title": "Analista de Compras",
+    "company": "EXPA S.A.S.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-13T03:17:32.520975",
+    "reason": "Modo manual"
   }
 }
