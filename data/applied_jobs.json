@@ -1578,5 +1578,45 @@
     "status": "notified_manual",
     "notified_at": "2026-11-13T03:17:32.520975",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/161936-ai-scientist-latam": {
+    "title": "AI Scientist (LATAM)",
+    "company": "TRM Labs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-13T20:24:20.360103",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/155216-research-scientist-personalization": {
+    "title": "Research Scientist - Personalization",
+    "company": "Spotify",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-13T20:24:20.974488",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/155214-research-scientist-generative-audio": {
+    "title": "Research Scientist - Generative Audio",
+    "company": "Spotify",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-13T20:24:21.599317",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-ai-infrastructure-specialist": {
+    "title": "EdgeQ Technologies Private Limited: AI Infrastructure Specialist",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-13T20:24:22.223163",
+    "reason": "Modo manual"
+  },
+  "https://www.workingnomads.com/job/go/2019516/": {
+    "title": "QA Testers Wanted to Jump on an AI Assistant project",
+    "company": "Tester Work",
+    "source": "WorkingNomads",
+    "status": "notified_manual",
+    "notified_at": "2026-11-13T20:24:22.854540",
+    "reason": "Modo manual"
   }
 }
