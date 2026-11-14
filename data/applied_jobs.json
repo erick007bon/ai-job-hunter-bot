@@ -1618,5 +1618,29 @@
     "status": "notified_manual",
     "notified_at": "2026-11-13T20:24:22.854540",
     "reason": "Modo manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673": {
+    "title": "Junior Data Analyst",
+    "company": "HiredBuddy",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-11-14T18:40:48.667140",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/162172-data-analyst-3": {
+    "title": "Data Analyst",
+    "company": "Tillster",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-14T18:40:49.212660",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/reddit-analytics-engineer": {
+    "title": "Reddit: Analytics Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-14T18:40:49.778877",
+    "reason": "Modo manual"
   }
 }
