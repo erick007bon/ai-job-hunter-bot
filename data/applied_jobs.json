@@ -1658,5 +1658,45 @@
     "status": "notified_manual",
     "notified_at": "2026-11-15T19:18:10.401424",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-e-implementaciones-software-saas-y-erp-en-cuenca-8161ADDE8100173561373E686DCF3405#lc=ListOffers-Score0-7": {
+    "title": "Analista de Soporte e Implementaciones",
+    "company": "Kamaytech",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-16T22:47:12.173675",
+    "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-compras-dia-en-playas-04755CF7E9BC04A561373E686DCF3405#lc=ListOffers-Score0-9": {
+    "title": "Analista de Compras",
+    "company": "EXPA S.A.S.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-16T22:47:12.573385",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/162673-applied-ai-data-scientist-brazil": {
+    "title": "Applied AI Data Scientist (Brazil)",
+    "company": "AE Studio",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-16T22:47:12.978972",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/155537-analytics-engineer-4": {
+    "title": "Analytics Engineer",
+    "company": "Pleo",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-16T22:47:13.380643",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/149160-video-collection-latam-freelance-ai-trainer-project": {
+    "title": "Video Collection (LATAM) - Freelance AI Trainer Project",
+    "company": "Invisible Technologies",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-16T22:47:13.772961",
+    "reason": "Modo manual"
   }
 }
