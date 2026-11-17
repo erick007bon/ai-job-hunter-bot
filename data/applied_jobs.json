@@ -1698,5 +1698,13 @@
     "status": "notified_manual",
     "notified_at": "2026-11-16T22:47:13.772961",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-e-implementaciones-software-saas-y-erp-en-cuenca-8161ADDE8100173561373E686DCF3405#lc=ListOffers-Score0-8": {
+    "title": "Analista de Soporte e Implementaciones",
+    "company": "Kamaytech",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T04:59:27.156914",
+    "reason": "Modo manual"
   }
 }
