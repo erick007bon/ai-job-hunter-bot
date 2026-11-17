@@ -1706,5 +1706,69 @@
     "status": "notified_manual",
     "notified_at": "2026-11-17T04:59:27.156914",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-intervencion-juniorquito-en-quito-11F31581F7DB93CE61373E686DCF3405#lc=ListOffers-Score3-0": {
+    "title": "Analista de intervencion juniorquito",
+    "company": "TRANSPORTADORA ECUATORIANA DE VALORES TEVCOL CIA. LTDA.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T21:36:07.664676",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/162992-analytics-engineer-ai-martech": {
+    "title": "Analytics Engineer (AI) | Martech",
+    "company": "Wellhub",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T21:36:08.062962",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/162751-data-scientist-ii-marketing": {
+    "title": "Data Scientist II, Marketing",
+    "company": "Thumbtack",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T21:36:08.457559",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/155602-data-engineer-us-remote": {
+    "title": "Data Engineer - US Remote",
+    "company": "PerfectServe",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T21:36:08.886140",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/150667-data-scientist-product-analytics": {
+    "title": "Data Scientist, Product Analytics",
+    "company": "Meta",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T21:36:09.271073",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/150666-data-engineer-product-analytics": {
+    "title": "Data Engineer, Product Analytics",
+    "company": "Meta",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T21:36:09.672320",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/toptal-ai-engineer-agentic-systems": {
+    "title": "Toptal: AI Engineer - Agentic Systems",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T21:36:10.070494",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/affirm-analytics-engineer-ii-full-stack-revenue-analytics": {
+    "title": "Affirm: Analytics Engineer II, Full Stack (Revenue Analytics)",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-17T21:36:10.464700",
+    "reason": "Modo manual"
   }
 }
