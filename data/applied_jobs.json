@@ -1770,5 +1770,21 @@
     "status": "notified_manual",
     "notified_at": "2026-11-17T21:36:10.464700",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163134-ai-researcher-3": {
+    "title": "AI Researcher",
+    "company": "Hume AI",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-18T21:11:55.816111",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/153362-applied-ai-ml-engineer-2": {
+    "title": "Applied AI/ML Engineer",
+    "company": "Oddball",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-18T21:11:56.359894",
+    "reason": "Modo manual"
   }
 }
