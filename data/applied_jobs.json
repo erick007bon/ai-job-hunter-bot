@@ -1786,5 +1786,53 @@
     "status": "notified_manual",
     "notified_at": "2026-11-18T21:11:56.359894",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163348-amer-data-analyst-sales-strategy-and-operations": {
+    "title": "AMER Data Analyst - Sales Strategy and Operations",
+    "company": "Stripe",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-19T21:15:12.687214",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163333-chemical-data-scientist": {
+    "title": "Chemical Data Scientist",
+    "company": "Valdera",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-19T21:15:13.183169",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163206-applied-scientist-intern-2": {
+    "title": "Applied Scientist Intern",
+    "company": "Upstart",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-19T21:15:13.698263",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/155822-business-intelligence-analyst-contractor": {
+    "title": "Business Intelligence Analyst (Contractor)",
+    "company": "Doximity",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-19T21:15:14.190283",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/155799-research-scientist": {
+    "title": "Research Scientist",
+    "company": "Roboflow",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-19T21:15:14.784036",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1": {
+    "title": "Dropbox: Backend Product Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-19T21:15:15.297166",
+    "reason": "Modo manual"
   }
 }
