@@ -1834,5 +1834,45 @@
     "status": "notified_manual",
     "notified_at": "2026-11-19T21:15:15.297166",
     "reason": "Modo manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808": {
+    "title": "Software Engineer AI Coding Tasks",
+    "company": "Askable",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-11-20T20:58:24.403284",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163552-machine-learning-engineer-9": {
+    "title": "Machine Learning Engineer",
+    "company": "Reddit",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-20T20:58:24.890475",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163467-director-digital-analytics-experimentation": {
+    "title": "Director, Digital Analytics & Experimentation",
+    "company": "iFIT",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-20T20:58:25.369436",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163454-data-scientist-product-analytics-2": {
+    "title": "Data Scientist - Product Analytics",
+    "company": "Elevenlabs",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-20T20:58:25.853726",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/upsun-software-engineer": {
+    "title": "Upsun: Software Engineer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-20T20:58:26.347919",
+    "reason": "Modo manual"
   }
 }
