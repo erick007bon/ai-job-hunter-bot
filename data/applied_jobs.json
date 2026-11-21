@@ -1874,5 +1874,53 @@
     "status": "notified_manual",
     "notified_at": "2026-11-20T20:58:26.347919",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163705-analytics-engineer-campaign-intelligence": {
+    "title": "Analytics Engineer - Campaign Intelligence",
+    "company": "VTEX",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-21T19:59:24.366336",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163629-applied-ai-data-scientist": {
+    "title": "Applied AI Data Scientist",
+    "company": "AE Studio",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-21T19:59:24.802233",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/153638-data-engineer-fedd024": {
+    "title": "Data Engineer (FedD024)",
+    "company": "Defense Unicorns",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-21T19:59:25.243810",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist": {
+    "title": "MANTECH: Quantum Research Scientist",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-21T19:59:25.678183",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-remote-eligible-in-bulgaria": {
+    "title": "Smartsheet: Software Engineer  (Remote Eligible in Bulgaria)",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-21T19:59:26.089045",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/smartsheet-software-engineer-i-remote-eligible": {
+    "title": "Smartsheet: Software Engineer I (Remote Eligible)",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-21T19:59:26.504757",
+    "reason": "Modo manual"
   }
 }
