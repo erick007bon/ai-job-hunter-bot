@@ -1922,5 +1922,45 @@
     "status": "notified_manual",
     "notified_at": "2026-11-21T19:59:26.504757",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-software-analista-de-soporte-tecnico-junior-ing-en-software-sistemas-o-carreras-a-fines-en-quito-652002C37EB868E361373E686DCF3405#lc=ListOffers-Score0-1": {
+    "title": "Software Analista de Soporte Técnico Junior",
+    "company": "BEAT S.A.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-24T00:39:22.266741",
+    "reason": "Modo manual"
+  },
+  "https://remoteOK.com/remote-jobs/remote-data-scientist-yo-it-consulting-1135454": {
+    "title": "Data Scientist",
+    "company": "YO IT Consulting",
+    "source": "RemoteOK",
+    "status": "notified_manual",
+    "notified_at": "2026-11-24T00:39:22.764683",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/163972-data-engineering-intern": {
+    "title": "Data Engineering Intern",
+    "company": "Wurl",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-24T00:39:23.321875",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/toptal-cryptography-specialist-for-ai-lab": {
+    "title": "Toptal: Cryptography Specialist for AI lab",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-24T00:39:23.821380",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer": {
+    "title": "Toptal: ML Inference Engineer – Terminal-Bench Task Designer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-24T00:39:24.336293",
+    "reason": "Modo manual"
   }
 }
