@@ -1962,5 +1962,21 @@
     "status": "notified_manual",
     "notified_at": "2026-11-24T00:39:24.336293",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-software-analista-de-soporte-tecnico-junior-ing-en-software-sistemas-o-carreras-a-fines-en-quito-652002C37EB868E361373E686DCF3405#lc=ListOffers-Score0-2": {
+    "title": "Software Analista de Soporte Técnico Junior",
+    "company": "BEAT S.A.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-24T22:57:13.352855",
+    "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/164102-data-engineer-7": {
+    "title": "Data Engineer",
+    "company": "Oddball",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-24T22:57:13.990421",
+    "reason": "Modo manual"
   }
 }
