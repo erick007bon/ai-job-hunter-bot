@@ -1986,5 +1986,21 @@
     "status": "notified_manual",
     "notified_at": "2026-11-25T05:21:56.495699",
     "reason": "Modo manual"
+  },
+  "https://jobicy.com/jobs/164434-director-credit-risk-analytics": {
+    "title": "Director, Credit Risk Analytics",
+    "company": "Prosper",
+    "source": "Jobicy",
+    "status": "notified_manual",
+    "notified_at": "2026-11-26T22:11:04.519757",
+    "reason": "Modo manual"
+  },
+  "https://weworkremotely.com/remote-jobs/karat-software-engineer-interviewer": {
+    "title": "Karat: Software Engineer Interviewer",
+    "company": "Ver en enlace",
+    "source": "WeWorkRemotely",
+    "status": "notified_manual",
+    "notified_at": "2026-11-26T22:11:05.008202",
+    "reason": "Modo manual"
   }
 }
