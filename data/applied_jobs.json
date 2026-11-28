@@ -2066,5 +2066,45 @@
     "status": "notified_manual",
     "notified_at": "2026-11-27T21:51:31.968897",
     "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-administracion-de-ventas-en-quito-3EA7DAFFAAA8437961373E686DCF3405#lc=ListOffers-Score3-0": {
+    "title": "Analista de administración de ventas",
+    "company": "TECNISERVICIOS",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-28T04:37:09.960312",
+    "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-intervencion-juniorquito-en-quito-11F31581F7DB93CE61373E686DCF3405#lc=ListOffers-Score3-1": {
+    "title": "Analista de intervencion juniorquito",
+    "company": "TRANSPORTADORA ECUATORIANA DE VALORES TEVCOL CIA. LTDA.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-28T04:37:10.378914",
+    "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-software-analista-de-soporte-tecnico-junior-ing-en-software-sistemas-o-carreras-a-fines-en-quito-652002C37EB868E361373E686DCF3405#lc=ListOffers-Score0-3": {
+    "title": "Software Analista de Soporte Técnico Junior",
+    "company": "BEAT S.A.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-28T04:37:10.798584",
+    "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-e-implementaciones-software-saas-y-erp-en-cuenca-8161ADDE8100173561373E686DCF3405#lc=ListOffers-Score0-9": {
+    "title": "Analista de Soporte e Implementaciones",
+    "company": "Kamaytech",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-28T04:37:11.215163",
+    "reason": "Modo manual"
+  },
+  "https://ec.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-coordinadora-digital-junior-asistente-de-operaciones-digitales-e-ia--cumbaya-tumbaco-en-quito-051F356026BF24BD61373E686DCF3405#lc=ListOffers-Score3-6": {
+    "title": "Coordinador(a) Digital Junior / Asistente de Operaciones Digitales e IA –",
+    "company": "PUMAPUCARA S.A.",
+    "source": "Computrabajo Ecuador",
+    "status": "notified_manual",
+    "notified_at": "2026-11-28T04:37:11.639205",
+    "reason": "Modo manual"
   }
 }
